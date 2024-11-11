@@ -57,3 +57,29 @@
 | C | [jelmer/subvertpy](https://github.com/jelmer/subvertpy) | Alternative Python bindings for Subversion |
 | C++ | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
 | Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
+| Python | [Animenosekai/japanterebi-xmltv](https://github.com/Animenosekai/japanterebi-xmltv) | Easily create XMLTV files |
+| Java | [SVWS-NRW/SVWS-Server](https://github.com/SVWS-NRW/SVWS-Server) | OpenSource Repository für den SVWS-Server |
+| Python | [ISSMteam/PINNICLE](https://github.com/ISSMteam/PINNICLE) | A general PINN framework for solving ice sheet modeling  |
+|  | [zhzebe/TV](https://github.com/zhzebe/TV) |  |
+| Python | [GMyhf/2020fall-cs101](https://github.com/GMyhf/2020fall-cs101) |  |
+| TypeScript | [vivid-planet/comet-starter](https://github.com/vivid-planet/comet-starter) | Blueprint for a new Comet DXP project. |
+|  | [pew/hitchhikers-guide](https://github.com/pew/hitchhikers-guide) | just a bunch of things I always manage to forget |
+| C# | [Excinerus/AI-Overhaul-Patcher](https://github.com/Excinerus/AI-Overhaul-Patcher) |  |
+| C# | [nimrag-b/emiT-C](https://github.com/nimrag-b/emiT-C) | A time travelling programming language |
+| Python | [BI4PYM/AutoTLE](https://github.com/BI4PYM/AutoTLE) | 自动化更新HAM常用的卫星TLE星历文件 |
+| P4 | [jonlanglet/DTA](https://github.com/jonlanglet/DTA) | This is the repository for Direct Telemetry Access, a high-speed network telemetry collection system. |
+| JavaScript | [9xN/auto-ovpn](https://github.com/9xN/auto-ovpn) | This is an auto-generated list of Open VPN config files. |
+| Java | [maxmind/minfraud-api-java](https://github.com/maxmind/minfraud-api-java) | Java API for minFraud Score, Insights, and Factors |
+| C++ | [zhangh3/MUSE](https://github.com/zhangh3/MUSE) | Multibody Dynamics Simulation  Solver 多刚体动力学求解程序 |
+| Python | [waterloo-rocketry/omnibus](https://github.com/waterloo-rocketry/omnibus) | It's a Bird... It's a Plane.. It's Omnibus! |
+| Visual Basic .NET | [Kawa1sk/Email-Bomber-SMTP](https://github.com/Kawa1sk/Email-Bomber-SMTP) | The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages. |
+| HTML | [ctron/openshift-update-graph](https://github.com/ctron/openshift-update-graph) | Visualize the OpenShift Update Graph |
+|  | [scrapyman/crawl-data-api](https://github.com/scrapyman/crawl-data-api) | Scrapyman Data API Services. We provide APIs for: Taobao, Xiaohongshu, JD.com, Douyin (E-commerce), Douyin (Videos), Kuaishou, Pugongying, Xingtu, Pinduoduo, WeChat Official Accounts, Dianping, Bilibili, Zhihu, Weibo, Beike, Bigo, Temu, Lazada, SHEIN、Shopee, Baidu Index, Ctrip, Boss Zhipin, Zhaopin, Lagou, Toutiao, Facebook, YouTube, Twitter. |
+| Python | [juaml/junifer](https://github.com/juaml/junifer) | Forschungszentrum Jülich Neuroimaging Feature Extractor |
+| Rust | [ejrgilbert/whamm](https://github.com/ejrgilbert/whamm) | Debugging WebAssembly? Put some Whamm! on it. |
+| SCSS | [oruga-ui/theme-bootstrap](https://github.com/oruga-ui/theme-bootstrap) | ⚓ Customization of Oruga components with Bootstrap framework |
+| C++ | [bradhowes/AUv3Support](https://github.com/bradhowes/AUv3Support) | Swift package containing useful code for AUv3 components. |
+| Python | [RandomEnch/nonebot_plugin_makemidi](https://github.com/RandomEnch/nonebot_plugin_makemidi) | nonebot_plugin_makemidi |
+| C | [Smithsonian/SuperNOVAS](https://github.com/Smithsonian/SuperNOVAS) | The Naval Observatory NOVAS C astrometry library, made better |
+| C | [openthread/ot-b91](https://github.com/openthread/ot-b91) | OpenThread on Telink B91 example. |
+| C | [jetperch/pymonocypher](https://github.com/jetperch/pymonocypher) | Python bindings for Monocypher crypto library.  |
