@@ -2,18 +2,46 @@
 
 | Language | Repo | Description |
 | - | --------- | --------- |
-| Python | [thalissonvs/pydoll](https://github.com/thalissonvs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping. |
+| Standard ML | [barakeel/oeis-synthesis](https://github.com/barakeel/oeis-synthesis) |  |
+| Python | [kalanakt/kalanakt](https://github.com/kalanakt/kalanakt) | A !Simple ReadME.md |
+| TypeScript | [SEMOSS/semoss-ui](https://github.com/SEMOSS/semoss-ui) |  |
+| Shell | [rxbn/k8s-gitops](https://github.com/rxbn/k8s-gitops) | My Kubernetes cluster built with K3s and managed by Flux v2 |
+| Go | [tobischo/kp2](https://github.com/tobischo/kp2) | A commandline client for accessing Keepass 2 files (kdbx) |
+| Ruby | [airframesio/data](https://github.com/airframesio/data) | Centralization of source data for Airframes/Acars projects |
+| TypeScript | [vivid-planet/comet-starter](https://github.com/vivid-planet/comet-starter) | Blueprint for a new Comet DXP project. |
+|  | [kauer3/kauer3](https://github.com/kauer3/kauer3) | 🖖 Welcome to my profile README! 😁🎉 |
+| C++ | [The-Legion-Preservation-Project/LegionCore-7.3.5](https://github.com/The-Legion-Preservation-Project/LegionCore-7.3.5) | LegionCore for 7.3.5 26972 |
+| TypeScript | [pbruvoll/tekkendocs](https://github.com/pbruvoll/tekkendocs) | Frame data and learning resources for Tekken |
+| TypeScript | [abridged/collabland-staking-contracts](https://github.com/abridged/collabland-staking-contracts) | Curated staking contracts for Collab.Land token gating |
+| JavaScript | [merill/bluesky](https://github.com/merill/bluesky) | Crowd sourced database of the Microsoft community on Bluesky. |
+| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
+|  | [Paradise-91/ParaTV](https://github.com/Paradise-91/ParaTV) |  |
+| JavaScript | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
+| Python | [Tsprnay/Proxy-lists](https://github.com/Tsprnay/Proxy-lists) |  |
+| Python | [Protospace/spaceport](https://github.com/Protospace/spaceport) | Calgary Protospace's member portal |
+| Java | [andifalk/secure-development-on-kubernetes](https://github.com/andifalk/secure-development-on-kubernetes) | Slides and Demos for "Secure Development on Kubernetes" talk |
+| Solidity | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
+|  | [roblox-macros/Anime-Defenders](https://github.com/roblox-macros/Anime-Defenders) | Roblox Anime Defenders Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm Buang Hub Gem & RR Method With Autofarm, Teleports & MORE |
+| Shell | [simonw/scrape-instances-social](https://github.com/simonw/scrape-instances-social) | https://instances.social/instances.json |
+| Python | [Space-00/V2ray-configs](https://github.com/Space-00/V2ray-configs) | This repo collects a random amount of v2ray configs by itself every 20 minutes 👨‍🚀 (Free) 👨‍🚀 |
 |  | [Briiqn/Actions-Server](https://github.com/Briiqn/Actions-Server) | Minecraft server automated with GitHub Actions, featuring internet access via tunneling. Easy deployment, management, for development &/or personal use |
+| Python | [cxumol/LongRiver](https://github.com/cxumol/LongRiver) | Yangtze River Hydrological History 长江水情监测  |
+| TypeScript | [scttcper/transmission](https://github.com/scttcper/transmission) | Transmission torrent client API wrapper |
+| Assembly | [cpcsdk/rust.cpclib](https://github.com/cpcsdk/rust.cpclib) | [WIP] Rust libary that targets the creation of Amstrad CPC demos |
+| C++ | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
+| PHP | [MukurtuCMS/Mukurtu-CMS](https://github.com/MukurtuCMS/Mukurtu-CMS) | Mukurtu CMS v4 Development |
+| C++ | [kr0ner/OneESP32ToRuleThemAll](https://github.com/kr0ner/OneESP32ToRuleThemAll) |  |
+| HTML | [HL7Norway/best-practice](https://github.com/HL7Norway/best-practice) | Utvikling og dokumentasjon av beste praksis og veiledninger for bruk av HL7 FHIR i Norge |
+| Python | [thalissonvs/pydoll](https://github.com/thalissonvs/pydoll) | Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping. |
 | JavaScript | [emcodem/ffastrans_webui](https://github.com/emcodem/ffastrans_webui) | An advanced Webinterface for FFAStrans |
 | HTML | [dullhunk/cdyf](https://github.com/dullhunk/cdyf) | Coding Your Future: A Guidebook for Students https://www.cdyf.me . Design, build, test, debug and code your future in computing  |
-| Solidity | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
 | Python | [Benedict-Carling/spanish-conjugator](https://github.com/Benedict-Carling/spanish-conjugator) | A python library to conjugate spanish words with parameters tense, mood and pronoun |
 |  | [opentimestamps/nist-inject](https://github.com/opentimestamps/nist-inject) | An injection of the NIST, ETH, LTC, and ZEC Random Beacons into Bitcoin |
 |  | [zukahai/zukahai](https://github.com/zukahai/zukahai) | Profile HaiZuka |
 | JavaScript | [dongchengjie/airport](https://github.com/dongchengjie/airport) |  |
 |  | [HaloCustomEdition/Halo-Custom-Edition-Ultimate-Deluxe-Extreme-Pro-Enhanced-Installer-Guide](https://github.com/HaloCustomEdition/Halo-Custom-Edition-Ultimate-Deluxe-Extreme-Pro-Enhanced-Installer-Guide) | Halo Custom Edition Ultimate Deluxe Extreme Pro Enhanced Installer Guide |
-| HTML | [qsbase/qs2](https://github.com/qsbase/qs2) |  |
 |  | [werfei/iptv](https://github.com/werfei/iptv) |  |
+| HTML | [qsbase/qs2](https://github.com/qsbase/qs2) |  |
 |  | [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) | Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  |
 | TypeScript | [uhh-lt/dats](https://github.com/uhh-lt/dats) | Discourse Analysis Tool Suite |
 |  | [Updated-Scripts/Brookhaven-RP](https://github.com/Updated-Scripts/Brookhaven-RP) | Roblox Brookhaven RP Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm FE Admin Commands  |
@@ -23,18 +51,16 @@
 | Python | [find-xposed-magisk/shell-gpt](https://github.com/find-xposed-magisk/shell-gpt) | A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.由 GPT-4 等 AI 大型语言模型提供支持的命令行生产力工具将帮助您更快、更高效地完成任务 |
 |  | [aso-off/aso-off](https://github.com/aso-off/aso-off) |  |
 | Python | [SparkRibeiro21/charmie_ws](https://github.com/SparkRibeiro21/charmie_ws) | LAR@Home CHARMIE ROS2 Workspace Repository |
-| Python | [kalanakt/kalanakt](https://github.com/kalanakt/kalanakt) | A !Simple ReadME.md |
 |  | [meokisama/meokisama](https://github.com/meokisama/meokisama) | A GitHub profile auto-generated with Apple Music, Anilist, Github Stats (stars, commits, PRs,...), Contribs calendar and WakaTime. |
 | C# | [turtle-insect/DQB2](https://github.com/turtle-insect/DQB2) | Switch & Steam Dragon Quest Builders 2 SaveDate Editor |
 |  | [yt-dlp/Pyinstaller-Builds](https://github.com/yt-dlp/Pyinstaller-Builds) | PyInstaller Builds for yt-dlp |
 |  | [austinhuang0131/austinhuang0131](https://github.com/austinhuang0131/austinhuang0131) |  |
-| Python | [timo-reymann/python-oauth2-cli-auth](https://github.com/timo-reymann/python-oauth2-cli-auth) | Authenticate against OAuth2 Provider in Python CLIs |
 | Smarty | [eea/eea.rancher.catalog](https://github.com/eea/eea.rancher.catalog) | Catalog of EEA's application stacks deploy-able via Rancher  |
+| Python | [timo-reymann/python-oauth2-cli-auth](https://github.com/timo-reymann/python-oauth2-cli-auth) | Authenticate against OAuth2 Provider in Python CLIs |
 | Python | [biansty/IPTV-EPG](https://github.com/biansty/IPTV-EPG) |  |
 | Python | [BharatKalluri/cleanmail](https://github.com/BharatKalluri/cleanmail) |  |
 | JavaScript | [muk-as/DOTA2_WEB](https://github.com/muk-as/DOTA2_WEB) |  |
 | Ruby | [miraheze/puppet](https://github.com/miraheze/puppet) | Production Puppet code |
-| Python | [Tsprnay/Proxy-lists](https://github.com/Tsprnay/Proxy-lists) |  |
 | Shell | [cpuer/fancyss-rules](https://github.com/cpuer/fancyss-rules) | 每日自动更新 fancyss 3.0 规则 |
 | JavaScript | [9xN/auto-ovpn](https://github.com/9xN/auto-ovpn) | This is an auto-generated list of Open VPN config files. |
 | Ruby | [Azure/homebrew-functions](https://github.com/Azure/homebrew-functions) | Homebrew formula for azure functions core tools |
@@ -66,29 +92,26 @@
 | Python | [palewire/muckrockbot](https://github.com/palewire/muckrockbot) | A Twitter bot that posts the latest public records requests filed and completed at muckrock.com |
 | MDX | [ChefKissInc/ChefKissInc.github.io](https://github.com/ChefKissInc/ChefKissInc.github.io) | The ChefKiss website. No commercial use. |
 | MDX | [spectrocloud/librarium](https://github.com/spectrocloud/librarium) | Palette/VerteX documentation |
-| C# | [licentia88/MagicOnionGenericTemplate](https://github.com/licentia88/MagicOnionGenericTemplate) |  |
 | JavaScript | [omnistrate-oss/saasbuilder](https://github.com/omnistrate-oss/saasbuilder) | Working template for a SaaS service FrontEnd for Services created using Omnistrate |
+| C# | [licentia88/MagicOnionGenericTemplate](https://github.com/licentia88/MagicOnionGenericTemplate) |  |
 | JavaScript | [cierru/st-stepped-thinking](https://github.com/cierru/st-stepped-thinking) | An extension for SillyTavern that lets characters think before responding |
 | Go | [OldTyT/frigate-telegram](https://github.com/OldTyT/frigate-telegram) | Frigate telegram event notifications. |
 | TypeScript | [tsyirvo/react-native-starter](https://github.com/tsyirvo/react-native-starter) | React Native starter configured with Expo and a custom Development Build. Already setup with a few goodies! |
-| Ruby | [airframesio/data](https://github.com/airframesio/data) | Centralization of source data for Airframes/Acars projects |
 | HTML | [krypticmouse/dspy-docs](https://github.com/krypticmouse/dspy-docs) | Official Documentation for DSPy Library |
 | Python | [transformerlab/transformerlab-api](https://github.com/transformerlab/transformerlab-api) | API Server for Transformer Lab |
 | Python | [skywrt/v2ray-configs](https://github.com/skywrt/v2ray-configs) |  |
 | Vue | [chihebnabil/claude-ui](https://github.com/chihebnabil/claude-ui) | A modern chat interface for Anthropic's Claude AI models built with Nuxt.js. Experience seamless conversations with Claude in a clean user interface. |
-| C++ | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
 | Shell | [Ostico/docker_matecat](https://github.com/Ostico/docker_matecat) | Docker configuration for MateCat web cattool https://github.com/matecat/MateCat |
 | Python | [MaxHalford/bike-sharing-history](https://github.com/MaxHalford/bike-sharing-history) | 🚲 Git scraping for bike sharing APIs |
 | C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
-| JavaScript | [merill/bluesky](https://github.com/merill/bluesky) | Crowd sourced database of the Microsoft community on Bluesky. |
 | JavaScript | [The-King-Destroy/Yuki_Suou-Bot](https://github.com/The-King-Destroy/Yuki_Suou-Bot) | 👋 ¡Hola! Bienvenido(a) al Repositorio de Yuki_Suou-Bot, El Bot aún esta en Desarrollo pero es muy Prometedor tiene Múltiples Funciones y Juegos. Esperamos que te Guste y nos Regales una Estrellita 🌟 me Ayudaría Muchísimo 😁. |
 | C | [EeroMutka/Fire](https://github.com/EeroMutka/Fire) | Easy-to-use libraries for C and C++ to make your programming journey smoother |
 | Fluent | [mozilla/fxa-content-server-l10n](https://github.com/mozilla/fxa-content-server-l10n) | translated strings for Firefox accounts website |
 | Java | [inferno-framework/fhir-validator-wrapper](https://github.com/inferno-framework/fhir-validator-wrapper) | FHIR Resource Validation Service |
 | Dart | [NicolaVerbeeck/dart_pdf_reader](https://github.com/NicolaVerbeeck/dart_pdf_reader) | PDF reader library in pure dart |
 | Portugol | [XandyGomes/CT-DS-Senai](https://github.com/XandyGomes/CT-DS-Senai) |  |
-|  | [givefood/data](https://github.com/givefood/data) | Latest data on UK food banks from Give Food scraped from our API and republished in various formats. |
 | Python | [g-filomena/cityImage](https://github.com/g-filomena/cityImage) | A Python package for  extracting the Computational Image of the City from geospatial datasets |
+|  | [givefood/data](https://github.com/givefood/data) | Latest data on UK food banks from Give Food scraped from our API and republished in various formats. |
 | Ruby | [heroku/homebrew-brew](https://github.com/heroku/homebrew-brew) |  |
 | C++ | [morzhovets/momo](https://github.com/morzhovets/momo) | C++ template containers with optimized memory consumption |
 | Python | [aidecentralized/sonar](https://github.com/aidecentralized/sonar) | SONAR - Self-Organizing Network of Aggregated Representations |
@@ -106,10 +129,10 @@
 | Go | [huantt/weather-forecast](https://github.com/huantt/weather-forecast) | This project uses GitLab Actions to collect the weather then update to README.md |
 | JavaScript | [Wumpus-Central/discrapper-canary](https://github.com/Wumpus-Central/discrapper-canary) | Discord Datamining repository and scrapped chunks archive. |
 | Assembly | [SAT-R/sa3](https://github.com/SAT-R/sa3) | A decompilation of Sonic Advance 3 |
-|  | [Armanx200/Armanx200](https://github.com/Armanx200/Armanx200) | 🔥 Thriving in the intersection of Mathematics and Computer Science. 💻 Future Developer and Machine Learning aficionado. 🤖 |
 | Julia | [gdalle/SparseMatrixColorings.jl](https://github.com/gdalle/SparseMatrixColorings.jl) | Coloring algorithms for sparse Jacobian and Hessian matrices |
-| JavaScript | [zsokami/subcvt-mannix](https://github.com/zsokami/subcvt-mannix) | 订阅转换后端 api 反向代理 + clash 移除无节点的分组 / 移除错误 uuid 的节点 / 确保 h2/grpc 的 tls 为 true / 对 grpc-service-name 进行 URL 解码 / 节点 type 和 cipher 筛选 / 支持修改 sni/servername/Host/host / 支持修改 server / 支持修改自动组策略 |
+|  | [Armanx200/Armanx200](https://github.com/Armanx200/Armanx200) | 🔥 Thriving in the intersection of Mathematics and Computer Science. 💻 Future Developer and Machine Learning aficionado. 🤖 |
 | PowerShell | [NyaMisty/scoop_bucket_misty](https://github.com/NyaMisty/scoop_bucket_misty) |  |
+| JavaScript | [zsokami/subcvt-mannix](https://github.com/zsokami/subcvt-mannix) | 订阅转换后端 api 反向代理 + clash 移除无节点的分组 / 移除错误 uuid 的节点 / 确保 h2/grpc 的 tls 为 true / 对 grpc-service-name 进行 URL 解码 / 节点 type 和 cipher 筛选 / 支持修改 sni/servername/Host/host / 支持修改 server / 支持修改自动组策略 |
 | Go | [ashirt-ops/aterm](https://github.com/ashirt-ops/aterm) | It records your terminal, then lets you upload to ASHIRT |
 | PHP | [123inkt/123view](https://github.com/123inkt/123view) | A code review and commit notifications Symfony application |
 | Jinja | [jimmy-ungerman/pork3s](https://github.com/jimmy-ungerman/pork3s) | The k3s Cluster of Pork Chop |
@@ -119,15 +142,15 @@
 | Rust | [Synphonyte/leptos-bevy-canvas](https://github.com/Synphonyte/leptos-bevy-canvas) | Embed an idiomatic Bevy app inside your Leptos app with ease. |
 |  | [JTBDefense/ATAKPlugins](https://github.com/JTBDefense/ATAKPlugins) | Collection of ATAK plugins create by JTB Defense |
 | Markdown | [Sulstice/Uptime-Cheminformatics](https://github.com/Sulstice/Uptime-Cheminformatics) | 📈 Uptime monitor and status page for Suliman Sharif, powered by @upptime |
-| Jupyter Notebook | [jrenaud90/CyRK](https://github.com/jrenaud90/CyRK) | Runge-Kutta ODE Integrator Implemented in Cython and Numba |
 | TypeScript | [TejasNasre/nexmeet](https://github.com/TejasNasre/nexmeet) | Your Next Meetup Platform. |
+| Jupyter Notebook | [jrenaud90/CyRK](https://github.com/jrenaud90/CyRK) | Runge-Kutta ODE Integrator Implemented in Cython and Numba |
 | Vue | [Redot-Engine/redot-landing-page](https://github.com/Redot-Engine/redot-landing-page) | Redot Engine is an ambitious, community-driven fork of the Godot Engine, aiming to expand upon its capabilities for 2D and 3D game development |
 | Python | [bobleesj/cifkit](https://github.com/bobleesj/cifkit) | High-throughput .cif analysis made easy. Visit: https://bobleesj.github.io/cifkit/ |
 | Bicep | [radius-project/docs](https://github.com/radius-project/docs) | Documentation for Radius |
 | Shell | [phybros/k3s-cluster](https://github.com/phybros/k3s-cluster) | Kubernetes cluster. Powered by Flux/SOPS. |
 | C# | [jamesmoore/SDMeta](https://github.com/jamesmoore/SDMeta) | Extract SD (Automatic1111, ComfyUI) metadata from generated PNG files in bulk, search and browse your prompts |
-| JavaScript | [wordpressenginetracker/wordpressenginetracker.github.io](https://github.com/wordpressenginetracker/wordpressenginetracker.github.io) | A single-page website to publicly track the number of sites migrating away from WP Engine |
 | Kotlin | [andreisilviudragnea/spring-boot-weblux-kotlin-coroutines](https://github.com/andreisilviudragnea/spring-boot-weblux-kotlin-coroutines) | Spring Boot + WebFlux + Kotlin coroutines example project |
+| JavaScript | [wordpressenginetracker/wordpressenginetracker.github.io](https://github.com/wordpressenginetracker/wordpressenginetracker.github.io) | A single-page website to publicly track the number of sites migrating away from WP Engine |
 | JavaScript | [product-os/flowzone](https://github.com/product-os/flowzone) | Reusable, opinionated, zero-conf workflows for GitHub actions |
 | Go | [vrypan/fargo](https://github.com/vrypan/fargo) | fargo is a Farcaster CLI written in Go. |
 | C++ | [asminer/meddly](https://github.com/asminer/meddly) | Multi-terminal and Edge-valued Decision Diagram LibrarY |
@@ -147,8 +170,8 @@
 | Python | [Anonymous1563/Bayesian-Enhancement-Model](https://github.com/Anonymous1563/Bayesian-Enhancement-Model) | Bayesian Enhancement Models for One-to-Many Mapping in Image Enhancement |
 | JavaScript | [tabhub/rss-feeds](https://github.com/tabhub/rss-feeds) | RSS feeds created/collected by TabHub. |
 | Python | [H3llKa1ser/B00t2R00t](https://github.com/H3llKa1ser/B00t2R00t) | A penetration testing playbook that's suitable for CTF challenges, bug bounty hunting and red team assessments. |
-| Visual Basic .NET | [Kawa1sk/Email-Bomber-SMTP](https://github.com/Kawa1sk/Email-Bomber-SMTP) | The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages. |
 | JavaScript | [95du/scripts](https://github.com/95du/scripts) | JavaScript |
+| Visual Basic .NET | [Kawa1sk/Email-Bomber-SMTP](https://github.com/Kawa1sk/Email-Bomber-SMTP) | The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages. |
 | JavaScript | [Direct-Freight/df-api-docs](https://github.com/Direct-Freight/df-api-docs) | Public API for Direct Freight Load Board |
 | PHP | [teg1c/weibo-hot-crawler](https://github.com/teg1c/weibo-hot-crawler) | 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP |
 | TypeScript | [rdamazio/efis-editor](https://github.com/rdamazio/efis-editor) | Web-based editor for aircraft EFIS files, such as checklists or configurations. |
@@ -174,8 +197,8 @@
 | Java | [vrnsky/java-a-to-z](https://github.com/vrnsky/java-a-to-z) | Java Study Project |
 |  | [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) | Config files for my GitHub profile. |
 | Go | [Strubbl/wallabago](https://github.com/Strubbl/wallabago) | Go wrapper for the Wallabag API |
-| Python | [nuz007/qqnews](https://github.com/nuz007/qqnews) | 腾讯新闻每日归档 |
 | Haskell | [zkFold/zkfold-base](https://github.com/zkFold/zkfold-base) | ZkFold's Base library |
+| Python | [nuz007/qqnews](https://github.com/nuz007/qqnews) | 腾讯新闻每日归档 |
 | TypeScript | [webtimemachine/wtm2](https://github.com/webtimemachine/wtm2) |  |
 | Python | [data-liberation-project/aphis-inspection-reports](https://github.com/data-liberation-project/aphis-inspection-reports) | Inspection data and PDFs from the USDA's Animal and Plant Health Inspection Service. |
 | Kotlin | [HelloCuriosity/model-forge](https://github.com/HelloCuriosity/model-forge) | Model Forge is a library to automate model generation for automated testing |
@@ -190,15 +213,15 @@
 | Jupyter Notebook | [cvxgrp/cvxstatarb](https://github.com/cvxgrp/cvxstatarb) |  |
 | Rust | [rustic-rs/rustic_server](https://github.com/rustic-rs/rustic_server) | A REST server built in rust for use with rustic/restic |
 |  | [atim2515/ATIM_BOSTON](https://github.com/atim2515/ATIM_BOSTON) |  |
-| C++ | [AtomicSponge/silvergun](https://github.com/AtomicSponge/silvergun) | :video_game: A lightweight game engine using Allegro |
 | JavaScript | [ncsu-geoforall-lab/open-science-course](https://github.com/ncsu-geoforall-lab/open-science-course) | NCSU GIS 595-601: Tools for open geospatial science |
+| C++ | [AtomicSponge/silvergun](https://github.com/AtomicSponge/silvergun) | :video_game: A lightweight game engine using Allegro |
 | Smalltalk | [pharo-graphics/Toplo](https://github.com/pharo-graphics/Toplo) | A widget framework on top of Bloc |
 | C++ | [plutoprint/plutobook](https://github.com/plutoprint/plutobook) | Paged HTML Rendering Library |
 | Elixir | [batteries-included/batteries-included](https://github.com/batteries-included/batteries-included) | Batteries Included is a Kubernetes based software platform for database, ai, web, monitoring, and more. |
 |  | [lr580/notes](https://github.com/lr580/notes) | some of my own study notes related to IT. |
 | C++ | [davidstone/technical-machine](https://github.com/davidstone/technical-machine) | The world's most advanced Pokemon AI |
-| Jinja | [clemensv/xregistry-cli](https://github.com/clemensv/xregistry-cli) | This project is a command line client for CNCF xRegistry |
 | Jupyter Notebook | [jrenaud90/TidalPy](https://github.com/jrenaud90/TidalPy) | Software suite to perform solid-body tidal dissipation calculations for rocky and icy worlds |
+| Jinja | [clemensv/xregistry-cli](https://github.com/clemensv/xregistry-cli) | This project is a command line client for CNCF xRegistry |
 | Java | [kelseyde/calvin-chess-engine](https://github.com/kelseyde/calvin-chess-engine) | A superhuman chess engine written in Java.  |
 | PHP | [woocommerce/qit-cli](https://github.com/woocommerce/qit-cli) | A Testing Platform for WordPress Plugins and Themes |
 | Ruby | [riscv-software-src/riscv-unified-db](https://github.com/riscv-software-src/riscv-unified-db) | Machine-readable database of the RISC-V specification, and tools to generate various views |
@@ -224,19 +247,17 @@
 | Swift | [tidal-music/tidal-sdk-ios](https://github.com/tidal-music/tidal-sdk-ios) | TIDAL SDK for iOS |
 | DM | [coolstation/coolstation](https://github.com/coolstation/coolstation) | Repository for the COOLEST branch of SS13 |
 | Java | [kakao-tech-campus-2nd-step3/Team10_BE](https://github.com/kakao-tech-campus-2nd-step3/Team10_BE) | 10조 백엔드 |
-| Shell | [simonw/scrape-instances-social](https://github.com/simonw/scrape-instances-social) | https://instances.social/instances.json |
 | JavaScript | [game-design-driven/Create-Prepare-to-Dye](https://github.com/game-design-driven/Create-Prepare-to-Dye) | Create: Prepare to Dye an opinionated, minimalistic modpack centered around complex and interesting automation. |
 | Rust | [Blooym/xlm](https://github.com/Blooym/xlm) | A painless XIVLauncher on Steam Deck/Linux experience. Runs as a Steam Compatibility Tool. |
 | C++ | [hpcc-systems/eclide](https://github.com/hpcc-systems/eclide) | IDE for ECL development |
 |  | [nodejs/jenkins-alerts](https://github.com/nodejs/jenkins-alerts) | Node.js Jenkins alerts for CI Testing environment |
 | TypeScript | [inabagumi/inaba-jinja](https://github.com/inabagumi/inaba-jinja) | 因幡神社へようこそ! |
-| Python | [gonlad-x/validator_queue_monitoring](https://github.com/gonlad-x/validator_queue_monitoring) | Provide an estimate of the waiting time before your ETH 2 validator becomes active.  |
 | HTML | [junioralive/box-stream](https://github.com/junioralive/box-stream) | A simple parser to stream terrabox videos without using the app. |
+| Python | [gonlad-x/validator_queue_monitoring](https://github.com/gonlad-x/validator_queue_monitoring) | Provide an estimate of the waiting time before your ETH 2 validator becomes active.  |
 | Nix | [konradmalik/dotfiles](https://github.com/konradmalik/dotfiles) | Dotfiles for Linux and MacOS. Currently on Nix. |
 | Go | [pingcap/ticdc](https://github.com/pingcap/ticdc) | TiCDC pulls change logs out of TiDB and pushes to kinds of systems. |
 | Nix | [NovaViper/NixConfig](https://github.com/NovaViper/NixConfig) | Personal NixOS Config |
 | Go | [northwood-labs/terraform-provider-corefunc](https://github.com/northwood-labs/terraform-provider-corefunc) | Utilities that should have been Terraform core functions. |
-|  | [Paradise-91/ParaTV](https://github.com/Paradise-91/ParaTV) |  |
 | Python | [gdcc/easyDataverse](https://github.com/gdcc/easyDataverse) | 🪐 - Lightweight Dataverse interface in Python to upload, download and update datasets found in Dataverse installations.  |
 | Python | [WindowsGSM/SteamAppInfo](https://github.com/WindowsGSM/SteamAppInfo) | Get the latest steam app info json here, automatic updated every 5 minutes. This repository only updates the dedicated server apps for game server management purposes. |
 | GDScript | [SnailBones/CellForest](https://github.com/SnailBones/CellForest) | A cellular-automaton forest simulation set to live data-driven music. |
@@ -276,13 +297,13 @@
 | HTML | [manwar/theweeklychallenge](https://github.com/manwar/theweeklychallenge) | The Weekly Challenge - Perl & Raku. You do not have to be an expert. https://theweeklychallenge.org |
 |  | [ncatlab/nlab-content](https://github.com/ncatlab/nlab-content) |   A file-based mirror of the nLab wiki (Markdown+itex2MML format). |
 | Java | [veraPDF/veraPDF-parser](https://github.com/veraPDF/veraPDF-parser) | veraPDF PDF parser |
-| C++ | [CarloWood/cairowindow](https://github.com/CarloWood/cairowindow) | Opens a window (Xlib) and allows you to draw in it using libcairo. Has Layer support. |
 | Java | [Lordsatanthenuker/DiscordUniverse](https://github.com/Lordsatanthenuker/DiscordUniverse) | DiscordUniverse is an innovative platform that brings together gamers from around the world to connect, compete, and collaborate in an expansive virtual universe. Join our community to explore new realms, engage in strategic battles, and forge lasting friendships with fellow adventurers. |
+| C++ | [CarloWood/cairowindow](https://github.com/CarloWood/cairowindow) | Opens a window (Xlib) and allows you to draw in it using libcairo. Has Layer support. |
 | Smarty | [alphagov/govuk-helm-charts](https://github.com/alphagov/govuk-helm-charts) | Helm charts for the GOV.UK website and publishing platform (content management system). Cluster turnup automation is in https://github.com/alphagov/govuk-infrastructure. |
 | PHP | [NicolasVero/stardew-dashboard](https://github.com/NicolasVero/stardew-dashboard) | Création d'un site de visualisation de sauvegarde sur le jeu Stardew Valley |
 | Java | [seebi70/PurpleStar](https://github.com/seebi70/PurpleStar) | Solana Airdrop Bot |
-| TypeScript | [milaboratory/platforma](https://github.com/milaboratory/platforma) | Platforma.bio: SDK |
 | HTML | [scholarslab/scholarslab.github.io](https://github.com/scholarslab/scholarslab.github.io) | World Wide Web site! For the Scholars' Lab! |
+| TypeScript | [milaboratory/platforma](https://github.com/milaboratory/platforma) | Platforma.bio: SDK |
 | DM | [Rotwood-Vale/Ratwood-Keep](https://github.com/Rotwood-Vale/Ratwood-Keep) | Ratwood | Anthro-Allowed Medieval Roleplay |
 | Python | [AstarVienna/ScopeSim](https://github.com/AstarVienna/ScopeSim) | A telescope observation simulator for Python. |
 | Python | [caleb-kan/AI-Research-Agent](https://github.com/caleb-kan/AI-Research-Agent) |  The AI Research Agent uses AI and web scraping to source, summarize, and cite information on any topic. It efficiently provides accurate data from various sources, aiding research across multiple fields. |
@@ -297,12 +318,11 @@
 | PHP | [YMC-22/smart-filter](https://github.com/YMC-22/smart-filter) | YMC Smart Filter, allows to solve a variety of tasks for displaying posts on site pages. For advanced developers, there is an opportunity to independently develop layouts for filters and post cards, which makes the plugin universal. |
 | TypeScript | [steaks/leo-query](https://github.com/steaks/leo-query) | A simple library to connect async queries to Zustand stores. |
 | Python | [epogrebnyak/abacus-minimal](https://github.com/epogrebnyak/abacus-minimal) | A minimal ledger in Python that follows accounting rules |
-| JavaScript | [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) | Documentation for the Nebula open source project |
 | Python | [prefix-dev/parselmouth](https://github.com/prefix-dev/parselmouth) |  |
+| JavaScript | [DefinedNet/nebula-docs](https://github.com/DefinedNet/nebula-docs) | Documentation for the Nebula open source project |
 | PHP | [modx-pro/MiniShop3](https://github.com/modx-pro/MiniShop3) | Simple online shop for MODX 3 |
 | Python | [Aiven-Open/kio](https://github.com/Aiven-Open/kio) | Python data types for the Apache Kafka® Protocol. |
 | Python | [louisVottero/vtool](https://github.com/louisVottero/vtool) | Vetala auto rig and a set of rigging and asset creation scripts. |
-| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
 | PHP | [t3solution/t3sbootstrap](https://github.com/t3solution/t3sbootstrap) | Startup extension to use bootstrap 5 classes, components and more out of the box. |
 | TypeScript | [guardian/commercial](https://github.com/guardian/commercial) | Guardian advertising business logic |
 | Python | [GMyhf/2020fall-cs101](https://github.com/GMyhf/2020fall-cs101) |  |
@@ -315,15 +335,14 @@
 | C# | [lg2de/sonar-scm-tfvc](https://github.com/lg2de/sonar-scm-tfvc) | SonarQube integration for Team Foundation Version Control |
 | Java | [HaHaWTH/AdvancedSensitiveWords](https://github.com/HaHaWTH/AdvancedSensitiveWords) | Modern, next-generation, ai-powered ultimate moderation solution for Minecraft! |
 | HTML | [multimodal-art-projection/DailyPaper](https://github.com/multimodal-art-projection/DailyPaper) |  |
-| Python | [UpstreamDataInc/goosebit](https://github.com/UpstreamDataInc/goosebit) | A simplistic, opinionated remote update server implementing hawkBit™'s DDI API. |
-| C# | [sevensolutions/nomad-iis](https://github.com/sevensolutions/nomad-iis) | 🧩 A TaskDriver plugin for HashiCorp Nomad to run workloads on Microsoft IIS. |
 | HTML | [MultiQC/test-data](https://github.com/MultiQC/test-data) | Test data for MultiQC. |
+| C# | [sevensolutions/nomad-iis](https://github.com/sevensolutions/nomad-iis) | 🧩 A TaskDriver plugin for HashiCorp Nomad to run workloads on Microsoft IIS. |
+| Python | [UpstreamDataInc/goosebit](https://github.com/UpstreamDataInc/goosebit) | A simplistic, opinionated remote update server implementing hawkBit™'s DDI API. |
 | TypeScript | [flickit-platform/flickit-platform](https://github.com/flickit-platform/flickit-platform) | Flickit Platform |
 | Shell | [luan/dotfiles](https://github.com/luan/dotfiles) | My preferences and automation |
 | Python | [neuro-inc/neuro-flow](https://github.com/neuro-inc/neuro-flow) | Execution engine for scripts and pipelines |
 |  | [MordFustang21/zed-github-dark](https://github.com/MordFustang21/zed-github-dark) | A GitHub dark theme for Zed |
 | Shell | [gi8lino/k8s-gitops](https://github.com/gi8lino/k8s-gitops) | My Kubernetes cluster built with K3s and managed by Flux v2 |
-|  | [kauer3/kauer3](https://github.com/kauer3/kauer3) | 🖖 Welcome to my profile README! 😁🎉 |
 | PowerShell | [zhoujin7/tomato](https://github.com/zhoujin7/tomato) | My personal scoop bucket. |
 | Java | [VidTu/Ksyxis](https://github.com/VidTu/Ksyxis) | Speed up the loading of your world. |
 | Perl | [traderres/webClass](https://github.com/traderres/webClass) |  |
@@ -342,15 +361,13 @@
 | Shell | [rdmurphy/actblue-ticker-tracker](https://github.com/rdmurphy/actblue-ticker-tracker) | Keeps tabs on the ticking donation amount found on ActBlue's home page. |
 | Makefile | [axone-protocol/ontology](https://github.com/axone-protocol/ontology) | 📙 The Axone Ontology |
 | TypeScript | [theopensystemslab/planx-new](https://github.com/theopensystemslab/planx-new) | Plan✕ is a platform for creating and publishing digital planning services |
-| JavaScript | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
 | TypeScript | [arkemishub/ui](https://github.com/arkemishub/ui) | UI components library based on tailwindcss |
-| Java | [skippy-io/skippy](https://github.com/skippy-io/skippy) | Mono-repo for all Skippy projects. |
 | TypeScript | [SciCatProject/scicat-backend-next](https://github.com/SciCatProject/scicat-backend-next) | SciCat Data Catalogue Backend |
+| Java | [skippy-io/skippy](https://github.com/skippy-io/skippy) | Mono-repo for all Skippy projects. |
 | TypeScript | [somewhatabstract/checksync](https://github.com/somewhatabstract/checksync) | A tool for detecting when related text blocks change |
 | Lua | [SNjserge/JJsploit](https://github.com/SNjserge/JJsploit) | JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua scripts, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software. |
 | TypeScript | [yldio/asap-hub](https://github.com/yldio/asap-hub) | The monorepo for the backend, frontend, and infrastructure of the ASAP hub. |
 | Python | [palVikram/Machine-Learning-using-Python](https://github.com/palVikram/Machine-Learning-using-Python) | Regression, Classification and Clustering |
-| TypeScript | [SEMOSS/semoss-ui](https://github.com/SEMOSS/semoss-ui) |  |
 | Rust | [JackKelly/hypergrib](https://github.com/JackKelly/hypergrib) | Lazily open petabyte-scale GRIB datasets consisting of trillions of GRIB messages from xarray |
 | Python | [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis) | Updated Kattis API wrapper |
 | R | [HelenaLC/SpatialData](https://github.com/HelenaLC/SpatialData) |  |
