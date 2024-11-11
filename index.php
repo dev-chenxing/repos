@@ -21,12 +21,12 @@ $data = json_decode($response, true);
 $Repos = [];
 
 foreach ($data["items"] as $repo) {
-    array_push($Repos, [
+    $Repos[$repo["id"]] = [
         "name" => $repo["full_name"],
         "url" => $repo["html_url"],
         "desc" => $repo["description"],
         "lang" => $repo["language"],
-    ]);
+    ];
 }
 
 function generateReadme()
@@ -40,4 +40,5 @@ function generateReadme()
     return $readme;
 }
 
+file_put_contents("repos.json", json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 file_put_contents("README.md", generateReadme());
