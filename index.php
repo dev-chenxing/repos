@@ -27,8 +27,15 @@ foreach ($data["items"] as $repo) {
         "url" => $repo["html_url"],
         "desc" => $repo["description"],
         "lang" => $repo["language"],
+        "update" => $repo["updated_at"]
     ];
 }
+
+function sort_repos($a, $b)
+{
+    return ($a["update"] > $b["update"]) ? -1 : 1;
+}
+uasort($Repos, "sort_repos");
 
 function generateReadme()
 {
