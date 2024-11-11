@@ -83,3 +83,28 @@
 | C | [Smithsonian/SuperNOVAS](https://github.com/Smithsonian/SuperNOVAS) | The Naval Observatory NOVAS C astrometry library, made better |
 | C | [openthread/ot-b91](https://github.com/openthread/ot-b91) | OpenThread on Telink B91 example. |
 | C | [jetperch/pymonocypher](https://github.com/jetperch/pymonocypher) | Python bindings for Monocypher crypto library.  |
+| Jupyter Notebook | [kshedden/case_studies](https://github.com/kshedden/case_studies) | Teaching case studies |
+| Jupyter Notebook | [martinpilat/CImethods](https://github.com/martinpilat/CImethods) | Teaching materials for the seminar on Application of Computational Intelligence Methods |
+| JavaScript | [author-more/penpot-desktop](https://github.com/author-more/penpot-desktop) | A desktop application for Penpot, an open-source design tool. |
+| TypeScript | [waldur/waldur-homeport](https://github.com/waldur/waldur-homeport) | Waldur HomePort is web-based client for the Waldur MasterMind. |
+| RouterOS Script | [MrAriaNet/Get-IP-Iran](https://github.com/MrAriaNet/Get-IP-Iran) | Get IP Iran and add to Mikrotik Address List |
+| C++ | [artis-mcrt/artis](https://github.com/artis-mcrt/artis) | 3D Monte Carlo radiative transfer code for supernovae/kilonovae |
+| Java | [fglock/PerlOnJava](https://github.com/fglock/PerlOnJava) | An implementation of the Perl programming language designed to run on the Java platform |
+|  | [openhwgroup/core-v-sw](https://github.com/openhwgroup/core-v-sw) | Main Repo for the OpenHW Group Software Task Group |
+| C++ | [ampl/rAMPL](https://github.com/ampl/rAMPL) | R API for AMPL |
+| Java | [ssquadteam/ApiaryProxy](https://github.com/ssquadteam/ApiaryProxy) | Modernized Velocity Fork for Ease of use and high performance. |
+| PHP | [centarro/commerce_kickstart](https://github.com/centarro/commerce_kickstart) | Commerce Kickstart is the fastest way to start building on Drupal Commerce. Use it to accelerate new site development or customize pre-configured components to launch your next online store. |
+| Python | [gonlad-x/validator_queue_monitoring](https://github.com/gonlad-x/validator_queue_monitoring) | Provide an estimate of the waiting time before your ETH 2 validator becomes active.  |
+| C++ | [MC-117/BraneEngineDx](https://github.com/MC-117/BraneEngineDx) | BraneEngine is a 3D game engine, which build with ImGui, PhysX and OpenAL. Engine has supported multiply rendering features, such as SSR, GI probe system, volumtric fog, GTAO, DOF and so on. For game play, engine provides python scipt and graph system. Also, engine provides animation graph based on graph system. |
+| Jinja | [DataChefHQ/inception](https://github.com/DataChefHQ/inception) | DataChef's project kickstarter! Reproducible, Declarative and Reliable development environments. |
+| JavaScript | [Uchida16104/LiveCodingPortfolio](https://github.com/Uchida16104/LiveCodingPortfolio) | These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot. |
+| Lua | [DwayneDaLoser/Hamster-Kombat-Clicker](https://github.com/DwayneDaLoser/Hamster-Kombat-Clicker) | Master Hamster Kombat Bot is a Python-based automation tool specifically designed for the game Hamster Kombat. This bot is capable of performing all in-game tasks, including auto-tapping, cipher tasks, and purchasing the best cards on your behalf. It's a free and fully automated farming bot that enhances your Hamster Kombat gaming experience. |
+|  | [borestad/firehol-mirror](https://github.com/borestad/firehol-mirror) | Cron caching of https://iplists.firehol.org (without private networks a.k.a RFC1918) |
+| C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
+| Shell | [sam0402/ArchQ](https://github.com/sam0402/ArchQ) | ArchQ Linux for Audiophiles |
+|  | [MicrosoftDocs/openapi-docs](https://github.com/MicrosoftDocs/openapi-docs) |  |
+| CSS | [Ajiet-DevNation/DevNation-CMS](https://github.com/Ajiet-DevNation/DevNation-CMS) | This is a CMS site for our student community DevNation. |
+| Shell | [crper/action-wttr-fetch-city](https://github.com/crper/action-wttr-fetch-city) | 利用Github Action的能力获取天气并生成图片,用于第三方分享 |
+| C# | [GoEddie/spark-connect-dotnet](https://github.com/GoEddie/spark-connect-dotnet) |  |
+| Python | [Xeift/Kizmeow-Telegram-Discord-Bot](https://github.com/Xeift/Kizmeow-Telegram-Discord-Bot) | A bot that forwards Telegram messages to Discord via webhook. Kizmeow does not require any Discord or Telegram permissions, nor does it require adding any bots to the group, the only thing required is the Discord webhook url. |
+| C | [TIMISONG-dev/kernel_xiaomi_sm8250](https://github.com/TIMISONG-dev/kernel_xiaomi_sm8250) | MagicTime Kernel (WIP) |
