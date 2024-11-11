@@ -18,7 +18,8 @@ if ($response === false) {
 $data = json_decode($response, true);
 // var_dump($data);
 
-$Repos = [];
+$json_path = "repos.json";
+$Repos = json_decode(file_get_contents($json_path), true);
 
 foreach ($data["items"] as $repo) {
     $Repos[$repo["id"]] = [
@@ -40,5 +41,5 @@ function generateReadme()
     return $readme;
 }
 
-file_put_contents("repos.json", json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+file_put_contents($json_path, json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 file_put_contents("README.md", generateReadme());

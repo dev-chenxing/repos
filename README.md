@@ -32,3 +32,28 @@
 | TypeScript | [fortanix/openapi-to-effect](https://github.com/fortanix/openapi-to-effect) | Generate @effect/schema definitions from an OpenAPI document |
 | Python | [exoscale/python-exoscale](https://github.com/exoscale/python-exoscale) | Python bindings for the Exoscale APIs |
 | JavaScript | [product-os/flowzone](https://github.com/product-os/flowzone) | Reusable, opinionated, zero-conf workflows for GitHub actions |
+| JavaScript | [takahirox/takahirox.github.io](https://github.com/takahirox/takahirox.github.io) |  |
+| Python | [SnailDev/v2ex-hot-hub](https://github.com/SnailDev/v2ex-hot-hub) | 记录v2ex热议话题，每小时更新，按天归档。 |
+| JavaScript | [TomasHubelbauer/tomashubelbauer](https://github.com/TomasHubelbauer/tomashubelbauer) | My GitHub profile page repository |
+| Python | [cedrict/fieldstone](https://github.com/cedrict/fieldstone) | This is a collection of educational Finite Element codes in Computational Geodynamics. |
+|  | [lr580/notes](https://github.com/lr580/notes) | some of my own study notes related to IT. |
+|  | [opentimestamps/nist-inject](https://github.com/opentimestamps/nist-inject) | An injection of the NIST, ETH, LTC, and ZEC Random Beacons into Bitcoin |
+|  | [FMTDev/FMT.Releases](https://github.com/FMTDev/FMT.Releases) | A tool to create mods for DICE Frostbite Engine games that can be deployed to multiple platforms.  |
+|  | [Wang-Phil/Wang-Phil](https://github.com/Wang-Phil/Wang-Phil) |  |
+| JavaScript | [nolddor/steam-badges-db](https://github.com/nolddor/steam-badges-db) | An up-to-date database about all existing Steam apps having trading cards. |
+| Java | [RSTeamCore/WorldGuardRegionProtect](https://github.com/RSTeamCore/WorldGuardRegionProtect) | WorldGuardRegionProtect - Advanced secure for region from WorldGuard 7+ |
+| TypeScript | [ganta/marktone](https://github.com/ganta/marktone) | Change a Rich Text input area to Markdown input area on kintone |
+| JavaScript | [Drlanderf/clara_oswald](https://github.com/Drlanderf/clara_oswald) | 🤖 Basic Discord Bot |
+| Ruby | [bkuhlmann/hemo](https://github.com/bkuhlmann/hemo) | A Hanami demo application. |
+| C++ | [zdenyhraz/shenanigans](https://github.com/zdenyhraz/shenanigans) | Semi-random funky stuff, mainly for my PhD experiments and articles. Contains calculations and algorithm implementations for various applied mathematics and astrophysics articles I worked on. |
+| Markdown | [Sulstice/Uptime-Cheminformatics](https://github.com/Sulstice/Uptime-Cheminformatics) | 📈 Uptime monitor and status page for Suliman Sharif, powered by @upptime |
+| JavaScript | [hmcts/rpx-xui-webapp](https://github.com/hmcts/rpx-xui-webapp) | rpx-xui-webapp |
+| PHP | [Automattic/jetpack-production](https://github.com/Automattic/jetpack-production) | [READ ONLY] Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.  This repository is a mirror, for issue tracking and development head to: https://github.com/automattic/jetpack |
+| CSS | [spiffytech/random_bibleizer](https://github.com/spiffytech/random_bibleizer) | Randomly chooses a book and chapter from the Bible to read |
+| Swift | [vdhamer/Photo-Club-Hub](https://github.com/vdhamer/Photo-Club-Hub) | iOS app for showcasing and viewing portfolios with curated fine-art photographic images. |
+| C++ | [desktop-app/lib_webview](https://github.com/desktop-app/lib_webview) | Webview helper library. |
+| Python | [gitrecon1455/ProxyScraper](https://github.com/gitrecon1455/ProxyScraper) | Free Proxy List Updated every 10 minutes |
+| C++ | [robotology/robometry](https://github.com/robotology/robometry) | Telemetry suite for logging data from your robot 🤖 |
+| C | [jelmer/subvertpy](https://github.com/jelmer/subvertpy) | Alternative Python bindings for Subversion |
+| C++ | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
+| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |

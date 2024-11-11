@@ -1,0 +1,30 @@
+name: PHP Runner
+
+on:
+    push:
+        branches:
+            - main
+    schedule:
+        - cron: "*/15 * * * *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: checkout repo content
+              uses: actions/checkout@v2
+
+            - name: PHP Runner
+              uses: franzliedke/gh-action-php@0.3.0
+
+            - name: execute php script
+              run: |
+                  php index.php
+
+            - name: Commit and push if it changed
+              run: |
+                  git config --local user.email "chenxing.io@outlook.com"
+                  git config --local user.name "dev-chenxing"    
+                  git add -A
+                  git commit -m "run index.php" || exit 0
+                  git push
