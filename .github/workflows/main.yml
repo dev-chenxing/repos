@@ -23,8 +23,8 @@ jobs:
 
             - name: Commit and push if it changed
               run: |
-                  git config --local user.email "chenxing.io@outlook.com"
-                  git config --local user.name "dev-chenxing"    
+                  git config user.name "chen.xing"
+                  git config user.email "chenxing.io@outlook.com"
                   git add -A
                   git commit -m "run index.php" || exit 0
                   git push
