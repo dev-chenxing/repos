@@ -2,8 +2,31 @@
 
 | Language | Repo | Description |
 | - | --------- | --------- |
-| Python | [shack/synth](https://github.com/shack/synth) | Synthesis of loop-free programs |
+| Shell | [crossxx-labs/free-proxy](https://github.com/crossxx-labs/free-proxy) | Provide free clash subscriptions of ssr / trojan / vmess proxy servers 提供免费clash订阅 |
+| Kotlin | [meltwater/kotlin-compose](https://github.com/meltwater/kotlin-compose) | Docker-compose wrapper for the JVM |
+| Go, Python, Makefile, Shell | [sonic-net/sonic-gnmi](https://github.com/sonic-net/sonic-gnmi) | SONiC gNMI server and gNOI repo |
+| Shell, Dockerfile | [lildude/ha-addon-teslamate](https://github.com/lildude/ha-addon-teslamate) | Home Assistant add-on for TeslaMate |
+| PHP, Shell | [indieweb/indieweb-chat-archive](https://github.com/indieweb/indieweb-chat-archive) | Full archive of IndieWeb chat log data files |
+| Python, HCL, Jinja, Makefile, Shell, Roff | [buvis/clusters](https://github.com/buvis/clusters) | Bob's Universal and Very Intelligent System clusters |
+| Python, Jupyter Notebook | [kaist-dmlab/RECURVE](https://github.com/kaist-dmlab/RECURVE) | Repository for the paper, "Exploiting Representation Curvature for Boundary Detection in Time Series" accepted at NeurIPS 2024 |
 | Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
+| Go, Makefile | [awslabs/operatorpkg](https://github.com/awslabs/operatorpkg) |  |
+| R, HTML, Dockerfile, CSS | [WorldFishCenter/peskas.timor.portal](https://github.com/WorldFishCenter/peskas.timor.portal) | Peskas web app for East Timor |
+| C, C++, Python, Ruby, CMake, Makefile, Shell, Handlebars, HTML | [Xinyuan-LilyGO/T-Panel](https://github.com/Xinyuan-LilyGO/T-Panel) |  This is an RGB screen with a pixel resolution of 480x480, featuring dual chips on board, ESP32S3 and ESP32H2 chips, supporting 7-24V voltage input, RS485 communication, and more. |
+| Makefile, C++, Shell | [limine-bootloader/limine-cxx-template](https://github.com/limine-bootloader/limine-cxx-template) | A simple template for building a Limine-compliant kernel in C++. |
+| Go, Makefile | [edgexfoundry/go-mod-bootstrap](https://github.com/edgexfoundry/go-mod-bootstrap) | go-mod-bootstrap |
+| Python, Jupyter Notebook, CMake, C++, Shell, C, Makefile, PowerShell, HTML, TypeScript, PureBasic | [Hyperspawn/Dropbear](https://github.com/Hyperspawn/Dropbear) | Dropbear Humanoid Robot - an advanced humanoid robot designed to operate in varied environments, showcasing agility, precision, and intelligence. |
+| Java | [RedRoverSchool/JenkinsQA_2024_fall](https://github.com/RedRoverSchool/JenkinsQA_2024_fall) |  |
+| C, Elixir, Makefile | [sean-lin/elixir-cbson](https://github.com/sean-lin/elixir-cbson) | BSON NIF for Elixir/Erlang language http://bsonspec.org |
+| C++, C#, C, Batchfile, Shell | [abstractspoon/ToDoList_8.3](https://github.com/abstractspoon/ToDoList_8.3) | Latest stable release of Core MFC app and C# plugins |
+| Markdown, JSON, YAML | [Sulstice/Uptime-Cheminformatics](https://github.com/Sulstice/Uptime-Cheminformatics) | 📈 Uptime monitor and status page for Suliman Sharif, powered by @upptime |
+| Python | [rezabojnordi/shabi_download](https://github.com/rezabojnordi/shabi_download) |  |
+| CSS, Lua, QML, Shell, GLSL, Python, Vim Script | [nnyyxxxx/hyprland](https://github.com/nnyyxxxx/hyprland) | My dotfiles for hyprland - For my personal use only !! Use at your own risk. |
+| PHP, HTML, JavaScript | [TYPO3-CMS/lowlevel](https://github.com/TYPO3-CMS/lowlevel) | [READ-ONLY] Subtree split of the TYPO3 Core Extension "lowlevel" |
+| C#, Shell, SCSS | [guibranco/VTEX-SDK-dotnet](https://github.com/guibranco/VTEX-SDK-dotnet) | 🛒 ⚙️ VTEX platform .NET SDK |
+| PHP, Twig, Dockerfile, Shell | [opifex/symfony](https://github.com/opifex/symfony) | RESTful JSON-based application using Symfony Framework with DDD and CQS principles and JWT authorization tokens. |
+| Lua, HTML, Python, Shell | [sQVe/dotfiles](https://github.com/sQVe/dotfiles) | sQVe dotfiles |
+| Python | [shack/synth](https://github.com/shack/synth) | Synthesis of loop-free programs |
 | Python, JavaScript, SCSS, HTML | [LNRelease/lnrelease.github.io](https://github.com/LNRelease/lnrelease.github.io) | English light novel release dates |
 | Python, TeX, Makefile, Fortran, Gnuplot, Shell, D, Julia, Roff, C, GLSL, Jupyter Notebook, MATLAB | [cedrict/fieldstone](https://github.com/cedrict/fieldstone) | This is a collection of educational Finite Element codes in Computational Geodynamics. |
 | PHP, Smarty, HTML, JavaScript, CSS | [TeamEver/everblock](https://github.com/TeamEver/everblock) | Free Prestashop HTML block module |
@@ -11,17 +34,15 @@
 | C++, C, Assembly | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
 | Python | [Animenosekai/japanterebi-xmltv](https://github.com/Animenosekai/japanterebi-xmltv) | Easily create XMLTV files |
 | Svelte, TypeScript, JavaScript, CSS, HTML | [TsukemonoGit/lumilumi](https://github.com/TsukemonoGit/lumilumi) | the nostr web client |
-| Python | [snooppr/shotstars](https://github.com/snooppr/shotstars) | A unique and over fab tool to track stars on Github. |
 | WDL, Python, Shell, R, JavaScript, Hack | [Daylily-Informatics/daylily](https://github.com/Daylily-Informatics/daylily) | A NGS analysis framework for WGS data, which automates the entire process of spinning up AWS EC2 spot instances and processing FASTQ to snvVCF in <60m, for dollars a sample and achieving Fscores of 0.998.  |
+| Python | [snooppr/shotstars](https://github.com/snooppr/shotstars) | A unique and over fab tool to track stars on Github. |
 | HTML, Python, Nix, JavaScript, Just, Shell | [ryan4yin/thiscute.world](https://github.com/ryan4yin/thiscute.world) | Ryan4Yin's Space |
 | Assembly, BASIC, C, Python, FreeBasic, Makefile, VBA, Go, Visual Basic 6.0, Shell | [tisnik/8bit-fame](https://github.com/tisnik/8bit-fame) | Various programs written for 8bit computers |
-| TypeScript, JavaScript | [Aoang/Surge](https://github.com/Aoang/Surge) | Surge 专用的 Ruleset |
 | Racket, Shell, TypeScript, SCSS, R, JavaScript, CSS, TeX, Procfile | [MarcKaufmann/congame](https://github.com/MarcKaufmann/congame) | The best experimental economics software built in Racket |
+| TypeScript, JavaScript | [Aoang/Surge](https://github.com/Aoang/Surge) | Surge 专用的 Ruleset |
 | C, Cuda, Assembly, Shell, Batchfile | [zenny-chen/GPU-architectures-docs-and-demos](https://github.com/zenny-chen/GPU-architectures-docs-and-demos) | 各大GPU厂商以及平台商关于3D图形渲染的demo |
-| PHP, Shell | [indieweb/indieweb-chat-archive](https://github.com/indieweb/indieweb-chat-archive) | Full archive of IndieWeb chat log data files |
 | C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
 | TypeScript, JavaScript | [FantasticFiasco/axis-js](https://github.com/FantasticFiasco/axis-js) | A collection of Node.js packages written in TypeScript, helping you to interact with network cameras from Axis Communication. |
-| Python, Jupyter Notebook | [kaist-dmlab/RECURVE](https://github.com/kaist-dmlab/RECURVE) | Repository for the paper, "Exploiting Representation Curvature for Boundary Detection in Time Series" accepted at NeurIPS 2024 |
 | JavaScript, Python, HTML, CSS | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
 | HTML, XSLT, GLSL, Shell, C++, Ruby, Java | [gematik/eRezept-Examples](https://github.com/gematik/eRezept-Examples) | This repo serves as a communication platform on examples of fhir resources in the context of electronic prescriptions |
 | Shell | [rdmurphy/actblue-ticker-tracker](https://github.com/rdmurphy/actblue-ticker-tracker) | Keeps tabs on the ticking donation amount found on ActBlue's home page. |
@@ -62,8 +83,8 @@
 | Lua | [coopa486/Wave-Roblox](https://github.com/coopa486/Wave-Roblox) | Wave Executor: A robust Windows-based script executor tailored for Roblox enthusiasts, Wave Executor boasts AI integration for seamless script development, ad-free premium features, and 24/7 support, ensuring an unparalleled user experience and elevating your gameplay to new heights. |
 | C++, Processing, JavaScript, C, HTML | [michaelshiloh/resourcesForClasses](https://github.com/michaelshiloh/resourcesForClasses) |  |
 | Perl, Nix | [andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay) | linux kernel overlay |
-| Python, Makefile, CSS, Shell, Batchfile, HTML, QML | [earthdaily/qgis-plugin](https://github.com/earthdaily/qgis-plugin) | 🗺️ To be able to discover, request and use aggregate imagery products based on landsat-8/9, Sentinel 2  and other sensors from within QGIS, using the <geosys/> API. |
 | HTML, JavaScript, CSS | [qiayue/SprunkiIncredibox](https://github.com/qiayue/SprunkiIncredibox) | Sprunki Incredibox Music Game |
+| Python, Makefile, CSS, Shell, Batchfile, HTML, QML | [earthdaily/qgis-plugin](https://github.com/earthdaily/qgis-plugin) | 🗺️ To be able to discover, request and use aggregate imagery products based on landsat-8/9, Sentinel 2  and other sensors from within QGIS, using the <geosys/> API. |
 | RouterOS Script, Shell | [MrAriaNet/Get-IP-Iran](https://github.com/MrAriaNet/Get-IP-Iran) | Get IP Iran and add to Mikrotik Address List |
 | Shell, Python | [sam0402/ArchQ](https://github.com/sam0402/ArchQ) | ArchQ Linux for Audiophiles |
 | Shell, Python | [hjpwyb/WYB](https://github.com/hjpwyb/WYB) | tset |
@@ -71,9 +92,9 @@
 | HTML, Python | [SnailDev/weibo-hot-hub](https://github.com/SnailDev/weibo-hot-hub) | 记录微博热搜、热门话题，每小时更新，按天归档。 |
 | C++ | [damz001/Fixing-Error-0x803F8001](https://github.com/damz001/Fixing-Error-0x803F8001) | The "Error 0x803F8001" commonly occurs when there are issues with app licenses or if the Microsoft Store cannot validate an application. To resolve this error, download and run the provided software, which will help refresh your app licenses and ensure proper functionality of the Microsoft Store. |
 | TypeScript, JavaScript, C++, C, Python, Dockerfile, Shell | [signalfx/splunk-otel-js](https://github.com/signalfx/splunk-otel-js) | Splunk Distribution of OpenTelemetry JavaScript  |
+| TypeScript, JavaScript, CSS, HTML | [tiavina-mika/mui-tiptap-editor](https://github.com/tiavina-mika/mui-tiptap-editor) | Tiptap editor with Material UI |
 | Shell | [njcx/blackip_list](https://github.com/njcx/blackip_list) | 从FireHOL 同步的恶意IP 清单，每天都会更新 |
 | C++ | [pufferfish420/Fixing-Error-0x8007000E](https://github.com/pufferfish420/Fixing-Error-0x8007000E) | The "Error 0x8007000E" indicates that there is insufficient memory available to complete the operation, often occurring during installations or updates. To resolve this issue, download and run the provided software, which will optimize your systemâ€™s memory and free up resources. This tool will prevent future memory-related errors. |
-| TypeScript, JavaScript, CSS, HTML | [tiavina-mika/mui-tiptap-editor](https://github.com/tiavina-mika/mui-tiptap-editor) | Tiptap editor with Material UI |
 | C++ | [whyareyoureadingmyname56/Twitch-View-Bot](https://github.com/whyareyoureadingmyname56/Twitch-View-Bot) | ðŸ¤– Twitch viewer bot that sends viewers. No need for proxies or anything extra! Selenium |
 | C#, Dockerfile, Handlebars, HTML, CSS | [Energinet-DataHub/energy-origin](https://github.com/Energinet-DataHub/energy-origin) |  |
 | Kotlin | [eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt](https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt) | Implementation of OpenID for Verifiable Credential Issuance protocol (wallet's role) in Kotlin |
@@ -112,11 +133,10 @@
 | Python | [xxdxxid/Roblox-Krampus](https://github.com/xxdxxid/Roblox-Krampus) | Roblox Krampus Executor: The ultimate Roblox Executor, offering top script performance and a user-friendly dashboard for seamless gaming and scripting. |
 | Python | [pleasedonotharmme/Roblox-Oxygen](https://github.com/pleasedonotharmme/Roblox-Oxygen) | Oxygen Executor is a versatile script execution tool designed for Roblox, offering users the ability to run Lua scripts and access a plethora of game modifications. With its intuitive interface and powerful features, Oxygen empowers users to enhance their gameplay experience on the Roblox platform with ease and efficiency. |
 | Kotlin, Dockerfile | [Ahoo-Wang/wow-project-template](https://github.com/Ahoo-Wang/wow-project-template) | 用于快速构建基于 Wow 框架的 DDD 项目模板。 |
-| Luau, Shell | [jaydenth/Roblox-Synapse](https://github.com/jaydenth/Roblox-Synapse) | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. |
 | JavaScript | [SaplingDevs/Sapling](https://github.com/SaplingDevs/Sapling) | Sapling is a set of utilities and tools for Minecraft Bedrock! Focused primarily on TMC with its QoL, Optimization, Parity, Engines, Server-side and Client-side features, and more! |
+| Luau, Shell | [jaydenth/Roblox-Synapse](https://github.com/jaydenth/Roblox-Synapse) | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. |
 | JavaScript | [mdbyjidhasan1243/KRNL-Executor](https://github.com/mdbyjidhasan1243/KRNL-Executor) | The legendary KRNL executor is a highly regarded tool for Roblox on Windows, known for its reliability and efficiency in running Lua scripts, allowing users to access advanced game modifications and exploits for an enhanced gaming experience. |
 | TypeScript | [yztutu/zhihu-trending-hot-questions](https://github.com/yztutu/zhihu-trending-hot-questions) | 知乎热门话题，记录从 2021-12-6 日开始的知乎热门话题。每小时抓取一次数据，按天归档。 |
-| Java | [RedRoverSchool/JenkinsQA_2024_fall](https://github.com/RedRoverSchool/JenkinsQA_2024_fall) |  |
 | C++, C, CMake, C#, Python, Batchfile | [OpenHUTB/carla_cpp](https://github.com/OpenHUTB/carla_cpp) | C++ 文档 |
 | Lua | [SNjserge/JJsploit](https://github.com/SNjserge/JJsploit) | JJSploit, now available for free, is a widely-used Roblox exploit favored for its simplicity and accessibility. With the ability to execute Lua scripts, it enables users to customize their gaming experience, though users should remain vigilant about potential risks associated with exploiting software. |
 | Python, Shell, Makefile | [EESSI/docs](https://github.com/EESSI/docs) | Documentation for the European Environment for Scientific Software Installations (EESSI) |
