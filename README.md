@@ -2,29 +2,50 @@
 
 | Language | Repo | Description |
 | - | --------- | --------- |
-| Shell, Makefile | [Informatievlaanderen/OSLO-Standaarden](https://github.com/Informatievlaanderen/OSLO-Standaarden) | The content of the OSLO Standaardenregister on data.vlaanderen.be |
-| Python, Shell | [LiBingyu01/StitchFusion-StitchFusion-Weaving-Any-Visual-Modalities-to-Enhance-Multimodal-Semantic-Segmentation](https://github.com/LiBingyu01/StitchFusion-StitchFusion-Weaving-Any-Visual-Modalities-to-Enhance-Multimodal-Semantic-Segmentation) |  |
-| Scala, Shell | [joan38/moulin](https://github.com/joan38/moulin) | Build multi-projects with Scala CLI |
+| Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
+| PHP | [guanguans/laravel-api-response](https://github.com/guanguans/laravel-api-response) | Normalize and standardize Laravel API response data structures. - 规范化和标准化 Laravel API 响应数据结构。 |
+| JavaScript, TypeScript, CSS, HTML, Shell, PowerShell | [argimenes/speedy-ts](https://github.com/argimenes/speedy-ts) | Typescript version of SPEEDy |
+| C++, Batchfile, Makefile, Python, Shell, Assembly | [comparch-security/cpu-sec-bench](https://github.com/comparch-security/cpu-sec-bench) | Security Test Benchmark for Computer Architectures |
+| Shell | [Metadrop/drupal-fix-permissions-script](https://github.com/Metadrop/drupal-fix-permissions-script) | Script to automagically fix permissions in the codebase of a Drupal installation |
+| JavaScript, PowerShell | [margani/pricedb](https://github.com/margani/pricedb) | Auto-updated pricedb for Iranian Rial (IRR) exchange rates in Iran's free market |
+| Python | [zzmaze/iptv](https://github.com/zzmaze/iptv) |  |
+| Go, Solidity, TypeScript, Shell, Makefile, Dockerfile | [PundiAI/fx-core](https://github.com/PundiAI/fx-core) |  |
+| HTML | [Kuuuuuuuu/Kuuuuuuuu](https://github.com/Kuuuuuuuu/Kuuuuuuuu) | Profile and Junk Storage! |
 | C++, C, Assembly | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
+| C++, CMake, C, Shell | [KDE/kauth](https://github.com/KDE/kauth) | KAuth |
+| TypeScript, JavaScript, Shell, HTML, CSS | [wrtnio/connectors](https://github.com/wrtnio/connectors) | Connector API Functions for Wrtn Studio Engine |
+| WDL, Python, Shell, R, JavaScript, Hack | [Daylily-Informatics/daylily](https://github.com/Daylily-Informatics/daylily) | A NGS analysis framework for WGS data, which automates the entire process of spinning up AWS EC2 spot instances and processing FASTQ to snvVCF in <60m, for dollars a sample and achieving Fscores of 0.998.  |
+| Python | [easylistpolish/easylistpolish](https://github.com/easylistpolish/easylistpolish) |  |
+| HTML | [ctron/openshift-update-graph](https://github.com/ctron/openshift-update-graph) | Visualize the OpenShift Update Graph |
+| C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
+| Python, Shell | [LiBingyu01/StitchFusion-StitchFusion-Weaving-Any-Visual-Modalities-to-Enhance-Multimodal-Semantic-Segmentation](https://github.com/LiBingyu01/StitchFusion-StitchFusion-Weaving-Any-Visual-Modalities-to-Enhance-Multimodal-Semantic-Segmentation) |  |
+| Groovy, Shell, TypeScript, Python, Go, Dockerfile, Makefile | [PingCAP-QE/ci](https://github.com/PingCAP-QE/ci) | PingCAP's CI configurations and scripts. |
+| Python | [Tsprnay/Proxy-lists](https://github.com/Tsprnay/Proxy-lists) |  |
+| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
+| Shell | [Zylquinal/protonvpn-bin](https://github.com/Zylquinal/protonvpn-bin) | An unofficial ProtonVPN Package for Arch Linux |
+| Python | [Churkashh/ozon-pinneaples](https://github.com/Churkashh/ozon-pinneaples) | Сбор ананасов ozon.ru |
+| Jupyter Notebook, Python, JavaScript, TypeScript, CSS, HTML, Dockerfile | [kyopark2014/langgraph-agent](https://github.com/kyopark2014/langgraph-agent) | It shows case studies of the LangGraph agent. |
+| TypeScript, Solidity, CSS, JavaScript, HTML | [social-dist0rtion-protocol/thc](https://github.com/social-dist0rtion-protocol/thc) | Treasure Hunt Creator |
+| TypeScript, Vue, JavaScript, SCSS, PowerShell, Shell | [Esposter/Esposter](https://github.com/Esposter/Esposter) | A nice and casual place for posting random things. |
+| Scala, Shell | [joan38/moulin](https://github.com/joan38/moulin) | Build multi-projects with Scala CLI |
+| Shell, Makefile | [Informatievlaanderen/OSLO-Standaarden](https://github.com/Informatievlaanderen/OSLO-Standaarden) | The content of the OSLO Standaardenregister on data.vlaanderen.be |
 | Python | [qqhsx/wencai](https://github.com/qqhsx/wencai) | 同花顺问财数据自动获取 |
 | C# | [vipwan/Biwen.AutoClassGen](https://github.com/vipwan/Biwen.AutoClassGen) | Source Gen Roslyn |
 | TypeScript, Svelte, GLSL, JavaScript, CSS, HTML | [schahriar/mfx](https://github.com/schahriar/mfx) | In-browser video editing using WebCodec and WebGL → mfxlib.com |
-| C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
 | Shell, CMake | [debugly/MRFFToolChainBuildShell](https://github.com/debugly/MRFFToolChainBuildShell) | use github action auto compile FFmpeg libs. (预编译 FFmpeg 等库，为 ijkplayer 提供基础依赖保障。) |
 | Ruby, Python, Shell | [airframesio/data](https://github.com/airframesio/data) | Centralization of source data for Airframes/Acars projects |
 | TypeScript, CSS, JavaScript, HTML | [steaks/leo-query](https://github.com/steaks/leo-query) | A simple library to connect async queries to Zustand stores. |
-| Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
 | Python | [sawyerclick/scrapers](https://github.com/sawyerclick/scrapers) | Scrapin' some data, man |
 | C++ | [summrsvaxx/Roblox-Blox-Fruits-Script-2024](https://github.com/summrsvaxx/Roblox-Blox-Fruits-Script-2024) | Enhance your Roblox Blox Fruits experience with the 2024 script! Unlock powerful features, gain resources, and level up quickly with easy-to-use scripts. Perfect for players looking to dominate the game and explore new possibilities. Download now to elevate your Roblox adventure! |
 | TypeScript | [SoySauceFor3/log-analysis](https://github.com/SoySauceFor3/log-analysis) |  |
-| Rust | [quacs/quacs-data](https://github.com/quacs/quacs-data) | A repository holding all the data used on QuACS.org |
 | C++ | [Aizen1220/FL-Studio](https://github.com/Aizen1220/FL-Studio) | FL Studio 2024 for free with crack and Activator! Get the latest version of FL Studio with full features, plugins, and VST support. Learn how to install FL Studio with crack and Activator for unlimited access. Enjoy top music production tools, loops, samples, and everything you need to create professional tracks with FL Studio today. |
+| Rust | [quacs/quacs-data](https://github.com/quacs/quacs-data) | A repository holding all the data used on QuACS.org |
 | Python | [acymz/AutoVPN](https://github.com/acymz/AutoVPN) | 自动采集VPN节点信息。 |
 | Lua | [coopa486/Wave-Roblox](https://github.com/coopa486/Wave-Roblox) | Wave Executor: A robust Windows-based script executor tailored for Roblox enthusiasts, Wave Executor boasts AI integration for seamless script development, ad-free premium features, and 24/7 support, ensuring an unparalleled user experience and elevating your gameplay to new heights. |
 | C++, Processing, JavaScript, C, HTML | [michaelshiloh/resourcesForClasses](https://github.com/michaelshiloh/resourcesForClasses) |  |
 | Perl, Nix | [andreoss/kernel-overlay](https://github.com/andreoss/kernel-overlay) | linux kernel overlay |
-| Python, Makefile, CSS, Shell, Batchfile, HTML, QML | [earthdaily/qgis-plugin](https://github.com/earthdaily/qgis-plugin) | 🗺️ To be able to discover, request and use aggregate imagery products based on landsat-8/9, Sentinel 2  and other sensors from within QGIS, using the <geosys/> API. |
 | HTML, JavaScript, CSS | [qiayue/SprunkiIncredibox](https://github.com/qiayue/SprunkiIncredibox) | Sprunki Incredibox Music Game |
+| Python, Makefile, CSS, Shell, Batchfile, HTML, QML | [earthdaily/qgis-plugin](https://github.com/earthdaily/qgis-plugin) | 🗺️ To be able to discover, request and use aggregate imagery products based on landsat-8/9, Sentinel 2  and other sensors from within QGIS, using the <geosys/> API. |
 | RouterOS Script, Shell | [MrAriaNet/Get-IP-Iran](https://github.com/MrAriaNet/Get-IP-Iran) | Get IP Iran and add to Mikrotik Address List |
 | Shell, Python | [sam0402/ArchQ](https://github.com/sam0402/ArchQ) | ArchQ Linux for Audiophiles |
 | Shell, Python | [hjpwyb/WYB](https://github.com/hjpwyb/WYB) | tset |
@@ -32,9 +53,9 @@
 | HTML, Python | [SnailDev/weibo-hot-hub](https://github.com/SnailDev/weibo-hot-hub) | 记录微博热搜、热门话题，每小时更新，按天归档。 |
 | C++ | [damz001/Fixing-Error-0x803F8001](https://github.com/damz001/Fixing-Error-0x803F8001) | The "Error 0x803F8001" commonly occurs when there are issues with app licenses or if the Microsoft Store cannot validate an application. To resolve this error, download and run the provided software, which will help refresh your app licenses and ensure proper functionality of the Microsoft Store. |
 | TypeScript, JavaScript, C++, C, Python, Dockerfile, Shell | [signalfx/splunk-otel-js](https://github.com/signalfx/splunk-otel-js) | Splunk Distribution of OpenTelemetry JavaScript  |
-| Shell | [njcx/blackip_list](https://github.com/njcx/blackip_list) | 从FireHOL 同步的恶意IP 清单，每天都会更新 |
-| C++ | [pufferfish420/Fixing-Error-0x8007000E](https://github.com/pufferfish420/Fixing-Error-0x8007000E) | The "Error 0x8007000E" indicates that there is insufficient memory available to complete the operation, often occurring during installations or updates. To resolve this issue, download and run the provided software, which will optimize your systemâ€™s memory and free up resources. This tool will prevent future memory-related errors. |
 | TypeScript, JavaScript, CSS, HTML | [tiavina-mika/mui-tiptap-editor](https://github.com/tiavina-mika/mui-tiptap-editor) | Tiptap editor with Material UI |
+| C++ | [pufferfish420/Fixing-Error-0x8007000E](https://github.com/pufferfish420/Fixing-Error-0x8007000E) | The "Error 0x8007000E" indicates that there is insufficient memory available to complete the operation, often occurring during installations or updates. To resolve this issue, download and run the provided software, which will optimize your systemâ€™s memory and free up resources. This tool will prevent future memory-related errors. |
+| Shell | [njcx/blackip_list](https://github.com/njcx/blackip_list) | 从FireHOL 同步的恶意IP 清单，每天都会更新 |
 | Python, Jupyter Notebook | [kaist-dmlab/RECURVE](https://github.com/kaist-dmlab/RECURVE) | Repository for the paper, "Exploiting Representation Curvature for Boundary Detection in Time Series" accepted at NeurIPS 2024 |
 | C++ | [whyareyoureadingmyname56/Twitch-View-Bot](https://github.com/whyareyoureadingmyname56/Twitch-View-Bot) | ðŸ¤– Twitch viewer bot that sends viewers. No need for proxies or anything extra! Selenium |
 | C#, Dockerfile, Handlebars, HTML, CSS | [Energinet-DataHub/energy-origin](https://github.com/Energinet-DataHub/energy-origin) |  |
@@ -53,7 +74,6 @@
 | Python | [kalanakt/kalanakt](https://github.com/kalanakt/kalanakt) | A !Simple ReadME.md |
 | Shell | [rdmurphy/actblue-ticker-tracker](https://github.com/rdmurphy/actblue-ticker-tracker) | Keeps tabs on the ticking donation amount found on ActBlue's home page. |
 | Go, Shell, Python, ReScript, PLpgSQL, Makefile | [pingcap/ticdc](https://github.com/pingcap/ticdc) | TiCDC pulls change logs out of TiDB and pushes to kinds of systems. |
-| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
 | Go, Makefile, Shell, Dockerfile | [pulumi/pulumi-tls](https://github.com/pulumi/pulumi-tls) | A Pulumi provider for TLS resource management |
 | JavaScript, HTML, CSS, Dockerfile | [epranka/runway-app](https://github.com/epranka/runway-app) | Easy way to find the best runway for takeoff or land. Enter airport ICAO code and get runways suggestions based on wind data. |
 | HTML, TeX, JavaScript, CSS, Shell | [dullhunk/cdyf](https://github.com/dullhunk/cdyf) | Coding Your Future: A Guidebook for Students https://www.cdyf.me . Design, build, test, debug and code your future in computing  |
