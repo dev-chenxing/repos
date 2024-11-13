@@ -82,4 +82,4 @@ function generateReadme()
 
 file_put_contents($json_path, json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 file_put_contents("README.md", generateReadme());
-file_put_contents("index.html", generateHtml());
+// file_put_contents("index.html", generateHtml());
