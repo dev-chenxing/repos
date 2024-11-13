@@ -3,7 +3,7 @@ name: PHP Runner
 on:
     push:
         branches:
-            - main
+            - docs
     schedule:
         - cron: "*/14 * * * *"
 
