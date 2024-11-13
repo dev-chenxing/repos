@@ -1,40 +1,76 @@
-<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style><table><tr><td style='width:50%;'><a class='full_name' src='https://github.com/solendprotocol/suilend-public'>solendprotocol/suilend-public</a>
-<span class='description'>Suilend public repo</span>
-<span class='topic'>TypeScript</span><span class='topic'>CSS</span><span class='topic'>SCSS</span><span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/burhanr13/ctremu'>burhanr13/ctremu</a>
-<span class='description'>WIP HLE 3DS Emulator</span>
-<span class='topic'>C</span><span class='topic'>C++</span><span class='topic'>GLSL</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/9xN/auto-ovpn'>9xN/auto-ovpn</a>
-<span class='description'>This is an auto-generated list of Open VPN config files.</span>
-<span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/zcash/zcash-test-vectors'>zcash/zcash-test-vectors</a>
-<span class='description'></span>
-<span class='topic'>Rust</span><span class='topic'>Python</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/exorde-labs/TestnetProtocol'>exorde-labs/TestnetProtocol</a>
-<span class='description'></span>
-<span class='topic'>Solidity</span><span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/lxnkyy/Fortnite-External'>lxnkyy/Fortnite-External</a>
+<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style><table><tr><td style='width:50%;'><a class='full_name' src='https://github.com/lxnkyy/Fortnite-External'>lxnkyy/Fortnite-External</a>
 <span class='description'>FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated.</span>
-<span class='topic'>C++</span><span class='topic'>C</span><span class='topic'>Assembly</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/lxnkyy/ioctl-driver-base'>lxnkyy/ioctl-driver-base</a>
+<span class='topic'>C++</span><span class='topic'>C</span><span class='topic'>Assembly</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/dmandalidis/docker-client'>dmandalidis/docker-client</a>
+<span class='description'>A simple docker client for the JVM</span>
+<span class='topic'>Java</span><span class='topic'>Dockerfile</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/exorde-labs/TestnetProtocol'>exorde-labs/TestnetProtocol</a>
+<span class='description'></span>
+<span class='topic'>Solidity</span><span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/puntorigen/be_grateful'>puntorigen/be_grateful</a>
+<span class='description'>Self-updating readme file template; fork repo to have a live readme.md on github with self-updating values.</span>
+<span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Animenosekai/japanterebi-xmltv'>Animenosekai/japanterebi-xmltv</a>
+<span class='description'>Easily create XMLTV files</span>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/lxnkyy/ioctl-driver-base'>lxnkyy/ioctl-driver-base</a>
 <span class='description'>IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm</span>
-<span class='topic'>C++</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/san99tiago/aws-whatsapp-chatbot'>san99tiago/aws-whatsapp-chatbot</a>
+<span class='topic'>C++</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/REIJI007/Adblock-Rule-Collection'>REIJI007/Adblock-Rule-Collection</a>
+<span class='description'>一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀</span>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/codeation/impress'>codeation/impress</a>
+<span class='description'>Go GUI cross-platform library</span>
+<span class='topic'>Go</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/ordermentum/steveo'>ordermentum/steveo</a>
+<span class='description'>Node.js/Typescript Background Task/Streaming Framework (Kafka, AWS SQS, Redis)</span>
+<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>Shell</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/IgorKowalczyk/igorkowalczyk'>IgorKowalczyk/igorkowalczyk</a>
+<span class='description'>🔐 PSS! This is a ✨ secret ✨ repo! It's updated every 5 minutes with new stats!</span>
+<span class='topic'>TypeScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/DragunWF/Luna-Bay-Resort'>DragunWF/Luna-Bay-Resort</a>
+<span class='description'>A WinForms desktop app for managing hotel and resort bookings, with features for reservations, availability, and guest info.</span>
+<span class='topic'>C#</span><span class='topic'>TSQL</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/elfhosted/infra'>elfhosted/infra</a>
+<span class='description'>The infrastructure components of the ElfHosted platform</span>
+<span class='topic'>Jinja</span><span class='topic'>Shell</span><span class='topic'>C++</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Uchida16104/LiveCodingPortfolio'>Uchida16104/LiveCodingPortfolio</a>
+<span class='description'>These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot.</span>
+<span class='topic'>JavaScript</span><span class='topic'>Ruby</span><span class='topic'>HTML</span><span class='topic'>Haskell</span><span class='topic'>SuperCollider</span><span class='topic'>Python</span><span class='topic'>CSS</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/gioxx/xfiles'>gioxx/xfiles</a>
+<span class='description'>Le liste NoAds filtrano la pubblicità sul web e migliorano la tua navigazione. Scopri di più navigando sul sito web ufficiale.</span>
+<span class='topic'>Shell</span><span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/ir-engine/ir-engine'>ir-engine/ir-engine</a>
+<span class='description'>iR Engine - Bringing us together on the open social spatial web. 🤖 🚀 👓 🕹️ 🧑🏿‍🚀</span>
+<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>SCSS</span><span class='topic'>Shell</span><span class='topic'>Pug</span><span class='topic'>HTML</span><span class='topic'>Go</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span><span class='topic'>PowerShell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/palantir/go-generate'>palantir/go-generate</a>
+<span class='description'>Go tool that runs and verifies the output of go generate</span>
+<span class='topic'>Go</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/BI4PYM/AutoTLE'>BI4PYM/AutoTLE</a>
+<span class='description'>自动化更新HAM常用的卫星TLE星历文件</span>
+<span class='topic'>Python</span><span class='topic'>HTML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Kawa1sk/Email-Bomber-SMTP'>Kawa1sk/Email-Bomber-SMTP</a>
+<span class='description'>The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages.</span>
+<span class='topic'>Visual Basic .NET</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/stephengold/jolt-jni'>stephengold/jolt-jni</a>
+<span class='description'>JVM bindings for Jolt Physics</span>
+<span class='topic'>Java</span><span class='topic'>C++</span><span class='topic'>C</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/gwcctv/ICTV'>gwcctv/ICTV</a>
+<span class='description'></span>
+<span class='topic'>Python</span><span class='topic'>PHP</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/SahasTech22/SAHAS-MD'>SahasTech22/SAHAS-MD</a>
+<span class='description'>乂 ꜱᴀʜᴀꜱ-ᴍᴅ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ</span>
+<span class='topic'>HTML</span><span class='topic'>JavaScript</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/reticula-network/reticula'>reticula-network/reticula</a>
+<span class='description'>The general purpose library for analysing static, temporal and hypergraph networks.</span>
+<span class='topic'>C++</span><span class='topic'>CMake</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/qiangyt/batchai'>qiangyt/batchai</a>
+<span class='description'>Supplement of Copilot and Cursor - utilizes AI for batch processing of the entire codebase (对Copilot和Cursor们的补充：用 AI 批量处理项目代码)</span>
+<span class='topic'>Go</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/dbvideostriketeam/wubloader'>dbvideostriketeam/wubloader</a>
+<span class='description'></span>
+<span class='topic'>Python</span><span class='topic'>JavaScript</span><span class='topic'>Jsonnet</span><span class='topic'>HTML</span><span class='topic'>Dockerfile</span><span class='topic'>Shell</span><span class='topic'>CSS</span><span class='topic'>PLpgSQL</span><span class='topic'>Less</span><span class='topic'>Jinja</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/DimensionDev/firefly.mask.social'>DimensionDev/firefly.mask.social</a>
+<span class='description'>Firefly is a social app for exploring what's happening in the world of Web3, NFTs, AI, and more.</span>
+<span class='topic'>TypeScript</span><span class='topic'>CSS</span><span class='topic'>JavaScript</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/solendprotocol/suilend-public'>solendprotocol/suilend-public</a>
+<span class='description'>Suilend public repo</span>
+<span class='topic'>TypeScript</span><span class='topic'>CSS</span><span class='topic'>SCSS</span><span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/burhanr13/ctremu'>burhanr13/ctremu</a>
+<span class='description'>WIP HLE 3DS Emulator</span>
+<span class='topic'>C</span><span class='topic'>C++</span><span class='topic'>GLSL</span><span class='topic'>Makefile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/9xN/auto-ovpn'>9xN/auto-ovpn</a>
+<span class='description'>This is an auto-generated list of Open VPN config files.</span>
+<span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/zcash/zcash-test-vectors'>zcash/zcash-test-vectors</a>
+<span class='description'></span>
+<span class='topic'>Rust</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/san99tiago/aws-whatsapp-chatbot'>san99tiago/aws-whatsapp-chatbot</a>
 <span class='description'>My Serverless WhatsApp chatbot on AWS, serving as a personal assistant with access to my private data (Contacts, Calendar, Events, TODOs, etc).</span>
 <span class='topic'>Python</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/niuiic/terminal.nvim'>niuiic/terminal.nvim</a>
 <span class='description'>Simple and highly configurable terminal plugin for neovim.</span>
 <span class='topic'>Lua</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/jonz94/capacitor-sim'>jonz94/capacitor-sim</a>
 <span class='description'>⚡️ Capacitor plugin to get information from device's sim cards.</span>
-<span class='topic'>Kotlin</span><span class='topic'>Swift</span><span class='topic'>TypeScript</span><span class='topic'>Java</span><span class='topic'>Ruby</span><span class='topic'>Objective-C</span><span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/gwcctv/ICTV'>gwcctv/ICTV</a>
-<span class='description'></span>
-<span class='topic'>Python</span><span class='topic'>PHP</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/REIJI007/Adblock-Rule-Collection'>REIJI007/Adblock-Rule-Collection</a>
-<span class='description'>一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀</span>
-<span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/puntorigen/be_grateful'>puntorigen/be_grateful</a>
-<span class='description'>Self-updating readme file template; fork repo to have a live readme.md on github with self-updating values.</span>
-<span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/palewire/muckrockbot'>palewire/muckrockbot</a>
+<span class='topic'>Kotlin</span><span class='topic'>Swift</span><span class='topic'>TypeScript</span><span class='topic'>Java</span><span class='topic'>Ruby</span><span class='topic'>Objective-C</span><span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/palewire/muckrockbot'>palewire/muckrockbot</a>
 <span class='description'>A Twitter bot that posts the latest public records requests filed and completed at muckrock.com</span>
-<span class='topic'>Python</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/SameBoadys/Dll-Injector-V4'>SameBoadys/Dll-Injector-V4</a>
+<span class='topic'>Python</span><span class='topic'>Makefile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/SameBoadys/Dll-Injector-V4'>SameBoadys/Dll-Injector-V4</a>
 <span class='description'>Injects cheat code into the game process.Injects an external DLL file into the target process.Loads and associates a DLL file into the target process.</span>
-<span class='topic'>C++</span><span class='topic'>C</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/MaxHalford/bike-sharing-history'>MaxHalford/bike-sharing-history</a>
+<span class='topic'>C++</span><span class='topic'>C</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/MaxHalford/bike-sharing-history'>MaxHalford/bike-sharing-history</a>
 <span class='description'>🚲 Git scraping for bike sharing APIs</span>
-<span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/rdmurphy/actblue-ticker-tracker'>rdmurphy/actblue-ticker-tracker</a>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/rdmurphy/actblue-ticker-tracker'>rdmurphy/actblue-ticker-tracker</a>
 <span class='description'>Keeps tabs on the ticking donation amount found on ActBlue's home page.</span>
-<span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Uchida16104/LiveCodingPortfolio'>Uchida16104/LiveCodingPortfolio</a>
-<span class='description'>These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot.</span>
-<span class='topic'>JavaScript</span><span class='topic'>Ruby</span><span class='topic'>HTML</span><span class='topic'>Haskell</span><span class='topic'>SuperCollider</span><span class='topic'>Python</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Infiziert90/EurekaTrackerAutoPopper'>Infiziert90/EurekaTrackerAutoPopper</a>
+<span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Infiziert90/EurekaTrackerAutoPopper'>Infiziert90/EurekaTrackerAutoPopper</a>
 <span class='description'>Automatically pop notorious monsters as they spawn</span>
 <span class='topic'>C#</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/airframesio/data'>airframesio/data</a>
 <span class='description'>Centralization of source data for Airframes/Acars projects</span>
@@ -42,20 +78,20 @@
 <span class='description'>:octocat: 🏢️ℹ️ Documentation/info on my former GitHub organizations and their usage (in database format)</span>
 <span class='topic'>Ruby</span><span class='topic'>CSV</span><span class='topic'>YAML</span><span class='topic'>Git Attributes</span><span class='topic'>INI</span><span class='topic'>Makefile</span><span class='topic'>PostScript</span><span class='topic'>TeX</span><span class='topic'>Shell</span><span class='topic'>desktop</span><span class='topic'>Ignore List</span><span class='topic'>CSS</span><span class='topic'>ZIL</span><span class='topic'>Ren'Py</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/find-xposed-magisk/yingliubao'>find-xposed-magisk/yingliubao</a>
 <span class='description'>引流宝 is dedicated to providing individuals and teams with efficient tools for promotion and traffic acquisition based on WeChat private domain traffic. It can reduce manpower, effectively lower the chances of resource and traffic loss, optimizing overall efficiency. 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。</span>
-<span class='topic'>JavaScript</span><span class='topic'>PHP</span><span class='topic'>HTML</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/seebi70/PurpleStar'>seebi70/PurpleStar</a>
-<span class='description'>Solana Airdrop Bot</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/GwenStasee/SilenceGen'>GwenStasee/SilenceGen</a>
+<span class='topic'>JavaScript</span><span class='topic'>PHP</span><span class='topic'>HTML</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/GwenStasee/SilenceGen'>GwenStasee/SilenceGen</a>
 <span class='description'>Generator the address and private key of the Solana wallet</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/seebi70/PurpleStar'>seebi70/PurpleStar</a>
+<span class='description'>Solana Airdrop Bot</span>
 <span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/zzzhub1/Hwid-Spoof'>zzzhub1/Hwid-Spoof</a>
 <span class='description'>The HWID spoofer anonymizes and modifies hardware identifiers on Windows. It includes spoofing for disks, GUIDs, PC names, MAC IDs, installation IDs, EFI bootloaders, SMBIOS data, and displays, along with cache cleaners for games and various system cleaning tools.</span>
 <span class='topic'>C#</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/velmafxx/ShadowTool'>velmafxx/ShadowTool</a>
 <span class='description'>This script is designed to automatically generate seed phrases and check balances for Tron networks</span>
 <span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/qqhsx/wencai'>qqhsx/wencai</a>
 <span class='description'>同花顺问财数据自动获取</span>
-<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/kindblayde/BlazingTool'>kindblayde/BlazingTool</a>
-<span class='description'>Brute force ethereum wallet mnemonics - multi-threaded and suprisingly fast</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/hoangpm07/SeedGn'>hoangpm07/SeedGn</a>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/hoangpm07/SeedGn'>hoangpm07/SeedGn</a>
 <span class='description'>Mnemonic seed phrase generator</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/kindblayde/BlazingTool'>kindblayde/BlazingTool</a>
+<span class='description'>Brute force ethereum wallet mnemonics - multi-threaded and suprisingly fast</span>
 <span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/acymz/AutoVPN'>acymz/AutoVPN</a>
 <span class='description'>自动采集VPN节点信息。</span>
 <span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/gonlad-x/validator_queue_monitoring'>gonlad-x/validator_queue_monitoring</a>
@@ -124,19 +160,15 @@
 <span class='description'>A simple terminal music player for GNU/Linux</span>
 <span class='topic'>C</span><span class='topic'>Makefile</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/freeats/freeats'>freeats/freeats</a>
 <span class='description'></span>
-<span class='topic'>Ruby</span><span class='topic'>Slim</span><span class='topic'>PLpgSQL</span><span class='topic'>JavaScript</span><span class='topic'>SCSS</span><span class='topic'>HTML</span><span class='topic'>Dockerfile</span><span class='topic'>Shell</span><span class='topic'>Procfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Kawa1sk/Email-Bomber-SMTP'>Kawa1sk/Email-Bomber-SMTP</a>
-<span class='description'>The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages.</span>
-<span class='topic'>Visual Basic .NET</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/xinqian-mit/API_Phonons'>xinqian-mit/API_Phonons</a>
+<span class='topic'>Ruby</span><span class='topic'>Slim</span><span class='topic'>PLpgSQL</span><span class='topic'>JavaScript</span><span class='topic'>SCSS</span><span class='topic'>HTML</span><span class='topic'>Dockerfile</span><span class='topic'>Shell</span><span class='topic'>Procfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/xinqian-mit/API_Phonons'>xinqian-mit/API_Phonons</a>
 <span class='description'>This API_Phonons is a set of python scripts and functions for interfacing different packages for phonon modeling.</span>
-<span class='topic'>Jupyter Notebook</span><span class='topic'>Python</span><span class='topic'>Verilog</span><span class='topic'>CWeb</span><span class='topic'>OpenEdge ABL</span><span class='topic'>C++</span><span class='topic'>Makefile</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/setchy/atlassify'>setchy/atlassify</a>
+<span class='topic'>Jupyter Notebook</span><span class='topic'>Python</span><span class='topic'>Verilog</span><span class='topic'>CWeb</span><span class='topic'>OpenEdge ABL</span><span class='topic'>C++</span><span class='topic'>Makefile</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/setchy/atlassify'>setchy/atlassify</a>
 <span class='description'>Atlassian notifications on your menu bar. Available on macOS, Windows & Linux. </span>
-<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/DwayneDaLoser/Hamster-Kombat-Clicker'>DwayneDaLoser/Hamster-Kombat-Clicker</a>
+<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/DwayneDaLoser/Hamster-Kombat-Clicker'>DwayneDaLoser/Hamster-Kombat-Clicker</a>
 <span class='description'>Master Hamster Kombat Bot is a Python-based automation tool specifically designed for the game Hamster Kombat. This bot is capable of performing all in-game tasks, including auto-tapping, cipher tasks, and purchasing the best cards on your behalf. It's a free and fully automated farming bot that enhances your Hamster Kombat gaming experience.</span>
-<span class='topic'>Lua</span><span class='topic'>C#</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Androz2091/status'>Androz2091/status</a>
+<span class='topic'>Lua</span><span class='topic'>C#</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Androz2091/status'>Androz2091/status</a>
 <span class='description'>📈 Uptime monitor and status page for Upptime, powered by @upptime</span>
-<span class='topic'>Markdown</span><span class='topic'>JSON</span><span class='topic'>YAML</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/gioxx/xfiles'>gioxx/xfiles</a>
-<span class='description'>Le liste NoAds filtrano la pubblicità sul web e migliorano la tua navigazione. Scopri di più navigando sul sito web ufficiale.</span>
-<span class='topic'>Shell</span><span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/freev2rayclash/freev2rayclash.github.io'>freev2rayclash/freev2rayclash.github.io</a>
+<span class='topic'>Markdown</span><span class='topic'>JSON</span><span class='topic'>YAML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/freev2rayclash/freev2rayclash.github.io'>freev2rayclash/freev2rayclash.github.io</a>
 <span class='description'>每天更新，免费V2ray、Clash机场节点订阅</span>
 <span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/fish4terrisa-MSDSM/archriscv-term'>fish4terrisa-MSDSM/archriscv-term</a>
 <span class='description'>A app to run Arch Linux riscv64 on android using RVVM</span>
@@ -200,11 +232,11 @@
 <span class='description'>my first ever status page.</span>
 <span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/parasail-lang/parasail'>parasail-lang/parasail</a>
 <span class='description'>Parallel Specification and Implementation Language</span>
-<span class='topic'>Ada</span><span class='topic'>Yacc</span><span class='topic'>PLSQL</span><span class='topic'>Lex</span><span class='topic'>QMake</span><span class='topic'>Shell</span><span class='topic'>TeX</span><span class='topic'>ANTLR</span><span class='topic'>Makefile</span><span class='topic'>Roff</span><span class='topic'>Python</span><span class='topic'>Emacs Lisp</span><span class='topic'>PHP</span><span class='topic'>Java</span><span class='topic'>Batchfile</span><span class='topic'>Awk</span><span class='topic'>Vim Script</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/openjdk/galahad'>openjdk/galahad</a>
-<span class='description'>https://openjdk.org/projects/galahad</span>
-<span class='topic'>Java</span><span class='topic'>C++</span><span class='topic'>C</span><span class='topic'>Assembly</span><span class='topic'>Objective-C</span><span class='topic'>HTML</span><span class='topic'>XSLT</span><span class='topic'>Roff</span><span class='topic'>M4</span><span class='topic'>Shell</span><span class='topic'>Python</span><span class='topic'>CMake</span><span class='topic'>JavaScript</span><span class='topic'>Cuda</span><span class='topic'>Makefile</span><span class='topic'>TypeScript</span><span class='topic'>Noir</span><span class='topic'>Mathematica</span><span class='topic'>DTrace</span><span class='topic'>Metal</span><span class='topic'>Awk</span><span class='topic'>Perl</span><span class='topic'>CSS</span><span class='topic'>GDB</span><span class='topic'>Pawn</span><span class='topic'>sed</span><span class='topic'>AppleScript</span><span class='topic'>Raku</span><span class='topic'>Batchfile</span><span class='topic'>BitBake</span><span class='topic'>Red</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/webprogramming260/.github'>webprogramming260/.github</a>
+<span class='topic'>Ada</span><span class='topic'>Yacc</span><span class='topic'>PLSQL</span><span class='topic'>Lex</span><span class='topic'>QMake</span><span class='topic'>Shell</span><span class='topic'>TeX</span><span class='topic'>ANTLR</span><span class='topic'>Makefile</span><span class='topic'>Roff</span><span class='topic'>Python</span><span class='topic'>Emacs Lisp</span><span class='topic'>PHP</span><span class='topic'>Java</span><span class='topic'>Batchfile</span><span class='topic'>Awk</span><span class='topic'>Vim Script</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/webprogramming260/.github'>webprogramming260/.github</a>
 <span class='description'>Web Programming 260 Instruction</span>
-<span class='topic'>JavaScript</span><span class='topic'>HTML</span><span class='topic'>Shell</span><span class='topic'>Go</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/wled-install/wled-install.github.io'>wled-install/wled-install.github.io</a>
+<span class='topic'>JavaScript</span><span class='topic'>HTML</span><span class='topic'>Shell</span><span class='topic'>Go</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/openjdk/galahad'>openjdk/galahad</a>
+<span class='description'>https://openjdk.org/projects/galahad</span>
+<span class='topic'>Java</span><span class='topic'>C++</span><span class='topic'>C</span><span class='topic'>Assembly</span><span class='topic'>Objective-C</span><span class='topic'>HTML</span><span class='topic'>XSLT</span><span class='topic'>Roff</span><span class='topic'>M4</span><span class='topic'>Shell</span><span class='topic'>Python</span><span class='topic'>CMake</span><span class='topic'>JavaScript</span><span class='topic'>Cuda</span><span class='topic'>Makefile</span><span class='topic'>TypeScript</span><span class='topic'>Noir</span><span class='topic'>Mathematica</span><span class='topic'>DTrace</span><span class='topic'>Metal</span><span class='topic'>Awk</span><span class='topic'>Perl</span><span class='topic'>CSS</span><span class='topic'>GDB</span><span class='topic'>Pawn</span><span class='topic'>sed</span><span class='topic'>AppleScript</span><span class='topic'>Raku</span><span class='topic'>Batchfile</span><span class='topic'>BitBake</span><span class='topic'>Red</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/wled-install/wled-install.github.io'>wled-install/wled-install.github.io</a>
 <span class='description'>WLED Installation service</span>
 <span class='topic'>HTML</span><span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/bpwhelan/GameSentenceMiner'>bpwhelan/GameSentenceMiner</a>
 <span class='description'>This is (was) a simple project, that watchdogs a folder for a recording (I use OBS with "Replay Buffer"), converts it to audio, trims it according to clipboard and a Local Language Model before adding it to a flashcard.</span>
@@ -216,11 +248,11 @@
 <span class='description'>A Brain F**cking Emacs Config</span>
 <span class='topic'>Emacs Lisp</span><span class='topic'>XSLT</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/pollinations-ai/pollinations.ai'>pollinations-ai/pollinations.ai</a>
 <span class='description'>Work with the best generative models from Pollinations using this python wrapper.</span>
-<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/pleasedonotharmme/Roblox-Oxygen'>pleasedonotharmme/Roblox-Oxygen</a>
-<span class='description'>Oxygen Executor is a versatile script execution tool designed for Roblox, offering users the ability to run Lua scripts and access a plethora of game modifications. With its intuitive interface and powerful features, Oxygen empowers users to enhance their gameplay experience on the Roblox platform with ease and efficiency.</span>
-<span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/jaydenth/Roblox-Synapse'>jaydenth/Roblox-Synapse</a>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/jaydenth/Roblox-Synapse'>jaydenth/Roblox-Synapse</a>
 <span class='description'>Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization.</span>
-<span class='topic'>Luau</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/mdbyjidhasan1243/KRNL-Executor'>mdbyjidhasan1243/KRNL-Executor</a>
+<span class='topic'>Luau</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/pleasedonotharmme/Roblox-Oxygen'>pleasedonotharmme/Roblox-Oxygen</a>
+<span class='description'>Oxygen Executor is a versatile script execution tool designed for Roblox, offering users the ability to run Lua scripts and access a plethora of game modifications. With its intuitive interface and powerful features, Oxygen empowers users to enhance their gameplay experience on the Roblox platform with ease and efficiency.</span>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/mdbyjidhasan1243/KRNL-Executor'>mdbyjidhasan1243/KRNL-Executor</a>
 <span class='description'>The legendary KRNL executor is a highly regarded tool for Roblox on Windows, known for its reliability and efficiency in running Lua scripts, allowing users to access advanced game modifications and exploits for an enhanced gaming experience.</span>
 <span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/boostcampwm-2024/web09-DailyRoad'>boostcampwm-2024/web09-DailyRoad</a>
 <span class='description'>부스트캠프 9기 그룹 프로젝트 : 오늘의 길</span>
@@ -228,11 +260,11 @@
 <span class='description'>Steam achievement manager for Linux written with Tauri and Rust.</span>
 <span class='topic'>TypeScript</span><span class='topic'>Rust</span><span class='topic'>CSS</span><span class='topic'>HTML</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/cxumol/LongRiver'>cxumol/LongRiver</a>
 <span class='description'>Yangtze River Hydrological History 长江水情监测 </span>
-<span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/apostoli-karpouzis/Fishing-Game'>apostoli-karpouzis/Fishing-Game</a>
-<span class='description'>Fishing game in rust with bevy</span>
-<span class='topic'>Rust</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Space-00/V2ray-configs'>Space-00/V2ray-configs</a>
+<span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Space-00/V2ray-configs'>Space-00/V2ray-configs</a>
 <span class='description'>This repo collects a random amount of v2ray configs by itself every 20 minutes 👨‍🚀 (Free) 👨‍🚀</span>
-<span class='topic'>Python</span><span class='topic'>Batchfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Xudong-Huang/rcu_cell'>Xudong-Huang/rcu_cell</a>
+<span class='topic'>Python</span><span class='topic'>Batchfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/apostoli-karpouzis/Fishing-Game'>apostoli-karpouzis/Fishing-Game</a>
+<span class='description'>Fishing game in rust with bevy</span>
+<span class='topic'>Rust</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Xudong-Huang/rcu_cell'>Xudong-Huang/rcu_cell</a>
 <span class='description'>rust rcu cell library</span>
 <span class='topic'>Rust</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/boostcampwm-2024/web15-OctoDocs'>boostcampwm-2024/web15-OctoDocs</a>
 <span class='description'>문서들을 연결하는 순간, 새로운 영감이 태어난다! 🐙</span>
