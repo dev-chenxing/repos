@@ -1,10 +1,30 @@
 # Repos
 | Language | Repo | Description |
 | - | --------- | --------- |
-| C++, C#, Lua, C, PowerShell | [Windower/Fenestra](https://github.com/Windower/Fenestra) | The open-source development version of Windower. |
-| JavaScript, Python, HTML, CSS | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
-| Go, MDX, Lua, JavaScript, Makefile, Dockerfile, Shell, TypeScript | [ibuilding-X/driver-box](https://github.com/ibuilding-X/driver-box) | driver-box 是一款支持泛化协议接入的边缘网关框架， 以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于TCP的各类私有化协议对接。 |
 | Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
+| LookML | [mozilla/looker-hub](https://github.com/mozilla/looker-hub) | Hub for Mozilla Looker models |
+| Python | [oadfade/DeployerIDE-ERC20-Toolkit](https://github.com/oadfade/DeployerIDE-ERC20-Toolkit) | DeployerIDE – a dedicated local platform for creating and deploying ERC-20 smart contracts. A powerful, secure alternative to RemixIDE, providing advanced tools for Ethereum and EVM-based contract development in a private, offline environment. |
+| Python, Vue, TypeScript, JavaScript, Less, CSS, HTML | [maopengg/MangoTestingPlatform](https://github.com/maopengg/MangoTestingPlatform) | 芒果测试平台是UI和API自动化测试的低代码平台。可以通过简单的配置方式，无需编写代码，即可完成UI和API自动化。并且解决了其他很多工具的各种问题，简单易用！(UI支持web端，安卓，PC桌面三端，并且可以组装成一个用例执行) |
+| C++, C, Assembly | [lxnkyy/Fortnite-External](https://github.com/lxnkyy/Fortnite-External) | FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger & more! Regularly updated. |
+| Python | [chengzeyi/ParaAttention](https://github.com/chengzeyi/ParaAttention) | [WIP] Context parallel attention that works with torch.compile |
+| JavaScript, Python, HTML, CSS | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
+| C# | [Annmys/C-baozhuangjisuan](https://github.com/Annmys/C-baozhuangjisuan) | 包装计算（C#版） |
+| C#, PowerShell | [tiksn/TIKSN-Framework](https://github.com/tiksn/TIKSN-Framework) | TIKSN Framework |
+| C++ | [lxnkyy/ioctl-driver-base](https://github.com/lxnkyy/ioctl-driver-base) | IOCTL fortnite driver source | fortnite cheat, fortnite driver, fortnite offsets, valorant offsets, valorant cheat, data pointer, data ptr, ioctl, offsets, driver, cheats, hacks, hack, undetected, cracked, ud, external, internal, cs2, rust, apex, legends, spoofer, temp, perm |
+| TypeScript, Makefile, Shell, Starlark, Go, Java, Dockerfile | [slsa-framework/example-package](https://github.com/slsa-framework/example-package) |  |
+| Java | [xmldb-org/xmldb-api](https://github.com/xmldb-org/xmldb-api) | XML:DB Initiative for XML Databases |
+| TypeScript, Less, Python, AutoHotkey, HTML, JavaScript | [noemica/cog-minder](https://github.com/noemica/cog-minder) | Cogmind helper |
+| Python, Shell | [darkqiank/best_cf_ip](https://github.com/darkqiank/best_cf_ip) | cf ip 优选 |
+| Shell | [owlmaps/UAControlMapBackups](https://github.com/owlmaps/UAControlMapBackups) | Backups of Project Owl: Ukraine Control Map |
+| R | [MangiolaLaboratory/HPCell](https://github.com/MangiolaLaboratory/HPCell) | Convert your single-cell/spatial analyses to parallel HPC/cloud workflows just using pipes in R |
+| JavaScript, Rust, TypeScript, HTML, CSS, Shell, SCSS, Pug, GLSL, XSLT, MDX, Sass, Less, Kotlin, CoffeeScript, Reason | [atlassian-labs/atlaspack](https://github.com/atlassian-labs/atlaspack) | Atlaspack is the frontend bundler used to build Atlassian products, written in JavaScript and Rust by core contributors of Parcel.  |
+| Shell, Emacs Lisp, Haskell, Vim Script, CSS, Julia, Nushell, Lua, Nu | [RangHo/dotfiles](https://github.com/RangHo/dotfiles) | My personal configuration and bootstrap files |
+| Python | [SaurabhSSB/A-Roadmap-to-Python-Mastery](https://github.com/SaurabhSSB/A-Roadmap-to-Python-Mastery) | These Python files provide a foundational understanding of essential Basics of Python programming language . |
+| Python, Go, Jupyter Notebook, Shell, Makefile, GAP | [elastic/geneve](https://github.com/elastic/geneve) |  |
+| PHP, JavaScript, CSS, Makefile, Shell, Dockerfile | [woocommerce/qit-cli](https://github.com/woocommerce/qit-cli) | A Testing Platform for WordPress Plugins and Themes |
+| Python, Makefile, Dockerfile | [pglombardo/pwpush-cli](https://github.com/pglombardo/pwpush-cli) | Password Pusher Command Line Utility |
+| C++, C#, Lua, C, PowerShell | [Windower/Fenestra](https://github.com/Windower/Fenestra) | The open-source development version of Windower. |
+| Go, MDX, Lua, JavaScript, Makefile, Dockerfile, Shell, TypeScript | [ibuilding-X/driver-box](https://github.com/ibuilding-X/driver-box) | driver-box 是一款支持泛化协议接入的边缘网关框架， 以插件化的形式融合了 Modbus、Bacnet、HTTP、MQTT 等主流协议，同时也支持基于TCP的各类私有化协议对接。 |
 | Python, Dockerfile, Procfile | [THE-VIP-BOY-OP/VIP-CHATBOT](https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT) |  |
 | Blade, PHP, JavaScript, CSS | [tonitegarsahidi/samboilerplate-11](https://github.com/tonitegarsahidi/samboilerplate-11) | a simple boilerplate for my laravel project. I include here are : simple landing page, auth, bootstrap admin version, and dashboard functionality |
 | Python, Makefile | [palewire/muckrockbot](https://github.com/palewire/muckrockbot) | A Twitter bot that posts the latest public records requests filed and completed at muckrock.com |
@@ -40,8 +60,8 @@
 | Luau, Shell | [jaydenth/Roblox-Synapse](https://github.com/jaydenth/Roblox-Synapse) | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. |
 | Python | [pleasedonotharmme/Roblox-Oxygen](https://github.com/pleasedonotharmme/Roblox-Oxygen) | Oxygen Executor is a versatile script execution tool designed for Roblox, offering users the ability to run Lua scripts and access a plethora of game modifications. With its intuitive interface and powerful features, Oxygen empowers users to enhance their gameplay experience on the Roblox platform with ease and efficiency. |
 | JavaScript | [mdbyjidhasan1243/KRNL-Executor](https://github.com/mdbyjidhasan1243/KRNL-Executor) | The legendary KRNL executor is a highly regarded tool for Roblox on Windows, known for its reliability and efficiency in running Lua scripts, allowing users to access advanced game modifications and exploits for an enhanced gaming experience. |
-| TypeScript, JavaScript, Dockerfile, HTML, CSS | [boostcampwm-2024/web09-DailyRoad](https://github.com/boostcampwm-2024/web09-DailyRoad) | 부스트캠프 9기 그룹 프로젝트 : 오늘의 길 |
 | TypeScript, Rust, CSS, HTML | [jsnli/Samira](https://github.com/jsnli/Samira) | Steam achievement manager for Linux written with Tauri and Rust. |
+| TypeScript, JavaScript, Dockerfile, HTML, CSS | [boostcampwm-2024/web09-DailyRoad](https://github.com/boostcampwm-2024/web09-DailyRoad) | 부스트캠프 9기 그룹 프로젝트 : 오늘의 길 |
 | JavaScript, Ruby, HTML, Haskell, SuperCollider, Python, CSS | [Uchida16104/LiveCodingPortfolio](https://github.com/Uchida16104/LiveCodingPortfolio) | These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot. |
 | Python, Shell | [cxumol/LongRiver](https://github.com/cxumol/LongRiver) | Yangtze River Hydrological History 长江水情监测  |
 | Python, Batchfile | [Space-00/V2ray-configs](https://github.com/Space-00/V2ray-configs) | This repo collects a random amount of v2ray configs by itself every 20 minutes 👨‍🚀 (Free) 👨‍🚀 |
