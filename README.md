@@ -1,20 +1,68 @@
-<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style><table><tr><td style='width:50%;'><a class='full_name' src='https://github.com/exorde-labs/TestnetProtocol'>exorde-labs/TestnetProtocol</a>
-<span class='description'></span>
-<span class='topic'>Solidity</span><span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/BurnOutTrader/fund-forge'>BurnOutTrader/fund-forge</a>
-<span class='description'>An algorithmic trading platform written in rust. Focused on backtesting, charting, live trading.  With an emphasis for semi-automated strategies. fund-forge is built to allow simple abstractions for common strategy functionality: trade multiple symbols, with multiple indicators and data streams.</span>
-<span class='topic'>Rust</span><span class='topic'>Dockerfile</span><span class='topic'>RenderScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/airframesio/data'>airframesio/data</a>
-<span class='description'>Centralization of source data for Airframes/Acars projects</span>
-<span class='topic'>Ruby</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/opengeos/Earth-Engine-Catalog'>opengeos/Earth-Engine-Catalog</a>
-<span class='description'>The Google Earth Engine data catalog in CSV format</span>
-<span class='topic'>Python</span><span class='topic'>Jupyter Notebook</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/bindiego/local_services'>bindiego/local_services</a>
-<span class='description'>Run services for dev environment across Linux Distros ASAP, most requires docker.</span>
-<span class='topic'>Shell</span><span class='topic'>Java</span><span class='topic'>Makefile</span><span class='topic'>Python</span><span class='topic'>Dockerfile</span><span class='topic'>C</span><span class='topic'>JavaScript</span><span class='topic'>HTML</span><span class='topic'>Ruby</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/setchy/atlassify'>setchy/atlassify</a>
-<span class='description'>Atlassian notifications on your menu bar. Available on macOS, Windows & Linux. </span>
-<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/thu-coai/MiniPLM'>thu-coai/MiniPLM</a>
-<span class='description'></span>
-<span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/cms-sw/cms-sw.github.io'>cms-sw/cms-sw.github.io</a>
+<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style><table><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Androz2091/status'>Androz2091/status</a>
+<span class='description'>📈 Uptime monitor and status page for Upptime, powered by @upptime</span>
+<span class='topic'>Markdown</span><span class='topic'>JSON</span><span class='topic'>YAML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/gioxx/xfiles'>gioxx/xfiles</a>
+<span class='description'>Le liste NoAds filtrano la pubblicità sul web e migliorano la tua navigazione. Scopri di più navigando sul sito web ufficiale.</span>
+<span class='topic'>Shell</span><span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/freev2rayclash/freev2rayclash.github.io'>freev2rayclash/freev2rayclash.github.io</a>
+<span class='description'>每天更新，免费V2ray、Clash机场节点订阅</span>
+<span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/fish4terrisa-MSDSM/archriscv-term'>fish4terrisa-MSDSM/archriscv-term</a>
+<span class='description'>A app to run Arch Linux riscv64 on android using RVVM</span>
+<span class='topic'>Java</span><span class='topic'>Shell</span><span class='topic'>C</span><span class='topic'>CSS</span><span class='topic'>Makefile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/cms-sw/cms-sw.github.io'>cms-sw/cms-sw.github.io</a>
 <span class='description'>Documentation for CMSSW</span>
-<span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>HTML</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/huantt/weather-forecast'>huantt/weather-forecast</a>
+<span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>HTML</span><span class='topic'>CSS</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/NazmusSayad/Git-Stats'>NazmusSayad/Git-Stats</a>
+<span class='description'></span>
+<span class='topic'>Python</span><span class='topic'>JavaScript</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/exorde-labs/TestnetProtocol'>exorde-labs/TestnetProtocol</a>
+<span class='description'></span>
+<span class='topic'>Solidity</span><span class='topic'>JavaScript</span><span class='topic'>Python</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Lordsatanthenuker/DiscordUniverse'>Lordsatanthenuker/DiscordUniverse</a>
+<span class='description'>DiscordUniverse is an innovative platform that brings together gamers from around the world to connect, compete, and collaborate in an expansive virtual universe. Join our community to explore new realms, engage in strategic battles, and forge lasting friendships with fellow adventurers.</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/renancardoso123/Spotify-Premium-for-free-2024'>renancardoso123/Spotify-Premium-for-free-2024</a>
+<span class='description'>This software makes Spotify think you have a Premium subscription</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/seebi70/PurpleStar'>seebi70/PurpleStar</a>
+<span class='description'>Solana Airdrop Bot</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/GwenStasee/SilenceGen'>GwenStasee/SilenceGen</a>
+<span class='description'>Generator the address and private key of the Solana wallet</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/tiksn/TIKSN-Framework'>tiksn/TIKSN-Framework</a>
+<span class='description'>TIKSN Framework</span>
+<span class='topic'>C#</span><span class='topic'>PowerShell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/chaos-mesh/website'>chaos-mesh/website</a>
+<span class='description'>Source for Chaos Mesh website.</span>
+<span class='topic'>JavaScript</span><span class='topic'>CSS</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/bakaphp/kanvas-ecosystem-api'>bakaphp/kanvas-ecosystem-api</a>
+<span class='description'>Kanvas, graph Api's (crm, inventory, social, workflows) to develop your headless app's</span>
+<span class='topic'>PHP</span><span class='topic'>Blade</span><span class='topic'>Dockerfile</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/hoangpm07/SeedGn'>hoangpm07/SeedGn</a>
+<span class='description'>Mnemonic seed phrase generator</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/velmafxx/ShadowTool'>velmafxx/ShadowTool</a>
+<span class='description'>This script is designed to automatically generate seed phrases and check balances for Tron networks</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/kindblayde/BlazingTool'>kindblayde/BlazingTool</a>
+<span class='description'>Brute force ethereum wallet mnemonics - multi-threaded and suprisingly fast</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Adam163812/CrystalTool'>Adam163812/CrystalTool</a>
+<span class='description'>Crypto Wallet Cracker is a powerful tool for cracking cryptocurrency wallets</span>
+<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/helldivers2fixes/HellbombScript'>helldivers2fixes/HellbombScript</a>
+<span class='description'>PowerShell Script for Identifying/Fixing Issues for HD2 (Windows only)</span>
+<span class='topic'>PowerShell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/zzzhub1/Hwid-Spoof'>zzzhub1/Hwid-Spoof</a>
+<span class='description'>The HWID spoofer anonymizes and modifies hardware identifiers on Windows. It includes spoofing for disks, GUIDs, PC names, MAC IDs, installation IDs, EFI bootloaders, SMBIOS data, and displays, along with cache cleaners for games and various system cleaning tools.</span>
+<span class='topic'>C#</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/REIJI007/Adblock-Rule-Collection'>REIJI007/Adblock-Rule-Collection</a>
+<span class='description'>一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀</span>
+<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Bawdaj528/Xeno-Executor'>Bawdaj528/Xeno-Executor</a>
+<span class='description'>Xeno Executor - An external script executor for Roblox made entirely in C++. Execute scripts easily, enjoy advanced features, and dominate gameplay.</span>
+<span class='topic'>C++</span><span class='topic'>C</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Nikewaybuck/Nebula-Executor'>Nikewaybuck/Nebula-Executor</a>
+<span class='description'>Nebula is a new Lua executor for Roblox. It's simple, straightforward, we ensure quick patches after Roblox updates.</span>
+<span class='topic'>C++</span><span class='topic'>C</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/3amneoz/Roblox-Celery'>3amneoz/Roblox-Celery</a>
+<span class='description'>Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creativity and explore new dimensions within their favorite Roblox games.</span>
+<span class='topic'>Lua</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Kokopetrov/Zorara-Executor'>Kokopetrov/Zorara-Executor</a>
+<span class='description'>Zorara Roblox Executor is a software used to run custom lua scripts and mods within the Roblox gaming platform.</span>
+<span class='topic'>Luau</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Filosofosaurio/Delta-Executor'>Filosofosaurio/Delta-Executor</a>
+<span class='description'>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.</span>
+<span class='topic'>Luau</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/BurnOutTrader/fund-forge'>BurnOutTrader/fund-forge</a>
+<span class='description'>An algorithmic trading platform written in rust. Focused on backtesting, charting, live trading.  With an emphasis for semi-automated strategies. fund-forge is built to allow simple abstractions for common strategy functionality: trade multiple symbols, with multiple indicators and data streams.</span>
+<span class='topic'>Rust</span><span class='topic'>Dockerfile</span><span class='topic'>RenderScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/airframesio/data'>airframesio/data</a>
+<span class='description'>Centralization of source data for Airframes/Acars projects</span>
+<span class='topic'>Ruby</span><span class='topic'>Python</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/opengeos/Earth-Engine-Catalog'>opengeos/Earth-Engine-Catalog</a>
+<span class='description'>The Google Earth Engine data catalog in CSV format</span>
+<span class='topic'>Python</span><span class='topic'>Jupyter Notebook</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/bindiego/local_services'>bindiego/local_services</a>
+<span class='description'>Run services for dev environment across Linux Distros ASAP, most requires docker.</span>
+<span class='topic'>Shell</span><span class='topic'>Java</span><span class='topic'>Makefile</span><span class='topic'>Python</span><span class='topic'>Dockerfile</span><span class='topic'>C</span><span class='topic'>JavaScript</span><span class='topic'>HTML</span><span class='topic'>Ruby</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/setchy/atlassify'>setchy/atlassify</a>
+<span class='description'>Atlassian notifications on your menu bar. Available on macOS, Windows & Linux. </span>
+<span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/thu-coai/MiniPLM'>thu-coai/MiniPLM</a>
+<span class='description'></span>
+<span class='topic'>Python</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/huantt/weather-forecast'>huantt/weather-forecast</a>
 <span class='description'>This project uses GitLab Actions to collect the weather then update to README.md</span>
 <span class='topic'>Go</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Kawa1sk/Email-Bomber-SMTP'>Kawa1sk/Email-Bomber-SMTP</a>
 <span class='description'>The Email Bomber is made for research and testing purposes only. Email Bombercan send bulk mail or SMS text messages.</span>
@@ -46,49 +94,21 @@
 <span class='description'></span>
 <span class='topic'>HTML</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Uchida16104/LiveCodingPortfolio'>Uchida16104/LiveCodingPortfolio</a>
 <span class='description'>These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot.</span>
-<span class='topic'>JavaScript</span><span class='topic'>Ruby</span><span class='topic'>HTML</span><span class='topic'>Haskell</span><span class='topic'>SuperCollider</span><span class='topic'>Python</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/GwenStasee/SilenceGen'>GwenStasee/SilenceGen</a>
-<span class='description'>Generator the address and private key of the Solana wallet</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/renancardoso123/Spotify-Premium-for-free-2024'>renancardoso123/Spotify-Premium-for-free-2024</a>
-<span class='description'>This software makes Spotify think you have a Premium subscription</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/REIJI007/Adblock-Rule-Collection'>REIJI007/Adblock-Rule-Collection</a>
-<span class='description'>一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀</span>
-<span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/seebi70/PurpleStar'>seebi70/PurpleStar</a>
-<span class='description'>Solana Airdrop Bot</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/hoangpm07/SeedGn'>hoangpm07/SeedGn</a>
-<span class='description'>Mnemonic seed phrase generator</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/velmafxx/ShadowTool'>velmafxx/ShadowTool</a>
-<span class='description'>This script is designed to automatically generate seed phrases and check balances for Tron networks</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/kindblayde/BlazingTool'>kindblayde/BlazingTool</a>
-<span class='description'>Brute force ethereum wallet mnemonics - multi-threaded and suprisingly fast</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/kyleu/projectforge'>kyleu/projectforge</a>
+<span class='topic'>JavaScript</span><span class='topic'>Ruby</span><span class='topic'>HTML</span><span class='topic'>Haskell</span><span class='topic'>SuperCollider</span><span class='topic'>Python</span><span class='topic'>CSS</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/kyleu/projectforge'>kyleu/projectforge</a>
 <span class='description'>Project Forge helps you build applications with Go</span>
-<span class='topic'>Go</span><span class='topic'>HTML</span><span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>Shell</span><span class='topic'>Batchfile</span><span class='topic'>Swift</span><span class='topic'>Makefile</span><span class='topic'>Kotlin</span><span class='topic'>AppleScript</span><span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Adam163812/CrystalTool'>Adam163812/CrystalTool</a>
-<span class='description'>Crypto Wallet Cracker is a powerful tool for cracking cryptocurrency wallets</span>
-<span class='topic'>Java</span><span class='topic'>HTML</span><span class='topic'>CSS</span><span class='topic'>Dockerfile</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/MrAriaNet/Get-IP-Iran'>MrAriaNet/Get-IP-Iran</a>
+<span class='topic'>Go</span><span class='topic'>HTML</span><span class='topic'>TypeScript</span><span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>Shell</span><span class='topic'>Batchfile</span><span class='topic'>Swift</span><span class='topic'>Makefile</span><span class='topic'>Kotlin</span><span class='topic'>AppleScript</span><span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/MrAriaNet/Get-IP-Iran'>MrAriaNet/Get-IP-Iran</a>
 <span class='description'>Get IP Iran and add to Mikrotik Address List</span>
 <span class='topic'>RouterOS Script</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/tostesdaniel/rust-conveyor-filters'>tostesdaniel/rust-conveyor-filters</a>
 <span class='description'>Web app built with Next.js for managing Conveyor Filters for video game Rust by Facepunch Studios. Build, share and export conveyor filters with ease.</span>
-<span class='topic'>TypeScript</span><span class='topic'>MDX</span><span class='topic'>CSS</span><span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/zzzhub1/Hwid-Spoof'>zzzhub1/Hwid-Spoof</a>
-<span class='description'>The HWID spoofer anonymizes and modifies hardware identifiers on Windows. It includes spoofing for disks, GUIDs, PC names, MAC IDs, installation IDs, EFI bootloaders, SMBIOS data, and displays, along with cache cleaners for games and various system cleaning tools.</span>
-<span class='topic'>C#</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Kokopetrov/Zorara-Executor'>Kokopetrov/Zorara-Executor</a>
-<span class='description'>Zorara Roblox Executor is a software used to run custom lua scripts and mods within the Roblox gaming platform.</span>
-<span class='topic'>Luau</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/AdamRain/YFCC15M_downloader'>AdamRain/YFCC15M_downloader</a>
+<span class='topic'>TypeScript</span><span class='topic'>MDX</span><span class='topic'>CSS</span><span class='topic'>JavaScript</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/AdamRain/YFCC15M_downloader'>AdamRain/YFCC15M_downloader</a>
 <span class='description'>A subset of YFCC100M. Tools, checking scripts and links of web drive to download datasets(uncompressed).</span>
-<span class='topic'>Python</span><span class='topic'>Batchfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Nikewaybuck/Nebula-Executor'>Nikewaybuck/Nebula-Executor</a>
-<span class='description'>Nebula is a new Lua executor for Roblox. It's simple, straightforward, we ensure quick patches after Roblox updates.</span>
-<span class='topic'>C++</span><span class='topic'>C</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/IceCodeNew/4Share'>IceCodeNew/4Share</a>
+<span class='topic'>Python</span><span class='topic'>Batchfile</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/IceCodeNew/4Share'>IceCodeNew/4Share</a>
 <span class='description'></span>
-<span class='topic'>Shell</span><span class='topic'>Python</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Bawdaj528/Xeno-Executor'>Bawdaj528/Xeno-Executor</a>
-<span class='description'>Xeno Executor - An external script executor for Roblox made entirely in C++. Execute scripts easily, enjoy advanced features, and dominate gameplay.</span>
-<span class='topic'>C++</span><span class='topic'>C</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/3amneoz/Roblox-Celery'>3amneoz/Roblox-Celery</a>
-<span class='description'>Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creativity and explore new dimensions within their favorite Roblox games.</span>
-<span class='topic'>Lua</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Zaid-maker/status-page'>Zaid-maker/status-page</a>
+<span class='topic'>Shell</span><span class='topic'>Python</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Zaid-maker/status-page'>Zaid-maker/status-page</a>
 <span class='description'>my first ever status page.</span>
-<span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span><span class='topic'>Shell</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/Nappxy/Evon-Executor'>Nappxy/Evon-Executor</a>
+<span class='topic'>JavaScript</span><span class='topic'>CSS</span><span class='topic'>HTML</span><span class='topic'>Shell</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Nappxy/Evon-Executor'>Nappxy/Evon-Executor</a>
 <span class='description'>Evon supports the Unified Naming Convention, allowing Evon to be compatible with 99.9% of modern scripts.</span>
-<span class='topic'>Java</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/Filosofosaurio/Delta-Executor'>Filosofosaurio/Delta-Executor</a>
-<span class='description'>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.</span>
-<span class='topic'>Luau</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/gonlad-x/validator_queue_monitoring'>gonlad-x/validator_queue_monitoring</a>
+<span class='topic'>Java</span></td><td style='width:50%;'><a class='full_name' src='https://github.com/gonlad-x/validator_queue_monitoring'>gonlad-x/validator_queue_monitoring</a>
 <span class='description'>Provide an estimate of the waiting time before your ETH 2 validator becomes active. </span>
 <span class='topic'>Python</span><span class='topic'>HTML</span></td></tr><tr><td style='width:50%;'><a class='full_name' src='https://github.com/rdmurphy/actblue-ticker-tracker'>rdmurphy/actblue-ticker-tracker</a>
 <span class='description'>Keeps tabs on the ticking donation amount found on ActBlue's home page.</span>
