@@ -25,13 +25,19 @@ $Repos = json_decode(file_get_contents($json_path), true);
 
 foreach ($data["items"] as $repo) {
     if ($repo["language"]) {
-        $Repos[$repo["id"]] = [
-            "name" => $repo["full_name"],
-            "url" => $repo["html_url"],
-            "desc" => $repo["description"],
-            "langs" => implode(", ", array_keys(curl($repo["languages_url"]))),
-            "update" => $repo["updated_at"]
-        ];
+        $langs = curl($repo["languages_url"]);
+        if (array_key_exists("message", $langs)) {
+            echo $langs["message"];
+            exit();
+        } else {
+            $Repos[$repo["id"]] = [
+                "name" => $repo["full_name"],
+                "url" => $repo["html_url"],
+                "desc" => $repo["description"],
+                "langs" => array_keys($langs),
+                "update" => $repo["updated_at"]
+            ];
+        }
     }
 }
 
@@ -43,14 +49,22 @@ uasort($Repos, "sort_repos");
 
 function generateReadme()
 {
-    $readme = "# Repos\n\n";
-    $readme .= "| Language | Repo | Description |\n";
-    $readme .= "| - | --------- | --------- |\n";
+    $readme = "<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style>";
+    $readme .= "<table>";
+    $col = 0;
     foreach ($GLOBALS["Repos"] as $Repo) {
-        $readme .= "| " . $Repo["langs"] . " | [" . $Repo["name"] . "](" . $Repo["url"] . ") | " . $Repo["desc"] . " |\n";
+        $readme .= $col == 0 ? "<tr>" : "";
+        $readme .= "<td style='width:50%;'><a class='full_name' src='" . $Repo["url"] . "'>" . $Repo["name"] . "</a>\n<span class='description'>" . $Repo["desc"] . "</span>\n";
+        foreach ($Repo["langs"] as $lang) {
+            $readme .= "<span class='topic'>" . $lang . "</span>";
+        }
+        $readme .= "</td>";
+        $readme .= $col == 0 ? "" : "</tr>";
+        $col = ($col + 1) % 2;
     }
     return $readme;
 }
+
 
 file_put_contents($json_path, json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 file_put_contents("README.md", generateReadme());
