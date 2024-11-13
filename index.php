@@ -47,7 +47,7 @@ function sort_repos($a, $b)
 }
 uasort($Repos, "sort_repos");
 
-function generateReadme()
+function generateHtml()
 {
     $readme = "<style>.full_name{color:#0969da;}.description{font-size:14px;}.topic{color:#0969da;background-color:#ddf4ff;font-size:12px;padding:0px 10px;margin:2px 1px;border-radius:2em;display:inline-block;line-height:22px;}</style>";
     $readme .= "<table>";
@@ -65,6 +65,21 @@ function generateReadme()
     return $readme;
 }
 
+function generateReadme()
+{
+
+    $readme = "# Repos\n";
+    $readme .= "| Language | Repo | Description |\n";
+    $readme .= "| - | --------- | --------- |\n";
+    foreach ($GLOBALS["Repos"] as $Repo) {
+        $readme .= "| " . implode(", ", $Repo["langs"]) . " | ["
+            . $Repo["name"] . "](" . $Repo["url"] . ") | " . $Repo["desc"] . " |\n";
+
+    }
+    return $readme;
+}
+
 
 file_put_contents($json_path, json_encode($Repos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 file_put_contents("README.md", generateReadme());
+file_put_contents("index.html", generateHtml());
