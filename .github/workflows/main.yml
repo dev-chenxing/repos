@@ -1,4 +1,4 @@
-name: fetch github api
+name: PHP Runner
 
 on:
     push:
