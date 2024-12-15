@@ -1,27 +1,47 @@
 # Repos
 | Language | Repo | Description |
 | - | --------- | --------- |
+| Kotlin, Python | [kylecorry31/andromeda](https://github.com/kylecorry31/andromeda) | A collection of Android libraries for simplifying development |
+| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
+| Python, PHP | [gwcctv/ICTV](https://github.com/gwcctv/ICTV) |  |
+| JavaScript, CSS, HTML | [rakeshid03/digital-fingerprint](https://github.com/rakeshid03/digital-fingerprint) | To create awareness and educate people about the browser fingerprint, I have created this website, which provides a visual representation of the data that can be collected by websites. |
+| JavaScript, Python, HTML, CSS | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
+| Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
+| PowerShell, Go | [REIJI007/AdBlock_Rule_For_V2ray](https://github.com/REIJI007/AdBlock_Rule_For_V2ray) | 适用于V2ray（V2ray核心与Xray核心）的广告域名拦截adblock.dat二进制文件，每20分钟更新一次 |
+| Python, Shell, CSS | [small-hack/smol-k8s-lab](https://github.com/small-hack/smol-k8s-lab) | ☁️ CLI & TUI with a smol friendly vibe to get started with Kubernetes on metal, then bootstrap apps using Argo CD 🧸 Great for testing webapps and benchmarking. |
+| Python, TypeScript, CSS, JavaScript, Shell, Dockerfile | [kavigupta/urbanstats](https://github.com/kavigupta/urbanstats) | A website for viewing statistics of various areas in the United States. |
+| TypeScript, Earthly | [shepherdjerred/homelab](https://github.com/shepherdjerred/homelab) | Configuration-as-code for my homelab |
+| TypeScript, JavaScript | [Aoang/Surge](https://github.com/Aoang/Surge) | Surge 专用的 Ruleset |
+| PHP, Shell | [indieweb/indieweb-chat-archive](https://github.com/indieweb/indieweb-chat-archive) | Full archive of IndieWeb chat log data files |
+| Jupyter Notebook, Python | [haesleinhuepf/git-bob](https://github.com/haesleinhuepf/git-bob) | git-bob uses AI to solve Github-issues. It runs inside the Github CI, no need to install anything on your computer. |
+| Swift, C, Objective-C, Ruby, Shell | [vultisig/vultisig-ios](https://github.com/vultisig/vultisig-ios) | Vultisig iOS App |
+| HTML, Python, CSS, PHP | [nyeinkokoaung404/V2ray-Configs](https://github.com/nyeinkokoaung404/V2ray-Configs) | www.mmvpn.ggff.net |
+| Shell | [rdmurphy/actblue-ticker-tracker](https://github.com/rdmurphy/actblue-ticker-tracker) | Keeps tabs on the ticking donation amount found on ActBlue's home page. |
+| Go | [soypat/gsdf](https://github.com/soypat/gsdf) | 3D/2D CAD design package written in Go. GPU accelerated. |
+| D | [Inochi2D/numem](https://github.com/Inochi2D/numem) | No-GC memory managment utilities for DLang |
+| Java | [Fexcraft/FVTM](https://github.com/Fexcraft/FVTM) | Fex's Vehicle and Transportation Mod |
+| Rust, Shell, Dockerfile | [containeroo/renvsubst](https://github.com/containeroo/renvsubst) | envsubst with some extra features written in Rust |
+| Go | [perfpod/memory-collector](https://github.com/perfpod/memory-collector) | A Kubernetes-native collector for monitoring memory subsystem interference between pods |
+| Python | [Vadim287/free-proxy](https://github.com/Vadim287/free-proxy) | Free-proxy |
+| Python, JavaScript, CSS | [EddyLuten/mkdocs-live-edit-plugin](https://github.com/EddyLuten/mkdocs-live-edit-plugin) | An MkDocs plugin that allows editing pages directly from the browser. |
+| Elixir | [liveview-native/live_view_native_stylesheet](https://github.com/liveview-native/live_view_native_stylesheet) |  |
+| Jupyter Notebook, Python | [aromanenko/ATSF](https://github.com/aromanenko/ATSF) | Applied Time Series Forecasting course materials |
+| Shell | [gi8lino/k8s-gitops](https://github.com/gi8lino/k8s-gitops) | My Kubernetes cluster built with K3s and managed by Flux v2 |
+| C++, Objective-C++, CMake, Python, C#, Batchfile, Shell | [Tinaynox/maze](https://github.com/Tinaynox/maze) | 🎮 Personal open-source cross-platform game engine |
 | Racket, Haskell, Scheme | [triffon/fp-2024-25](https://github.com/triffon/fp-2024-25) |  Код към лекциите и упражненията на курса по Функционално програмиране на спец. Информатика, спец. Компютърни науки (2 поток) и избираема дисциплина, 2024/25 г.  |
 | JavaScript, HTML, CSS | [SethClydesdale/code-vein-builder](https://github.com/SethClydesdale/code-vein-builder) | A tool for creating and sharing Code Vein builds. |
-| JavaScript, Python, HTML, CSS | [cms-sw/cms-sw.github.io](https://github.com/cms-sw/cms-sw.github.io) | Documentation for CMSSW |
-| TypeScript, Earthly | [shepherdjerred/homelab](https://github.com/shepherdjerred/homelab) | Configuration-as-code for my homelab |
 | Assembly, C, Batchfile | [Dhebug/Encounter](https://github.com/Dhebug/Encounter) | An upgraded version of the 1983 Encounter game from Severn Software |
 | Python, Makefile | [palewire/muckrockbot](https://github.com/palewire/muckrockbot) | A Fediverse robot account that posts the latest public records requests filed and completed at muckrock.com |
 | Python, HTML | [gonlad-x/validator_queue_monitoring](https://github.com/gonlad-x/validator_queue_monitoring) | Provide an estimate of the waiting time before your ETH 2 validator becomes active.  |
 | JavaScript, Python, Hack | [OfcKing/SenkoBot-MD](https://github.com/OfcKing/SenkoBot-MD) |  |
-| Shell | [rdmurphy/actblue-ticker-tracker](https://github.com/rdmurphy/actblue-ticker-tracker) | Keeps tabs on the ticking donation amount found on ActBlue's home page. |
-| Solidity, JavaScript, Python, Shell | [exorde-labs/TestnetProtocol](https://github.com/exorde-labs/TestnetProtocol) |  |
-| D | [Inochi2D/numem](https://github.com/Inochi2D/numem) | No-GC memory managment utilities for DLang |
 | Ruby, Python, Shell | [airframesio/data](https://github.com/airframesio/data) | Centralization of source data for Airframes/Acars projects |
 | TypeScript, JavaScript, SCSS, Shell | [openmrs/openmrs-esm-home](https://github.com/openmrs/openmrs-esm-home) | The homepage microfrontend for the OpenMRS SPA |
 | Python | [sawyerclick/scrapers](https://github.com/sawyerclick/scrapers) | Scrapin' some data, man |
-| PHP, JavaScript, SCSS, CSS | [mundschenk-at/wp-typography](https://github.com/mundschenk-at/wp-typography) | Improve your WordPress micro typography. |
 | Python | [MaxHalford/bike-sharing-history](https://github.com/MaxHalford/bike-sharing-history) | 🚲 Git scraping for bike sharing APIs |
+| PHP, JavaScript, SCSS, CSS | [mundschenk-at/wp-typography](https://github.com/mundschenk-at/wp-typography) | Improve your WordPress micro typography. |
 | Kotlin | [serbelga/pigment](https://github.com/serbelga/pigment) | 🎨 ColorPicker for Jetpack Compose |
 | Shell, Awk | [laravel-ja/ja-docs-11.x](https://github.com/laravel-ja/ja-docs-11.x) | Laravel11ドキュメントの翻訳リポジトリです。この翻訳を公式と呼ばないでください。公式は原語の英語のみです。 |
-| PowerShell, Go | [REIJI007/AdBlock_Rule_For_V2ray](https://github.com/REIJI007/AdBlock_Rule_For_V2ray) | 适用于V2ray（V2ray核心与Xray核心）的广告域名拦截adblock.dat二进制文件，每20分钟更新一次 |
 | Nunjucks, SCSS, JavaScript | [mainmatter/mainmatter.com](https://github.com/mainmatter/mainmatter.com) | The source code for https://mainmatter.com |
-| Python | [REIJI007/Adblock-Rule-Collection](https://github.com/REIJI007/Adblock-Rule-Collection) | 一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀 |
 | TypeScript | [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk) | 🔐 PSS! This is a ✨ secret ✨ repo! It's updated every 5 minutes with new stats! |
 | Haskell | [sergv/atomic-counter](https://github.com/sergv/atomic-counter) | Haskell counters that can be safely incremented from multiple threads |
 | JavaScript, Dockerfile, Nix, Shell, Procfile | [Kgtech-cmr/KERM-MD_V2](https://github.com/Kgtech-cmr/KERM-MD_V2) | I hope this time GitHub won't ban my jewel.  |
@@ -33,11 +53,10 @@
 | Rust, GLSL | [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) | Experiment to write a full desktop environment in Rust. |
 | Python | [aendie/SFalmanac-Py3](https://github.com/aendie/SFalmanac-Py3) | Creates the daily pages of a Nautical Almanac using Skyfield (Python 3) |
 | Rust, C++, Java, Swift, Kotlin, Ruby | [isuckatcs/advent-of-code](https://github.com/isuckatcs/advent-of-code) | Advent of Code solutions in C++, Rust, Java, Kotlin, Swift and Mojo 🔥 |
-| JavaScript | [puntorigen/be_grateful](https://github.com/puntorigen/be_grateful) | Self-updating readme file template; fork repo to have a live readme.md on github with self-updating values. |
 | C++, Python, JavaScript, Java | [karygauss03/Leetcode-Solutions](https://github.com/karygauss03/Leetcode-Solutions) | My Leetcode Solutions |
+| JavaScript | [puntorigen/be_grateful](https://github.com/puntorigen/be_grateful) | Self-updating readme file template; fork repo to have a live readme.md on github with self-updating values. |
 | Lua, Go, HTML, Shell | [chmaha/ReaClassical](https://github.com/chmaha/ReaClassical) | ReaClassical: Open Source Classical Editing Tools for REAPER |
 | HTML, Python | [SnailDev/weibo-hot-hub](https://github.com/SnailDev/weibo-hot-hub) | 记录微博热搜、热门话题，每小时更新，按天归档。 |
-| Jupyter Notebook, Python | [haesleinhuepf/git-bob](https://github.com/haesleinhuepf/git-bob) | git-bob uses AI to solve Github-issues. It runs inside the Github CI, no need to install anything on your computer. |
 | Shell | [wangyingbo/v2rayse_sub](https://github.com/wangyingbo/v2rayse_sub) |  |
 | HTML, CSS, Shell, Ruby, JavaScript | [The-Yak-Collective/yakcollective](https://github.com/The-Yak-Collective/yakcollective) | The Yak Collective website & related automation. |
 | JavaScript, Python, CSS, HTML, Makefile | [woXrooX/x](https://github.com/woXrooX/x) | Speeding Up Web App Creation Process |
@@ -50,7 +69,6 @@
 | HTML, Vim Script, Shell, Lua, Python, JavaScript, C, CSS, Nix, Scheme, Less, Vim Snippet, CoffeeScript | [actionless/dotfiles](https://github.com/actionless/dotfiles) | my dotfiles |
 | C#, HTML, CSS, JavaScript, TSQL | [VisualAcademy/Hawaso](https://github.com/VisualAcademy/Hawaso) | .NET 8.0 기반의 ASP.NET Core + Blazor 회사 홈페이지 만들기 프로젝트 강의 소스 |
 | PHP, CSS, JavaScript, Shell | [joedolson/wp-to-twitter](https://github.com/joedolson/wp-to-twitter) | XPoster - Post to Bluesky, Mastodon, and X |
-| Python, PHP | [gwcctv/ICTV](https://github.com/gwcctv/ICTV) |  |
 | Python | [FUMR/tidal-async](https://github.com/FUMR/tidal-async) | Python Tidal streaming service unofficial API in async fashion supporting OAuth2 authentication |
 | TSQL | [PowerAppsDarren/PowerFxSnippets](https://github.com/PowerAppsDarren/PowerFxSnippets) | My bag of tricks for the Power Platform |
 | Lua, GLSL | [InertSteak/Pokermon](https://github.com/InertSteak/Pokermon) | A full content Balatro mod where every joker is a Pokemon. |
@@ -61,24 +79,20 @@
 | R, CSS | [padpadpadpad/rTPC](https://github.com/padpadpadpad/rTPC) | R package to help fit Thermal Performance Curves |
 | C#, Lua | [reapergod69/FreeFire-FFH4X](https://github.com/reapergod69/FreeFire-FFH4X) | FFH4X Injector - MOD Menu for Free Fire with amazing features. Players can enjoy a variety of amazing features when using the Windows Ffh4x Menu. This injector provides numerous paid hacks for free, and it is used by many users all over the world to customize Free Fire. New updates will include a plethora of new features (FFH4X Injector). |
 | Lua | [d3spyy/Nezur-Executor](https://github.com/d3spyy/Nezur-Executor) | Roblox Nezur Executor - elevate your experience today. Improve your aim with our superior product. Advanced features, unbeatable AI, standout aimbot and triggerbot! |
+| Lua | [Pegasus001we/Celex-Executor](https://github.com/Pegasus001we/Celex-Executor) | Celex Executor is an external Windows-based script execution tool for Roblox, allowing users to run custom scripts and modify game mechanics for enhanced gameplay and exploits. |
 | Lua | [Trioxidep/Lunar-Executor](https://github.com/Trioxidep/Lunar-Executor) | Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features. |
 | Lua | [DakeII/Roblox-Frostware](https://github.com/DakeII/Roblox-Frostware) | FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for an enhanced gaming experience. |
-| Lua | [Pegasus001we/Celex-Executor](https://github.com/Pegasus001we/Celex-Executor) | Celex Executor is an external Windows-based script execution tool for Roblox, allowing users to run custom scripts and modify game mechanics for enhanced gameplay and exploits. |
 | PHP, CSS | [razshare/catpaw](https://github.com/razshare/catpaw) | An opinionated dependency injection library for amphp. |
 | Java, HTML, CSS, Dockerfile | [snowy2121/Solana-Token-Creator](https://github.com/snowy2121/Solana-Token-Creator) | Create a new Solana fungible token using command-line tools and scripts. Plus: manage tokens safely across a team using a multisig wallet approach instead of a single owner. |
 | Java, HTML, CSS, Dockerfile | [riberyyy/Friends-Fabric-autoclicker](https://github.com/riberyyy/Friends-Fabric-autoclicker) | Friends Fabric Auto Clicker is a versatile tool that enhances your gaming experience by automating various actions within the Friends Fabric game |
 | Lua | [Srlion/sfs](https://github.com/Srlion/sfs) | Srlion's Fast Serializer - Blazing fast and compact~~! |
 | C, C++, C#, PowerShell, Shell, CMake, Batchfile | [microsoft/ntosebpfext](https://github.com/microsoft/ntosebpfext) | eBPF-For-Windows extension to provide access to Windows kernel functionality |
-| Python | [Vadim287/free-proxy](https://github.com/Vadim287/free-proxy) | Free-proxy |
 | Rust, Dockerfile, Shell | [spider-rs/chrome-server](https://github.com/spider-rs/chrome-server) | API to manage chromium headless processes easily with xvfb support |
 | Python | [skywrt/v2ray-configs](https://github.com/skywrt/v2ray-configs) |  |
-| HTML, Python, CSS, PHP | [nyeinkokoaung404/V2ray-Configs](https://github.com/nyeinkokoaung404/V2ray-Configs) | www.mmvpn.ggff.net |
 | Markdown, JSON, YAML | [tiekoettercom/searx-instances-uptime](https://github.com/tiekoettercom/searx-instances-uptime) | 📈 Uptime monitor and status page for SearXNG and SearX instances |
 | C, Makefile, Assembly, Python, C++, Perl, Shell | [SP8EBC/ParaTNC](https://github.com/SP8EBC/ParaTNC) | ParaTNC and ParaMETEO, next generation hardware compatible with the same software are STM32 based embedded projects which provides fully functional APRS controller. ParaTNC has support for digipeating, working with PC using KISS TNC protocol and what more important as a weather station. ParaMETEO adds fully outdoor operation with integated PV charg |
-| TypeScript, JavaScript | [Aoang/Surge](https://github.com/Aoang/Surge) | Surge 专用的 Ruleset |
 | Python, Shell, HTML, JavaScript, CSS | [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) | The free software for converting files! On your Sever |
 | Go, Makefile, Ruby, Dockerfile | [functionland/go-fula](https://github.com/functionland/go-fula) | Client-server stack for Web3! Turn your Raspberry Pi to a BAS server in minutes and enjoy the freedom of decentralized Web with a superior user experience!  |
-| PHP, Shell | [indieweb/indieweb-chat-archive](https://github.com/indieweb/indieweb-chat-archive) | Full archive of IndieWeb chat log data files |
 | HTML, Python, Rich Text Format, CSS | [H-uru/moul-assets](https://github.com/H-uru/moul-assets) | A collection of fan-maintained game assets and sources used by Myst Online. |
 | C++, CMake | [untrustedmodders/mms2-plugify](https://github.com/untrustedmodders/mms2-plugify) | Plugify - Source 2 Engine Scripting |
 | TypeScript, JavaScript | [gchumillas/schema-fixer](https://github.com/gchumillas/schema-fixer) | A small utility to fix data, preserving its types |
@@ -137,9 +151,9 @@
 | Emacs Lisp, Python | [lrustand/qutebrowser.el](https://github.com/lrustand/qutebrowser.el) | Qutebrowser + EXWM |
 | Python, JavaScript | [NazmusSayad/Git-Stats](https://github.com/NazmusSayad/Git-Stats) |  |
 | Vue, JavaScript, CSS, HTML | [jipenalver/web-shirlix](https://github.com/jipenalver/web-shirlix) | Inventory System |
+| Java, HTML, CSS, Dockerfile | [Mido21102/Xeno-executor](https://github.com/Mido21102/Xeno-executor) | Xeno-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. |
 | Kotlin, Java, HTML | [lavalink-devs/lavalink-client](https://github.com/lavalink-devs/lavalink-client) | Lavalink client for lavalink v4 |
 | Java, HTML, CSS, Dockerfile | [Kevinalsteviaa/Nexus-Roblox](https://github.com/Kevinalsteviaa/Nexus-Roblox) | Nexus Executor offers free and lifetime packages, and is hosted directly on the website. It supports execution of all Luau scripts and has no reported bans, though it features a limited number of games and a small script hub. |
-| Java, HTML, CSS, Dockerfile | [Mido21102/Xeno-executor](https://github.com/Mido21102/Xeno-executor) | Xeno-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. |
 | Java, HTML, CSS, Dockerfile | [bakiayman/HashCats-autoclicker](https://github.com/bakiayman/HashCats-autoclicker) | HashCats Auto Clicker is a versatile tool that enhances your gaming experience by automating various actions within the HashCats game |
 | Java, HTML, CSS, Dockerfile | [CamiloAnaya/Wave-Executor](https://github.com/CamiloAnaya/Wave-Executor) | Wave-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. With its user-friendly interface and robust functionality, Wave-Executor is perfect for automating a wide range of activities in different industries. |
 | Java, HTML, CSS, Dockerfile | [Mdzin007/Bombie-autoclicker](https://github.com/Mdzin007/Bombie-autoclicker) | Bombie Auto Clicker is a versatile tool that enhances your gaming experience by automating various actions within the Bombie game |
@@ -148,8 +162,8 @@
 | Java, HTML, CSS, Dockerfile | [GwenStasee/SilenceGen](https://github.com/GwenStasee/SilenceGen) | Generator the address and private key of the Solana wallet |
 | Java, HTML, CSS, Dockerfile | [Lordsatanthenuker/DiscordUniverse](https://github.com/Lordsatanthenuker/DiscordUniverse) | DiscordUniverse is an innovative platform that brings together gamers from around the world to connect, compete, and collaborate in an expansive virtual universe. Join our community to explore new realms, engage in strategic battles, and forge lasting friendships with fellow adventurers. |
 | Dart | [instrik/Personal_AI_App](https://github.com/instrik/Personal_AI_App) |  |
-| Python | [WindowsGSM/SteamAppInfo](https://github.com/WindowsGSM/SteamAppInfo) | Get the latest steam app info json here, automatic updated every 5 minutes. This repository only updates the dedicated server apps for game server management purposes. |
 | Java, HTML, CSS, Dockerfile | [renancardoso123/Spotify-Premium-for-free-2024](https://github.com/renancardoso123/Spotify-Premium-for-free-2024) | This software makes Spotify think you have a Premium subscription |
+| Python | [WindowsGSM/SteamAppInfo](https://github.com/WindowsGSM/SteamAppInfo) | Get the latest steam app info json here, automatic updated every 5 minutes. This repository only updates the dedicated server apps for game server management purposes. |
 | C++ | [damz001/Fixing-Error-0x803F8001](https://github.com/damz001/Fixing-Error-0x803F8001) | The "Error 0x803F8001" commonly occurs when there are issues with app licenses or if the Microsoft Store cannot validate an application. To resolve this error, download and run the provided software, which will help refresh your app licenses and ensure proper functionality of the Microsoft Store. |
 | C++ | [pufferfish420/Fixing-Error-0x8007000E](https://github.com/pufferfish420/Fixing-Error-0x8007000E) | The "Error 0x8007000E" indicates that there is insufficient memory available to complete the operation, often occurring during installations or updates. To resolve this issue, download and run the provided software, which will optimize your systemâ€™s memory and free up resources. This tool will prevent future memory-related errors. |
 | Java, Shell | [ivangfr/spring-cloud-stream-event-routing-cloudevents](https://github.com/ivangfr/spring-cloud-stream-event-routing-cloudevents) | The goal of this project is to play with Spring Cloud Stream Event Routing and CloudEvents. For it, we will implement a producer and consumer of news & alert events. |
@@ -167,8 +181,8 @@
 | Shell | [AkkunYo/HysteriaNode](https://github.com/AkkunYo/HysteriaNode) |  |
 | Mustache, JavaScript | [MJavedAli/MJavedAli](https://github.com/MJavedAli/MJavedAli) |  |
 | Kotlin | [SchweGELBin/OpenBible2](https://github.com/SchweGELBin/OpenBible2) | OpenBible provides the Bible as a simple Android App |
-| Go, HTML, Dockerfile, HCL, CSS | [chitoku-k/ejaculation-counter](https://github.com/chitoku-k/ejaculation-counter) | ぴゅっ♡ |
 | Python | [Googlers-Repo/gmr](https://github.com/Googlers-Repo/gmr) | Googlers Magisk Repo |
+| Go, HTML, Dockerfile, HCL, CSS | [chitoku-k/ejaculation-counter](https://github.com/chitoku-k/ejaculation-counter) | ぴゅっ♡ |
 | Elm, CSS, HTML, Shell, OCaml | [chshersh/chshersh.github.io](https://github.com/chshersh/chshersh.github.io) | :yellow_heart: My website |
 | Fluent | [ankitects/anki-core-i18n](https://github.com/ankitects/anki-core-i18n) | Fluent translation files for Anki |
 | TypeScript, JavaScript, CSS, Shell, Dockerfile, Python | [eclipse-sw360/sw360-frontend](https://github.com/eclipse-sw360/sw360-frontend) | SW360 Frontend Project |
@@ -177,8 +191,8 @@
 | Shell, Starlark, Perl, C, CMake, Tcl, Roff, Makefile, Haskell, Ada, Awk, Puppet, Common Lisp, Ruby, Python, M4 | [sourcemage/grimoire](https://github.com/sourcemage/grimoire) |  |
 | AutoHotkey, JavaScript | [leifengsang/leileiTechnology](https://github.com/leifengsang/leileiTechnology) | 写科技也就图一乐，自用 |
 | TypeScript, CSS, HTML | [fspoettel/arkham.build](https://github.com/fspoettel/arkham.build) | Deck builder for Arkham Horror: The Card Game™ |
-| Shell, Vim Script, Makefile | [bdossantos/dotfiles](https://github.com/bdossantos/dotfiles) | 💻 $HOME/.dotfiles |
 | C#, ShaderLab, HTML, HLSL, JavaScript | [CP-Island-Localhost-Server/CP-Island-Project](https://github.com/CP-Island-Localhost-Server/CP-Island-Project) | The rewritten source code of Club Penguin Island 1.13.0 with all parties that is made in the Unity 2022 LTS engine. We claim ZERO copyrights. This is meant to be for educational use ONLY.  We aren't apart of Disney or any other company in anyway shape or form. This is meant to be for archival reasons. For Linux, MacOS, and Windows. |
+| Shell, Vim Script, Makefile | [bdossantos/dotfiles](https://github.com/bdossantos/dotfiles) | 💻 $HOME/.dotfiles |
 | Python | [ylqi007/LeetCode](https://github.com/ylqi007/LeetCode) |  |
 | PHP | [hyperf/odin](https://github.com/hyperf/odin) |  |
 | JavaScript, CSS | [LucianoTreachi/cursos-online-de-programacion](https://github.com/LucianoTreachi/cursos-online-de-programacion) | Sitio web que reúne los mejores cursos online de programación, clasificados por Frontend, Backend y Aplicaciones Móviles. |
@@ -198,8 +212,8 @@
 | Java, Kotlin | [Bram1903/TotemGuard](https://github.com/Bram1903/TotemGuard) | TotemGuard is a simple anticheat that tries to detect players who are using AutoTotem. |
 | Shell, Makefile | [rxbn/k8s-gitops](https://github.com/rxbn/k8s-gitops) | My Kubernetes cluster built with K3s and managed by Flux v2 |
 | CSS, MDX, Astro, JavaScript, TypeScript | [vanntile/vanntile.com](https://github.com/vanntile/vanntile.com) | Portfolio website |
-| Lua, Shell, Scheme, Just, Handlebars, Python | [clpi/down.lua](https://github.com/clpi/down.lua) | the (eventually) infinitely extensible markdown note-taking work environment that you can have in Neovim without having to ever leave the comfort of markdown. |
 | Python | [khodedawsh/v2share](https://github.com/khodedawsh/v2share) | config generator/parser for proxy software |
+| Lua, Shell, Scheme, Just, Handlebars, Python | [clpi/down.lua](https://github.com/clpi/down.lua) | the (eventually) infinitely extensible markdown note-taking work environment that you can have in Neovim without having to ever leave the comfort of markdown. |
 | TypeScript, Java, HTML, Shell, JavaScript, Kotlin, Dockerfile, CSS, Ruby, Objective-C++, Objective-C | [SwissBitcoinPay/app](https://github.com/SwissBitcoinPay/app) |  |
 | Lua | [jenwalter666/JensBalatroCollection](https://github.com/jenwalter666/JensBalatroCollection) | Collection of mods I've made for Balatro |
 | Lua | [DennisRas/AlterEgo](https://github.com/DennisRas/AlterEgo) | AlterEgo is a World of Warcraft addon to track the Mythic+ progress of all your characters |
@@ -221,8 +235,8 @@
 | Lua | [coopa486/Wave-Roblox](https://github.com/coopa486/Wave-Roblox) | Wave Executor: A robust Windows-based script executor tailored for Roblox enthusiasts, Wave Executor boasts AI integration for seamless script development, ad-free premium features, and 24/7 support, ensuring an unparalleled user experience and elevating your gameplay to new heights. |
 | Python | [xxdxxid/Roblox-Krampus](https://github.com/xxdxxid/Roblox-Krampus) | Roblox Krampus Executor: The ultimate Roblox Executor, offering top script performance and a user-friendly dashboard for seamless gaming and scripting. |
 | Python | [pleasedonotharmme/Roblox-Oxygen](https://github.com/pleasedonotharmme/Roblox-Oxygen) | Oxygen Executor is a versatile script execution tool designed for Roblox, offering users the ability to run Lua scripts and access a plethora of game modifications. With its intuitive interface and powerful features, Oxygen empowers users to enhance their gameplay experience on the Roblox platform with ease and efficiency. |
-| Luau, Shell | [jaydenth/Roblox-Synapse](https://github.com/jaydenth/Roblox-Synapse) | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. |
 | JavaScript | [mdbyjidhasan1243/KRNL-Executor](https://github.com/mdbyjidhasan1243/KRNL-Executor) | The legendary KRNL executor is a highly regarded tool for Roblox on Windows, known for its reliability and efficiency in running Lua scripts, allowing users to access advanced game modifications and exploits for an enhanced gaming experience. |
+| Luau, Shell | [jaydenth/Roblox-Synapse](https://github.com/jaydenth/Roblox-Synapse) | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. |
 | TypeScript | [BenRogersWPG/WebSearch](https://github.com/BenRogersWPG/WebSearch) | Visual Studio Code extension that allows you to perform a web search for the selected text using your favorite search engines (add as many as you like, editable in extension settings). I wrote this as a proof-of-concept idea when teaching myself TypeScript and learning how to code a Visual Studio Code extension. |
 | C++, C, CMake, Scala, Python, Shell, SuperCollider, Objective-C++, Dockerfile | [cnr-isti-vclab/vclib](https://github.com/cnr-isti-vclab/vclib) | The Visual Computing Library |
 | Lua, Vim Script, Shell, CSS, Python, Ruby, Perl, JavaScript | [probberechts/dotfiles](https://github.com/probberechts/dotfiles) | 🏡 There's no place like ~/ |
@@ -298,8 +312,8 @@
 | PHP, Vue, JavaScript, TypeScript, Blade, CSS | [angristan/larafeed](https://github.com/angristan/larafeed) | Feed reader for the web, built with Laravel and Vue |
 | JavaScript, Smarty, SCSS | [NodeBB/nodebb-plugin-composer-quill](https://github.com/NodeBB/nodebb-plugin-composer-quill) | WYSIWYG composer for NodeBB based off of Quill (https://quilljs.com/) |
 | C++, Python, SWIG, Shell, Batchfile, Makefile | [carlkidcrypto/ezsnmp](https://github.com/carlkidcrypto/ezsnmp) | An unattached Fork of Easy SNMP. Built for Python3.9 and greater only. Using C++17. |
-| Python, Jupyter Notebook | [spAurora/AGRS_semantic_segmentation](https://github.com/spAurora/AGRS_semantic_segmentation) | 面向遥感制图工程的语义分割项目 |
 | Python, Makefile | [BobTheBuidler/eth-portfolio](https://github.com/BobTheBuidler/eth-portfolio) | Use eth-portfolio to output information about a wallet or collection of wallets in a streamlined, speed-optimized way. |
+| Python, Jupyter Notebook | [spAurora/AGRS_semantic_segmentation](https://github.com/spAurora/AGRS_semantic_segmentation) | 面向遥感制图工程的语义分割项目 |
 | C++, Python, CMake, Shell, C, AngelScript | [Wing-summer/WingHexExplorer2](https://github.com/Wing-summer/WingHexExplorer2) | 一个自由强大跨平台的十六进制编辑器 / A free, powerful, cross-platform hex editor |
 | TypeScript, JavaScript, Astro, CSS, Liquid | [creatorsgarten/contentsgarten](https://github.com/creatorsgarten/contentsgarten) | A modern, cloud-native wiki engine |
 | C, C++, Assembly, Makefile, Verilog, HTML, CMake, Rust, Lua, Python, Processing, Shell, Tcl, Batchfile, SystemVerilog, Mathematica, Perl, CSS, VHDL, JavaScript, Scheme, Stata, Pascal, TSQL, Standard ML, V | [nvv13/test](https://github.com/nvv13/test) | заметки, riot-os, mqtt, esp8266, docker, fedora linux, fpga, rust, w801 |
@@ -320,8 +334,8 @@
 | C, C++, Berry, Python, Jupyter Notebook, Makefile, Shell, Processing, Assembly, HTML, CMake, Perl, CSS, PHP, Yacc, XSLT, sed, Euphoria | [Jason2866/Tasmota-build](https://github.com/Jason2866/Tasmota-build) | Build the Tasmota special firmwares |
 | Nix, TypeScript, SCSS, C#, Shell, Lua, PHP | [matt1432/nixos-configs](https://github.com/matt1432/nixos-configs) | Mirror of https://git.nelim.org/matt1432/nixos-configs |
 | HTML, TypeScript, SCSS | [hbstack/theme-start](https://github.com/hbstack/theme-start) | Hugo theme for building your own start page. |
-| Python | [stefantalpalaru/bbc_radio](https://github.com/stefantalpalaru/bbc_radio) | Python/Qt script for listening to Internet radio stations using an external player (VLC by default) |
 | MDX, TypeScript, CSS, JavaScript, Shell | [m3hu1/algorithmik](https://github.com/m3hu1/algorithmik) | A comprehensive guide to mastering data structures and algorithms. It covers a wide range of topics, from the basics to advanced concepts. |
+| Python | [stefantalpalaru/bbc_radio](https://github.com/stefantalpalaru/bbc_radio) | Python/Qt script for listening to Internet radio stations using an external player (VLC by default) |
 | Java | [nulli0n/CoinsEngine-spigot](https://github.com/nulli0n/CoinsEngine-spigot) |  |
 | HTML, CSS | [TRAMOIA-sh/TRAMOIA-sh.github.io](https://github.com/TRAMOIA-sh/TRAMOIA-sh.github.io) |  |
 | C# | [YohDeadfall/Kinetic](https://github.com/YohDeadfall/Kinetic) | A lightweight implementation of the Reactive framework. |
@@ -389,8 +403,8 @@
 | Python | [droe/binja-blocks](https://github.com/droe/binja-blocks) | Apple Blocks Plugin for Binary Ninja |
 | C++, Assembly, Makefile, Shell | [loda-lang/loda-cpp](https://github.com/loda-lang/loda-cpp) | Runtime and miner for the LODA language written in C++ |
 | TypeScript, JavaScript, CSS, HTML | [0xblackbot/rainbow-swap](https://github.com/0xblackbot/rainbow-swap) | Swap Aggregator on TON 💎 |
-| TypeScript, JavaScript | [httptoolkit/openapi-directory-js](https://github.com/httptoolkit/openapi-directory-js) | Building & bundling https://github.com/APIs-guru/openapi-directory for easy use from JS |
 | C++, Python, HTML, JavaScript, CMake, Shell | [hubenchang0515/QtTheme](https://github.com/hubenchang0515/QtTheme) | Qt QSS Theme - Qt QSS 主题 |
+| TypeScript, JavaScript | [httptoolkit/openapi-directory-js](https://github.com/httptoolkit/openapi-directory-js) | Building & bundling https://github.com/APIs-guru/openapi-directory for easy use from JS |
 | Rust | [uutils/util-linux](https://github.com/uutils/util-linux) | Rust reimplementation of the util-linux project  |
 | Python, HTML, C, JavaScript, Shell, C++, M4, Fortran, Makefile, CSS, POV-Ray SDL, Cython, Smarty, TeX, Haskell, MATLAB, Vim Script, Less, SWIG, Batchfile, PHP | [iaacornus/workstation_setup](https://github.com/iaacornus/workstation_setup) |  |
 | TypeScript, MDX, JavaScript, CSS | [argos-ci/argos-ci.com](https://github.com/argos-ci/argos-ci.com) | Official website of Argos. |
@@ -407,8 +421,8 @@
 | GDScript | [Magodra/GlowBorderEffect](https://github.com/Magodra/GlowBorderEffect) |  |
 | HTML | [Mgsportstv/mgsportstv](https://github.com/Mgsportstv/mgsportstv) |  |
 | Haskell | [Bodigrim/infinite-list](https://github.com/Bodigrim/infinite-list) | Infinite lists aka streams |
-| Lua | [TechnicalDC/NvConf](https://github.com/TechnicalDC/NvConf) | My  own lua based nvim configuration |
 | MDX, JavaScript, Astro, CSS, TypeScript | [TeenBiscuits/Pasame-Codigo](https://github.com/TeenBiscuits/Pasame-Codigo) | Pásame el Código es una web open source con apuntes y ejercicios resueltos de las diferentes asignaturas que componen el Grado de Enxeñería Informática da Universidade da Coruña. |
+| Lua | [TechnicalDC/NvConf](https://github.com/TechnicalDC/NvConf) | My  own lua based nvim configuration |
 | Python, HTML, C, Jupyter Notebook, Cython, C++, JavaScript, PowerShell, CSS, PHP, C#, Fortran, Cypher, Shell, Dockerfile, XSLT, Batchfile, Roff, Smarty, Makefile, Gnuplot, Jinja, Lua | [pavelberanek91/UJEP](https://github.com/pavelberanek91/UJEP) | Repozitář pro univerzitní výuku na univerzitě UJEP v Ústí nad Labem. |
 | Ada | [HeisenbugLtd/Saatana](https://github.com/HeisenbugLtd/Saatana) | A cryptographic framework, proven for correctness in SPARK |
 | PHP, Shell | [CommanderRoot/twitch-follower-tracker](https://github.com/CommanderRoot/twitch-follower-tracker) | Tracks the changes in Twitch followers for channels |
@@ -416,8 +430,8 @@
 | Python, Vue, JavaScript, HTML, TypeScript, SCSS, CSS, Makefile, Shell, PowerShell, Dockerfile | [mikhailprivalov/l2](https://github.com/mikhailprivalov/l2) | L2 Healthcare Information System. Fast. Modern. Simple. Full-cycle. |
 | JavaScript, HTML, CSS, ASP.NET | [MarcelMeurer/Project-MySmartScale](https://github.com/MarcelMeurer/Project-MySmartScale) | Repository to deploy MySmartScale to Azure |
 | Python | [SonzaiEkkusu/V2RayDumper](https://github.com/SonzaiEkkusu/V2RayDumper) |  |
-| TypeScript, Rust, Dockerfile, CSS, JavaScript | [Gregoor/skylights](https://github.com/Gregoor/skylights) | Skylights 💫 |
 | Clojure, Python | [Kimbsy/quip](https://github.com/Kimbsy/quip) | Clojure game engine built using Quil |
+| TypeScript, Rust, Dockerfile, CSS, JavaScript | [Gregoor/skylights](https://github.com/Gregoor/skylights) | Skylights 💫 |
 | TypeScript, JavaScript | [sannlynnhtun-coding/burma-project-ideas-api-with-nestjs](https://github.com/sannlynnhtun-coding/burma-project-ideas-api-with-nestjs) | Burma Project Ideas API |
 | JavaScript, Vue, Shell, CSS, HTML | [l2fprod/mycatalog](https://github.com/l2fprod/mycatalog) | A simple user interface to view all IBM Cloud services and export its content as Office documents |
 | C#, PowerShell, Dockerfile, Batchfile | [WireMock-Net/WireMock.Net-docker](https://github.com/WireMock-Net/WireMock.Net-docker) | WireMock.Net-docker is a Docker image which runs WireMock.Net (a flexible library for stubbing and mocking web services) |
@@ -469,8 +483,8 @@
 | HTML, JavaScript, CSS, Ruby | [ciscoHA/cool-unblocked-games](https://github.com/ciscoHA/cool-unblocked-games) | Open source unblocked games website, game files not included: https://github.com/ciscoHA/unblocked-list  |
 | Lua, Shell | [exochron/MountJournalEnhanced](https://github.com/exochron/MountJournalEnhanced) | This is an interface addon for World of Warcraft, which extends the ingame mount journal with some cool stuff. |
 | JavaScript, Java, Python, Ruby | [vokoshyv/leetcodePractice](https://github.com/vokoshyv/leetcodePractice) |  |
-| Smarty, Shell, Mustache | [small-hack/matrix-chart](https://github.com/small-hack/matrix-chart) | Helm chart for deploying a Matrix stack, including Synapse, Postgresql, Sliding Sync, MAS, Element, coturn, and bridges. |
 | TypeScript, Solidity, JavaScript | [0glabs/0g-storage-contracts](https://github.com/0glabs/0g-storage-contracts) |  |
+| Smarty, Shell, Mustache | [small-hack/matrix-chart](https://github.com/small-hack/matrix-chart) | Helm chart for deploying a Matrix stack, including Synapse, Postgresql, Sliding Sync, MAS, Element, coturn, and bridges. |
 | Mustache, Shell, Makefile, Python | [mlrun/ce](https://github.com/mlrun/ce) | MLRun Community Edition |
 | C, C++, Assembly, Shell, TeX, Roff, Makefile, M4, Python | [GrieferAtWork/deemon](https://github.com/GrieferAtWork/deemon) | Deemon Programming Language (v200+) |
 | Go | [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) | Golang client for the Scryfall API |
@@ -563,8 +577,8 @@
 | Nix, Shell | [RobotDisco/nix-config](https://github.com/RobotDisco/nix-config) | My collection of dotfiles |
 | Java | [fewizz/crawl](https://github.com/fewizz/crawl) |  |
 | Python, Jupyter Notebook, TypeScript, CSS, HTML, Shell | [FHNW-IVGI/Geoharvester](https://github.com/FHNW-IVGI/Geoharvester) | NDGI Project Geoharvester  |
-| Lua, Shell, Vim Script, CSS, Scheme, Python, HTML, Awk | [saying121/linuxConfig](https://github.com/saying121/linuxConfig) |  |
 | Python, Shell | [nikaro/sopsy](https://github.com/nikaro/sopsy) | sops python wrapper library |
+| Lua, Shell, Vim Script, CSS, Scheme, Python, HTML, Awk | [saying121/linuxConfig](https://github.com/saying121/linuxConfig) |  |
 | HTML, SCSS, XSLT, JavaScript, Ruby | [webtrees/webtrees.github.io](https://github.com/webtrees/webtrees.github.io) | Project website |
 | HTML, SCSS, CSS, JavaScript | [ModdingLinked/The-Best-of-Times](https://github.com/ModdingLinked/The-Best-of-Times) | The official installation guide for Tale of Two Wastelands. |
 | JavaScript | [9xN/auto-ovpn](https://github.com/9xN/auto-ovpn) | This is an auto-generated list of Open VPN config files. |
@@ -638,7 +652,6 @@
 | Rust, Assembly, Makefile, Shell, Python, Dockerfile | [GandelXIV/RezOS](https://github.com/GandelXIV/RezOS) | Modern OS written in the rust programming language |
 | Python | [pim97/scrappey-wrapper-python](https://github.com/pim97/scrappey-wrapper-python) | An API wrapper for Scrappey.com written in Python (cloudflare, datadome bypass & solver) |
 | Python, Lua | [oniondelta/Onion_Trime_Files](https://github.com/oniondelta/Onion_Trime_Files) | 手機同文輸入法 Trime 洋蔥方案（注音、雙拼、形碼） |
-| Shell | [gi8lino/k8s-gitops](https://github.com/gi8lino/k8s-gitops) | My Kubernetes cluster built with K3s and managed by Flux v2 |
 | PHP, JavaScript, HTML, CSS | [juergenweb/FrontendForms](https://github.com/juergenweb/FrontendForms) | A module for ProcessWire CMS to create and validate forms on the frontend easily using the Valitron library. |
 | Java, HTML, CSS, Dockerfile | [velmafxx/ShadowTool](https://github.com/velmafxx/ShadowTool) | This script is designed to automatically generate seed phrases and check balances for Tron networks |
 | Java, HTML, CSS, Dockerfile | [hoangpm07/SeedGn](https://github.com/hoangpm07/SeedGn) | Mnemonic seed phrase generator |
@@ -648,8 +661,8 @@
 | Python | [Sapphire-star/PFCR](https://github.com/Sapphire-star/PFCR) |  |
 | C, Assembly, Batchfile, Go, Shell | [RSSU-Shellcode/Gleam-RT](https://github.com/RSSU-Shellcode/Gleam-RT) | A runtime that can hide instruction and memory data in the sleep time. |
 | Python | [akazdayo/pixelart](https://github.com/akazdayo/pixelart) | Pixelart converter |
-| Lua, Shell, Vim Snippet, JavaScript, Scheme | [schardev/dotfiles](https://github.com/schardev/dotfiles) | All my environment setup scripts and dotfiles. |
 | F#, Python, Batchfile, C, Rust | [qwbarch/mirage](https://github.com/qwbarch/mirage) | A mod that mimics player voices for Unity games |
+| Lua, Shell, Vim Snippet, JavaScript, Scheme | [schardev/dotfiles](https://github.com/schardev/dotfiles) | All my environment setup scripts and dotfiles. |
 | Python | [AlienMajik/pwnagotchi_plugins](https://github.com/AlienMajik/pwnagotchi_plugins) | adsbsniffer |
 | Batchfile | [TwentyCat/l4d2_survivors_converter](https://github.com/TwentyCat/l4d2_survivors_converter) | Provides a fast method to convert models among eight Left 4 Dead 2 survivors. |
 | Astro, TypeScript, CSS, Svelte, JavaScript, MDX, Shell | [Vendicated/vendicated.dev](https://github.com/Vendicated/vendicated.dev) | My personal website. Just a mirror, actual repo is on Codeberg! See the README!! |
@@ -730,10 +743,10 @@
 | TypeScript, Rust, Shell, Dockerfile, Python, HTML, JavaScript, CSS | [infumap/infumap](https://github.com/infumap/infumap) | a less transient computer desktop |
 | TypeScript, JavaScript | [efritz/aidev](https://github.com/efritz/aidev) | Personalized LLM assistant in VSCode + terminal. |
 | Swift, C | [nmggithub/Kass](https://github.com/nmggithub/Kass) | Kass: A security research tool. |
-| Python | [Nielioo/Nielioo](https://github.com/Nielioo/Nielioo) | My Personal Repository |
 | TypeScript, JavaScript, HTML, CSS, Dockerfile, PHP | [Doenet/DoenetTools](https://github.com/Doenet/DoenetTools) |  |
-| TypeScript, JavaScript, HTML | [Team-Tiki/tiki-client](https://github.com/Team-Tiki/tiki-client) | TEAM의 A부터 Z까지 Ti.Ki에서, TiKi의 클라이언트 레포지토리입니다. |
+| Python | [Nielioo/Nielioo](https://github.com/Nielioo/Nielioo) | My Personal Repository |
 | C, Assembly, Makefile, Perl, Shell, Python, C++, Roff, SmPL, Yacc, Lex, Awk, UnrealScript, Gherkin, M4, Clojure, XS, sed | [user-why-red/android_kernel_xiaomi_sdm660_419](https://github.com/user-why-red/android_kernel_xiaomi_sdm660_419) | San-Kernel, GPL kernel source (4.19.X) for SDM660 devices. Latest CLO tags are merged. For inlining with custom rom, use branch: stable-release |
+| TypeScript, JavaScript, HTML | [Team-Tiki/tiki-client](https://github.com/Team-Tiki/tiki-client) | TEAM의 A부터 Z까지 Ti.Ki에서, TiKi의 클라이언트 레포지토리입니다. |
 | Python, Shell | [sam1am/poetroid](https://github.com/sam1am/poetroid) |  |
 | HTML | [manjaro-arm/opi5-images](https://github.com/manjaro-arm/opi5-images) |  |
 | HTML, Batchfile | [Kyxie/kyxie.github.io](https://github.com/Kyxie/kyxie.github.io) | This is my personal website. |
@@ -758,8 +771,8 @@
 | C++, C | [Nikewaybuck/Nebula-Executor](https://github.com/Nikewaybuck/Nebula-Executor) | Nebula is a new Lua executor for Roblox. It's simple, straightforward, we ensure quick patches after Roblox updates. |
 | Lua | [3amneoz/Roblox-Celery](https://github.com/3amneoz/Roblox-Celery) | Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creativity and explore new dimensions within their favorite Roblox games. |
 | Luau | [Filosofosaurio/Delta-Executor](https://github.com/Filosofosaurio/Delta-Executor) | Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions. |
-| C++ | [DatBoiComfy/Pixel-Gun-3D](https://github.com/DatBoiComfy/Pixel-Gun-3D) | A free and open-source utility modification for PixelGun3D featuring AimBot, ESP, Infinite Ammo, Rapid Fire, and more. Created for educational and security research purposes, this software includes various enhancements and cheats for the game. Always available for free with source code included. |
 | Java | [Nappxy/Evon-Executor](https://github.com/Nappxy/Evon-Executor) | Evon supports the Unified Naming Convention, allowing Evon to be compatible with 99.9% of modern scripts. |
+| C++ | [DatBoiComfy/Pixel-Gun-3D](https://github.com/DatBoiComfy/Pixel-Gun-3D) | A free and open-source utility modification for PixelGun3D featuring AimBot, ESP, Infinite Ammo, Rapid Fire, and more. Created for educational and security research purposes, this software includes various enhancements and cheats for the game. Always available for free with source code included. |
 | Go | [rtr7/kernel](https://github.com/rtr7/kernel) | Linux kernel images for router7 |
 | Nix | [Lyndeno/nix-config](https://github.com/Lyndeno/nix-config) |  |
 | JavaScript, CSS, PLpgSQL, Dockerfile | [hifiwi-fi/breadcrum.net](https://github.com/hifiwi-fi/breadcrum.net) | 🥖 breadcrum.net: bookmark, read, watch and listen to anything |
@@ -823,8 +836,8 @@
 | R, Python, TeX, Jupyter Notebook | [KITmetricslab/hospitalization-nowcast-hub](https://github.com/KITmetricslab/hospitalization-nowcast-hub) | Collecting nowcasts of the 7-day hospitalization incidence in Germany. |
 | Rust | [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) | Yet Another GDB TUI Frontend |
 | Java | [Sven65/Slabbo](https://github.com/Sven65/Slabbo) | Slab shops for Spigot |
-| TypeScript, Astro, JavaScript, CSS, Dockerfile | [UseInterstellar/Interstellar-Astro](https://github.com/UseInterstellar/Interstellar-Astro) | The latest version of Interstellar |
 | Go | [vroomy/vroomy](https://github.com/vroomy/vroomy) | Vroomy is a plugin-based server |
+| TypeScript, Astro, JavaScript, CSS, Dockerfile | [UseInterstellar/Interstellar-Astro](https://github.com/UseInterstellar/Interstellar-Astro) | The latest version of Interstellar |
 | JavaScript, CSS, HTML | [ROBlNET13/pvz](https://github.com/ROBlNET13/pvz) | https://roblnet13.github.io/pvz/game/iframe to play |
 | C++, Shell | [programming-team-code/programming_team_code](https://github.com/programming-team-code/programming_team_code) | ucf fanclub |
 | SCSS, MDX, JavaScript, HTML | [RoleModel/optics](https://github.com/RoleModel/optics) | Optics, a RoleModel Design System is an scss package that provides base styles and components that can be integrated and customized in a variety of projects. |
@@ -936,8 +949,8 @@
 | Lua | [therealmistake1/FPS-Boost](https://github.com/therealmistake1/FPS-Boost) | FPS Boost is a batch tweaking script that optimizes your system to provide the best gaming experience possible. It is free and open-source, and works on Windows 10 & 11! |
 | Lua | [Notri9907/Solara-Executor](https://github.com/Notri9907/Solara-Executor) | Solara-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. |
 | Emacs Lisp, Python, Shell, Vim Script, Lua, CSS | [deuill/dotfiles](https://github.com/deuill/dotfiles) | Configuration file management for the 21st century |
-| Lua | [Nosejaja777/Horizon-Roblox](https://github.com/Nosejaja777/Horizon-Roblox) | Horizon Executor is a powerful Roblox script executor designed to enhance your gameplay experience. |
 | Rust, Dockerfile | [foxy5679m/Executor-Lua-Roblox](https://github.com/foxy5679m/Executor-Lua-Roblox) | Introducing Santo Ware, an extraordinary Roblox Executor! Developed exclusively for Roblox game enthusiasts, this external software provides unparalleled gaming benefits. Gain the upper hand by unlocking hidden features, accessing exclusive content, and conquering your favorite Roblox games effortlessly. |
+| Lua | [Nosejaja777/Horizon-Roblox](https://github.com/Nosejaja777/Horizon-Roblox) | Horizon Executor is a powerful Roblox script executor designed to enhance your gameplay experience. |
 | Shell, Batchfile | [HELLBOY017/Pong_fastboot_flasher](https://github.com/HELLBOY017/Pong_fastboot_flasher) |  |
 | JavaScript, HTML, CSS | [surgi1/adventofcode](https://github.com/surgi1/adventofcode) | ES6 solutions to Advent of Code puzzles. |
 | JavaScript, Shell, Python, TypeScript, jq | [zzorba/arkham-cards-data](https://github.com/zzorba/arkham-cards-data) | Repo for campaign guide data for ArkhamCards app/website |
@@ -951,8 +964,8 @@
 | Go, Dockerfile | [disgoorg/bot-template](https://github.com/disgoorg/bot-template) | Easy DisGo Bot Template |
 | TypeScript, JavaScript | [datagutt/node-osmo](https://github.com/datagutt/node-osmo) | Typescript library for controlling DJI Osmo Action 4 and Pocket 3 using BLE (Bluetooth Low Energy) |
 | Clojure, Fennel, Lua, JavaScript, Ink, Emacs Lisp, CSS, Shell, HTML | [russmatney/clawe](https://github.com/russmatney/clawe) | Clojure REPL-based WM hacking on linux and osx |
-| JavaScript, Shell | [anvaka/streaming-svg-parser](https://github.com/anvaka/streaming-svg-parser) | Streaming SVG/XML parser with zero dependencies |
 | Emacs Lisp, Shell | [LionyxML/lemacs](https://github.com/LionyxML/lemacs) | The LEmacs Emacs config - Same experience, both on TUI and GUI |
+| JavaScript, Shell | [anvaka/streaming-svg-parser](https://github.com/anvaka/streaming-svg-parser) | Streaming SVG/XML parser with zero dependencies |
 | C#, Python, TypeScript, JavaScript | [Nenkai/GTAdhocToolchain](https://github.com/Nenkai/GTAdhocToolchain) | Toolchain for the Gran Turismo scripting language, Adhoc, allowing fully custom game code. |
 | C, Makefile, Assembly, Shell | [Moldytzu/GaOS](https://github.com/Moldytzu/GaOS) | Gallium Operating System |
 | TypeScript, Elixir, Go, Python, HTML, CSS, Smarty, Makefile, HCL, Dockerfile, Liquid, Mustache, JavaScript, Shell | [pluralsh/console](https://github.com/pluralsh/console) | Plural's All-In-One Control Plane for Kubernetes Management |
@@ -968,7 +981,6 @@
 | HTML, Shell | [debridmediamanager/hashlists](https://github.com/debridmediamanager/hashlists) | Share your media library or mirror others |
 | HTML, MATLAB, C, Limbo | [jamesjcai/scGEAToolbox](https://github.com/jamesjcai/scGEAToolbox) | scGEAToolbox: Matlab toolbox for single-cell gene expression analyses |
 | Rust, Just | [archlinux/alpm](https://github.com/archlinux/alpm) | Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror) |
-| Java | [Fexcraft/FVTM](https://github.com/Fexcraft/FVTM) | Fex's Vehicle and Transportation Mod |
 | HTML, C, Makefile, Shell, JavaScript, Lua, CSS, Roff, Perl, Less, C++, Pascal, M4, Vala, Python, PHP, Java, C#, Assembly, Visual Basic .NET, Yacc, Lex, Awk, Ruby, CMake, Dockerfile, Vim Script, Logos | [ofmodemsandmen/ROOterSource2102](https://github.com/ofmodemsandmen/ROOterSource2102) | ROOter using 21.02 |
 | C# | [prom-client-net/prom-client-metricpusher](https://github.com/prom-client-net/prom-client-metricpusher) | Push metrics to PushGateway |
 | Java | [CapyKing10/CapyAddon](https://github.com/CapyKing10/CapyAddon) | A utility meteor addon made by me |
@@ -1113,8 +1125,8 @@
 | C++ | [hly1204/library](https://github.com/hly1204/library) | Algorithms in C++17 |
 | TypeScript, Vue | [adproqwq/MakeGKDInspectBetter](https://github.com/adproqwq/MakeGKDInspectBetter) | GKD 网页审查工具增强 用户脚本 |
 | Haskell | [Shimuuar/fixed-vector](https://github.com/Shimuuar/fixed-vector) | Fixed length vector for haskell |
-| Vim Script | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. |
 | Julia, JetBrains MPS | [JuliaSmoothOptimizers/QPSReader.jl](https://github.com/JuliaSmoothOptimizers/QPSReader.jl) | A reader for MPS and QPS files |
+| Vim Script | [girishji/vimsuggest](https://github.com/girishji/vimsuggest) | Auto-completion for Vim's command-line. |
 | Java, Shell, Groovy | [nielsbasjes/conventional-commits-maven-release](https://github.com/nielsbasjes/conventional-commits-maven-release) | A version policy for the maven-release-plugin that uses the Conventional Commits pattern. |
 | Julia | [JuliaSmoothOptimizers/QuadraticModels.jl](https://github.com/JuliaSmoothOptimizers/QuadraticModels.jl) | Data structures for linear and quadratic optimization problems based on NLPModels.jl |
 | Java, ANTLR, HTML, Shell | [nielsbasjes/dsmr-tools](https://github.com/nielsbasjes/dsmr-tools) | A java simulator/parser/toolkit for the Dutch Smart Meter Requirements (DSMR) |
@@ -1148,8 +1160,8 @@
 | C++, CMake, Python, C, Shell | [KDE/kgeotag](https://github.com/KDE/kgeotag) | Photo geotagging program |
 | Java | [ManyouTeam/UltimateShop](https://github.com/ManyouTeam/UltimateShop) | A power plugin for Spigot that provide shop feature. |
 | Shell, CSS, PHP, HTML | [MohammedRaouf99/Evil-AP](https://github.com/MohammedRaouf99/Evil-AP) |  tool to help you automate the evil twin attack in a specific, easy and quick way  |
-| Vue, TypeScript, SCSS, JavaScript, Shell | [dxlliv/planner](https://github.com/dxlliv/planner) | Plan your Instagram profiles like a pro |
 | Nix, Lua, Shell, Python, CSS, Vim Script | [julius-boettger/dotfiles](https://github.com/julius-boettger/dotfiles) | NixOS configuration and other dotfiles |
+| Vue, TypeScript, SCSS, JavaScript, Shell | [dxlliv/planner](https://github.com/dxlliv/planner) | Plan your Instagram profiles like a pro |
 | Python, C# | [Icexbb/SekaiTools](https://github.com/Icexbb/SekaiTools) | Project Sekai Video Subtitle Maker for New UI after 3rd Anniversary of Japanese Server |
 | Python, Makefile | [MinishLab/tokenlearn](https://github.com/MinishLab/tokenlearn) | Pre-train Static Word Embeddings |
 | Python, Shell | [lao4j/proxyRepository](https://github.com/lao4j/proxyRepository) |  |
@@ -1260,8 +1272,8 @@
 | JavaScript, Go, Smarty, TypeScript, Less, SCSS, CSS, Shell, HTML, Makefile, EJS | [infinilabs/console](https://github.com/infinilabs/console) | 🏵️ A very lightweight multi-cluster, cross-version unified Elasticsearch / Opensearch / Easysearch governance platform. |
 | Objective-C, Swift, C, Shell | [Darock-Studio/Watch-Browser](https://github.com/Darock-Studio/Watch-Browser) | Browser on Apple Watch, Supports direct WKWebView access. |
 | Go, Makefile | [yyle88/yyle88](https://github.com/yyle88/yyle88) | self-introduction page |
-| Lua | [Malekitsu/Maw-Mod-MMMerge](https://github.com/Malekitsu/Maw-Mod-MMMerge) | Maw Mod code adapted for MMMerge |
 | TypeScript, SCSS, JavaScript | [ganta/marktone](https://github.com/ganta/marktone) | Change a Rich Text input area to Markdown input area on kintone |
+| Lua | [Malekitsu/Maw-Mod-MMMerge](https://github.com/Malekitsu/Maw-Mod-MMMerge) | Maw Mod code adapted for MMMerge |
 | TypeScript, CSS, Dockerfile, HTML, JavaScript | [simrail/map-v2](https://github.com/simrail/map-v2) | Landing page and map of the simrail.app website |
 | Go, Dockerfile | [OpenTreeHole/treehole_next](https://github.com/OpenTreeHole/treehole_next) | Next generation of Open Tree Hole written in go |
 | Python, HTML | [waydroid/OTA](https://github.com/waydroid/OTA) |  |
@@ -1432,8 +1444,8 @@
 | Jupyter Notebook, Python, Shell | [slac-lcls/smalldata_tools](https://github.com/slac-lcls/smalldata_tools) | code to facilitate production of LCLS small data files and the analysis thereof |
 | Python, Shell | [likyoo/SemiCD-VL](https://github.com/likyoo/SemiCD-VL) | The pytorch implementation for "SemiCD-VL: Visual-Language Model Guidance Makes Better Semi-supervised Change Detector" |
 | Python, C++, CMake, C#, C, Shell, Makefile | [SparkRibeiro21/charmie_ws](https://github.com/SparkRibeiro21/charmie_ws) | LAR@Home CHARMIE ROS2 Workspace Repository |
-| Java, Kotlin, Groovy | [micronaut-projects/micronaut-picocli](https://github.com/micronaut-projects/micronaut-picocli) | Integration between Micronaut and PicoCLI |
 | CMake, C++, Dockerfile | [edgeimpulse/example-standalone-inferencing-zephyr](https://github.com/edgeimpulse/example-standalone-inferencing-zephyr) |  |
+| Java, Kotlin, Groovy | [micronaut-projects/micronaut-picocli](https://github.com/micronaut-projects/micronaut-picocli) | Integration between Micronaut and PicoCLI |
 | Python | [ninoseki/bukowski](https://github.com/ninoseki/bukowski) | A pyproject.toml conversion tool for Poetry to uv migration |
 | C++, Starlark | [google/netkat](https://github.com/google/netkat) | Domain specific language (DSL) and system for specifying, programming, and reasoning about packet-switched networks |
 | Nix, Common Lisp, Shell, JavaScript, C, Scheme, CSS | [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) |  |
@@ -1631,8 +1643,8 @@
 | MDX, JavaScript, TypeScript, SCSS, Shell, Makefile, CSS, Mustache, Dockerfile | [spectrocloud/librarium](https://github.com/spectrocloud/librarium) | Palette/VerteX documentation |
 | Java, HTML, CSS, JavaScript | [sakaicontrib/attendance](https://github.com/sakaicontrib/attendance) | A simple Sakai tool for tracking attendance that integrates with the Gradebook. |
 | Stylus, CSS, JavaScript, HTML | [ricewind012/userstyles](https://github.com/ricewind012/userstyles) |  |
-| Rust, Makefile, Nix, Dockerfile, Shell | [lstrojny/prometheus-weathermen](https://github.com/lstrojny/prometheus-weathermen) | A prometheus exporter for weather data |
 | Shell | [CommanderRoot/Twitch-experiments](https://github.com/CommanderRoot/Twitch-experiments) | A repo to keep the diff of https://www.twitch.tv/experiments.json |
+| Rust, Makefile, Nix, Dockerfile, Shell | [lstrojny/prometheus-weathermen](https://github.com/lstrojny/prometheus-weathermen) | A prometheus exporter for weather data |
 | TypeScript, SCSS, JavaScript, CSS, HTML, Dockerfile, Shell | [waldur/waldur-homeport](https://github.com/waldur/waldur-homeport) | Waldur HomePort is web-based client for the Waldur MasterMind. |
 | PHP | [platformsh-templates/drupal9](https://github.com/platformsh-templates/drupal9) | Drupal 9 (Composer) template for Platform.sh. |
 | Rust, PLpgSQL, Dockerfile | [helium/oracles](https://github.com/helium/oracles) | Oracles for Helium subDAOs |
@@ -1658,15 +1670,15 @@
 | Java | [l2x6/pom-tuner](https://github.com/l2x6/pom-tuner) | A library for analyzing and programmatic editing of Maven pom.xml files. |
 | Python | [Disty0/ipex_to_cuda](https://github.com/Disty0/ipex_to_cuda) | Adapt IPEX to CUDA |
 | Go, Dockerfile, Shell | [flaviostutz/simple-file-server](https://github.com/flaviostutz/simple-file-server) | Simple HTTP file server. POST and GET uploaded files with storage. Useful for low scale file needs and mocking |
-| Python, Dockerfile | [alwaysai/spatial-ai-webinar-repo](https://github.com/alwaysai/spatial-ai-webinar-repo) | Demo Applications for Spatial AI Webinar  |
 | Go, Makefile | [0xsequence/go-sequence](https://github.com/0xsequence/go-sequence) | Sequence SDK for Go |
+| Python, Dockerfile | [alwaysai/spatial-ai-webinar-repo](https://github.com/alwaysai/spatial-ai-webinar-repo) | Demo Applications for Spatial AI Webinar  |
 | Python, Dockerfile | [alwaysai/people-counter](https://github.com/alwaysai/people-counter) |  |
 | Vue, JavaScript, SCSS, TypeScript | [ramijames/vewrite](https://github.com/ramijames/vewrite) | A project management tool for content writing teams. We are focused on pushing your deliverables through workflows so that you can focus on writing and not process. |
-| Python, Shell | [ciresdem/cudem](https://github.com/ciresdem/cudem) | CUDEM contains scripts, programs and API for use in generating and processing Digital Elevation Models |
 | Python | [mishakorzik/mishakorzik.menu.io](https://github.com/mishakorzik/mishakorzik.menu.io) |  |
+| Python, Shell | [ciresdem/cudem](https://github.com/ciresdem/cudem) | CUDEM contains scripts, programs and API for use in generating and processing Digital Elevation Models |
 | JavaScript, Fluent, Shell | [datastreamapp/schema](https://github.com/datastreamapp/schema) | DataStream Schema |
-| Java, HTML, CSS, Python, Shell, Dockerfile, XSLT, JavaScript | [USACE/cwms-data-api](https://github.com/USACE/cwms-data-api) | Corps Water Management System RESTful Data Service |
 | Python, Cython | [chython/chytorch](https://github.com/chython/chytorch) | Library for modeling molecules and reactions in pytorch |
+| Java, HTML, CSS, Python, Shell, Dockerfile, XSLT, JavaScript | [USACE/cwms-data-api](https://github.com/USACE/cwms-data-api) | Corps Water Management System RESTful Data Service |
 | Shell | [islemci/cliwrap](https://github.com/islemci/cliwrap) | 👀 The Spotify Wrapped for your terminal! |
 | C# | [ErikMuir/Bravura](https://github.com/ErikMuir/Bravura) | A .NET Standard music theory class library |
 | Python, Makefile | [Percona-Lab/pmm-submodules](https://github.com/Percona-Lab/pmm-submodules) | A repo dedicated to building Percona Monitoring and Management (PMM) |
@@ -1680,8 +1692,8 @@
 | JavaScript, HTML, CSS, Shell, Nunjucks | [shift-org/shift-docs](https://github.com/shift-org/shift-docs) | Shift2Bikes: website and calendar for shift and pedalpalooza |
 | Python, Shell | [benbenbang/types-confluent-kafka](https://github.com/benbenbang/types-confluent-kafka) | Typings for Confluent Kafka Python Client |
 | Pony, Makefile | [ponylang/peg](https://github.com/ponylang/peg) | A parsing expression grammar package for Pony |
-| JavaScript, C, Lua, HTML, Shell, CSS, Makefile, UnrealScript, Perl, Java, C#, Visual Basic .NET, Yacc, Lex, CMake, Python, Ruby | [x-wrt/luci](https://github.com/x-wrt/luci) | a fork of https://git.openwrt.org/project/luci.git |
 | JavaScript, SCSS, Svelte, HTML, Smarty, CSS | [jfeltkamp/cookiesjsr](https://github.com/jfeltkamp/cookiesjsr) | Easily expandable cookie consent tool. |
+| JavaScript, C, Lua, HTML, Shell, CSS, Makefile, UnrealScript, Perl, Java, C#, Visual Basic .NET, Yacc, Lex, CMake, Python, Ruby | [x-wrt/luci](https://github.com/x-wrt/luci) | a fork of https://git.openwrt.org/project/luci.git |
 | Vue, TypeScript, JavaScript, Dockerfile, CSS, HTML, Shell | [dfpc-coe/CloudTAK](https://github.com/dfpc-coe/CloudTAK) | Full Featured in-browser TAK Client powered by AWS |
 | Nix, CSS, Shell | [Guekka/nixos-server](https://github.com/Guekka/nixos-server) | Configuration files for my NixOS server |
 | Python, HCL, Jupyter Notebook, JavaScript, Shell, Makefile, Gherkin, Dockerfile, Batchfile | [LBHackney-IT/Data-Platform](https://github.com/LBHackney-IT/Data-Platform) | Hackney Data Platform Infrastructure and Code |
@@ -1715,8 +1727,8 @@
 | TypeScript, Shell, PowerShell, CSS, JavaScript | [Ac6Embedded/vscode-zephyr-workbench](https://github.com/Ac6Embedded/vscode-zephyr-workbench) | Zephyr Workbench extension for Visual Studio Code |
 | C++, Lua, C, Shell, Dockerfile | [Black-Tek/BlackTek-Server](https://github.com/Black-Tek/BlackTek-Server) |  |
 | Rust, Gherkin, Python, Jinja, Shell | [DataDog/datadog-api-client-rust](https://github.com/DataDog/datadog-api-client-rust) | Rust client for the Datadog API |
-| JavaScript, Makefile, Go | [viamrobotics/api](https://github.com/viamrobotics/api) |  |
 | Python, Shell | [project-lux/data-pipeline](https://github.com/project-lux/data-pipeline) | Data pipeline to harvest, transform, reconcile, enrich and export Linked Art data for LUX (or other system) |
+| JavaScript, Makefile, Go | [viamrobotics/api](https://github.com/viamrobotics/api) |  |
 | R, CSS, JavaScript, Dockerfile | [simon-smart88/shinyscholar](https://github.com/simon-smart88/shinyscholar) | A template for creating modular shiny applications that meet academic standards and are reproducible |
 | Go, Shell, Dockerfile, Makefile | [0chain/blobber](https://github.com/0chain/blobber) | A storage provider (blobber) interface to the blockchain and consumers of storage. |
 | Java | [dumbo-the-developer/Duels](https://github.com/dumbo-the-developer/Duels) |  |
@@ -1862,8 +1874,8 @@
 | Lua, Shell, Vim Snippet, PowerShell, Vim Script, Batchfile, TypeScript, Go, JavaScript, Vue, Python, CSS | [tadashi-aikawa/owl-playbook](https://github.com/tadashi-aikawa/owl-playbook) | Playbook both Linux and Windows for me |
 | TypeScript | [sodazone/pjs-sdk](https://github.com/sodazone/pjs-sdk) | Polkadot and Substrate Typescript SDK |
 | TypeScript, Jsonnet, JavaScript, Go, Shell, Dockerfile, CSS | [grafana/explore-profiles](https://github.com/grafana/explore-profiles) | Explore Profiles is a native Grafana application designed to integrate seamlessly with Pyroscope, the open-source continuous profiling platform, providing a smooth, query-less experience for browsing and analyzing profiling data. |
-| C, Python, CMake | [jaxa/racs2_bridge](https://github.com/jaxa/racs2_bridge) | RACS2 bridge - bridging between the ROS2 and cFS System |
 | Java, Shell | [ifinal-io/final-frameworks](https://github.com/ifinal-io/final-frameworks) | 基于SpringBoot二次开发，简化Java服务端开发 |
+| C, Python, CMake | [jaxa/racs2_bridge](https://github.com/jaxa/racs2_bridge) | RACS2 bridge - bridging between the ROS2 and cFS System |
 | HTML | [cloudfoundry/docs-buildpacks](https://github.com/cloudfoundry/docs-buildpacks) |  |
 | TypeScript, C#, JavaScript, HTML, SCSS, Shell, Dockerfile, Batchfile | [hmcts/vh-video-web](https://github.com/hmcts/vh-video-web) |  |
 | PHP, Makefile | [nextcloud/lookup-server](https://github.com/nextcloud/lookup-server) | :eyes: Lookup server to find remote users for federated sharing |
@@ -1889,16 +1901,16 @@
 | HTML, TeX | [suttacentral/editions](https://github.com/suttacentral/editions) | Generated files for SuttaCentral editions |
 | Roff, Shell, Python, CMake, Perl, Vim Script, Makefile | [gentoo-mirror/pentoo](https://github.com/gentoo-mirror/pentoo) | The overlay contains new or updated security tools. |
 | Shell, Awk | [novikovalab/piawka](https://github.com/novikovalab/piawka) | The powerful `awk` script to calculate pi, Dxy and Fst in polyploid VCF files with mixed-ploidy groups support |
-| JavaScript, SCSS, MDX, Handlebars, Shell, HTML, CSS | [1024pix/pix-ui](https://github.com/1024pix/pix-ui) | Pix-UI is the implementation of Pix design principles and guidelines for its products. |
 | Java | [Halfmoonly/feignx-plugin](https://github.com/Halfmoonly/feignx-plugin) | 插件开发：IDEA插件市场搜索FeignX。实时动态检测并解析目标接口，跨模块实现FeignClient接口与远程ApiController之间方法级别的精确导航跳转 |
+| JavaScript, SCSS, MDX, Handlebars, Shell, HTML, CSS | [1024pix/pix-ui](https://github.com/1024pix/pix-ui) | Pix-UI is the implementation of Pix design principles and guidelines for its products. |
 | PHP, CSS, JavaScript | [Kazuma275/Rayito-de-Sol](https://github.com/Kazuma275/Rayito-de-Sol) | Rayito de Sol is a web application for renting a beachfront apartment in Calahonda, Costa del Sol. Built with HTML, CSS, JavaScript, PHP, and MariaDB, the site offers features such as user registration, login, language selection, and online booking. Deployed on Plesk, this project provides a seamless rental experience for guests |
 | TypeScript, Vue, SCSS, JavaScript, Shell, HTML, CSS, Emacs Lisp, Batchfile, Python | [milaboratory/platforma](https://github.com/milaboratory/platforma) | Platforma.bio: SDK |
 | Rich Text Format, HTML, Java, Python | [ietf/wiki.ietf.org](https://github.com/ietf/wiki.ietf.org) | Contents of wiki.ietf.org, the Internet Engineering Task Force community wiki. |
 | Python | [mahan-hosseini/AutoGaitA](https://github.com/mahan-hosseini/AutoGaitA) | Automatic Gait Analysis in Python |
 | TypeScript, Vue, SCSS, XSLT, Shell, JavaScript, PowerShell, Dockerfile | [plentymarkets/plentyshop-pwa](https://github.com/plentymarkets/plentyshop-pwa) | plentyShop PWA Boilerplate - Using Nuxt 3 and Vue Storefront |
 | TypeScript, CSS, JavaScript | [codescene-oss/codescene-vscode](https://github.com/codescene-oss/codescene-vscode) | VS Code extension providing CodeScene analysis functionality. |
-| Java, C++, C, Assembly, Objective-C, HTML, XSLT, Roff, M4, Shell, Python, JavaScript, TypeScript, Makefile, Noir, Mathematica, DTrace, Metal, Awk, Perl, GDB, CSS, sed, AppleScript, Raku, Pawn, Batchfile, Red, SourcePawn | [openjdk/jdk21u-dev](https://github.com/openjdk/jdk21u-dev) | https://openjdk.org/projects/jdk-updates |
 | Scala, Java, JavaScript, HTML, TeX, Shell | [djnzx/scala-course](https://github.com/djnzx/scala-course) |  |
+| Java, C++, C, Assembly, Objective-C, HTML, XSLT, Roff, M4, Shell, Python, JavaScript, TypeScript, Makefile, Noir, Mathematica, DTrace, Metal, Awk, Perl, GDB, CSS, sed, AppleScript, Raku, Pawn, Batchfile, Red, SourcePawn | [openjdk/jdk21u-dev](https://github.com/openjdk/jdk21u-dev) | https://openjdk.org/projects/jdk-updates |
 | TypeScript, JavaScript, CSS | [Flamindemigod/haruhi](https://github.com/Flamindemigod/haruhi) | A React based anime streaming platform with Anilist integration |
 | Python, TypeScript, JavaScript | [jupyterlite/xeus](https://github.com/jupyterlite/xeus) | JupyterLite loader for Xeus kernels |
 | JavaScript, C#, TypeScript, ASP.NET, Visual Basic .NET | [WebFormsCore/WebFormsCore](https://github.com/WebFormsCore/WebFormsCore) |  |
@@ -1970,8 +1982,8 @@
 | TypeScript, JavaScript, CSS, Shell, HTML, MDX | [kgu-clab/clab-platforms](https://github.com/kgu-clab/clab-platforms) | ✨ 경기대학교 AI컴퓨터공학부 개발동아리 C-Lab의 공식 프론트엔드 시스템이에요 |
 | JavaScript, TypeScript | [xmoxmo/bncr](https://github.com/xmoxmo/bncr) |  |
 | Dockerfile | [redhat-openshift-ecosystem/redhat-marketplace-operators](https://github.com/redhat-openshift-ecosystem/redhat-marketplace-operators) | Production catalog for Red Hat Marketplace Operator Bundles  |
-| C#, HTML, CSS, Shell, JavaScript, Dockerfile | [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) | E2E encrypted password and alias manager |
 | TypeScript, MDX, JavaScript, CSS, HTML, Handlebars | [solid-design-system/solid](https://github.com/solid-design-system/solid) | Monorepo for Union Investment's Solid Design System. |
+| C#, HTML, CSS, Shell, JavaScript, Dockerfile | [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) | E2E encrypted password and alias manager |
 | C++, CMake | [hannes-harnisch/Cero](https://github.com/hannes-harnisch/Cero) | An (extremely incomplete) high-level low-level programming language. |
 | Dockerfile, Python, Shell, Groovy | [crunchy-devops/jenkins-pic](https://github.com/crunchy-devops/jenkins-pic) | CI/CD platform using Jenkins, docker, Sonar, Nexus, Jmeter, Selenium, Ansible, AWX, Grafana, Prometheus, Zabbix, Stress-ng |
 | C#, Dockerfile | [renatogroffe/OpenTelemetry-Grafana_DevOpsExperience-2024-08](https://github.com/renatogroffe/OpenTelemetry-Grafana_DevOpsExperience-2024-08) | Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a edição de Agosto-2024 do DevOps Experience. |
@@ -2004,8 +2016,8 @@
 | Solidity, Shell, Makefile | [superform-xyz/SuperVaults](https://github.com/superform-xyz/SuperVaults) |  |
 | Python, Batchfile, Makefile | [firebolt-db/firebolt-python-sdk](https://github.com/firebolt-db/firebolt-python-sdk) | The Python SDK for Firebolt |
 | MATLAB, Python | [VervaekeLab/NANSEN](https://github.com/VervaekeLab/NANSEN) | Hennestad et al. 2022 |
-| Python, Makefile | [eclypse-org/eclypse](https://github.com/eclypse-org/eclypse) | An Edge-CLoud pYthon Platform for Simulated runtime Environments |
 | Python, Jupyter Notebook, Shell | [yangzhou12/BenchX](https://github.com/yangzhou12/BenchX) | BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays |
+| Python, Makefile | [eclypse-org/eclypse](https://github.com/eclypse-org/eclypse) | An Edge-CLoud pYthon Platform for Simulated runtime Environments |
 | TypeScript, CSS, JavaScript, SCSS | [solendprotocol/suilend-public](https://github.com/solendprotocol/suilend-public) | Suilend public repo |
 | C++, Python, CMake, C | [shiguredo/sora-python-sdk](https://github.com/shiguredo/sora-python-sdk) | WebRTC SFU Sora Python SDK |
 | TypeScript, JavaScript | [Andarist/use-composed-ref](https://github.com/Andarist/use-composed-ref) |  |
@@ -2026,8 +2038,8 @@
 | TypeScript, Python, JavaScript, HTML, Jupyter Notebook, Shell, Dockerfile, CSS | [GraphScope/portal](https://github.com/GraphScope/portal) | A web-based management tool for GraphScope |
 | Java, CSS, HTML, JavaScript, TypeScript, SCSS, Shell, Dockerfile | [apache/myfaces-tobago](https://github.com/apache/myfaces-tobago) | Apache MyFaces Tobago |
 | JavaScript, Svelte, TypeScript, CSS, HTML | [arlac77/svelte-guard-history-router](https://github.com/arlac77/svelte-guard-history-router) | svelte guarded history router |
-| AutoHotkey, Shell, DIGITAL Command Language, JavaScript, CSS, EmberScript, Prolog, Nix, DM, M4 | [kisswiki/kisswiki](https://github.com/kisswiki/kisswiki) |  |
 | HTML, CSS, JavaScript, Ruby | [GeoNode/geonode.github.com](https://github.com/GeoNode/geonode.github.com) | GeoNode's Website |
+| AutoHotkey, Shell, DIGITAL Command Language, JavaScript, CSS, EmberScript, Prolog, Nix, DM, M4 | [kisswiki/kisswiki](https://github.com/kisswiki/kisswiki) |  |
 | Java | [PZDonny/DisplayEntityUtils](https://github.com/PZDonny/DisplayEntityUtils) | DisplayEntityUtils PaperMC 1.21+ Plugin by DonnyPZ |
 | Go, Makefile, Shell, Dockerfile | [RedHatInsights/edge-api](https://github.com/RedHatInsights/edge-api) | An API server for fleet edge management capabilities |
 | HTML, CSS, JavaScript, SCSS, Less | [hossain-khan/hossainkhan.com](https://github.com/hossain-khan/hossainkhan.com) | Static site for hossainkhan.com |
@@ -2337,8 +2349,8 @@
 | Jupyter Notebook, Python, C++, C, JavaScript, Cuda, Shell, HTML, CMake, CSS, SCSS, HCL, Dockerfile | [ScrollPrize/villa](https://github.com/ScrollPrize/villa) | The Vesuvius Challenge monorepo |
 | Python | [ruiqixu37/Nuvo](https://github.com/ruiqixu37/Nuvo) | Personal Implementation of the paper: Nuvo: Neural UV Mapping for Unruly 3D Representations |
 | JavaScript, CSS | [jenkins-infra/plugin-site](https://github.com/jenkins-infra/plugin-site) | This is the frontend application driven by data from the Jenkins Plugin Site API. |
-| Java, Shell | [jstachio/ezkv](https://github.com/jstachio/ezkv) | A non-opinionated Java bootstrapping configuration library |
 | Python, Shell, HTML, Just, Dockerfile | [mozmeao/basket](https://github.com/mozmeao/basket) | Mozilla's email newsletter subscription management API service |
+| Java, Shell | [jstachio/ezkv](https://github.com/jstachio/ezkv) | A non-opinionated Java bootstrapping configuration library |
 | TypeScript | [Omochice/renovate-config](https://github.com/Omochice/renovate-config) | Shareable configuration for Renovate within Deno project |
 | TypeScript, JavaScript, CSS, HTML, Shell | [herbie-fp/odyssey](https://github.com/herbie-fp/odyssey) | A platform for exploring floating-point expressions :boat: |
 | TypeScript, HTML, CSS, JavaScript | [nearform/playwright-firebase](https://github.com/nearform/playwright-firebase) | A plugin to handle Firebase authentication in Playwright tests |
@@ -2354,7 +2366,6 @@
 | C, Nix, Nushell, Shell, Dockerfile, Jinja | [heywoodlh/flakes](https://github.com/heywoodlh/flakes) |  |
 | JavaScript, HTML, CSS | [vuoro/pelimanni](https://github.com/vuoro/pelimanni) | Subtractive-synthesised Web Audio classical instruments and utilities for making dynamically looping music with them. |
 | Shell | [MOROway/moroway-app-oc](https://github.com/MOROway/moroway-app-oc) | MOROway App OC ("Open Cordova") |
-| C++, Objective-C++, CMake, Python, C#, Batchfile, Shell | [Tinaynox/maze](https://github.com/Tinaynox/maze) | 🎮 Personal open-source cross-platform game engine |
 | Perl, C, Shell, Lua, Python, Makefile, HTML | [mirainc/funes](https://github.com/mirainc/funes) | A caching forward proxy. |
 | CSS, HTML, TypeScript | [felix-bohlin/ui](https://github.com/felix-bohlin/ui) | A cutting edge UI library to suit professional teams as well as tinkering hobbyists.  |
 | QML, Shell | [L4ki/Wings-Plasma-Themes](https://github.com/L4ki/Wings-Plasma-Themes) | Wings Themes For Plasma Desktop |
@@ -2475,8 +2486,8 @@
 | HCL, Python | [wandb/terraform-google-wandb](https://github.com/wandb/terraform-google-wandb) | A Terraform module for deploying Weights & Biases on GCP. |
 | Dockerfile, Shell, PHP, Makefile | [instrumentisto/roundcube-docker-image](https://github.com/instrumentisto/roundcube-docker-image) | Roundcube Webmail Docker Image |
 | HTML, Python, JavaScript, CSS | [syncsketch/python-api](https://github.com/syncsketch/python-api) | Python-API to Create/Remove/Update/Delete and manage entries. |
-| Shell | [jitsi/jitsi-meet-debian-meta](https://github.com/jitsi/jitsi-meet-debian-meta) | Jitsi Meet meta debian package |
 | Go, Rust, C, Makefile | [pemoreau/advent-of-code](https://github.com/pemoreau/advent-of-code) | Solving Advent of Code |
+| Shell | [jitsi/jitsi-meet-debian-meta](https://github.com/jitsi/jitsi-meet-debian-meta) | Jitsi Meet meta debian package |
 | C#, Inno Setup, PowerShell | [Timthreetwelve/TimVer](https://github.com/Timthreetwelve/TimVer) | It's like Winver, only more |
 | Rust, TypeScript, Shell, Python | [erikerik116/Arbitrage-bot-solana](https://github.com/erikerik116/Arbitrage-bot-solana) | Arbitrage bots are tools that examine prices across exchanges and make trades to take advantage of discrepancies |
 | xBase, Shell, Python | [iamfang2019/MyTV](https://github.com/iamfang2019/MyTV) | mtvok |
@@ -2554,9 +2565,9 @@
 | TypeScript, JavaScript, HTML | [GMOD/tabix-js](https://github.com/GMOD/tabix-js) | Read Tabix-indexed files, either with .tbi or .csi indexes, in node or the browser |
 | GLSL, CSS, Nix, Lua, Shell | [DADA30000/dotfiles](https://github.com/DADA30000/dotfiles) | My personal .dotfiles repo |
 | Python, MATLAB | [VModugno/lab_sessions_COMP0211_PUBLIC](https://github.com/VModugno/lab_sessions_COMP0211_PUBLIC) |  |
-| TypeScript, JavaScript | [GMOD/bam-js](https://github.com/GMOD/bam-js) | Parse BAM and BAM index files in javascript for node and the browser |
-| C, NSIS, Shell, Batchfile, PostScript, CMake, Roff, Python | [bug400/lifutils](https://github.com/bug400/lifutils) | utilites for Hewlett Packard LIF files |
 | Vim Script, Vim Snippet, Shell, Makefile, Python, AutoHotkey, Roff, TypeScript, Haskell, HTML, Ruby, GDB, Clojure | [aiya000/dotfiles](https://github.com/aiya000/dotfiles) | my dotfiles for public. |
+| C, NSIS, Shell, Batchfile, PostScript, CMake, Roff, Python | [bug400/lifutils](https://github.com/bug400/lifutils) | utilites for Hewlett Packard LIF files |
+| TypeScript, JavaScript | [GMOD/bam-js](https://github.com/GMOD/bam-js) | Parse BAM and BAM index files in javascript for node and the browser |
 | C++, Starlark, Makefile | [bufbuild/protovalidate-cc](https://github.com/bufbuild/protovalidate-cc) | Protocol Buffer Validation for C++. |
 | Smarty | [devops-ia/helm-opencti](https://github.com/devops-ia/helm-opencti) | Helm chart for Open Cyber Threat Intelligence Platform |
 | R, Rez | [Cidree/forestdata](https://github.com/Cidree/forestdata) |  |
@@ -2580,8 +2591,8 @@
 | Scala, Shell, Ruby | [scala/scabot](https://github.com/scala/scabot) | Scala's PR&CI automation bot |
 | PHP | [netdragoon/canduccicep](https://github.com/netdragoon/canduccicep) | Canducci CEP of Brazil |
 | Kotlin, Java, Shell | [Simprints/Android-Simprints-ID](https://github.com/Simprints/Android-Simprints-ID) | Simprints core Android app |
-| TypeScript, JavaScript, MDX, SCSS, CSS | [InseeFr/Lunatic](https://github.com/InseeFr/Lunatic) | Library of questionnaire components |
 | JavaScript, Python, CSS, HTML, Shell, Dockerfile, Makefile | [ErlerPhilipp/Pix2Model](https://github.com/ErlerPhilipp/Pix2Model) | Photogrammetry for everyone! |
+| TypeScript, JavaScript, MDX, SCSS, CSS | [InseeFr/Lunatic](https://github.com/InseeFr/Lunatic) | Library of questionnaire components |
 | TypeScript, JavaScript, Makefile, CSS | [marmelab/curator-ai](https://github.com/marmelab/curator-ai) | An AI-powered news curator. It reads a list of articles, selects the best ones depending on a list of interests, and summarizes them into an easy-to-read news feed. Powered by the OpenAI API. |
 | SCSS, HTML, Ruby, JavaScript | [kubev2v/forklift-documentation](https://github.com/kubev2v/forklift-documentation) | Forklift documentation |
 | JavaScript | [WordPress/props-bot-action](https://github.com/WordPress/props-bot-action) | A GitHub Action for compiling a list of contributor props. |
@@ -2604,8 +2615,8 @@
 | R | [xufengduan/MacBehaviour](https://github.com/xufengduan/MacBehaviour) |  |
 | Python, Dockerfile | [CompImg/LST-AI](https://github.com/CompImg/LST-AI) | LST-AI - Deep Learning Ensemble for Accurate MS Lesion Segmentation |
 | Dart, Kotlin, Ruby, Swift, Java, Shell, Objective-C | [andannn/aniflow](https://github.com/andannn/aniflow) | An unofficial client for AniList. |
-| PHP | [yiisoft/user](https://github.com/yiisoft/user) | Convenient user identity management and access checking. |
 | Ruby, Slim, JavaScript, Jinja, CSS, Dockerfile | [Mati365/ckeditor5-rails](https://github.com/Mati365/ckeditor5-rails) | 🚀 CKEditor 5 Ruby gem - seamless integration with Rails through web components and helper methods. 💎 Supports both GPL and commercial licenses with flexible CDN options and translations. 🎨 Easy configuration with presets, extensive plugin system, and modern async loading. |
+| PHP | [yiisoft/user](https://github.com/yiisoft/user) | Convenient user identity management and access checking. |
 | Rust, Go, TypeScript, Python, Java, C#, Ruby, Dart, Swift, JavaScript, C, Shell | [flipt-io/flipt-client-sdks](https://github.com/flipt-io/flipt-client-sdks) | Flipt Client-Side Evaluation SDKs |
 | Java | [wumpz/jhotdraw](https://github.com/wumpz/jhotdraw) | 2d drawing library  |
 | Ruby | [sitrox/workhorse](https://github.com/sitrox/workhorse) | Multi-threaded job backend with database queuing for ruby. Battle-tested and ready for production-use. |
@@ -2665,11 +2676,11 @@
 | JavaScript, CSS, C++, Shell, CMake, HTML, Dockerfile | [AliceO2Group/Bookkeeping](https://github.com/AliceO2Group/Bookkeeping) | O2 Bookkeeping project for the ALICE experiment at CERN |
 | C++ | [garagino/FollowLine](https://github.com/garagino/FollowLine) | Repositório do Seguidor de Linha 2023.1 do CESAR School |
 | TypeScript, MDX, JavaScript, Astro, CSS, Batchfile | [jux-io/toolkit](https://github.com/jux-io/toolkit) | Jux toolkit is a collection of tools for blazingly fast, rapid UI development ⚡️ |
-| Python | [xoseperez/rf-tools](https://github.com/xoseperez/rf-tools) | Scripts to interface RF tools like the RF Explorer or the Power Meter 8000 |
 | Jupyter Notebook, Python | [Discrete-Mathematics/ai-self-learning](https://github.com/Discrete-Mathematics/ai-self-learning) | 中国矿业大学（北京）智远AI社培训资料 |
+| Python | [xoseperez/rf-tools](https://github.com/xoseperez/rf-tools) | Scripts to interface RF tools like the RF Explorer or the Power Meter 8000 |
 | TeX, Python, Makefile, Dockerfile, Shell, HTML, Ruby | [OWASP/owasp-scsvs](https://github.com/OWASP/owasp-scsvs) | OWASP Smart Contract Securty Verification Standard |
-| JavaScript, HTML, CSS | [funige/neo](https://github.com/funige/neo) | PaintBBS NEO (リポジトリを再作成しました) https://github.com/funige/neo/blob/master/README-neo2.md |
 | TypeScript, JavaScript | [serenity-js/serenity-js-mocha-webdriverio-template](https://github.com/serenity-js/serenity-js-mocha-webdriverio-template) | Test your websites and web apps with Serenity/JS, WebdriverIO and Mocha |
+| JavaScript, HTML, CSS | [funige/neo](https://github.com/funige/neo) | PaintBBS NEO (リポジトリを再作成しました) https://github.com/funige/neo/blob/master/README-neo2.md |
 | C# | [OpenKNX/Kaenx-Konnect](https://github.com/OpenKNX/Kaenx-Konnect) | Kaenx.Konnect is a library to connect to a KNX Interface. IP Tunneling is working. USB and IP Routing soon |
 | TypeScript, JavaScript, Python, CSS, Dockerfile, HTML | [boostcampwm-2024/web36-QLab](https://github.com/boostcampwm-2024/web36-QLab) | Live SQL 실행 플랫폼 |
 | C++, Python, C | [warwick320/5G-deauther-with-OLED-SSD1306](https://github.com/warwick320/5G-deauther-with-OLED-SSD1306) | RTL8720 BW16 5G 2.4G deauther  |
@@ -2729,8 +2740,8 @@
 | Rust, Python, Just | [dwpeng/filterx](https://github.com/dwpeng/filterx) | process any file in tabular format. Fasta/fastq/GTF/GFF/VCF/SAM/BED  |
 | Jupyter Notebook, R | [opencampus-sh/einfuehrung-in-data-science-und-ml](https://github.com/opencampus-sh/einfuehrung-in-data-science-und-ml) | Ressourcen für den Kurs Einführung in Data Science und maschinelles Lernen im Sommersemester 2021 |
 | Svelte, TypeScript, CSS, JavaScript, HTML | [darbymanning/sveltekit-preview-mode](https://github.com/darbymanning/sveltekit-preview-mode) | Easily enable preview mode for your CMS with SvelteKit |
-| Python, TypeScript, Makefile, HTML, JavaScript, Dockerfile, CSS | [cognitedata/neat](https://github.com/cognitedata/neat) |  |
 | TypeScript, Python, CSS, Dockerfile, HTML | [it-at-m/mucgpt](https://github.com/it-at-m/mucgpt) |  |
+| Python, TypeScript, Makefile, HTML, JavaScript, Dockerfile, CSS | [cognitedata/neat](https://github.com/cognitedata/neat) |  |
 | Ruby, HTML, JavaScript, Dockerfile, SCSS, Shell | [mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper) | （仮） |
 | JavaScript, Gosu, GLSL | [coderaiser/goldstein](https://github.com/coderaiser/goldstein) | JavaScript with no limits 🤫 |
 | Jupyter Notebook, Python | [intsystems/relaxit](https://github.com/intsystems/relaxit) | [BMM 24-25] "Just Relax It": Implementation of different relaxation methods |
@@ -2740,8 +2751,8 @@
 | Go, Shell, TypeScript, HTML, Lua, JavaScript, Makefile, CSS | [clubpay/ronykit](https://github.com/clubpay/ronykit) | API Framework supporting REST and RPC. |
 | TypeScript, Go, JavaScript, CSS, Dockerfile, Shell | [grafana/grafana-iot-twinmaker-app](https://github.com/grafana/grafana-iot-twinmaker-app) | AWS IoT TwinMaker Application Plugin for Grafana |
 | TypeScript, JavaScript | [chesha1/gf2-daily-helper](https://github.com/chesha1/gf2-daily-helper) | Girls' Frontline 2 Exilium Official Community Check-in Helper 少女前线2官网社区每日任务助手 |
-| C#, Rich Text Format, TypeScript, HTML, C, C++, JavaScript, Less | [BeyondDimension/Common](https://github.com/BeyondDimension/Common) | 次元超越 .NET 8+ 通用类库 |
 | JavaScript | [tusbar/eslint-config-xo-nextjs](https://github.com/tusbar/eslint-config-xo-nextjs) | ESLint shareable config for Next.js to be used with eslint-config-xo |
+| C#, Rich Text Format, TypeScript, HTML, C, C++, JavaScript, Less | [BeyondDimension/Common](https://github.com/BeyondDimension/Common) | 次元超越 .NET 8+ 通用类库 |
 | Pascal | [Torwent/WaspLib](https://github.com/Torwent/WaspLib) | WaspLib include for Simba to bot OldSchool RuneScape. |
 | Go | [free5gc/smf](https://github.com/free5gc/smf) |  |
 | Java | [L3g7/GrieferUtils](https://github.com/L3g7/GrieferUtils) | Utility addon for minecraft server GrieferGames.net |
@@ -2833,8 +2844,8 @@
 | Go, Makefile, Shell, Batchfile | [openimsdk/tools](https://github.com/openimsdk/tools) |  |
 | Jupyter Notebook, HTML | [KnowledgeGraphJapan/Challenge](https://github.com/KnowledgeGraphJapan/Challenge) | 推論チャレンジ用 |
 | C++, HTML, CMake, C, CSS, Shell | [KDE/messagelib](https://github.com/KDE/messagelib) | Library components for messages (e.g. displaying Akonadi collections) |
-| Python, Jupyter Notebook, Shell, Makefile, GAP | [elastic/geneve](https://github.com/elastic/geneve) |  |
 | Java | [green4j/green-jelly](https://github.com/green4j/green-jelly) | Garbage-free (green), simple and fast stream oriented JSON parser and generator if you need to parse/generate mega(giga)bytes of data with no GC pauses |
+| Python, Jupyter Notebook, Shell, Makefile, GAP | [elastic/geneve](https://github.com/elastic/geneve) |  |
 | TypeScript, JavaScript | [estruyf/vscode-remote-control](https://github.com/estruyf/vscode-remote-control) | Remote Control your Visual Studio Code - This extension allows you to remotely control Visual Studio Code. Run commands from anywhere you want on your device. The extension allows you to take VSCode automation to the next level. |
 | MDX, Astro, TypeScript, JavaScript, CSS | [graphrag/graphrag.github.io](https://github.com/graphrag/graphrag.github.io) | GraphRAG access patterns and knowledge graph modeling |
 | TypeScript, Python, HTML, JavaScript, CSS, Dockerfile, Shell, Mako | [hotosm/drone-tm](https://github.com/hotosm/drone-tm) | Drone Tasking Manager - community-driven drone imagery collection. |
@@ -2846,7 +2857,6 @@
 | HTML, JavaScript, CSS | [CoinFundApp/coinfund](https://github.com/CoinFundApp/coinfund) | CoinFund App is a decentralized, non-custodial, non-KYC Bitcoin and Altcoin crypto crowdfunding, donations, and atomic swap exchange through open-sourced P2P. |
 | TypeScript, JavaScript, Handlebars | [yamada-ui/yamada-components](https://github.com/yamada-ui/yamada-components) | A collection of React UI components of the Yamada, by the Yamada, for the Yamada, built with Yamada UI. |
 | C#, PowerShell, Batchfile | [Aguafrommars/Maui.Blazor.Authentication](https://github.com/Aguafrommars/Maui.Blazor.Authentication) | Simplify OIDC authentication for MAUI Blazor app |
-| Python, TypeScript, CSS, JavaScript, Shell, Dockerfile | [kavigupta/urbanstats](https://github.com/kavigupta/urbanstats) | A website for viewing statistics of various areas in the United States. |
 | Go, Shell, Makefile, HCL, Dockerfile | [gotd/bot](https://github.com/gotd/bot) | Bot for gotd |
 | C#, PowerShell, Shell, Batchfile | [ReactiveBIM/RxBim.Tools](https://github.com/ReactiveBIM/RxBim.Tools) |  |
 | JavaScript, PHP, CSS, Mustache | [rwthmoodle/moodle-mod_pdfannotator](https://github.com/rwthmoodle/moodle-mod_pdfannotator) | PDF Annotation Tool |
@@ -2873,8 +2883,8 @@
 | Ruby, HTML, Shell | [marcIhm/harpwise](https://github.com/marcIhm/harpwise) | A harmonica tool for the command line, using microphone and speaker. It assists your playing with scales and licks, all along the chords of a song. Harpwise offers various tools and an explorable quiz with many flavours. |
 | Python | [Correia-jpv/fucking-awesome-honeypots](https://github.com/Correia-jpv/fucking-awesome-honeypots) | An awesome list of honeypot resources. With repository stars⭐ and forks🍴 |
 | JavaScript, CSS, Python, HTML, PowerShell | [PRO-2684/gadgets](https://github.com/PRO-2684/gadgets) | Some miscellaneous code snippets, including userscripts and userstyles etc. |
-| Dockerfile, Shell | [carlonluca/docker-mldonkey](https://github.com/carlonluca/docker-mldonkey) | Project to build a docker image containing the mldonkey service. |
 | JavaScript, CSS, HTML | [neelsomani/pretty-calendar](https://github.com/neelsomani/pretty-calendar) | A jQuery plugin for generating pretty calendars. |
+| Dockerfile, Shell | [carlonluca/docker-mldonkey](https://github.com/carlonluca/docker-mldonkey) | Project to build a docker image containing the mldonkey service. |
 | TypeScript | [pengooseDev/goose_module](https://github.com/pengooseDev/goose_module) |  |
 | TypeScript, CSS, JavaScript | [SaketKothari/finance-saas-expense-tracker-platform-webapp](https://github.com/SaketKothari/finance-saas-expense-tracker-platform-webapp) | Build my very own Finance SaaS Platform with ability to track your income and expenses, categorize transactions and assign them to specific accounts, as well as how to import transactions using a CSV file, connect to your bank account using Plaid, and monetize the product using Lemon Squeezy. |
 | HTML, SCSS, Shell | [medic/cht-docs](https://github.com/medic/cht-docs) | Documentation site for the Community Health Tookit |
@@ -3000,8 +3010,8 @@
 | Jupyter Notebook, Python, JavaScript, R, HTML, CSS | [robinschmid/microbe_masst](https://github.com/robinschmid/microbe_masst) | Using MASST or fastMASST, adding metadata onto a tree ontology for microbes |
 | C++, Java, Objective-C++, JavaScript, HTML, Python, TypeScript, C, Objective-C, Starlark, CSS, Shell, Rust, Swift, Jinja, nesC, AIDL, Makefile, C#, Perl, Vue, PHP, Emacs Lisp, DenizenScript, CMake, Batchfile, Vim Script, Assembly, AppleScript, PureBasic, Roff, Yacc, NASL, DTrace, templ, M4, Pawn, Kotlin, BitBake, HLSL, XSLT, sed, Dockerfile, Lex, Pascal, GDB, Ruby, Standard ML, Rich Text Format, WebAssembly, DM | [youtube/cobalt_sandbox](https://github.com/youtube/cobalt_sandbox) | Cobalt dev workflow sandbox - this repo exists only as a CI sandbox. Please see http://cobalt.dev and https://github.com/youtube/cobalt |
 | TypeScript, JavaScript, Dockerfile | [Ismaestro/nestjs-example-app](https://github.com/Ismaestro/nestjs-example-app) | NestJS example app + Prisma + PostgreSQL |
-| Julia, TeX, Python | [UM-PEPL/HallThruster.jl](https://github.com/UM-PEPL/HallThruster.jl) | An open-source fluid Hall thruster code |
 | TypeScript, JavaScript, Shell | [galacticcouncil/sdk](https://github.com/galacticcouncil/sdk) | Galactic SDK |
+| Julia, TeX, Python | [UM-PEPL/HallThruster.jl](https://github.com/UM-PEPL/HallThruster.jl) | An open-source fluid Hall thruster code |
 | C, Python, Assembly, Shell | [dzid26/StepperServoCAN](https://github.com/dzid26/StepperServoCAN) | Closed loop stepper motor controller with CANbus capabilities. This Project open source hardware and code, support platformio build and upload firmware. |
 | Nix, Shell, Python, HTML, Dockerfile | [carlthome/dotfiles](https://github.com/carlthome/dotfiles) | My idiosyncratic config for personal computing |
 | Python, Jupyter Notebook, Shell | [jeffreyyu0602/quantized-training](https://github.com/jeffreyyu0602/quantized-training) |  |
@@ -3009,8 +3019,8 @@
 | Python | [rail-berkeley/manipulator_gym](https://github.com/rail-berkeley/manipulator_gym) | Gym-like environment to interact with manipulator robots |
 | TypeScript, HTML, Shell, Dockerfile, CSS | [hyoo-ru/crus.hyoo.ru](https://github.com/hyoo-ru/crus.hyoo.ru) | Decentralized high-available database with conflict-free real-time synchronization |
 | Java | [CorneliusMa/SilkSpawners_v2](https://github.com/CorneliusMa/SilkSpawners_v2) | SilkSpawners - A Minecraft plugin to make Spawners mineable |
-| Python, Jupyter Notebook, Cuda, Shell, Dockerfile, C++, C, Makefile, Cython, Jsonnet | [hasanar1f/HiRED](https://github.com/hasanar1f/HiRED) | [AAAI 2025] HiRED strategically drops visual tokens in the image encoding stage to improve inference efficiency for High-Resolution Vision-Language Models (e.g., LLaVA-Next) under a fixed token budget. |
 | TypeScript, JavaScript | [mnaoumov/obsidian-dev-utils](https://github.com/mnaoumov/obsidian-dev-utils) |  |
+| Python, Jupyter Notebook, Cuda, Shell, Dockerfile, C++, C, Makefile, Cython, Jsonnet | [hasanar1f/HiRED](https://github.com/hasanar1f/HiRED) | [AAAI 2025] HiRED strategically drops visual tokens in the image encoding stage to improve inference efficiency for High-Resolution Vision-Language Models (e.g., LLaVA-Next) under a fixed token budget. |
 | HTML, TeX, R, Jupyter Notebook, Makefile, C++ | [bbolker/bbmisc](https://github.com/bbolker/bbmisc) | miscellaneous talks and small projects |
 | Jupyter Notebook, Python, Shell | [kingmolnar/DataScienceProgramming](https://github.com/kingmolnar/DataScienceProgramming) | Course Material |
 | Vue, TypeScript, CSS, JavaScript, HTML | [kieuminhcanh/vuetify-notifier](https://github.com/kieuminhcanh/vuetify-notifier) |  |
@@ -3024,12 +3034,12 @@
 | C++, Starlark, Python, Meson, Shell | [google/ecclesia-machine-management](https://github.com/google/ecclesia-machine-management) |  |
 | TypeScript, CSS, Java, Ruby, JavaScript, Objective-C++, Objective-C, Dockerfile, HTML, Shell, Swift, C | [sspenst/thinky.gg](https://github.com/sspenst/thinky.gg) | A platform dedicated to high-quality puzzle games |
 | PLpgSQL, Dockerfile, Makefile | [FlipsideCrypto/solana-models](https://github.com/FlipsideCrypto/solana-models) | Solana Data Models |
-| JavaScript, TypeScript, HTML, GLSL, CSS | [Jimbly/glovjs](https://github.com/Jimbly/glovjs) | Javascript port of libGlov (GLOV.js) for efficient WebGL games |
 | Go, Smarty, Dockerfile, Makefile | [konstructio/kubefirst-api](https://github.com/konstructio/kubefirst-api) | Kubefirst API that serves console frontend |
+| JavaScript, TypeScript, HTML, GLSL, CSS | [Jimbly/glovjs](https://github.com/Jimbly/glovjs) | Javascript port of libGlov (GLOV.js) for efficient WebGL games |
 | C++, C | [SternI/FortniteOffsets](https://github.com/SternI/FortniteOffsets) | Latest Fortnite Offsets Always Updated. |
 | C++, C, SWIG, Shell, Assembly, Python, Objective-C | [gamblevore/speedie](https://github.com/gamblevore/speedie) | Compiler for my language 'Speedie'. Beta-state. Has a great future ahead for it. |
-| Go, Makefile, Dockerfile | [moov-io/ach-test-harness](https://github.com/moov-io/ach-test-harness) | Programmatic and configurable ACH scenario testing of returns, NOC/corrections, reconciliation, etc. |
 | HCL, Jinja, Shell | [ergho/homelab-ops](https://github.com/ergho/homelab-ops) |  |
+| Go, Makefile, Dockerfile | [moov-io/ach-test-harness](https://github.com/moov-io/ach-test-harness) | Programmatic and configurable ACH scenario testing of returns, NOC/corrections, reconciliation, etc. |
 | Python | [xiongsiheng/TILP](https://github.com/xiongsiheng/TILP) | (ICLR 23) Differentiable Learning of Temporal Logical Rules on Knowledge Graphs |
 | Python | [black-roland/homeassistant-yandexgpt](https://github.com/black-roland/homeassistant-yandexgpt) | YandexGPT integration for Home Assistant |
 | Mustache, Makefile | [BeryJu/k8s](https://github.com/BeryJu/k8s) | Flux repository for my K8s clusters |
@@ -3081,14 +3091,13 @@
 | HTML, JavaScript, CSS, Nunjucks, PostScript | [svgeesus/svgeesus.github.io](https://github.com/svgeesus/svgeesus.github.io) | personal website |
 | Astro, TypeScript, JavaScript | [hungrimind/flutter-of-the-year](https://github.com/hungrimind/flutter-of-the-year) | Vote for your favorite Flutter apps of 2024! |
 | TypeScript, Rust, Dockerfile, CSS, JavaScript, HTML | [Timtam/hitster](https://github.com/Timtam/hitster) | An unofficial web-based version of the Hitster card game |
-| Swift, Objective-C, Ruby, Shell, C | [vultisig/vultisig-ios](https://github.com/vultisig/vultisig-ios) | Vultisig iOS App |
 | Shell, Dockerfile | [IBM/storage-fusion](https://github.com/IBM/storage-fusion) | Backup and Restore Recipes, Helpful Utilities and Scripts like mirroring etc. for IBM Storage Fusion  |
 | TeX, Python, C, Assembly, Java, Makefile, C++, Cuda, Shell | [CasuFrost/University_notes](https://github.com/CasuFrost/University_notes) |  |
 | Python, Rust, Jupyter Notebook | [dustalov/evalica](https://github.com/dustalov/evalica) | Evalica, your favourite evaluation toolkit |
 | Python, Cuda, C++, Batchfile | [abdozmantar/Standalone-InstaSwap](https://github.com/abdozmantar/Standalone-InstaSwap) | Instaswap Desktop App |
 | Kotlin, HTML | [CruGlobal/godtools-android](https://github.com/CruGlobal/godtools-android) | GodTools Android App |
-| C++, C, CMake, Batchfile | [walbourn/directxtktest](https://github.com/walbourn/directxtktest) | Tests for DirectX Tool Kit for Direct3D 11 |
 | Dockerfile, Shell, Makefile, C, Roff | [cilium/little-vm-helper-images](https://github.com/cilium/little-vm-helper-images) |  |
+| C++, C, CMake, Batchfile | [walbourn/directxtktest](https://github.com/walbourn/directxtktest) | Tests for DirectX Tool Kit for Direct3D 11 |
 | TypeScript, Svelte, JavaScript, CSS, Shell, HTML | [mustang-im/mustang](https://github.com/mustang-im/mustang) | Mustang - New full-featured desktop email, chat and video conference client |
 | JavaScript, CSS, HTML, Ruby, SCSS, Python, Shell | [DIVD-NL/web-csirt](https://github.com/DIVD-NL/web-csirt) | https://www.divd.nl and https://csirt.divd.nl websites |
 | C++, C, Assembly | [Omega172/OmegaWare-Framework](https://github.com/Omega172/OmegaWare-Framework) | And empty version of my cheat framework |
@@ -3109,8 +3118,8 @@
 | HTML | [Alfresco/charts](https://github.com/Alfresco/charts) | Helm repository for Alfresco Kubernetes Charts. Please use https://kubernetes-charts.alfresco.com/stable as the helm repo. |
 | TypeScript, MDX, SCSS, JavaScript, CSS, Shell | [wwnorton/design-system](https://github.com/wwnorton/design-system) | The W. W. Norton & Company design system |
 | HTML, CSS, Python, JavaScript, Shell, Dockerfile, Procfile | [rottingresearch/rottingresearch](https://github.com/rottingresearch/rottingresearch) | A project devoted to helping academics and researchers provide robust citations and mitigate link rot. |
-| Python | [amadejpapez/ApplSec](https://github.com/amadejpapez/ApplSec) | Twitter/Mastodon/BlueSky bot keeping you up-to-date with security fixes to Apple's ecosystem! New updates, number of bugs, zero-days, and more! 🍎🔒 |
 | Java | [DiscordSRV/Ascension](https://github.com/DiscordSRV/Ascension) | [Testing builds available on our Discord] Temporary repository for DiscordSRV v3 |
+| Python | [amadejpapez/ApplSec](https://github.com/amadejpapez/ApplSec) | Twitter/Mastodon/BlueSky bot keeping you up-to-date with security fixes to Apple's ecosystem! New updates, number of bugs, zero-days, and more! 🍎🔒 |
 | Python, Shell | [ras-ros2/ras_docker](https://github.com/ras-ros2/ras_docker) |  |
 | JavaScript, CSS, Dockerfile | [basedosdados/website](https://github.com/basedosdados/website) | 🖥 Website oficial da BD |
 | Java, Rust, C, Go, Shell, Makefile | [hyperledger/besu-native](https://github.com/hyperledger/besu-native) |  |
@@ -3135,10 +3144,10 @@
 | HTML | [unredbox/Wiki](https://github.com/unredbox/Wiki) | redbox.wiki media and pages |
 | PHP, JavaScript, HTML | [flipsite/flipsite](https://github.com/flipsite/flipsite) | Flipsite is a static compiler and middleware for serving lighting fast websites |
 | Python, Rust, HTML, Shell, Dockerfile | [pytorch-labs/torchft](https://github.com/pytorch-labs/torchft) | PyTorch per step fault tolerance (actively under development) |
-| Java, Shell | [indeedeng/iwf-java-sdk](https://github.com/indeedeng/iwf-java-sdk) | Java SDK for iwf workflow engine(simple & powerful workflow as code engine based on Cadence/Temporal) |
 | Python, Shell, Makefile, Smarty, Dockerfile | [validatedpatterns/industrial-edge](https://github.com/validatedpatterns/industrial-edge) |  |
-| GDScript, GAP, GLSL | [Level-Share-Square/SuperMario127](https://github.com/Level-Share-Square/SuperMario127) |  |
+| Java, Shell | [indeedeng/iwf-java-sdk](https://github.com/indeedeng/iwf-java-sdk) | Java SDK for iwf workflow engine(simple & powerful workflow as code engine based on Cadence/Temporal) |
 | JavaScript, Dockerfile, Shell, PowerShell | [1DSAG/ADT-Leitfaden](https://github.com/1DSAG/ADT-Leitfaden) |  |
+| GDScript, GAP, GLSL | [Level-Share-Square/SuperMario127](https://github.com/Level-Share-Square/SuperMario127) |  |
 | TypeScript, JavaScript, TSQL, CSS | [aurorascharff/next15-remix-contacts-rebuild-v2](https://github.com/aurorascharff/next15-remix-contacts-rebuild-v2) | Rebuild (V2) of Remix Contacts using Next.js 15 with Server Actions, Tailwind CSS and Prisma, this time using an approach more fitted for Next.js. Plus, there are additional features and upgraded CSS. NB! Database might be sleeping, give it a minute after the initial application error. |
 | Solidity, Makefile | [marsfoundation/spark-alm-controller](https://github.com/marsfoundation/spark-alm-controller) |  |
 | JavaScript, SCSS, CSS, HTML, Nunjucks, EJS | [aarongustafson/aaron-gustafson.com](https://github.com/aarongustafson/aaron-gustafson.com) | My website |
@@ -3253,8 +3262,8 @@
 | Rust, Shell, HTML, Nix, Makefile, Go | [crust-gather/crust-gather](https://github.com/crust-gather/crust-gather) | kubectl debugging plugin to collect full or partial cluster state and serve via an api server. Kubernetes time machine |
 | R, Dockerfile, Shell | [TheWangLab/algatr](https://github.com/TheWangLab/algatr) |  A Landscape Genomic Analysis Toolkit in R |
 | Java, JavaScript, Less, TypeScript, Python, CSS, HTML, FreeMarker | [Servoy/servoy-client](https://github.com/Servoy/servoy-client) | Servoy client code |
-| Jupyter Notebook, Python, SCSS, CSS | [nasa/VITALS](https://github.com/nasa/VITALS) | This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions. |
 | C++, C, HTML | [garyservin/linka-firmware](https://github.com/garyservin/linka-firmware) | Firmware for the default sensor kit for the Linka project |
+| Jupyter Notebook, Python, SCSS, CSS | [nasa/VITALS](https://github.com/nasa/VITALS) | This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions. |
 | Java | [microcks/microcks-quarkus](https://github.com/microcks/microcks-quarkus) | Quarkus extension that enables embedding Microcks as a DevService managing mocks for dependencies and contract-testing your API endpoints |
 | Python, TypeScript, Solidity, Circom, Shell, Inno Setup | [kuronosec/zk-firma-digital](https://github.com/kuronosec/zk-firma-digital) | Zero-Knowledge proof based on Digital Signature smart cards |
 | JavaScript, Python, Shell, PHP, HTML, CSS | [ReyEndymion/ANI_MX_SCANS-MD](https://github.com/ReyEndymion/ANI_MX_SCANS-MD) | Bot promocional del proyecto ANI MX SCANS by ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺 |
@@ -3287,22 +3296,22 @@
 | C++, C, QMake, Shell, Batchfile | [ARPA-SIMC/CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) | CRITERIA 1D is a one-dimensional agro-hydrological model. It includes soil water fluxes, crop development and crop water needs, a GIS interface (CRITERIA GEO) for geographical simulations and tools to manage crop and soil parameters. The software is written in C++ using Qt libraries, so cross-platform building is possible (Windows, Linux, MacOS) |
 | TypeScript, JavaScript, PHP, MDX, Twig, CSS, HTML | [pimcore/studio-ui-bundle](https://github.com/pimcore/studio-ui-bundle) | Studio UI bundle |
 | Rust | [eclipse-zenoh/zenoh-backend-filesystem](https://github.com/eclipse-zenoh/zenoh-backend-filesystem) | Backend and Storages for zenoh using the file system |
-| Rust, Makefile, Shell, GDB | [CharlyCst/miralis](https://github.com/CharlyCst/miralis) | Miralis is an experimental system that virtualises firmware |
 | Rust, Shell, Dockerfile | [eclipse-zenoh/zenoh-plugin-ros1](https://github.com/eclipse-zenoh/zenoh-plugin-ros1) |  |
+| Rust, Makefile, Shell, GDB | [CharlyCst/miralis](https://github.com/CharlyCst/miralis) | Miralis is an experimental system that virtualises firmware |
 | C++, QML, Shell, QMake, C, Objective-C++, Batchfile | [omega-gg/Sky](https://github.com/omega-gg/Sky) | Application kit designed for multimedia software |
 | Python, HTML, CSS, Makefile | [candlepin/python-iniparse](https://github.com/candlepin/python-iniparse) | Python iniparse module with patches from Fedora project |
-| TypeScript, PLpgSQL, Python, Gherkin, JavaScript, Earthly, MDX, CSS, Shell, HTML, Procfile | [incubateur-ademe/territoires-en-transitions](https://github.com/incubateur-ademe/territoires-en-transitions) | Plateforme numérique pour faciliter et accélérer la mise en oeuvre des actions de transition écologique dans les collectivités territoriales |
 | Rust | [eclipse-zenoh/zenoh-backend-s3](https://github.com/eclipse-zenoh/zenoh-backend-s3) | Backend and Storages for Zenoh using AWS S3 API |
+| TypeScript, PLpgSQL, Python, Gherkin, JavaScript, Earthly, MDX, CSS, Shell, HTML, Procfile | [incubateur-ademe/territoires-en-transitions](https://github.com/incubateur-ademe/territoires-en-transitions) | Plateforme numérique pour faciliter et accélérer la mise en oeuvre des actions de transition écologique dans les collectivités territoriales |
 | TypeScript, MDX, JavaScript, CSS, HTML, Handlebars, Shell | [cengage/react-magma](https://github.com/cengage/react-magma) |  |
 | Rust, Shell | [eclipse-zenoh/zenoh-plugin-mqtt](https://github.com/eclipse-zenoh/zenoh-plugin-mqtt) | A Zenoh plug-in that allows to integrate and/or route MQTT pub/sub with Eclipse Zenoh. |
 | Shell | [jp112sdl/HMDeviceFirmware](https://github.com/jp112sdl/HMDeviceFirmware) | homematic device firmware archive |
 | R | [kyleGrealis/froggeR](https://github.com/kyleGrealis/froggeR) | Collection of workflow tools to get a "jump" on your projects |
-| Go, Shell, Makefile, Dockerfile, Smarty | [elastic/eck-diagnostics](https://github.com/elastic/eck-diagnostics) | Diagnostic tooling for ECK installations |
 | Jupyter Notebook, Python, C++, CMake, Shell, Dockerfile, C | [LinusNEP/TCC-IRoNL](https://github.com/LinusNEP/TCC-IRoNL) | TCC-IRoNL is a novel framework that leverages large language models (LLMs) and multi-model vision-language models (VLMs) to enable ROS-based autonomous robots to interact with humans or other entities through natural language conversation. |
+| Go, Shell, Makefile, Dockerfile, Smarty | [elastic/eck-diagnostics](https://github.com/elastic/eck-diagnostics) | Diagnostic tooling for ECK installations |
 | Python | [Syske/person-learning-note](https://github.com/Syske/person-learning-note) | 个人日常学习笔记，核心知识以java为主，同时包括个人日常工作的一些思考和总结，内容持续更新。内容创作不易，烦请转载时注明作者信息，感谢支持 |
 | TypeScript, JavaScript | [promptfoo/promptfoo-action](https://github.com/promptfoo/promptfoo-action) |  |
-| JavaScript, TypeScript, EJS, CSS, Dockerfile, Makefile, SCSS | [omnistrate-oss/saasbuilder](https://github.com/omnistrate-oss/saasbuilder) | Working template for a SaaS service FrontEnd for Services created using Omnistrate |
 | CSS, HTML, JavaScript, Python, Ruby | [workflowscommunity/workflowscommunity.github.io](https://github.com/workflowscommunity/workflowscommunity.github.io) | Source code for the https://workflows.community website |
+| JavaScript, TypeScript, EJS, CSS, Dockerfile, Makefile, SCSS | [omnistrate-oss/saasbuilder](https://github.com/omnistrate-oss/saasbuilder) | Working template for a SaaS service FrontEnd for Services created using Omnistrate |
 | Shell, Lua, JavaScript, Ruby, CSS | [ogirginc/dotfiles](https://github.com/ogirginc/dotfiles) | Oğulcan's dotfiles. |
 | C#, Ruby, JavaScript, ASP.NET, HTML | [telerik/ajax-docs](https://github.com/telerik/ajax-docs) | Public Documentation for Telerik UI for ASP.NET AJAX |
 | C++, C, Cuda, Python, CMake, PowerShell, CSS, GLSL | [DigitalHolography/Holovibes](https://github.com/DigitalHolography/Holovibes) | Real time, high throughput digital holography software |
@@ -3396,8 +3405,8 @@
 | C++, CMake, Shell, C, PowerShell | [owent/libatapp](https://github.com/owent/libatapp) | server app framework based on libatbus |
 | Elixir, C | [membraneframework/membrane_h264_ffmpeg_plugin](https://github.com/membraneframework/membrane_h264_ffmpeg_plugin) | Membrane H264 decoder and encoder based on FFmpeg and x264 |
 | JavaScript, Less, HTML, CSS, SCSS, Shell | [kleros/court](https://github.com/kleros/court) | The Kleros court user interface. |
-| JavaScript, HTML | [BryceWG/Blinko-Chrome-Extention](https://github.com/BryceWG/Blinko-Chrome-Extention) | AI-based Chrome web content extraction and summarization extension for Blinko. Supports one-click summarization of web pages, word selection saving, quick recording, and more, with content synchronization to the Blinko server. |
 | Shell, Nextflow, Perl, Python | [molgenis/vip](https://github.com/molgenis/vip) | Variant Interpretation Pipeline |
+| JavaScript, HTML | [BryceWG/Blinko-Chrome-Extention](https://github.com/BryceWG/Blinko-Chrome-Extention) | AI-based Chrome web content extraction and summarization extension for Blinko. Supports one-click summarization of web pages, word selection saving, quick recording, and more, with content synchronization to the Blinko server. |
 | Go, Shell, PLpgSQL, Python | [kubearchive/kubearchive](https://github.com/kubearchive/kubearchive) |  |
 | C#, TSQL, PowerShell, Shell | [Zongsoft/framework](https://github.com/Zongsoft/framework) | This is a collection of Zongsoft libraries, supporting .NET versions 6.0 to 8.0. |
 | TypeScript, Shell | [callstack/byorg-ai](https://github.com/callstack/byorg-ai) | TypeScript framework for writing chatbot applications |
@@ -3405,8 +3414,8 @@
 | C++, Shell | [azerothcore/mod-zone-difficulty](https://github.com/azerothcore/mod-zone-difficulty) | Support module for mod-progression-system, handles nerfs and debuffs per zone. |
 | TypeScript, Python, Solidity, JavaScript, HTML, SCSS, Makefile, Dockerfile, Mako, Shell, Batchfile, CSS | [humanprotocol/human-protocol](https://github.com/humanprotocol/human-protocol) | Human Protocol python/js/ts Monorepo with example |
 | TypeScript, JavaScript | [evcc-io/app](https://github.com/evcc-io/app) | native evcc app frame for iOS (and Android) |
-| Rust | [evieluvsrainbows/Taliyah](https://github.com/evieluvsrainbows/Taliyah) | A kitchen-sink style bot for Discord written in Rust with the Serenity library. |
 | Lua, Shell, Vim Script, Ruby, Python | [bpinto/dotfiles](https://github.com/bpinto/dotfiles) | My macOS and gentoo configuration files |
+| Rust | [evieluvsrainbows/Taliyah](https://github.com/evieluvsrainbows/Taliyah) | A kitchen-sink style bot for Discord written in Rust with the Serenity library. |
 | TypeScript, Java, HTML, Jinja, SCSS, Gherkin, JavaScript, Shell, CSS, Makefile, Dockerfile, Perl, Python | [ProgrammeVitam/vitam-ui](https://github.com/ProgrammeVitam/vitam-ui) | A VITAM interface |
 | JavaScript, Python, Shell, Hack | [The-King-Destroy/Yuki_Suou-Bot](https://github.com/The-King-Destroy/Yuki_Suou-Bot) | 👋 ¡Hola! Bienvenido(a) al Repositorio de Yuki_Suou-Bot, El Bot aún esta en Desarrollo pero es muy Prometedor tiene Múltiples Funciones y Juegos. Esperamos que te Guste y nos Regales una Estrellita 🌟 me Ayudaría Muchísimo 😁. |
 | Jupyter Notebook | [Humboldt-WI/IPML](https://github.com/Humboldt-WI/IPML) | Introduction to Python Programming for Machine Learning and AI |
@@ -3441,8 +3450,8 @@
 | Shell, JavaScript, CSS | [TaitoUnited/taito-cli](https://github.com/TaitoUnited/taito-cli) | An extensible toolkit for DevOps and NoOps |
 | PHP, JavaScript, HTML, CSS, Less, Shell, Makefile | [wikimedia/mediawiki-extensions-UniversalLanguageSelector](https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector) | Github mirror of MediaWiki extension UniversalLanguageSelector - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing) |
 | MDX, TypeScript, JavaScript, CSS | [ava-labs/avalanche-academy](https://github.com/ava-labs/avalanche-academy) | The Learning Platform for Avalanche Ecosystem |
-| TypeScript, JavaScript, Shell | [private-yusuke/botot2](https://github.com/private-yusuke/botot2) | A chatbot for Misskey with Markov chain |
 | JavaScript | [linonetwo/wiki](https://github.com/linonetwo/wiki) | My Digital Garden Since 2019 |
+| TypeScript, JavaScript, Shell | [private-yusuke/botot2](https://github.com/private-yusuke/botot2) | A chatbot for Misskey with Markov chain |
 | JavaScript, Nunjucks, CSS | [airalab/robonomics-wiki](https://github.com/airalab/robonomics-wiki) | Getting Started always better than reading white paper; Robonomics Wiki aims to bring all the knowledge about Robonomics to everyone who is interested in the project |
 | JavaScript, Dart, CSS, HTML, Shell | [atsign-foundation/at_tools](https://github.com/atsign-foundation/at_tools) | Various developer tools for use when developing with Atsign's technology |
 | Python | [xdoko01/Game-Console](https://github.com/xdoko01/Game-Console) | Full-featured Pygame console that can be integrated in your python game in order to execute python command/scripts/custom functions |
@@ -3455,8 +3464,8 @@
 | Python | [ZeroTwentyFifty/pact_methodology](https://github.com/ZeroTwentyFifty/pact_methodology) | Interact with standardised Product Carbon Footprints with our implementation of the WBCSD PACT Methodology |
 | Rust, Shell, Dockerfile | [nolus-protocol/nolus-money-market](https://github.com/nolus-protocol/nolus-money-market) | Core logic as CosmWasm contracts defining the Nolus money market |
 | Python | [Mr-Qureshi-xd/KING](https://github.com/Mr-Qureshi-xd/KING) |  |
-| JavaScript, TypeScript, Vue, Python, CSS, Shell, PowerShell, Stylus, HTML, AppleScript | [terwer/siyuan-plugin-picgo](https://github.com/terwer/siyuan-plugin-picgo) | Your favorite PicGo image bed is still available in siyuan-notes, wuhu~ 您喜爱的 PicGo 图床，在思源笔记依然可用，没想到吧~ |
 | JavaScript, HTML, Jupyter Notebook, CSS | [syntec-research/Cafca](https://github.com/syntec-research/Cafca) |  |
+| JavaScript, TypeScript, Vue, Python, CSS, Shell, PowerShell, Stylus, HTML, AppleScript | [terwer/siyuan-plugin-picgo](https://github.com/terwer/siyuan-plugin-picgo) | Your favorite PicGo image bed is still available in siyuan-notes, wuhu~ 您喜爱的 PicGo 图床，在思源笔记依然可用，没想到吧~ |
 | HTML, CSS, JavaScript | [mrinal1224/Batch-2--Trimseter-2-](https://github.com/mrinal1224/Batch-2--Trimseter-2-) |  |
 | TypeScript, JavaScript, CSS | [dxc-technology/halstack-react](https://github.com/dxc-technology/halstack-react) | Component library for building web applications with React and Halstack Design System. |
 | Python, JavaScript | [chaldea-center/chaldea-data](https://github.com/chaldea-center/chaldea-data) | Data for Chaldea app |
@@ -3468,8 +3477,8 @@
 | TypeScript, JavaScript, CSS, SCSS, Shell | [rad-ui/ui](https://github.com/rad-ui/ui) | Rad UI is an open-source, headless UI component library for building modern, fast, performant, accessible React applications |
 | JavaScript, MDX, TypeScript, CSS, Mako, Python, Shell | [windmill-labs/windmilldocs](https://github.com/windmill-labs/windmilldocs) |  |
 | JavaScript, CSS, Rust, TypeScript, Dockerfile, Shell | [probonodev/jailbreak](https://github.com/probonodev/jailbreak) | jailbreakme.xyz is an open-source decentralized app (dApp) where users are challenged to try and jailbreak pre-existing LLMs in order to find weaknesses and be rewarded. 🏆 |
-| TypeScript, HTML, SCSS, JavaScript, Shell | [Hossein13M/angular-form-builder](https://github.com/Hossein13M/angular-form-builder) | Form Builder/Viewer for Angular |
 | Vue, CSS, JavaScript, SCSS | [4everland/official-website](https://github.com/4everland/official-website) | The official website of 4EVERLAND: https://4everland.org |
+| TypeScript, HTML, SCSS, JavaScript, Shell | [Hossein13M/angular-form-builder](https://github.com/Hossein13M/angular-form-builder) | Form Builder/Viewer for Angular |
 | Dart, JavaScript, C++, CMake, HTML, Swift, Ruby, C, Kotlin, Shell, Objective-C | [citizenwallet/app](https://github.com/citizenwallet/app) |  |
 | Java, Shell, HTML, Dockerfile | [tech1-agency/jbst](https://github.com/tech1-agency/jbst) | java17 bootstrapping tools |
 | Java, Kotlin, Shell, AIDL | [cangHW/Android-Cloud](https://github.com/cangHW/Android-Cloud) | Android微服务架构设计，完全解偶，用于快速实现插件化、组件化等功能，默认提供ui、网络、工具等多种类库，可以辅助快速构建项目，从无到有仅需几个引用 |
@@ -3564,8 +3573,8 @@
 | C# | [SimonCropp/NodaTime.Bogus](https://github.com/SimonCropp/NodaTime.Bogus) | Add support for NodaTime to Bogus. |
 | C++, C, QMake, HTML | [antonk-prog/employee-manager-qt](https://github.com/antonk-prog/employee-manager-qt) | Comprehensive application designed to streamline the management of employee information and enhance organizational efficiency. |
 | Rust, PLpgSQL, Shell, CMake, CSS, Dockerfile, JavaScript | [vnghia/nghe](https://github.com/vnghia/nghe) | An OpenSubsonic implementation in Rust |
-| HTML, R, Shell, Dockerfile, CSS | [pacific-hake/hake-assessment](https://github.com/pacific-hake/hake-assessment) | :zap: :fish: Build the assessment document using latex and knitr |
 | Jinja, CMake, Makefile, JavaScript, C++, CSS | [serious-scaffold/ss-cpp](https://github.com/serious-scaffold/ss-cpp) | A continuously evolving basic template for cpp development practice. |
+| HTML, R, Shell, Dockerfile, CSS | [pacific-hake/hake-assessment](https://github.com/pacific-hake/hake-assessment) | :zap: :fish: Build the assessment document using latex and knitr |
 | HTML | [arshiacomplus/v2rayExtractor](https://github.com/arshiacomplus/v2rayExtractor) | telegram config collector sublinks |
 | C# | [SimonCropp/NullabilityInfo](https://github.com/SimonCropp/NullabilityInfo) | Exposes top-level nullability information from reflection |
 | Shell | [fenio/homelab](https://github.com/fenio/homelab) | k0s based homelab powered by flux |
@@ -3612,8 +3621,8 @@
 | Ruby | [SAP/homebrew-SapMachine](https://github.com/SAP/homebrew-SapMachine) | HomeBrew Tap for SapMachine. |
 | TeX, Dockerfile | [mac-egirls/oscs](https://github.com/mac-egirls/oscs) | Open Source Cheat Sheets for some of McMaster CS's courses |
 | Rust, Dockerfile, HTML, Shell, Python | [pocketsizefund/pocketsizefund](https://github.com/pocketsizefund/pocketsizefund) | Open source quantitative hedge fund 🍊 |
-| C, C++, HTML, CMake, Makefile, Roff, CSS | [paintdream/iris](https://github.com/paintdream/iris) | Iris is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher. |
 | Rust, CSS, Nix, TypeScript, JavaScript, Shell | [DylanRJohnston/deep-space-derby](https://github.com/DylanRJohnston/deep-space-derby) |  |
+| C, C++, HTML, CMake, Makefile, Roff, CSS | [paintdream/iris](https://github.com/paintdream/iris) | Iris is an extensible asynchronous header-only framework written in pure modern C++, including a M:N task scheduler (with coroutine support for C++ 20 optionally) and an advanced DAG-based task dispatcher. |
 | Jupyter Notebook, Python, Shell | [cruiseresearchgroup/DIEF_BTS](https://github.com/cruiseresearchgroup/DIEF_BTS) |   The Building TimeSeries (BTS) dataset covers three buildings over a three-year period, comprising more than ten thousand timeseries data points with hundreds of unique ontologies. Moreover, the metadata is standardized using the Brick schema. |
 | Java, TypeScript, JavaScript, Shell, CSS, HTML, PLpgSQL | [candrews/jumpstart](https://github.com/candrews/jumpstart) | Clonable application intended to jumpstart new projects. Java/Postgres/Spring Boot/Typescript/React |
 | Astro, TypeScript, CSS, JavaScript | [Zastinian/Astro-Login](https://github.com/Zastinian/Astro-Login) | A website with a simple design, with an example of how to make a login website with Astro. |
@@ -3729,8 +3738,8 @@
 | Shell | [FabioLolix/PKGBUILD-AUR_fix](https://github.com/FabioLolix/PKGBUILD-AUR_fix) | PKGBUILDs adopted or improved from AUR, available for co-maintainers |
 | Python | [bisnuray/TempMail-Bot](https://github.com/bisnuray/TempMail-Bot) | TempMail: An advanced Telegram bot script for generating temporary email addresses and checking received messages. |
 | Liquid, Batchfile, Shell, HTML, Dockerfile, JavaScript, Visual Basic 6.0 | [HL7/cqf-measures](https://github.com/HL7/cqf-measures) | Clinical Quality Framework Measure Content |
-| XSLT, XProc, CSS | [sts4i/sts4i-tools](https://github.com/sts4i/sts4i-tools) | HTML renderer and Schematron rules for NISO STS |
 | PHP, Blade, JavaScript, Vue, SCSS | [platformsh-templates/laravel](https://github.com/platformsh-templates/laravel) | Laravel template for Platform.sh. |
+| XSLT, XProc, CSS | [sts4i/sts4i-tools](https://github.com/sts4i/sts4i-tools) | HTML renderer and Schematron rules for NISO STS |
 | PHP, JavaScript, HTML, CSS | [EngineGPDev/EngineGP](https://github.com/EngineGPDev/EngineGP) | EngineGP - сontrol panel |
 | Python | [Cyogenus/Xtream-m3u_plus-IPTV-Player-by-My-1](https://github.com/Cyogenus/Xtream-m3u_plus-IPTV-Player-by-My-1) |  |
 | HTML, Dockerfile | [mharen/TicksToDateTime](https://github.com/mharen/TicksToDateTime) |  |
@@ -3787,8 +3796,8 @@
 | C#, GDScript, Makefile | [avilches/BetauerGodotTools](https://github.com/avilches/BetauerGodotTools) |  |
 | JavaScript, SCSS, R, HTML, Dockerfile, Shell, CSS | [openforis/arena](https://github.com/openforis/arena) |  |
 | R | [jjesusfilho/stf](https://github.com/jjesusfilho/stf) | Consulta jurisprudencial do STF |
-| Rust, Jinja, Python, Makefile, Dockerfile, Nix, Shell, Smarty, Starlark | [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) |  |
 | Shell, HCL, JavaScript, Python | [thecloudgarage/eks-anywhere](https://github.com/thecloudgarage/eks-anywhere) | This repository features all the supporting source code as an input to the EKS Anywhere Blog series |
+| Rust, Jinja, Python, Makefile, Dockerfile, Nix, Shell, Smarty, Starlark | [stackabletech/hive-operator](https://github.com/stackabletech/hive-operator) |  |
 | TypeScript, CSS, JavaScript | [oasisprotocol/docs](https://github.com/oasisprotocol/docs) | Official documentation for the Oasis Network. |
 | Python | [matheinig/GamiFlow](https://github.com/matheinig/GamiFlow) | Blender utility helping with game asset creation. |
 | Java, HTML, CSS, JavaScript, Shell | [codeforamerica/form-flow](https://github.com/codeforamerica/form-flow) | A Java library placed in a Spring Boot app to generate form flows. |
@@ -3817,8 +3826,8 @@
 | Python, JavaScript, CSS, SCSS, HTML, Jupyter Notebook, Dockerfile, Shell | [zms-publishing/ZMS](https://github.com/zms-publishing/ZMS) | Running on Python 3.8+ |
 | Python, XSLT, CSS, Makefile, Gnuplot, M4, Inno Setup, Perl, Shell, Batchfile | [GNOME/gimp-help](https://github.com/GNOME/gimp-help) | Read-only mirror of https://gitlab.gnome.org/GNOME/gimp-help |
 | Jupyter Notebook, Python | [felt/felt-python](https://github.com/felt/felt-python) | Python SDK for the Felt API |
-| MDX, JavaScript, HTML, Shell | [NASA-IMPACT/veda-config](https://github.com/NASA-IMPACT/veda-config) | Configuration template for the Dashboard Evolution Project |
 | Python, Makefile | [oidlabs-com/Lexoid](https://github.com/oidlabs-com/Lexoid) | Multimodal document Parser |
+| MDX, JavaScript, HTML, Shell | [NASA-IMPACT/veda-config](https://github.com/NASA-IMPACT/veda-config) | Configuration template for the Dashboard Evolution Project |
 | Lua, Shell, C, Nushell, Nu, Vim Script, Nix, SCSS, CSS, Makefile | [hardfau1t/dotfiles](https://github.com/hardfau1t/dotfiles) | config files |
 | TypeScript, Shell | [ilovepixelart/ts-patch-mongoose](https://github.com/ilovepixelart/ts-patch-mongoose) | Patch history & events plugin for mongoose |
 | Shell, Dockerfile, Makefile | [nerethos/docker-stash](https://github.com/nerethos/docker-stash) | Unofficial Docker image for https://github.com/stashapp/stash with hardware acceleration |
@@ -3839,8 +3848,8 @@
 | Java, Shell | [weaviate/java-client](https://github.com/weaviate/java-client) | Official Weaviate Java Client |
 | Shell | [dfinity/snsdemo](https://github.com/dfinity/snsdemo) | Developer focused SNS deployment demo |
 | Lua, C# | [DwayneDaLoser/Hamster-Kombat-Clicker](https://github.com/DwayneDaLoser/Hamster-Kombat-Clicker) | Master Hamster Kombat Bot is a Python-based automation tool specifically designed for the game Hamster Kombat. This bot is capable of performing all in-game tasks, including auto-tapping, cipher tasks, and purchasing the best cards on your behalf. It's a free and fully automated farming bot that enhances your Hamster Kombat gaming experience. |
-| C++, C, Java, CMake, Shell, HTML, Makefile, Perl, Tcl, Dockerfile, DTrace, Lex, Ruby | [hpc-gridware/clusterscheduler](https://github.com/hpc-gridware/clusterscheduler) | A drop-in replacement of #SunGridEngine (SGE) or #UnivaGridEngine (UGE) with modern features, stable, and ultra-fast.  |
 | Go, Smarty, Shell, Mustache, Nix | [YAKEcloud/yake](https://github.com/YAKEcloud/yake) | (Y)et (A)nother (K)ubernetes (E)ngine |
+| C++, C, Java, CMake, Shell, HTML, Makefile, Perl, Tcl, Dockerfile, DTrace, Lex, Ruby | [hpc-gridware/clusterscheduler](https://github.com/hpc-gridware/clusterscheduler) | A drop-in replacement of #SunGridEngine (SGE) or #UnivaGridEngine (UGE) with modern features, stable, and ultra-fast.  |
 | Red, Lua | [CDPR-Modding-Documentation/Cyberpunk-Modding-Docs](https://github.com/CDPR-Modding-Documentation/Cyberpunk-Modding-Docs) | Modding tutorials and documentation for Cyberpunk 2077 |
 | Shell | [rmndkyl/MandaNode](https://github.com/rmndkyl/MandaNode) | A shell script collection about shortcuts to run nodes in Web3. |
 | Python | [GMyhf/2024spring-cs201](https://github.com/GMyhf/2024spring-cs201) |  |
@@ -3880,20 +3889,20 @@
 | PHP, CSS, JavaScript | [formbricks/wordpress](https://github.com/formbricks/wordpress) | Official Formbricks Plugin for WordPress sites |
 | TypeScript, JavaScript, Shell | [CourtHive/tods-competition-factory](https://github.com/CourtHive/tods-competition-factory) | functions to manipulate TODS-JSON documents which represent tournaments and leagues; generating draws & etc. |
 | C#, Java, Shell, Batchfile, FreeMarker | [Assambra/Free-MMORPG](https://github.com/Assambra/Free-MMORPG) | Free-MMORPG is an open-source project designed to provide a comprehensive framework for building multiplayer online role-playing games. Leveraging cutting-edge technologies and community-driven solutions, the project includes robust server infrastructure, modular client components, and highly customizable character systems. |
-| Nix, Shell | [dvdjv/socle](https://github.com/dvdjv/socle) | A collection of packages to support RK3588(S)-based SBCs |
 | Jupyter Notebook | [kozaka93/2024Z-MachineLearning](https://github.com/kozaka93/2024Z-MachineLearning) |  |
+| Nix, Shell | [dvdjv/socle](https://github.com/dvdjv/socle) | A collection of packages to support RK3588(S)-based SBCs |
 | Python, Shell, PHP, HTML, Dockerfile | [seatable/seatable-admin-docs](https://github.com/seatable/seatable-admin-docs) | Official SeaTable Admin Manual |
 | Shell, Python, Lua, Nushell, Vim Script, Haskell, CSS, Emacs Lisp, HTML | [Donearm/configs](https://github.com/Donearm/configs) | all config files that I use/used |
 | TypeScript, JavaScript, HTML | [phetsims/axon](https://github.com/phetsims/axon) | Axon provides powerful and concise models for interactive simulations, based on observable Properties and related patterns. |
-| Python, Jupyter Notebook, Shell | [TUDelft-CITG/coastpy](https://github.com/TUDelft-CITG/coastpy) | Python tools for cloud-native coastal analytics |
 | TypeScript, SCSS, JavaScript, HTML, CSS | [element-plus-react/element-plus-react](https://github.com/element-plus-react/element-plus-react) | 🎉 A React UI Library |
+| Python, Jupyter Notebook, Shell | [TUDelft-CITG/coastpy](https://github.com/TUDelft-CITG/coastpy) | Python tools for cloud-native coastal analytics |
 | Python, Dockerfile, HCL | [PixelgenTechnologies/pixelator](https://github.com/PixelgenTechnologies/pixelator) | A command-line tool and library to process and analyze sequencing data from Molecular Pixelation (MPX) assays. |
 | Java | [buda-base/lucene-bo](https://github.com/buda-base/lucene-bo) | Lucene analyzer for Tibetan |
 | TypeScript, JavaScript | [ipfs/helia-verified-fetch](https://github.com/ipfs/helia-verified-fetch) | A fetch-like API for obtaining verified & trustless IPFS CIDs on the web |
 | TypeScript, JavaScript, Dockerfile | [open-amt-cloud-toolkit/rps](https://github.com/open-amt-cloud-toolkit/rps) | The Remote Provisioning Service (RPS) is a Node.js-based microservice that works with the Remote Provisioning Client (RPC) to activate Intel® AMT platforms using a pre-defined profile. |
 | TypeScript, HTML, SCSS, JavaScript, CSS | [ceskaexpedice/kramerius-web-client](https://github.com/ceskaexpedice/kramerius-web-client) | Novy klient pro Krameria |
-| Rust | [awxkee/libblur](https://github.com/awxkee/libblur) | High performance blur in pure Rust using SIMD |
 | C, Pascal, Mathematica, Tcl, Roff, HTML, SAS, C++, M4, Fortran, Makefile, Shell, TeX, CMake, Python, BlitzBasic, Assembly, Ada, Rez, Yacc, Prolog, PostScript, Jupyter Notebook, CSS, Cython, DIGITAL Command Language, CLIPS, DTrace, Batchfile, Module Management System, PowerShell, MATLAB, Filebench WML, QMake | [SASfit/SASfit](https://github.com/SASfit/SASfit) | A curve fitting program for small-angle scattering curves, mostly from SAXS and SANS experiments in analytical or biological chemistry. 📄https://doi.org/10.1107/S1600576722009037 📄https://doi.org/10.1107/S1600576717011979 📄https://doi.org/10.1107/S1600576715016544 |
+| Rust | [awxkee/libblur](https://github.com/awxkee/libblur) | High performance blur in pure Rust using SIMD |
 | TypeScript, JavaScript, HTML, Dockerfile | [visgl/loaders.gl-showcases](https://github.com/visgl/loaders.gl-showcases) | Showcase applications for loaders.gl |
 | Ruby, HTML, Shell | [pivotal-cf/on-demand-service-broker-release](https://github.com/pivotal-cf/on-demand-service-broker-release) | On-Demand Service Broker (ODB) BOSH Release, a BOSH-packaged-up framework for more easily developing OSBAPI-compliant service brokers that provision and deprovision new instances with BOSH |
 | Common Lisp, JavaScript, PHP, TeX, Emacs Lisp | [european-lisp-symposium/els-web](https://github.com/european-lisp-symposium/els-web) | European Lisp Symposium Website Tools |
@@ -3925,8 +3934,8 @@
 | Rich Text Format, HTML, Sass, JavaScript, SCSS | [okfde/okfn.de](https://github.com/okfde/okfn.de) | Die Webseite der Open Knowledge Foundation Deutschland. |
 | PHP, JavaScript, CSS, Smarty, HTML, Perl | [Heyuri/kokonotsuba](https://github.com/Heyuri/kokonotsuba) | Heyuri's BBS software |
 | R | [insightsengineering/formatters](https://github.com/insightsengineering/formatters) | A framework for creating listings of raw data that include specialized formatting, headers, footers, referential footnotes, and pagination. |
-| Java, HTML, Dockerfile | [BBMRI-ERIC/negotiator](https://github.com/BBMRI-ERIC/negotiator) | An Open-source access negotation system for Research Infrastructures |
 | TypeScript | [playwrightsolutions/playwright-practicesoftwaretesting.com](https://github.com/playwrightsolutions/playwright-practicesoftwaretesting.com) | Example using Playwright against site https://practicesoftwaretesting.com |
+| Java, HTML, Dockerfile | [BBMRI-ERIC/negotiator](https://github.com/BBMRI-ERIC/negotiator) | An Open-source access negotation system for Research Infrastructures |
 | Go, Makefile, Shell, Dockerfile, Python, HTML | [k-orc/openstack-resource-controller](https://github.com/k-orc/openstack-resource-controller) | A set of Kubernetes controllers to manage your OpenStack infrastructure |
 | Lua, Makefile, Python, Shell | [AGORI-Studios/Rit](https://github.com/AGORI-Studios/Rit) | A rhythm game focused on supporting multiple formats |
 | HTML, Shell | [harry-maan/gmx_qk](https://github.com/harry-maan/gmx_qk) |  |
@@ -3956,16 +3965,16 @@
 | C++, Python, CMake, Shell, Dockerfile | [gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx) | Gyselalib++ is a collection of C++ components for writing gyrokinetic semi-lagrangian codes and similar |
 | Rust, Solidity, TypeScript, Nix, Shell | [tangle-network/gadget](https://github.com/tangle-network/gadget) | A framework for building modular AVS and Tangle Blueprints: https://docs.tangle.tools/developers/blueprints/introduction |
 | Lua, Shell, C, Python, Makefile, Terra | [xbunax/dotfiles](https://github.com/xbunax/dotfiles) |  |
-| Go, Shell, Dockerfile, Makefile | [open-amt-cloud-toolkit/rpc-go](https://github.com/open-amt-cloud-toolkit/rpc-go) | The Remote Provisioning Client (RPC) communicates with the Manageability Engine Interface (MEI) and Remote Provisioning Service (RPS) interfaces. |
 | Rust, Dockerfile | [rust-lang/sync-team](https://github.com/rust-lang/sync-team) | Synchronize the team repository with the services we use |
+| Go, Shell, Dockerfile, Makefile | [open-amt-cloud-toolkit/rpc-go](https://github.com/open-amt-cloud-toolkit/rpc-go) | The Remote Provisioning Client (RPC) communicates with the Manageability Engine Interface (MEI) and Remote Provisioning Service (RPS) interfaces. |
 | C++, CMake, Python | [rdf4cpp/rdf4cpp](https://github.com/rdf4cpp/rdf4cpp) | rdf4cpp aims to be a stable RDF library for C++ |
 | TypeScript, SCSS, JavaScript, HTML | [aws/mynah-ui](https://github.com/aws/mynah-ui) | The chat interface of Amazon Q Developer (for IDEs) |
 | Smarty, Shell, Mustache, Makefile | [castai/helm-charts](https://github.com/castai/helm-charts) | CAST AI Kubernetes helm charts |
 | C++, Python, Meson, CSS, Shell | [ibm-openbmc/bmcweb](https://github.com/ibm-openbmc/bmcweb) |  |
 | Kotlin, Batchfile | [catpuppyapp/SshKeyMan](https://github.com/catpuppyapp/SshKeyMan) | Generate/Manage your ssh keys on Android |
 | Kotlin, Swift | [perawallet/pera-android](https://github.com/perawallet/pera-android) | The Android repository of Pera |
-| TypeScript, JavaScript, Shell | [mahaaoo/react-native-maui](https://github.com/mahaaoo/react-native-maui) | 🎁 🎉 React Native Components completely implemented by TypeScript |
 | Shell, SCSS | [hbctraining/Peak_analysis_workshop](https://github.com/hbctraining/Peak_analysis_workshop) | An introduction to various methods/approaches for the analysis of peaks generated from ChIP-seq / CUT&RUN / ATAC-seq |
+| TypeScript, JavaScript, Shell | [mahaaoo/react-native-maui](https://github.com/mahaaoo/react-native-maui) | 🎁 🎉 React Native Components completely implemented by TypeScript |
 | TypeScript, Vue, JavaScript, SCSS, PowerShell, Shell | [Esposter/Esposter](https://github.com/Esposter/Esposter) | A nice and casual place for posting random things. |
 | Python, Fortran, Shell, C | [ealonsogzl/MuSA](https://github.com/ealonsogzl/MuSA) | MuSA: The Multiple Snow data Assimilation System  |
 | Java, HTML, Shell, Dockerfile | [OpenLiberty/guide-cloud-aws](https://github.com/OpenLiberty/guide-cloud-aws) | A guide on how to deploy microservices to Amazon Elastic Container Service for Kubernetes (EKS) on Amazon Web Services (AWS): https://openliberty.io/guides/cloud-aws.html |
@@ -3994,8 +4003,8 @@
 | C, Makefile, Shell, GAP, Rust, Swift, C++, Zig, Awk, Assembly, Yacc, Lex, JavaScript, Common Lisp, Java, M4, CMake | [junjiemars/c](https://github.com/junjiemars/c) | c programming basics and use cases |
 | Svelte, SCSS, JavaScript, CSS, Shell, HTML, TypeScript | [rodneylab/sveltekit-graphql-github](https://github.com/rodneylab/sveltekit-graphql-github) | Use Apollo Client with SvelteKit to Query a GraphQL API: we use the GitHub API to query our repos and learn a bit of SvelteKit along the way. |
 | TypeScript, JavaScript, Shell, CSS, PLpgSQL, Python, Dockerfile | [oaknational/oak-ai-lesson-assistant](https://github.com/oaknational/oak-ai-lesson-assistant) | Oak's AI Projects including our AI Lesson Planning Assistant (Aila) and Quiz Designer |
-| TypeScript, JavaScript, Shell, HTML, Smarty | [vivid-planet/comet-starter](https://github.com/vivid-planet/comet-starter) | Blueprint for a new Comet DXP project. |
 | C#, JavaScript, F#, CSS, HTML, Batchfile, TSQL, ASP.NET | [SkillsFundingAgency/das-shared-packages](https://github.com/SkillsFundingAgency/das-shared-packages) |  |
+| TypeScript, JavaScript, Shell, HTML, Smarty | [vivid-planet/comet-starter](https://github.com/vivid-planet/comet-starter) | Blueprint for a new Comet DXP project. |
 | Python | [lm-pub-quiz/lm-pub-quiz](https://github.com/lm-pub-quiz/lm-pub-quiz) | Evaluate language models using multiple choice items |
 | HTML, CSS, JavaScript, Perl, Shell, Ruby | [neomutt/neomutt.github.io](https://github.com/neomutt/neomutt.github.io) | 📚 NeoMutt web pages |
 | Python, Go, Dockerfile, Makefile | [opendatahub-io/ilab-on-ocp](https://github.com/opendatahub-io/ilab-on-ocp) |  |
@@ -4069,8 +4078,8 @@
 | C, Python | [paguso-CIN0135/CIN0135-20242](https://github.com/paguso-CIN0135/CIN0135-20242) | CIN0135 Estruturas de Dados Orientadas a Objeto  2024.2 - CIn-UFPE |
 | JavaScript, TypeScript, MDX, SCSS, HTML, Shell, CSS | [myntra/applique-ui](https://github.com/myntra/applique-ui) | A design system build by Myntra |
 | CSS | [geode-sdk/docs](https://github.com/geode-sdk/docs) | Documentation |
-| Python, Shell | [Hydrology-IFH/roger](https://github.com/Hydrology-IFH/roger) | Runoff Generation Research in Python  |
 | Java, Shell, TeX, Batchfile | [Hotmoka/hotmoka](https://github.com/Hotmoka/hotmoka) | The Hotmoka project |
+| Python, Shell | [Hydrology-IFH/roger](https://github.com/Hydrology-IFH/roger) | Runoff Generation Research in Python  |
 | Python, PHP, JavaScript, Shell | [chartingshow/crypto-firewall](https://github.com/chartingshow/crypto-firewall) | 🎁 Blocks browser-based crypto mining, cryptojacking, banking and crypto malware, infostealers, phishing websites, malicious apps and hackers command-and-control (C2) servers. |
 | Python, Jupyter Notebook, Shell, Dockerfile | [xdgrulez/kafi](https://github.com/xdgrulez/kafi) | The Swiss Army Knife for Kafka |
 | C#, Mustache, Batchfile, Shell | [CyberSource/cybersource-rest-client-dotnet](https://github.com/CyberSource/cybersource-rest-client-dotnet) | .NET client library for the CyberSource REST API |
@@ -4081,14 +4090,14 @@
 | Python | [Bilkent-CYBORG/VOPy](https://github.com/Bilkent-CYBORG/VOPy) | A Framework for Black-box Vector Optimization |
 | Jupyter Notebook, HTML, Python, Dockerfile, Shell | [hse-ling-python/seminars](https://github.com/hse-ling-python/seminars) |  |
 | Dockerfile, Shell | [hassio-addons/addon-ubuntu-base](https://github.com/hassio-addons/addon-ubuntu-base) | Docker base images (Ubuntu) - Community Home Assistant Add-ons |
-| Ada, Shell, Python, Makefile, C | [AdaCore/libadalang-tools](https://github.com/AdaCore/libadalang-tools) | Libadalang-based tools |
 | Dart, TypeScript, Python, Shell, JavaScript, Jupyter Notebook, Dockerfile, Ruby, Swift, Kotlin, CSS, Objective-C | [hpi-dhc/PharMe](https://github.com/hpi-dhc/PharMe) | 💊🧬 PharMe - Pharmaceutical insights tailored to your personal genome |
+| Ada, Shell, Python, Makefile, C | [AdaCore/libadalang-tools](https://github.com/AdaCore/libadalang-tools) | Libadalang-based tools |
 | C++, C, HTML | [GrupoDiana/BRTLibrary](https://github.com/GrupoDiana/BRTLibrary) |  |
 | Python, HTML, Shell, JavaScript, CSS | [MetOffice/CSET](https://github.com/MetOffice/CSET) | Toolkit for evaluation and investigation of numerical models for weather and climate applications. |
-| C#, Rust, TypeScript, JavaScript, PowerShell, Handlebars, Makefile, Shell | [gear-tech/sails](https://github.com/gear-tech/sails) | Framework for ultimate experience of writing programs powered by Gear protocol |
 | Python, Shell | [MESMER-group/mesmer](https://github.com/MESMER-group/mesmer) | spatially-resolved ESM-specific multi-scenario initial-condition ensemble emulator |
-| Python | [Linuxfabrik/lib](https://github.com/Linuxfabrik/lib) | Python libraries used in various Linuxfabrik projects, including the Monitoring Plugins project. |
+| C#, Rust, TypeScript, JavaScript, PowerShell, Handlebars, Makefile, Shell | [gear-tech/sails](https://github.com/gear-tech/sails) | Framework for ultimate experience of writing programs powered by Gear protocol |
 | Python | [aliyun/oss-connector-for-ai-ml](https://github.com/aliyun/oss-connector-for-ai-ml) | A high-performance Python library for connecting AI/ML frameworks with OSS storage. |
+| Python | [Linuxfabrik/lib](https://github.com/Linuxfabrik/lib) | Python libraries used in various Linuxfabrik projects, including the Monitoring Plugins project. |
 | Dart, Swift, Kotlin, Ruby, Objective-C | [Adyen/adyen-flutter](https://github.com/Adyen/adyen-flutter) |  |
 | Java, Shell | [PoweredByApartium/cocoa-beans](https://github.com/PoweredByApartium/cocoa-beans) | General purpose library for Java & Spigot |
 | Python | [CarlosAlexandre197/DataBase_SQL](https://github.com/CarlosAlexandre197/DataBase_SQL) | Table created with Python connecting to the Sqlite Database. |
@@ -4210,8 +4219,8 @@
 | Rust | [JSorngard/zalgo_codec](https://github.com/JSorngard/zalgo_codec) | A crate for converting an ASCII text string to a single unicode grapheme cluster and back. Also provides a macro to embed encoded source code into a Rust source file. |
 | Java, HTML, CSS | [AdeptJ/adeptj-runtime](https://github.com/AdeptJ/adeptj-runtime) | High performance, dynamic, modular runtime for RESTful APIs, MicroServices and WebApps. |
 | C#, Dockerfile, Smarty | [IvanJosipovic/OIDC-Guard](https://github.com/IvanJosipovic/OIDC-Guard) | OpenID Connect (OIDC) & OAuth 2 API Server used to secure Kubernetes Ingress |
-| TypeScript, JavaScript, CSS, HTML, Svelte, Python, C#, Astro, Dart, Go, Shell, Rust, Swift, Dockerfile, Java, F#, Vue, EJS, Kotlin, Objective-C | [sst/v2](https://github.com/sst/v2) | SST v2 |
 | Python, Shell | [ssocean/NAIP](https://github.com/ssocean/NAIP) | This repository contains the official implementation for the paper "From Words to Worth: Newborn Article Impact Prediction with LLM". |
+| TypeScript, JavaScript, CSS, HTML, Svelte, Python, C#, Astro, Dart, Go, Shell, Rust, Swift, Dockerfile, Java, F#, Vue, EJS, Kotlin, Objective-C | [sst/v2](https://github.com/sst/v2) | SST v2 |
 | TypeScript, PowerShell | [martincostello/update-dotnet-sdk](https://github.com/martincostello/update-dotnet-sdk) | A GitHub Action that updates the .NET SDK |
 | Python | [pythagoras-dev/Pythagoras](https://github.com/pythagoras-dev/Pythagoras) | An experimental framework that democratizes access to distributed serverless compute.  |
 | Batchfile | [narenkram/steadfast-monorepo](https://github.com/narenkram/steadfast-monorepo) | The central code repository for the Steadfast 1-click option trading app (BankNifty, Nifty, Finnifty, MidcapNifty, NiftyMKT50, Sensex, Bankex, and Sensex50), managing shared components and setup scripts. |
@@ -4258,8 +4267,8 @@
 | C++, Python, Makefile, CMake | [janhq/cortex.llamacpp](https://github.com/janhq/cortex.llamacpp) | cortex.llamacpp is a high-efficiency C++ inference engine for edge computing.  It is a dynamic library that can be loaded by any server at runtime. |
 | Python, HTML, JavaScript, SCSS, Shell, CSS | [SACGF/variantgrid](https://github.com/SACGF/variantgrid) | VariantGrid public repo |
 | Rust, Shell, Python, C | [ccc-spdm-tools/spdm-rs](https://github.com/ccc-spdm-tools/spdm-rs) | A rust implementation for DMTF SPDM protocol to support Confidential Computing |
-| C, HTML, C++, CMake, M4, Shell, Makefile, Python, Inno Setup, Batchfile, CSS, Ruby | [aosp-mirror/platform_external_expat](https://github.com/aosp-mirror/platform_external_expat) |  |
 | Python, Shell | [ladybug-tools/dragonfly-core](https://github.com/ladybug-tools/dragonfly-core) | :dragon: dragonfly core library |
+| C, HTML, C++, CMake, M4, Shell, Makefile, Python, Inno Setup, Batchfile, CSS, Ruby | [aosp-mirror/platform_external_expat](https://github.com/aosp-mirror/platform_external_expat) |  |
 | Solidity, JavaScript, Makefile | [OriginProtocol/arm-oeth](https://github.com/OriginProtocol/arm-oeth) | Automated Redemption Manager (ARM) for Origin ETH (OETH) |
 | Python, Shell, Ruby, Perl, C, QML, CMake, HTML | [Nobara-Project/rpm-sources](https://github.com/Nobara-Project/rpm-sources) | Contains patches, configs, and RPM spec sheets for Nobara's packages |
 | TypeScript, JavaScript | [alien-rpc/alien-rpc](https://github.com/alien-rpc/alien-rpc) | Type-safe RPC with generated runtime validation, REST semantics, and json-seq streams |
@@ -4337,8 +4346,8 @@
 | MDX | [onyx-dot-app/documentation](https://github.com/onyx-dot-app/documentation) |  |
 | Rust, CSS, Dockerfile, HTML, Shell | [mrozycki/rustmas](https://github.com/mrozycki/rustmas) | Christmas lights controller capable of displaying 3D animations |
 | TypeScript, JavaScript, Swift, HTML, CSS, Shell, Dockerfile | [make-software/casper-wallet](https://github.com/make-software/casper-wallet) | Securely manage your CSPR tokens, interact with dapps, and sign transactions with Casper Wallet, the go-to self-custody wallet for the Casper Network. |
-| Python, Shell | [fniessink/toisto](https://github.com/fniessink/toisto) | Command-line app to practice languages |
 | TypeScript, SCSS, JavaScript | [vtnorton/vtnorton.com](https://github.com/vtnorton/vtnorton.com) | Código-fonte para o site vtnorton.com usando Next.js e React para conectar com o Notion |
+| Python, Shell | [fniessink/toisto](https://github.com/fniessink/toisto) | Command-line app to practice languages |
 | PHP | [drevops/git-artifact](https://github.com/drevops/git-artifact) | 🎁 Assemble a code artifact from your codebase, remove unnecessary files, and push it into a separate Git repository. |
 | Fortran, Python, CMake, Makefile, C, Shell | [ESCOMP/CMEPS](https://github.com/ESCOMP/CMEPS) | NUOPC Community Mediator for Earth Prediction Systems  |
 | Vue, JavaScript, HTML | [ourresearch/openalex-gui](https://github.com/ourresearch/openalex-gui) | Demo frontend for OpenAlex |
@@ -4368,15 +4377,15 @@
 | Shell, Makefile, Python | [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) | 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience |
 | TypeScript, Shell, Dockerfile, PHP | [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) | GitHub Action for creating a CI job matrix. |
 | Java, Python, C++, Jupyter Notebook, C | [deshaw/pjrmi](https://github.com/deshaw/pjrmi) |  |
-| Python | [fairtracks/omnipy](https://github.com/fairtracks/omnipy) | Omnipy is a high level Python library for type-driven data wrangling and scalable workflow orchestration (under development) |
 | CSS, Makefile, XSLT, JavaScript, Python, C++, Perl, Shell, HTML | [LibreOffice/help](https://github.com/LibreOffice/help) | Libreoffice help Read-only Mirror - no pull request |
+| Python | [fairtracks/omnipy](https://github.com/fairtracks/omnipy) | Omnipy is a high level Python library for type-driven data wrangling and scalable workflow orchestration (under development) |
 | C#, Batchfile, PowerShell, Shell | [cake-contrib/Cake.Npm](https://github.com/cake-contrib/Cake.Npm) | A set of aliases for Cake to help with running Npm (Node Package Manager) commands |
 | JavaScript, Handlebars, CSS, SCSS | [fvtt-fria-ligan/vaesen-foundry-vtt](https://github.com/fvtt-fria-ligan/vaesen-foundry-vtt) |  |
 | Java | [Ph1Lou/WereWolfPlugin](https://github.com/Ph1Lou/WereWolfPlugin) |  |
 | Go, HTML, Shell, PowerShell | [cloudfoundry/loggregator-agent-release](https://github.com/cloudfoundry/loggregator-agent-release) |  |
 | Svelte, Rust, JavaScript, HTML, TypeScript, CSS | [progzone122/warp-cloudflare-gui-rust](https://github.com/progzone122/warp-cloudflare-gui-rust) | A GUI application based on warp-cli for linux written in Rust |
-| Python, Shell, Makefile | [dpetzold/aws-log-parser](https://github.com/dpetzold/aws-log-parser) | Parse AWS CloudFront and LoadBalancer logs to Python3 Data Classes |
 | TypeScript, SCSS, JavaScript, HTML | [RawZ06/ngx-monaco-tree](https://github.com/RawZ06/ngx-monaco-tree) | A tree view based on monaco-editor powered by VSCode. |
+| Python, Shell, Makefile | [dpetzold/aws-log-parser](https://github.com/dpetzold/aws-log-parser) | Parse AWS CloudFront and LoadBalancer logs to Python3 Data Classes |
 | C++, CMake, C, QML, QMake | [qt/qtnetworkauth](https://github.com/qt/qtnetworkauth) | Qt Network Authenticators; QtOAuth in particular |
 | C++, Python, CMake | [ogmacorp/PyAOgmaNeo](https://github.com/ogmacorp/PyAOgmaNeo) | Python bindings to AOgmaNeo |
 | Kotlin, Shell, Makefile | [ashtanko/Kotlin-Lab](https://github.com/ashtanko/Kotlin-Lab) | 📚 Algorithms, Data Structures, Design Patterns, Concurrency in Kotlin |
@@ -4456,9 +4465,9 @@
 | JavaScript, Python, HTML, CSS, Shell, SCSS | [ome/omero-figure](https://github.com/ome/omero-figure) | An OMERO.web app for creating Figures from images in OMERO |
 | TypeScript, HTML, JavaScript | [tu4mo/slidesdown](https://github.com/tu4mo/slidesdown) | Write markdown, get slides |
 | Python, Circom, Shell, HTML, WebAssembly | [qizhou/research](https://github.com/qizhou/research) |  |
-| JavaScript, Shell | [Files-com/files-sdk-javascript](https://github.com/Files-com/files-sdk-javascript) | Files.com Official Javascript (Node) SDK. Files.com is Cloud Storage, Cloud Gateway, and MFT, All In One. Our built-in storage is fast, affordable, and available in 7 Worldwide Regions. Access Any File on Any Cloud via Files.com's Javascript client, including Google, Amazon, Microsoft, Box, Dropbox, Amazon, Wasabi, Backblaze, Rackspace, and more.  |
-| Solidity, JavaScript, Makefile | [worldcoin/world-id-example-airdrop](https://github.com/worldcoin/world-id-example-airdrop) | World ID Example. Create an airdrop of ERC-20 tokens that can only be claimed once by a single human. Completely privacy preserving. |
 | JavaScript, HTML, CSS, Python, MATLAB | [svanhedger/jspsych](https://github.com/svanhedger/jspsych) | jsPsych scripts for web-based behavioral testing |
+| Solidity, JavaScript, Makefile | [worldcoin/world-id-example-airdrop](https://github.com/worldcoin/world-id-example-airdrop) | World ID Example. Create an airdrop of ERC-20 tokens that can only be claimed once by a single human. Completely privacy preserving. |
+| JavaScript, Shell | [Files-com/files-sdk-javascript](https://github.com/Files-com/files-sdk-javascript) | Files.com Official Javascript (Node) SDK. Files.com is Cloud Storage, Cloud Gateway, and MFT, All In One. Our built-in storage is fast, affordable, and available in 7 Worldwide Regions. Access Any File on Any Cloud via Files.com's Javascript client, including Google, Amazon, Microsoft, Box, Dropbox, Amazon, Wasabi, Backblaze, Rackspace, and more.  |
 | Ruby, Dockerfile, Shell | [Files-com/files-mock-server](https://github.com/Files-com/files-mock-server) | Mock Files.com Server API for your own Integration Testing |
 | Python, Shell, Dockerfile | [google/ml-metrics](https://github.com/google/ml-metrics) |  |
 | CSS, JavaScript | [DataTables/Dist-DataTables-Bootstrap](https://github.com/DataTables/Dist-DataTables-Bootstrap) |  |
@@ -4527,8 +4536,8 @@
 | Python, Shell | [fortifyadmin/fortifyapi](https://github.com/fortifyadmin/fortifyapi) | Python library for Fortify Software Security Center (SSC) RESTFul API |
 | Dart, HTML, Swift, Kotlin, Objective-C | [oaktreeapps/stacked_notification_cards](https://github.com/oaktreeapps/stacked_notification_cards) | A Flutter implementation of iOS style stacked notifications. |
 | Python, JavaScript, Jinja, Shell | [deluxestyle/HassioConfig](https://github.com/deluxestyle/HassioConfig) | My Home Assistant Configuration  |
-| Jupyter Notebook, Python | [susannawinkelbauer/StraitFlux](https://github.com/susannawinkelbauer/StraitFlux) | StraitFlux calculates oceanic transports and crosssections on different model grids. |
 | TypeScript, JavaScript, CSS, Nix | [jaanonim/obsidian-youversion-linker](https://github.com/jaanonim/obsidian-youversion-linker) | Obsidian plugin that automatically link bible verses to YouVersion bible. |
+| Jupyter Notebook, Python | [susannawinkelbauer/StraitFlux](https://github.com/susannawinkelbauer/StraitFlux) | StraitFlux calculates oceanic transports and crosssections on different model grids. |
 | Java, JavaScript, HTML, CSS, SCSS, Procfile | [MTES-MCT/dossierfacile-backend](https://github.com/MTES-MCT/dossierfacile-backend) |  |
 | C, C++, Makefile, Shell, PHP, Java, M4, Perl, MAXScript, Assembly, ReScript, Haxe, TeX, Rich Text Format, Objective-C, Roff, HTML, Python, Smarty, ASL, VCL, NSIS, CSS, R, Batchfile, XSLT, Tcl, JavaScript, Clarion, Logos, Ruby, C#, Pawn, GDB, Vim Script | [roytam1/rtoss](https://github.com/roytam1/rtoss) | Automatically exported from code.google.com/p/rtoss |
 | Elixir | [turnhub/expression](https://github.com/turnhub/expression) | A Excel like expression parser, compatible with FLOIP Expression language. |
@@ -4565,8 +4574,8 @@
 | TypeScript, JavaScript, SCSS, HTML, CSS, PEG.js | [spraakbanken/korp-frontend](https://github.com/spraakbanken/korp-frontend) | Frontend for Korp, a tool using the IMS Open Corpus Workbench (CWB). |
 | JavaScript, Python, HTML | [masterking32/MCF_Blum](https://github.com/masterking32/MCF_Blum) | Telegram Blum Auto Farm Bot Module for https://github.com/masterking32/MasterCryptoFarmBot |
 | Go | [krau/ManyACG](https://github.com/krau/ManyACG) | Backend & Bot for ManyACG |
-| Python, Shell, CSS, Makefile, JavaScript, HTML, SourcePawn, Dockerfile, Standard ML | [starlingx/config](https://github.com/starlingx/config) | StarlingX System Configuration Management |
 | Go, Makefile, Shell, Dockerfile | [openstack-k8s-operators/keystone-operator](https://github.com/openstack-k8s-operators/keystone-operator) | Keystone Kubernetes Operator |
+| Python, Shell, CSS, Makefile, JavaScript, HTML, SourcePawn, Dockerfile, Standard ML | [starlingx/config](https://github.com/starlingx/config) | StarlingX System Configuration Management |
 | C++, CMake, Objective-C++ | [colugomusic/scuff](https://github.com/colugomusic/scuff) |  |
 | Rust, Python, TypeScript, CSS, HTML | [WSH032/pytauri](https://github.com/WSH032/pytauri) | Tauri binding for Python through Pyo3 |
 | Rust, Vue, TypeScript, JavaScript, Shell, SCSS, Dockerfile, HTML | [dfinity/orbit](https://github.com/dfinity/orbit) | A trustless multi-custody digital assets management platform on the Internet Computer. |
@@ -4577,16 +4586,16 @@
 | Python, Scheme, BitBake, Shell, Dockerfile, HTML | [Amsterdam/mapserver](https://github.com/Amsterdam/mapserver) | Mapserver configuration for various public datasets |
 | HTML, CSS, JavaScript | [luziyi/luziyi.github.io](https://github.com/luziyi/luziyi.github.io) |  |
 | Go | [aldy505/bob](https://github.com/aldy505/bob) | SQL query builder for Go. Might also be used as an extension for Squirrel. |
-| TypeScript, JavaScript | [phrase/phrase-js](https://github.com/phrase/phrase-js) |  |
 | PHP, JavaScript | [ATM-Consulting/dolibarr_module_externalaccess](https://github.com/ATM-Consulting/dolibarr_module_externalaccess) | Add external access for customers or suppliers |
+| TypeScript, JavaScript | [phrase/phrase-js](https://github.com/phrase/phrase-js) |  |
 | TypeScript, Vue, HTML, Less | [marioplus/steam-price-converter](https://github.com/marioplus/steam-price-converter) | steam商店中的价格转换为人民币 |
 | Python, Fortran, C++, C, R, Makefile, Julia, Ruby, Shell | [joezuntz/cosmosis](https://github.com/joezuntz/cosmosis) |  |
 | Python, Shell, REXX, Dockerfile | [DataMedSci/pymchelper](https://github.com/DataMedSci/pymchelper) | Python toolkit for SHIELD-HIT12A and FLUKA |
 | TypeScript | [xballoy/coros-api](https://github.com/xballoy/coros-api) | Bulk export your Coros activities to FIT to import them in a 3rd party |
 | PHP, Blade, Shell, JavaScript, CSS | [nasrulhazim/project-template](https://github.com/nasrulhazim/project-template) | Laravel Project Template, pre-configured with common packages. |
+| C# | [Greedeks/GTweak](https://github.com/Greedeks/GTweak) | ⚙️Perfect setup of Windows 10 & Windows 11 with the choice of options you need for better convenience and performance ⚡ |
 | JavaScript, R | [cynkra/scoutbaR](https://github.com/cynkra/scoutbaR) | scoutbar React widget for R and Shiny apps |
 | Kotlin, Ruby | [NordicPlayground/Android-Common-Libraries](https://github.com/NordicPlayground/Android-Common-Libraries) | A libraries with Nordic's common code for Android apps. |
-| C# | [Greedeks/GTweak](https://github.com/Greedeks/GTweak) | ⚙️Perfect setup of Windows 10 & Windows 11 with the choice of options you need for better convenience and performance ⚡ |
 | Rust | [PSeitz/rust_measure_time](https://github.com/PSeitz/rust_measure_time) | measures and prints wall time in rust for given scope |
 | Go, Shell | [paketo-buildpacks/amazon-corretto](https://github.com/paketo-buildpacks/amazon-corretto) | A Cloud Native Buildpack that provides the Amazon Corretto implementations of JREs and JDKs |
 | Java, JavaScript, HTML, CSS, SCSS, Groovy | [open4good/open4goods](https://github.com/open4good/open4goods) | The open4goods project |
@@ -4734,8 +4743,8 @@
 | Python, HTML | [ozsolarwind/siren](https://github.com/ozsolarwind/siren) | SEN's Interactive Renewable Energy Network tool |
 | Python, Csound Document, Shell | [csound-plugins/risset](https://github.com/csound-plugins/risset) | Csound Package Manager |
 | JavaScript, PHP | [nextcloud/nextcloud_announcements](https://github.com/nextcloud/nextcloud_announcements) | ℹ️ The latest Nextcloud news directly in your notifications |
-| HTML, JavaScript, CSS | [Dimitar5555/WaterCompany](https://github.com/Dimitar5555/WaterCompany) |  |
 | Python, Makefile, Batchfile, HTML | [FriedOrange/MatrixSans](https://github.com/FriedOrange/MatrixSans) | A font family in the classic 5×7 dot matrix style |
+| HTML, JavaScript, CSS | [Dimitar5555/WaterCompany](https://github.com/Dimitar5555/WaterCompany) |  |
 | Python, Hack | [Mdraqibkhan/Spectroformer](https://github.com/Mdraqibkhan/Spectroformer) |  |
 | Rust, VBScript | [francisdb/vpxtool](https://github.com/francisdb/vpxtool) | Terminal based frontend and utilities for Visual Pinball |
 | Go, Vue, SCSS, TypeScript, CSS, JavaScript, HTML, Shell | [qor5/x](https://github.com/qor5/x) | Extensions for creating web applications with Vue, Vuetify, and htmlgo. |
@@ -4765,8 +4774,8 @@
 | Java, HTML | [openpatch/scratch-for-java](https://github.com/openpatch/scratch-for-java) | A library to ease the transition from Scratch to Java |
 | Rust, JavaScript | [VKCOM/swc-plugin-css-modules](https://github.com/VKCOM/swc-plugin-css-modules) |  |
 | TypeScript, CSS, JavaScript | [ugurkellecioglu/another-next-template](https://github.com/ugurkellecioglu/another-next-template) |  |
-| TypeScript, JavaScript, CSS | [alizahid/acorn](https://github.com/alizahid/acorn) | Reddit for mobile |
 | HTML, SCSS, PHP, JavaScript, Hack | [scriptex/at-the-wall](https://github.com/scriptex/at-the-wall) | A Game of Thrones scene coded in pure SCSS and HTML |
+| TypeScript, JavaScript, CSS | [alizahid/acorn](https://github.com/alizahid/acorn) | Reddit for mobile |
 | Java, Batchfile | [Shenzhen-Robotics-Alliance/maple-sim](https://github.com/Shenzhen-Robotics-Alliance/maple-sim) | Elevating FRC Java Robot Simulations to the Next Level with Physics Engines |
 | Rust, Just, Fluent | [cosmic-utils/observatory](https://github.com/cosmic-utils/observatory) | An in-development system monitor application for the COSMIC desktop environment |
 | Python | [chatclimate-ai/ParseStudio](https://github.com/chatclimate-ai/ParseStudio) | python package to parse pdfs with different parsers |
@@ -4857,8 +4866,8 @@
 | C, Jupyter Notebook, C++, Assembly, Lua, JavaScript, Java, Makefile, Python, Tcl, HTML, Verilog, Scala, Roff, PLpgSQL, CSS, Shell, Batchfile | [Nacnano/my-chula-courses](https://github.com/Nacnano/my-chula-courses) | Learning material and codes for my Chulalongkorn courses |
 | JavaScript, TypeScript | [recruit-tech/specter](https://github.com/recruit-tech/specter) | Specter is a data fetch layer using speculative execution. |
 | C, C++, Python, Shell, Makefile | [cosinekitty/sapphire](https://github.com/cosinekitty/sapphire) | Sapphire - free modules for VCV Rack 2 |
-| Pascal, C++ | [antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP) | ⚡ BuscaCEP é uma biblioteca para consulta de endereços online, permitindo buscas por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro). |
 | Vue, PHP, JavaScript, Blade, Shell, CSS | [SamuelMwangiW/tworra](https://github.com/SamuelMwangiW/tworra) | A Twitter clone built using Laravel Jetstream wil Inertia for Science |
+| Pascal, C++ | [antoniojmsjr/BuscaCEP](https://github.com/antoniojmsjr/BuscaCEP) | ⚡ BuscaCEP é uma biblioteca para consulta de endereços online, permitindo buscas por CEP (Código de Endereçamento Postal) ou por logradouro (UF, Localidade e Logradouro). |
 | TypeScript, JavaScript | [harryzcy/action-bark](https://github.com/harryzcy/action-bark) | Allow GitHub Actions to push iOS notifications via Bark |
 | Python | [qu-gg/BnB-LootGenerator](https://github.com/qu-gg/BnB-LootGenerator) | Random Loot Generator for the TTRPG "Bunkers & Badasses" |
 | C#, Shell, Batchfile, GLSL | [Staple-Engine/StapleEngine](https://github.com/Staple-Engine/StapleEngine) |  |
@@ -4960,7 +4969,6 @@
 | Dockerfile | [prawee/cyber-security](https://github.com/prawee/cyber-security) | Note for cyber security class |
 | TypeScript, Less, Python, AutoHotkey, HTML, JavaScript | [noemica/cog-minder](https://github.com/noemica/cog-minder) | Cogmind helper |
 | TypeScript, JavaScript, MDX | [belgattitude/httpx](https://github.com/belgattitude/httpx) | Collection of libs: http exceptions, dsn-parser... |
-| Jupyter Notebook, Python | [aromanenko/ATSF](https://github.com/aromanenko/ATSF) | Applied Time Series Forecasting course materials |
 | Kotlin, C, Java, CMake | [tree-sitter/kotlin-tree-sitter](https://github.com/tree-sitter/kotlin-tree-sitter) | Kotlin bindings to the Tree-sitter parsing library |
 | HTML, CSS, Imba, Makefile, Shell | [prithugoswami/personal-website](https://github.com/prithugoswami/personal-website) | My personal website - https://prithu.dev |
 | Java, AIDL, Shell | [nova-video-player/aos-MediaLib](https://github.com/nova-video-player/aos-MediaLib) | NOVA opeN sOurce Video plAyer: media library for database and scraping support |
@@ -5229,8 +5237,8 @@
 | PHP | [coldwater-10/V2Hub2](https://github.com/coldwater-10/V2Hub2) | script that can be used to aggregate and merge multiple subscription links for V2Ray, Trojan, Shadowsocks |
 | TypeScript, Rust, JavaScript, CSS, HTML | [mpv-easy/mpv-easy](https://github.com/mpv-easy/mpv-easy) | TS and React toolkit for mpv script |
 | JavaScript, SCSS, HTML, TypeScript, CSS, Dockerfile | [MemeLabs/chat-gui](https://github.com/MemeLabs/chat-gui) | Strims.gg chat front-end |
-| Jupyter Notebook, Python, C, Fortran, Perl | [wzhengui/pylibs](https://github.com/wzhengui/pylibs) | This repository includes functions/classes/scripts for daily routine work.  A part of it is about pre/post-processing schism model inputs/outputs |
 | C#, HTML, PowerShell, CSS, JavaScript, SCSS, Batchfile | [mlidbom/Compze](https://github.com/mlidbom/Compze) |  |
+| Jupyter Notebook, Python, C, Fortran, Perl | [wzhengui/pylibs](https://github.com/wzhengui/pylibs) | This repository includes functions/classes/scripts for daily routine work.  A part of it is about pre/post-processing schism model inputs/outputs |
 | C++, C, Makefile | [taodd/cephtrace](https://github.com/taodd/cephtrace) | eBPF based ceph tracing and monitoring |
 | XSLT, HTML, JavaScript, Astro, CSS, Python, TypeScript, Shell, PowerShell | [marcus-crane/utf9k](https://github.com/marcus-crane/utf9k) | My personal site. Contains my blog and other useful sections |
 | TeX, R, C++, Shell, Makefile | [krlmlr/wrswoR](https://github.com/krlmlr/wrswoR) | A package with different implementations of weighted random sampling without replacement in R |
@@ -5373,8 +5381,8 @@
 | Python | [Drakonosinc/Flappy_Ghost](https://github.com/Drakonosinc/Flappy_Ghost) | is a flappy bird style game created with pygame and integrates an AI |
 | JavaScript, HTML | [artlung/blogofthe.day](https://github.com/artlung/blogofthe.day) | Explore the indie web, one blog at a time. |
 | C, CMake | [nodestark/mdb-esp32-cashless](https://github.com/nodestark/mdb-esp32-cashless) | ESP32 MDB Protocol Implementation for Cashless Vending Machines |
-| Gleam, Python | [JosephTLyons/lenient_parse](https://github.com/JosephTLyons/lenient_parse) | Lenient parsing functions for Gleam, modeled after Python's `int()` and `float()` built-ins. |
 | Scala, HTML | [kbielefe/advent-of-code](https://github.com/kbielefe/advent-of-code) | For sharing my adventofcode.com solutions |
+| Gleam, Python | [JosephTLyons/lenient_parse](https://github.com/JosephTLyons/lenient_parse) | Lenient parsing functions for Gleam, modeled after Python's `int()` and `float()` built-ins. |
 | Python | [flipbit03/main](https://github.com/flipbit03/main) | For those that think `if __name__ = "__main__"` is ugly |
 | Shell | [moio9/termux-hwac](https://github.com/moio9/termux-hwac) |  |
 | JavaScript, HTML, CSS, Python, Jupyter Notebook, Shell | [mathvista/mathvista.github.io](https://github.com/mathvista/mathvista.github.io) | Website for MathVista |
@@ -5395,8 +5403,8 @@
 | Python | [keyiflerolsun/KekikStream](https://github.com/keyiflerolsun/KekikStream) | terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı |
 | HTML, CSS | [VLSI-JP/VLSI-JP.github.io](https://github.com/VLSI-JP/VLSI-JP.github.io) |  |
 | Java, JavaScript, HTML, CSS | [ivangfr/https-springboot-react](https://github.com/ivangfr/https-springboot-react) | The goal of this project is to play with HTTPS and enable it in Spring Boot applications. For it, we will implement a Spring Boot Rest API that will have its endpoints ready to accept and server over HTTPS. Furthermore, a Spring Boot Shell Java application and a Frontend React application will be implemented to consume movies-api. |
-| Python, Shell, HTML, CSS, JavaScript | [okulovsky/kaia](https://github.com/okulovsky/kaia) |  |
 | C, CMake | [RobLoach/raylib-app](https://github.com/RobLoach/raylib-app) | Application wrapper for raylib |
+| Python, Shell, HTML, CSS, JavaScript | [okulovsky/kaia](https://github.com/okulovsky/kaia) |  |
 | Python, PowerShell | [DefinetlyNotAI/Logicytics](https://github.com/DefinetlyNotAI/Logicytics) | A powerful tool designed to harvest and collect a wide range of windows system data for forensics. |
 | Shell, Vim Script | [TerrorSquad/ansible-post-installation](https://github.com/TerrorSquad/ansible-post-installation) | Ansible playbook used for installation of essential development and general use software |
 | TypeScript, JavaScript, CSS | [mattpocock/evalite](https://github.com/mattpocock/evalite) | Test your LLM-powered apps with a TypeScript-native, Vitest-based eval runner. No API key required. |
@@ -5464,8 +5472,8 @@
 | C, Makefile | [Johannes4Linux/Linux_Driver_Tutorial](https://github.com/Johannes4Linux/Linux_Driver_Tutorial) | My new Tutorial how to get started with Linux Kernel Modules and Linux Drivers. Started in 2024 |
 | Java, Shell, Batchfile | [hacimertgokhan/denis](https://github.com/hacimertgokhan/denis) | Cache based database language. |
 | JavaScript, CSS | [radegast0/spotify](https://github.com/radegast0/spotify) |  |
-| Go | [hairyhenderson/go-codeowners](https://github.com/hairyhenderson/go-codeowners) | A Go package that finds and parses GitHub CODEOWNERS files |
 | Python, Shell | [kamilburda/batcher](https://github.com/kamilburda/batcher) | Batch Layer Processing and Export for GIMP 3.0.0-RC1 and Later |
+| Go | [hairyhenderson/go-codeowners](https://github.com/hairyhenderson/go-codeowners) | A Go package that finds and parses GitHub CODEOWNERS files |
 | Shell, Python | [gentoo/releng](https://github.com/gentoo/releng) | [MIRROR] Content related to production of releases |
 | Kotlin, JavaScript, CSS, HTML, Shell | [sigbla/sigbla-app](https://github.com/sigbla/sigbla-app) | Sigbla is a framework for working with data in tables, using the Kotlin programming language. It supports various data types, reactive programming and events, user input, charts, and more. |
 | PHP, Shell, JavaScript, Dockerfile, HTML, Smarty, C | [Automattic/vip-container-images](https://github.com/Automattic/vip-container-images) | Multipurpose VIP Docker container images (primarily meant for use with the VIP Local Development Environment) |
@@ -5478,8 +5486,8 @@
 | R, Makefile, Rez | [r-dbi/DBItest](https://github.com/r-dbi/DBItest) | Testing DBI drivers |
 | C, Meson | [Rubo3/wio](https://github.com/Rubo3/wio) | Wayland compositor similar to Plan 9's rio (mirror) |
 | Jupyter Notebook, R, Python | [diogenesjusto/FIAP](https://github.com/diogenesjusto/FIAP) |  |
-| Nix, Python, Shell, Just | [dyscorv/nix-comfyui](https://github.com/dyscorv/nix-comfyui) | ComfyUI as a Nix expression |
 | C, Kotlin, Swift | [GisoBartels/kaster](https://github.com/GisoBartels/kaster) | Password Kaster is a stateless password manager based on the concept of Spectre App |
+| Nix, Python, Shell, Just | [dyscorv/nix-comfyui](https://github.com/dyscorv/nix-comfyui) | ComfyUI as a Nix expression |
 | Jupyter Notebook, Python | [manhcuong02/Pytorch-Age-Estimation](https://github.com/manhcuong02/Pytorch-Age-Estimation) | age estimation |
 | Rust, Shell | [crodjer/sysit](https://github.com/crodjer/sysit) | System Sit! Check on the system with a quick glance. |
 | Scheme, Shell, Emacs Lisp, Common Lisp, Nix, Python, YASnippet, Makefile, HCL, Dhall, Lua, Dockerfile, Haskell, Groovy, Smarty, PowerShell, JavaScript, Awk, Batchfile, CSS | [kitnil/dotfiles](https://github.com/kitnil/dotfiles) | My dotfiles |
@@ -5819,8 +5827,8 @@
 | Python | [frenck/python-open-meteo](https://github.com/frenck/python-open-meteo) | Asynchronous client for the Open-Meteo API. |
 | Python, CSS | [FelixTheC/py-overload](https://github.com/FelixTheC/py-overload) | A Runtime method override decorator. |
 | CSS, SCSS, Python, HTML, JavaScript, Shell | [davevad93/rest-countries-django-app](https://github.com/davevad93/rest-countries-django-app) | Small project built with Django that retrieves data from the REST Countries API and the Wikipedia API. |
-| JavaScript, Smarty | [lando/laravel](https://github.com/lando/laravel) | The Official Laravel Lando Plugin |
 | Python, TypeScript, JavaScript, HTML, CSS, Makefile, Dockerfile, Shell, SCSS | [ansible/ansible-ai-connect-service](https://github.com/ansible/ansible-ai-connect-service) |  |
+| JavaScript, Smarty | [lando/laravel](https://github.com/lando/laravel) | The Official Laravel Lando Plugin |
 | Python | [isyuricunha/isyuricunha](https://github.com/isyuricunha/isyuricunha) | My personal GitHub presentation. |
 | Shell, Python | [CoBrALab/optimized_antsMultivariateTemplateConstruction](https://github.com/CoBrALab/optimized_antsMultivariateTemplateConstruction) | A re-implementation of antsMultivariateTemplateConstruction2.sh using optimized image pyramid scale-space and qbatch support |
 | Go, templ, JavaScript, Makefile, CSS | [goinfinite/ez](https://github.com/goinfinite/ez) | From server to PaaS in no time. User-friendly, lightweight, free. |
@@ -5873,16 +5881,16 @@
 | Python, Shell | [yo-han/Home-Assistant-Carelink](https://github.com/yo-han/Home-Assistant-Carelink) | Unofficial Home Assistant Carelink Component |
 | Java, Dockerfile | [dmatik/oref-alerts-proxy-ms](https://github.com/dmatik/oref-alerts-proxy-ms) | Java Spring Boot MS to retrieve Israeli Pikud Ha-Oref so called Red Color alerts. |
 | Go, PowerShell, Shell, Dockerfile | [tweathers-sec/doppelganger_assistant](https://github.com/tweathers-sec/doppelganger_assistant) | Card calculator and Proxmark3 Plugin for writing and/or simulating every card type that Doppelgänger Community, Pro, Stealth, and MFAS support. |
-| JavaScript | [HIEIHIEI/TVBOX](https://github.com/HIEIHIEI/TVBOX) |  |
 | TypeScript, Shell, JavaScript | [git-for-windows/setup-git-for-windows-sdk](https://github.com/git-for-windows/setup-git-for-windows-sdk) | A GitHub Action to initialize various flavors of the Git for Windows SDK |
+| JavaScript | [HIEIHIEI/TVBOX](https://github.com/HIEIHIEI/TVBOX) |  |
 | TypeScript, Solidity, JavaScript, CSS, Dockerfile | [privacy-scaling-explorations/maci-platform](https://github.com/privacy-scaling-explorations/maci-platform) | MACI Platform - Voting and Funding using MACI |
 | TypeScript, Python, MDX, HCL, Jinja, JavaScript, CSS, Makefile, Raku, Shell, Dockerfile, mIRC Script, EJS, Roff | [chanzuckerberg/cryoet-data-portal](https://github.com/chanzuckerberg/cryoet-data-portal) | CryoET Data Portal |
 | Rust, Makefile, Move | [MystenLabs/sui-rust-sdk](https://github.com/MystenLabs/sui-rust-sdk) |  |
 | Rust, JavaScript, Dockerfile | [filecoin-station/zinnia](https://github.com/filecoin-station/zinnia) | Runtime for worker nodes executing modules in a resource-limited sandbox |
 | Swift | [sliemeobn/elementary-dom](https://github.com/sliemeobn/elementary-dom) | Experimental: Reactive Wasm Web-Components with Embedded Swift |
 | Python | [stapi-spec/stapi-fastapi](https://github.com/stapi-spec/stapi-fastapi) | Spatio Temporal Asset Tasking with FastAPI |
-| Java, CSS, Dockerfile | [bcgov/ols-router](https://github.com/bcgov/ols-router) | BC Advanced Route Planner |
 | Jupyter Notebook, HTML, Python, JavaScript, CSS | [JetBrains/lets-plot-docs](https://github.com/JetBrains/lets-plot-docs) |  |
+| Java, CSS, Dockerfile | [bcgov/ols-router](https://github.com/bcgov/ols-router) | BC Advanced Route Planner |
 | TypeScript, Handlebars, CSS, JavaScript | [jaredwray/airhorn](https://github.com/jaredwray/airhorn) | Cloud Native Notifications Library |
 | Python, Dockerfile, Mako, Shell | [uc-cdis/metadata-service](https://github.com/uc-cdis/metadata-service) | The Metadata Service provides API for retrieving JSON metadata of GUIDs. |
 | Rust, HTML, Nix, Shell | [cofob/fastside](https://github.com/cofob/fastside) | A smart redirecting gateway for various frontend services. Faster alternative to farside. |
@@ -5913,18 +5921,18 @@
 | TypeScript, Python, C#, CSS, Rust, JavaScript, HTML | [YusufOzmen01/kikitan-translator](https://github.com/YusufOzmen01/kikitan-translator) | VRChat Live Translation Application |
 | Shell, Makefile | [xiaomeng9597/Actions-iStoreOS-RK33XX](https://github.com/xiaomeng9597/Actions-iStoreOS-RK33XX) | iStoreOS云编译仓库 |
 | R, TeX | [epiverse-trace/vaccineff](https://github.com/epiverse-trace/vaccineff) | R package with tools for estimating vaccine effectiveness and vaccine related metrics |
-| Rust, Python | [axiomhq/hypertwobits](https://github.com/axiomhq/hypertwobits) | HyperTwoBits implementation |
 | Python, Jupyter Notebook, Shell | [MCG-NJU/p-MoD](https://github.com/MCG-NJU/p-MoD) | p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay |
+| Rust, Python | [axiomhq/hypertwobits](https://github.com/axiomhq/hypertwobits) | HyperTwoBits implementation |
 | Python, Makefile, CSS, Shell, Batchfile, HTML, QML | [earthdaily/qgis-plugin](https://github.com/earthdaily/qgis-plugin) | 🗺️ To be able to discover, request and use aggregate imagery products based on landsat-8/9, Sentinel 2  and other sensors from within QGIS, using the <geosys/> API. |
 | Python, HCL, Shell, Perl, Dockerfile, CMake | [spack/spack-infrastructure](https://github.com/spack/spack-infrastructure) | Spack Kubernetes instance and services running there (GitLab, CDash, spack.io) |
 | TypeScript, JavaScript, MDX, HTML, Shell | [cap-collectif/ui](https://github.com/cap-collectif/ui) | Design system of @cap-collectif with react • styled-components • styled-system |
-| Jupyter Notebook, Python, HTML, CSS, JavaScript, Shell | [cloudera/CML_AMP_Churn_Prediction](https://github.com/cloudera/CML_AMP_Churn_Prediction) | Build an scikit-learn model to predict churn using customer telco data. |
 | Ruby | [enebo/jmx](https://github.com/enebo/jmx) | JMX |
+| Jupyter Notebook, Python, HTML, CSS, JavaScript, Shell | [cloudera/CML_AMP_Churn_Prediction](https://github.com/cloudera/CML_AMP_Churn_Prediction) | Build an scikit-learn model to predict churn using customer telco data. |
 | HTML, SCSS, JavaScript, Ruby | [gsa-oes/office-of-evaluation-sciences](https://github.com/gsa-oes/office-of-evaluation-sciences) | This is the website of the Office of Evaluation Sciences. It showcases and explains our work. |
 | C++, Python, C, CMake | [daz3d/DazBridgeUtils](https://github.com/daz3d/DazBridgeUtils) | Shared Daz Bridge Utilities |
 | TypeScript, CSS, JavaScript, HTML | [hamster1963/nezha-dash-v1](https://github.com/hamster1963/nezha-dash-v1) |  |
-| Java | [ViaVersion/ViaAprilFools](https://github.com/ViaVersion/ViaAprilFools) | ViaVersion addon to add support for some notable Minecraft snapshots |
 | TypeScript, Shell, HTML, JavaScript, CSS | [railmapgen/rmg-palette](https://github.com/railmapgen/rmg-palette) | Line colour resources of multiple railway systems |
+| Java | [ViaVersion/ViaAprilFools](https://github.com/ViaVersion/ViaAprilFools) | ViaVersion addon to add support for some notable Minecraft snapshots |
 | Ada, Python, C, Roff, Makefile, Shell, Assembly, Ruby, SourcePawn, C++, HTML | [AdaCore/gpr](https://github.com/AdaCore/gpr) | The framework for analyzing the GNAT Project (GPR) files |
 | HCL, Jinja, Python, Shell | [nycmeshnet/nycmesh-dns](https://github.com/nycmeshnet/nycmesh-dns) | DNS for the Mesh |
 | Shell, CSS | [FelipeFMA/nekrodots-hyprland](https://github.com/FelipeFMA/nekrodots-hyprland) | my hyprland setup :) |
@@ -5945,8 +5953,8 @@
 | Dockerfile, Shell, PHP, HTML, JavaScript | [mmguero/docker](https://github.com/mmguero/docker) | mmguero's miscellaneous Dockerfiles, docker-compose.yml files, related scripts and configuration. |
 | Vue, TypeScript, HTML | [dnwwdwd/homieMatching-fronted](https://github.com/dnwwdwd/homieMatching-fronted) | homie 匹配系统前端，基于 vuehomie 匹配系统是一个移动端网页的在线云交友平台。实现了按标签匹配、查找用户，基于 Redis GEO 实现搜索附近用户，同时个人还可以建队、组队以打造个人学习队伍。除了添加好友、搜索好友外，还基于 Websocket 实现好友间私聊，方便用户寻找志同道合的学习搭子。 |
 | Dart, C++, CMake, HTML, C, Ruby, Swift, Kotlin, Shell, Objective-C | [Protocentral/protocentral_openview2](https://github.com/Protocentral/protocentral_openview2) | Flutter codebase for all OpenView2 apps launched since May 2024 |
-| CSS, HTML, SCSS, JavaScript, Ruby, Python, Shell, JetBrains MPS | [RSE-Sheffield/RSE-Sheffield.github.io](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io) | University of Sheffield Research Software Engineering team's website |
 | JavaScript, TypeScript, HTML, Shell | [0xsequence/docs](https://github.com/0xsequence/docs) | Sequence Docs |
+| CSS, HTML, SCSS, JavaScript, Ruby, Python, Shell, JetBrains MPS | [RSE-Sheffield/RSE-Sheffield.github.io](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io) | University of Sheffield Research Software Engineering team's website |
 | C#, Batchfile | [TLabAltoh/TLabWebView](https://github.com/TLabAltoh/TLabWebView) | Plug-in to use Android's web browser component (WebView / GeckoView) as uGUI (Texture2D) |
 | TypeScript, CSS, JavaScript, HTML, Shell | [thales-markets/thales-sport-markets](https://github.com/thales-markets/thales-sport-markets) |  |
 | HTML, Jupyter Notebook, Python, Dockerfile, Shell | [OpenDataScotland/the_od_bods](https://github.com/OpenDataScotland/the_od_bods) | Collating open data from across Scotland |
@@ -5962,8 +5970,8 @@
 | C#, PowerShell | [christian-photo/ninaAPI](https://github.com/christian-photo/ninaAPI) |  |
 | Go, Shell, Makefile, Python | [openshift/assisted-installer-agent](https://github.com/openshift/assisted-installer-agent) |  |
 | Go, Solidity, C, TypeScript, JavaScript, Shell, Assembly, Java, Sage, M4, Batchfile, Makefile, Roff, Dockerfile | [kaiachain/kaia](https://github.com/kaiachain/kaia) |  |
-| Vue, JavaScript, CSS, HTML | [louvorja/louvorja](https://github.com/louvorja/louvorja) | Coletânea LouvorJA |
 | Zig, JavaScript, HTML, Shell | [bagggage/bamos](https://github.com/bagggage/bamos) | Open-source operating system |
+| Vue, JavaScript, CSS, HTML | [louvorja/louvorja](https://github.com/louvorja/louvorja) | Coletânea LouvorJA |
 | R, C++, Makefile | [R-Lum/Luminescence](https://github.com/R-Lum/Luminescence) | Development of the R package 'Luminescence' |
 | Python | [Cvandia/nonebot-plugin-fishspeech-tts](https://github.com/Cvandia/nonebot-plugin-fishspeech-tts) | tts voice generator for nonebot2 |
 | TypeScript, HTML, JavaScript | [Foreverskyin0216/playword](https://github.com/Foreverskyin0216/playword) | Turn your ideas into actual, executable web actions, letting you write automated tests effortlessly. |
@@ -6011,8 +6019,8 @@
 | TypeScript, JavaScript, Shell, Dockerfile, Batchfile | [celo-org/developer-tooling](https://github.com/celo-org/developer-tooling) | 🛠️ SDKs and CLI for interacting with Celo |
 | Starlark, Pkl, Shell, Python, Java | [apple/rules_pkl](https://github.com/apple/rules_pkl) | Bazel build rules for Pkl |
 | Shell, Batchfile, JavaScript | [Zibri/VICE](https://github.com/Zibri/VICE) | The fresher build on the net :D |
-| PHP, Blade, JavaScript, CSS | [kawax/self-ordering](https://github.com/kawax/self-ordering) | オープンソースのセルフオーダーシステム |
 | Python, Jupyter Notebook | [forestdatapartnership/whisp](https://github.com/forestdatapartnership/whisp) |  |
+| PHP, Blade, JavaScript, CSS | [kawax/self-ordering](https://github.com/kawax/self-ordering) | オープンソースのセルフオーダーシステム |
 | Python | [RubenHarms/ha-harvia-xenio-wifi](https://github.com/RubenHarms/ha-harvia-xenio-wifi) | Home Assistant component for Harva Sauna (working with Xenio Wifi) |
 | Java, Shell, Dockerfile | [alphagov/pay-connector](https://github.com/alphagov/pay-connector) | The Payments Connector in Java (Dropwizard) |
 | Go, Makefile, Shell | [ManyakRus/starter](https://github.com/ManyakRus/starter) | Starter components for golang, for connect to any external service with 1 line of code. |
@@ -6037,13 +6045,13 @@
 | JavaScript, Handlebars, HTML, CSS | [RobbieTheWagner/ember-meta](https://github.com/RobbieTheWagner/ember-meta) | Setup meta for your Prember/Ember blog to support opengraph, microdata, Facebook, Twitter, Slack etc. |
 | Go | [cogentcore/webgpu](https://github.com/cogentcore/webgpu) | Cross-platform Go bindings for WebGPU |
 | R | [JBGruber/atrrr](https://github.com/JBGruber/atrrr) | AT Protocol (Authenticated Transfer Protocol behind Bluesky) R package |
-| Python | [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training) |  |
 | Shell, Python, Vim Script, Makefile | [ViBiOh/dotfiles](https://github.com/ViBiOh/dotfiles) | Dotfiles for configuring my terminal environment |
+| Python | [ecmwf/anemoi-training](https://github.com/ecmwf/anemoi-training) |  |
 | TypeScript, HTML, JavaScript, Shell, Dockerfile | [alkem-io/client-web](https://github.com/alkem-io/client-web) | Default web frontend, enabling browsing the Alkemio platform - so the hosted Challenges and communities collaborating around those Challenges.  |
 | PHP, CSS, JavaScript | [metabolism/wp-steroids](https://github.com/metabolism/wp-steroids) | Supercharge Wordpress with YML configuration and more |
 | Python, Jupyter Notebook | [martius-lab/hockey-env](https://github.com/martius-lab/hockey-env) | A simple laser-hockey gym environment for RL agents |
-| Python, Shell | [linuxmint/mintcommon](https://github.com/linuxmint/mintcommon) |  |
 | C++, CMake, MATLAB, Thrift | [icub-tech-iit/ergocub-software](https://github.com/icub-tech-iit/ergocub-software) | Main collector of ergoCub specific SW |
+| Python, Shell | [linuxmint/mintcommon](https://github.com/linuxmint/mintcommon) |  |
 | Rust | [eclipse-zenoh/zenoh-backend-influxdb](https://github.com/eclipse-zenoh/zenoh-backend-influxdb) | Backend and Storages for zenoh using InfluxDB |
 | Dockerfile | [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) |  |
 | Python | [cubicibo/SUPer](https://github.com/cubicibo/SUPer) | HDMV PGS (BD SUP) subtitle encoder compatible with typesetting effects. |
@@ -6117,8 +6125,8 @@
 | C++, C, CMake, Python | [percipioxyz/camport_ros](https://github.com/percipioxyz/camport_ros) |  |
 | Go, Makefile, Smarty, Shell, Dockerfile | [Bankdata/styra-controller](https://github.com/Bankdata/styra-controller) |  |
 | Python, JavaScript, HTML, CSS, SCSS, Less, Makefile, Shell, Ruby | [UMR-CNRM/EPyGrAM](https://github.com/UMR-CNRM/EPyGrAM) | Enhanced Python for Graphics and Analysis of Meteorological fields |
-| Processing, Java, Python, C, C++, Shell | [Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi](https://github.com/Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi) | Apply to FNK0023 |
 | HTML, Go, Shell, Makefile | [jakub-m/bulletin](https://github.com/jakub-m/bulletin) | Attention-frugal custom tech feed aggregator that comes on Fridays. |
+| Processing, Java, Python, C, C++, Shell | [Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi](https://github.com/Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi) | Apply to FNK0023 |
 | TypeScript, JavaScript, Shell, Dockerfile, EJS, Batchfile | [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) | A fork of Subql for cosmos support |
 | TypeScript, JavaScript, HTML | [so-better/dap-util](https://github.com/so-better/dap-util) | 一个轻量的前端JavaScript工具库，专注于JavaScript，不关心UI |
 | Python, Shell | [tang070205/tools](https://github.com/tang070205/tools) | Some scripts for gpumd and nep |
@@ -6214,8 +6222,8 @@
 | Jupyter Notebook | [manu-2213/QMUL_MLSociety](https://github.com/manu-2213/QMUL_MLSociety) | QMUL ML Society's repository for educational resources. This is a collection of lecture notes, tutorials, and learning materials focused on machine learning and artificial intelligence. Join us in exploring these resources to enhance our understanding and skills in the field! Contributions are welcome! |
 | TypeScript, CSS, SCSS, JavaScript, Makefile, Dockerfile | [yuiseki/TRIDENT](https://github.com/yuiseki/TRIDENT) | 🤖🛠🗺 TRIDENT - Interactive Smart Maps Assistant |
 | Python | [dakivara/pgcrud](https://github.com/dakivara/pgcrud) | Create, Read, Update, and Delete (CRUD) operations for PostgreSQL made simple and fast. |
-| TypeScript | [dolthub/dolthub-cypress](https://github.com/dolthub/dolthub-cypress) | A suite of Cypress tests that runs against DoltHub (dolthub.com) |
 | SCSS, Twig, PHP, JavaScript, CSS | [hibbitts-design/grav-theme-learn2-git-sync](https://github.com/hibbitts-design/grav-theme-learn2-git-sync) | A customized version of the Learn2 theme for use with the Learn2 with Git Sync skeleton package. Includes selectable visual styles. |
+| TypeScript | [dolthub/dolthub-cypress](https://github.com/dolthub/dolthub-cypress) | A suite of Cypress tests that runs against DoltHub (dolthub.com) |
 | TypeScript, JavaScript | [maxnowack/blend](https://github.com/maxnowack/blend) | Simple dependency management without Git submodules |
 | Java | [ferriarnus/Monocle](https://github.com/ferriarnus/Monocle) |  |
 | TypeScript, Python, CSS, MDX, JavaScript, Dockerfile | [namehash/namekit](https://github.com/namehash/namekit) | Easily integrate rich ENS user journeys into your wallet, app, or game. |
@@ -6279,8 +6287,8 @@
 | Python, HTML, JavaScript, CSS, Shell, SCSS, HCL, Dockerfile, Gherkin | [HHS/TANF-app](https://github.com/HHS/TANF-app) | Repo for development of a new TANF Data Reporting System |
 | Kotlin, Shell | [edgars-supe/advent-of-code](https://github.com/edgars-supe/advent-of-code) | My Advent of Code entries |
 | JavaScript, Python, HTML, CSS | [elevatebox/opensource](https://github.com/elevatebox/opensource) | helping first timers learn opensource contributions! |
-| CMake, C++, Batchfile, Shell | [josephgarnier/cpp-starter-project-cmake](https://github.com/josephgarnier/cpp-starter-project-cmake) | A customizable kit to quickly start your C++ projects with CMake. |
 | Lua, TypeScript, JavaScript, C, Shell, Batchfile, Dockerfile | [V-rtualized/balatro-multiplayer](https://github.com/V-rtualized/balatro-multiplayer) |  |
+| CMake, C++, Batchfile, Shell | [josephgarnier/cpp-starter-project-cmake](https://github.com/josephgarnier/cpp-starter-project-cmake) | A customizable kit to quickly start your C++ projects with CMake. |
 | Python, Dockerfile | [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes) | Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud. |
 | JavaScript, HTML, CSS | [NantesJS/nantesjs-website](https://github.com/NantesJS/nantesjs-website) | Site Internet de NantesJS |
 | C, Shell, Assembly | [z3nnix/NovariaOS](https://github.com/z3nnix/NovariaOS) | a simple OS designed to put osdev knowledge into practice |
@@ -6288,8 +6296,8 @@
 | Python, C++, Shell, Makefile | [IBM/dolomite-engine](https://github.com/IBM/dolomite-engine) | Dolomite Engine is a library for pretraining/finetuning LLMs |
 | MDX, Astro, TypeScript, JavaScript, CSS | [Spikeysanju/sanju.sh](https://github.com/Spikeysanju/sanju.sh) | Sanju's Internet Space is a personal website built with Astro.  Licensed under Apache License 2.0 |
 | JavaScript | [elliottsj/front-matter-loader](https://github.com/elliottsj/front-matter-loader) | Webpack loader to extract frontmatter using jxson/front-matter |
-| Rust | [worldfnd/icao-9303](https://github.com/worldfnd/icao-9303) | Reader for ICAO 9303 electronic machine readable travel documents. |
 | JavaScript, Python, Shell | [cryptocrew-validators/relayer-feegrant-wg](https://github.com/cryptocrew-validators/relayer-feegrant-wg) |  |
+| Rust | [worldfnd/icao-9303](https://github.com/worldfnd/icao-9303) | Reader for ICAO 9303 electronic machine readable travel documents. |
 | Ruby | [flexa/flexa-cocoapods](https://github.com/flexa/flexa-cocoapods) | Flexa Components Cocoapods |
 | Shell, Python, Perl | [perftool-incubator/crucible](https://github.com/perftool-incubator/crucible) | A performance testing and analysis automation framework |
 | PHP, Shell | [forrest79/phpgsql](https://github.com/forrest79/phpgsql) | Simple and fast PHP database library for PostgreSQL with auto converting DB types to PHP and fluent interface for SQL query writing. |
@@ -6397,8 +6405,8 @@
 | TypeScript, SCSS, JavaScript | [wagtail/areweheadlessyet](https://github.com/wagtail/areweheadlessyet) | Are we headless yet? |
 | TypeScript, SCSS, JavaScript, Shell, Dockerfile | [kubevirt-ui/kubevirt-plugin](https://github.com/kubevirt-ui/kubevirt-plugin) | Kubevirt plugin for Openshift Console |
 | Jupyter Notebook | [IBM/ibmdotcom-tutorials](https://github.com/IBM/ibmdotcom-tutorials) | Repo for the storing of code and examples from tutorials. |
-| TypeScript, Solidity, Go, Python, CSS, JavaScript, Vue | [Terminally-Online/plug](https://github.com/Terminally-Online/plug) | The home of all your onchain activity with atomic composability between protocols. |
 | R, Python, Dockerfile, Shell, JavaScript | [maxfieldk/TE-Seq](https://github.com/maxfieldk/TE-Seq) | Snakemake pipeline to analyze transposable element 'omics data. |
+| TypeScript, Solidity, Go, Python, CSS, JavaScript, Vue | [Terminally-Online/plug](https://github.com/Terminally-Online/plug) | The home of all your onchain activity with atomic composability between protocols. |
 | Shell | [YgorAlberto/ygoralberto.github.io](https://github.com/YgorAlberto/ygoralberto.github.io) |  |
 | C++, CMake | [cjappl/rtlog-cpp](https://github.com/cjappl/rtlog-cpp) | Real-time safe logger for C++ using lock free queues! |
 | Ruby, Puppet, Python, HTML, Perl, Shell, JavaScript, VCL, PHP, CSS, Dockerfile, Pascal, Makefile | [miraheze/puppet](https://github.com/miraheze/puppet) | Production Puppet code |
@@ -6457,8 +6465,8 @@
 | C++, CMake, Shell, Gnuplot, C | [ORNL/Thermo4PFM](https://github.com/ORNL/Thermo4PFM) | Library to evaluate alloy compositions in Phase-Field models |
 | Java, Dockerfile, HTML, JavaScript, Shell | [rajadilipkolli/my-spring-boot-experiments](https://github.com/rajadilipkolli/my-spring-boot-experiments) | Examples about various spring integrations |
 | Java | [taowater/ztream](https://github.com/taowater/ztream) | Java Stream 增强 |
-| TypeScript, JavaScript | [juzybits/polymedia-suitcase](https://github.com/juzybits/polymedia-suitcase) | Sui utilities for TypeScript, Node, and React. |
 | Python, Jupyter Notebook, Cuda, Shell, Batchfile, JavaScript, HTML | [chflame163/ComfyUI_LayerStyle_Advance](https://github.com/chflame163/ComfyUI_LayerStyle_Advance) | The nodes detached from [ComfyUI Layer Style](https://github.com/chflame163/ComfyUI_LayerStyle) are mainly those with complex requirements for dependency packages. |
+| TypeScript, JavaScript | [juzybits/polymedia-suitcase](https://github.com/juzybits/polymedia-suitcase) | Sui utilities for TypeScript, Node, and React. |
 | Vue, TypeScript, JavaScript, HTML | [3fuyang/libre-testing](https://github.com/3fuyang/libre-testing) | 2022 Software Testing course project, Tongji University. 同济大学软件测试课设 |
 | Jupyter Notebook, HTML, Python, Shell | [creativecommons/quantifying](https://github.com/creativecommons/quantifying) | quantify the size and diversity of the commons--the collection of works that are openly licensed or in the public domain |
 | Swift, JavaScript, Ruby, Objective-C | [livechat/chat-window-ios](https://github.com/livechat/chat-window-ios) | Embeding LiveChat mobile chat window in iOS application |
@@ -6580,8 +6588,8 @@
 | Python, JavaScript, Shell, Starlark, Dockerfile, Makefile, Mako | [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python) |  |
 | Ruby, Haml, SCSS, Shell | [hitobito/hitobito_jubla](https://github.com/hitobito/hitobito_jubla) | A hitobito wagon defining the organization hierarchy and additional features for Jungwacht Blauring Schweiz. |
 | Python, Shell, Batchfile | [Soname-Solutions/salmon](https://github.com/Soname-Solutions/salmon) | Soname ALerts & MONitoring |
-| Python, Shell, C | [segasai/rvspecfit](https://github.com/segasai/rvspecfit) | Radial velocity and stellar parameter fitting code for large surveys |
 | Ruby, HTML, SCSS, Dockerfile, Shell, JavaScript, Procfile | [baldarn/open-GAS](https://github.com/baldarn/open-GAS) |  |
+| Python, Shell, C | [segasai/rvspecfit](https://github.com/segasai/rvspecfit) | Radial velocity and stellar parameter fitting code for large surveys |
 | TypeScript, Pug, PLpgSQL, Shell, CSS, JavaScript, Dockerfile | [d-reader-organization/d-reader-backend](https://github.com/d-reader-organization/d-reader-backend) | NestJS backend for dReader dapp on Solana |
 | Swift, Python | [StanfordBDHG/HealthKitOnFHIR](https://github.com/StanfordBDHG/HealthKitOnFHIR) | Converts HealthKit data to HL7 FHIR resources |
 | Python | [chkware/cli](https://github.com/chkware/cli) | Low-code API quality testing, and automation toolbox |
@@ -6607,8 +6615,8 @@
 | Python, TypeScript, JavaScript, HTML, CSS, MDX, Dockerfile, Shell | [Health-Informatics-UoN/carrot-mapper](https://github.com/Health-Informatics-UoN/carrot-mapper) | Convenient and Reusable Rapid Omop Transformer. |
 | TypeScript, CSS, JavaScript, HTML | [boostcampwm-2024/web03-CorinEE](https://github.com/boostcampwm-2024/web03-CorinEE) | 본격 코린이 탈출! 실전 투자자로 나아가는 여정 🚀 |
 | Kotlin, Java | [KazumaProject/JapaneseKeyboard](https://github.com/KazumaProject/JapaneseKeyboard) | スミレ - 完全オフラインの日本語キーボードアプリ |
-| C++, CMake, Python, Makefile, Dockerfile | [ad-freiburg/osm2rdf](https://github.com/ad-freiburg/osm2rdf) | Convert OpenStreetMap (OSM) data to RDF Turtle, including the object geometries and predicates ogc:sfContains, ogc:sfCovers, ogc:sfIntersects, ogc:sfTouches, ogc:sfCrosses, ogc:sfEquals, and ogc:sfOverlaps. Weekly updated downloads for the whole planet (~ 80 billion triples) and per country. |
 | HTML, Python, Dockerfile, Shell | [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services. |
+| C++, CMake, Python, Makefile, Dockerfile | [ad-freiburg/osm2rdf](https://github.com/ad-freiburg/osm2rdf) | Convert OpenStreetMap (OSM) data to RDF Turtle, including the object geometries and predicates ogc:sfContains, ogc:sfCovers, ogc:sfIntersects, ogc:sfTouches, ogc:sfCrosses, ogc:sfEquals, and ogc:sfOverlaps. Weekly updated downloads for the whole planet (~ 80 billion triples) and per country. |
 | Go | [tklauser/ps](https://github.com/tklauser/ps) | List, find and inspect operating system processes in Go |
 | TypeScript, Smarty, JavaScript, Shell | [commercetools/test-data](https://github.com/commercetools/test-data) | Modules to generate test data for commercetools APIs |
 | PHP, HTML, JavaScript, Less | [elninotech/ElNino_ProductLinksNavigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) | Magento 2 extension for enhanced admin product navigation for merchants who want to simplify the process of navigating complex and custom product relationships.  |
@@ -6709,12 +6717,12 @@
 | Java, HTML, Roff, Groovy, CSS, AMPL, XSLT, Makefile | [documentnode/epub4j](https://github.com/documentnode/epub4j) | A java library for reading/writing/manipulating EPUB files, with improvements based on epublib. https://documentnode.io/epub4j |
 | Lua | [78n/SimpleSpy](https://github.com/78n/SimpleSpy) |  |
 | C, CMake, C++, Shell, Makefile | [bonedaddy/ulog](https://github.com/bonedaddy/ulog) | ulog (uber log) is a lightweight and threadsafe logger in C that provides color coded output, as well as the ability to send logs to a file. |
-| TypeScript, JavaScript, CSS | [pingpad-io/ping](https://github.com/pingpad-io/ping) | minimalistic decentralized social |
 | Go, Shell, Makefile, CSS, Dockerfile | [IBM/ibm-common-service-operator](https://github.com/IBM/ibm-common-service-operator) | Operator to install IBM Common Services |
+| TypeScript, JavaScript, CSS | [pingpad-io/ping](https://github.com/pingpad-io/ping) | minimalistic decentralized social |
 | Go, Makefile, Dockerfile | [metio/matrix-alertmanager-receiver](https://github.com/metio/matrix-alertmanager-receiver) | Send Alertmanager alerts to Matrix rooms |
 | GLSL, C, Lua | [itsmeipg/mpv-config](https://github.com/itsmeipg/mpv-config) | My mpv config |
-| Shell, C++, Python, Starlark, R, Julia, MATLAB, Mercury | [NeuroDesk/neurocontainers](https://github.com/NeuroDesk/neurocontainers) | The containers can be used in combination with our transparent singularity or neurocommand tool, that wrap the executables inside a container to make them easily available for pipelines |
 | Python, Shell | [andersbandt/Financial-Analyzer](https://github.com/andersbandt/Financial-Analyzer) | Analyzes spending, budget, and investment data in a CLI |
+| Shell, C++, Python, Starlark, R, Julia, MATLAB, Mercury | [NeuroDesk/neurocontainers](https://github.com/NeuroDesk/neurocontainers) | The containers can be used in combination with our transparent singularity or neurocommand tool, that wrap the executables inside a container to make them easily available for pipelines |
 | TypeScript, Shell | [tjenkinson/gh-action-auto-merge-dependency-updates](https://github.com/tjenkinson/gh-action-auto-merge-dependency-updates) | A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. Also possible to disable the merge and use the `success` output to use in combination with other actions.  |
 | JavaScript, SCSS, HTML, CSS, Standard ML | [solstice23/argon-theme-showcase](https://github.com/solstice23/argon-theme-showcase) |  |
 | JavaScript, CSS, Python, Shell, Batchfile | [FloricSpacer/AbyssDiver](https://github.com/FloricSpacer/AbyssDiver) |  |
@@ -6741,8 +6749,8 @@
 | Python | [dcstats/CBBpy](https://github.com/dcstats/CBBpy) | A Python-based web scraper for NCAA basketball. |
 | Java, Arc, FreeMarker, Kotlin, SMT, Python | [MontiCore/montiarc](https://github.com/MontiCore/montiarc) | MontiArc is a formal component and connector architecture description language for modeling software-intensive systems. |
 | Rust, Python, Vue, Shell, JavaScript, RenderScript, HTML, Solidity, Dockerfile | [redgold-io/redgold](https://github.com/redgold-io/redgold) | p2p database / compute engine for portfolio contracts |
-| TypeScript, SCSS, Python, HTML, Jinja, JavaScript, Shell | [tervay/recalc](https://github.com/tervay/recalc) | A collaboration focused mechanical design calculator, primarily for FRC |
 | C++ | [MouseBiteLabs/Super-Game-Boy-Plus](https://github.com/MouseBiteLabs/Super-Game-Boy-Plus) | A replacement circuit board for improving the Super Game Boy, or for creating a standalone Game Boy game for the SNES. |
+| TypeScript, SCSS, Python, HTML, Jinja, JavaScript, Shell | [tervay/recalc](https://github.com/tervay/recalc) | A collaboration focused mechanical design calculator, primarily for FRC |
 | Python, Dockerfile | [HKU-BAL/Clair3-RNA](https://github.com/HKU-BAL/Clair3-RNA) | Clair3-RNA - a long-read small variant caller for RNA sequencing data |
 | Shell, PowerShell | [zerneo85/Homelab-Configuration-Documentation](https://github.com/zerneo85/Homelab-Configuration-Documentation) | Configuration and Documentation of my Homelab setup |
 | HTML, CSS | [katboi01/FateViewer](https://github.com/katboi01/FateViewer) | Model/Animation viewer for Fate: Grand Order |
@@ -6790,8 +6798,8 @@
 | Shell, Starlark | [trunk-io/docs](https://github.com/trunk-io/docs) | docs.trunk.io |
 | JavaScript, HTML, Liquid, SCSS, Nunjucks | [austinjavascript/austinjavascript.com](https://github.com/austinjavascript/austinjavascript.com) | Source bits for austinjavascript.com |
 | Python | [junzis/openap-top](https://github.com/junzis/openap-top) | easy-peasy flight trajectory optimizer |
-| TypeScript, CSS, HTML, Shell, JavaScript | [coderbyheart/localschedule](https://github.com/coderbyheart/localschedule) | Create a sharable schedule with times in your local timezone. Great for remote conferences! |
 | CSS, Dockerfile, Python, Shell | [avirut/selfhosted](https://github.com/avirut/selfhosted) |  |
+| TypeScript, CSS, HTML, Shell, JavaScript | [coderbyheart/localschedule](https://github.com/coderbyheart/localschedule) | Create a sharable schedule with times in your local timezone. Great for remote conferences! |
 | JavaScript, Smarty | [lando/drupal](https://github.com/lando/drupal) | The Official Drupal Lando plugin |
 | GDScript | [ioannis-koukourakis/quake-style-light-animations-for-the-godot-engine](https://github.com/ioannis-koukourakis/quake-style-light-animations-for-the-godot-engine) | String-based light animation system for Godot engine |
 | C++, Python, C | [lsst/afw](https://github.com/lsst/afw) | LSST data management: pipeline library code and primitives including images and tables |
@@ -6837,8 +6845,8 @@
 | C, Roff, CMake, sed | [roblillack/fsviewer](https://github.com/roblillack/fsviewer) | Fork/continuation/resurrection of FSViewer.app with some fixes |
 | JavaScript, HTML, Batchfile | [sebamarynissen/sc4](https://github.com/sebamarynissen/sc4) | A command line utility for automating SimCity 4 modding tasks |
 | Shell, GLSL, C, Batchfile, Makefile | [KreitinnSoftware/MiceWine-RootFS-Generator](https://github.com/KreitinnSoftware/MiceWine-RootFS-Generator) | This repository generate needed files for MiceWine |
-| Python, Rust, Just, Dockerfile, Nix | [restatedev/sdk-python](https://github.com/restatedev/sdk-python) | Restate SDK for Python |
 | C++, CMake, Shell | [return-of-modding/ReturnOfModding](https://github.com/return-of-modding/ReturnOfModding) | Lua Mod Loader for Risk of Rain Returns |
+| Python, Rust, Just, Dockerfile, Nix | [restatedev/sdk-python](https://github.com/restatedev/sdk-python) | Restate SDK for Python |
 | C++, HLSL, C, CMake, Dockerfile | [xurei/obs-shadertastic](https://github.com/xurei/obs-shadertastic) | An OBS plugin to add amazing effects for your stream |
 | Rust, Just, Dockerfile | [restatedev/sdk-rust](https://github.com/restatedev/sdk-rust) | Rust SDK for restate.dev |
 | Python, Dockerfile, Makefile | [skyportal/kowalski](https://github.com/skyportal/kowalski) | Kowalski: a multi-survey data archive and alert broker for time-domain astronomy |
@@ -6890,8 +6898,8 @@
 | JavaScript | [angular/forms-builds](https://github.com/angular/forms-builds) | Build artifacts for @angular/forms |
 | JavaScript | [angular/elements-builds](https://github.com/angular/elements-builds) | Build artifacts @angular/elements |
 | JavaScript | [angular/compiler-builds](https://github.com/angular/compiler-builds) | @angular/compiler build artifacts |
-| JavaScript | [angular/common-builds](https://github.com/angular/common-builds) | @angular/common build artifacts |
 | Java, C, C++, Assembly, Objective-C, HTML, XSLT, Shell, M4, Python, CMake, JavaScript, Cuda, Makefile, TypeScript, Noir, Mathematica, Metal, Awk, Perl, CSS, Roff, sed, Groovy, AppleScript, Raku, Pawn, Batchfile, AMPL, Red | [ibmruntimes/openj9-openjdk-jdk](https://github.com/ibmruntimes/openj9-openjdk-jdk) | Extensions for OpenJDK for Eclipse OpenJ9 |
+| JavaScript | [angular/common-builds](https://github.com/angular/common-builds) | @angular/common build artifacts |
 | JavaScript, CSS, HTML | [Real-Dev-Squad/website-dashboard](https://github.com/Real-Dev-Squad/website-dashboard) | Dashboard site for RDS |
 | TypeScript, JavaScript, CSS, Shell, HTML, Dockerfile | [m2c2-project/m2c2kit](https://github.com/m2c2-project/m2c2kit) | m2c2kit is a library for cross-platform cognitive assessments |
 | Go, Makefile, Smarty | [frantjc/forge](https://github.com/frantjc/forge) | Run reusable steps from proprietary CI systems. |
@@ -6951,13 +6959,13 @@
 | TypeScript, EJS, CSS, JavaScript, Dockerfile, HTML, Smarty, Shell | [Shtcut/shtcut](https://github.com/Shtcut/shtcut) | 🔥 🔥 🔥 Shtcut is an open-source app that serves as an alternative to Bitly, Rebranded, and Duo software. It transforms your marketing efforts by providing a single platform for efficiency, strategy, and smart decision-making. |
 | Emacs Lisp | [shackra/emacs](https://github.com/shackra/emacs) | Mi configuración de GNU Emacs, usando org-mode y org-babel :) |
 | Nix, Python, Shell | [Infinidoge/universe](https://github.com/Infinidoge/universe) | My dotfiles, my Universe, existing as a continuum floating in the Nix. |
-| JavaScript, CSS, HTML | [breck7/tryscroll](https://github.com/breck7/tryscroll) | Try Scroll in your web browser |
 | HTML, JavaScript, Python | [CoolPenwin/Apuntes](https://github.com/CoolPenwin/Apuntes) | Apuntes de Programación  y Recursos desde mi paso por 4Geeks |
+| JavaScript, CSS, HTML | [breck7/tryscroll](https://github.com/breck7/tryscroll) | Try Scroll in your web browser |
 | Dockerfile, Shell | [wiktorbgu/amneziawg-mikrotik](https://github.com/wiktorbgu/amneziawg-mikrotik) | AmneziaWG client and server on Mikrotik container |
 | Python | [sebasj13/TopasGraphSim](https://github.com/sebasj13/TopasGraphSim) | A GUI to simplify and streamline the plotting and analysis of medical physics simulations |
 | PowerShell, AutoHotkey, Inno Setup, Batchfile | [teknowledgist/Chocolatey-packages](https://github.com/teknowledgist/Chocolatey-packages) | Packages for chocolatey.org |
-| Swift | [swiftuiux/swift-async-corelocation-streamer](https://github.com/swiftuiux/swift-async-corelocation-streamer) | Corelocation swift async await streamer Corelocation kit ios map swift tracker get user current geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream pattern that can be applied to CoreBluetooth etc Apple maps Map swiftui watchos, location service manager, geocoder detect 地点 場所 |
 | Python, Makefile | [scaleway/scaleway-sdk-python](https://github.com/scaleway/scaleway-sdk-python) | Integrate Scaleway with your Python applications |
+| Swift | [swiftuiux/swift-async-corelocation-streamer](https://github.com/swiftuiux/swift-async-corelocation-streamer) | Corelocation swift async await streamer Corelocation kit ios map swift tracker get user current geolocation and geocoding swiftui map example using MapKit address decoder Corelocation based service in swift Async stream pattern that can be applied to CoreBluetooth etc Apple maps Map swiftui watchos, location service manager, geocoder detect 地点 場所 |
 | Solidity | [coinbase/spend-permissions](https://github.com/coinbase/spend-permissions) |  |
 | TypeScript, Shell | [pompeii-labs/magma](https://github.com/pompeii-labs/magma) |  |
 | Python, HTML, Shell, C++, PHP, C, Ruby | [anderson84PROGETOS/anderson84PROGETOS](https://github.com/anderson84PROGETOS/anderson84PROGETOS) | Config files for my GitHub profile. |
@@ -6969,8 +6977,8 @@
 | Fortran, Makefile, C++, C, M4, Python, CMake, Perl, TeX, Shell, Cuda, Nix | [nomad-coe/greenX](https://github.com/nomad-coe/greenX) | Library for Green’s function based electronic structure theory calculations |
 | Handlebars, CSS, Python, JavaScript, Dockerfile, PowerShell | [satisfactorymodding/Documentation](https://github.com/satisfactorymodding/Documentation) | Documentation for SML and Unreal modding. |
 | C++, C, Makefile, WebAssembly, Shell, Assembly, HTML, Objective-C++, Inno Setup, M4, Roff, Perl, Yacc, Rez, Objective-C, CMake, Module Management System, Rich Text Format, Python, Slash, Batchfile, LLVM, XSLT, C#, DIGITAL Command Language, CSS, PHP, Starlark, PLSQL, Pascal, QMake, VBScript, Scheme | [GaijinEntertainment/G-CVSNT](https://github.com/GaijinEntertainment/G-CVSNT) | G-CVSNT Gaijin (and Gamedev) CVSNT version - modified for large amounts of binary data (typically for gamedev) |
-| JavaScript, CSS, HTML, Dockerfile, Shell | [mikechambers/darci](https://github.com/mikechambers/darci) | Web wrapper for dcli |
 | C, C++, GLSL, Makefile, CMake, Shell, Objective-C, Batchfile, Assembly, VBScript | [noire-dev/SourceTech](https://github.com/noire-dev/SourceTech) | SourceTech engine |
+| JavaScript, CSS, HTML, Dockerfile, Shell | [mikechambers/darci](https://github.com/mikechambers/darci) | Web wrapper for dcli |
 | Python, Shell, CMake, Makefile | [zeek/btest](https://github.com/zeek/btest) | A Generic Driver for Powerful System Tests |
 | TypeScript, CSS, JavaScript, HTML | [TGlas/tscript](https://github.com/TGlas/tscript) | Reference implementation of the TScript programming language |
 | Kotlin, Python | [chriskn/structurizr-c4puml-extension](https://github.com/chriskn/structurizr-c4puml-extension) | Kotlin based extension for the struturizr java api with extended C4-PlantUML support |
@@ -6993,14 +7001,14 @@
 | C++, Kotlin, C, JavaScript, Java, Python, TypeScript, HTML, Makefile, CSS, Shell, Haskell | [DanielBrito/competitive-programming](https://github.com/DanielBrito/competitive-programming) | 🏁 My solutions and resources on problem-solving. |
 | Python, Shell | [jgunthorpe/cloud_mdir_sync](https://github.com/jgunthorpe/cloud_mdir_sync) | Download mailboxes from the cloud into a local MailDir |
 | Python | [dfki-av/G3FA](https://github.com/dfki-av/G3FA) | This is the official code for BMVC 2024 paper, G3FA: Geometry-guided GAN for Face Animation |
-| JavaScript, CSS, HTML | [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) | A 3D T-Shirt website where users can design their own shirts with patterns and logos. |
 | Nix, Lua, CSS | [ocfox/den](https://github.com/ocfox/den) | Simply, but firmly |
+| JavaScript, CSS, HTML | [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) | A 3D T-Shirt website where users can design their own shirts with patterns and logos. |
 | PHP, JavaScript, Less, Mustache | [wikimedia/mediawiki-extensions-CheckUser](https://github.com/wikimedia/mediawiki-extensions-CheckUser) | Mirror of https://gerrit.wikimedia.org/g/mediawiki/extensions/CheckUser/ |
 | PHP, CSS, JavaScript, SCSS | [awsmin/wp-job-openings](https://github.com/awsmin/wp-job-openings) | Super simple Job Listing plugin to manage Job Openings and Applicants on your WordPress site. |
 | Python, Dockerfile | [jonatanjacobsson/ifcpipeline](https://github.com/jonatanjacobsson/ifcpipeline) | IFC Pipeline is a FastAPI-based service for processing Industry Foundation Classes (IFC) files |
 | Python | [johnfraney/flake8-markdown](https://github.com/johnfraney/flake8-markdown) | Lints Python code blocks in Markdown files using flake8 |
-| TypeScript, MDX, JavaScript, CSS, Dockerfile, Shell, HTML | [regen-network/regen-web](https://github.com/regen-network/regen-web) | :seedling: Website and marketplace application |
 | HTML, Python, Dockerfile | [quixio/quix-docs](https://github.com/quixio/quix-docs) | This repository contains the Markdown source and tools for the Quix developer documentation. |
+| TypeScript, MDX, JavaScript, CSS, Dockerfile, Shell, HTML | [regen-network/regen-web](https://github.com/regen-network/regen-web) | :seedling: Website and marketplace application |
 | Python, Makefile | [novasamatech/nova-utils](https://github.com/novasamatech/nova-utils) | Metadata & configs for client apps in Polkadot & Kusama ecosystem |
 | Python, HTML, JavaScript, Makefile | [thorgate/django-esteid](https://github.com/thorgate/django-esteid) | Django-esteid is a package that provides Esteid based authentication and signing for your Django applications. |
 | Go, Makefile, PLpgSQL, Dockerfile | [raoptimus/db-migrator.go](https://github.com/raoptimus/db-migrator.go) | DB migrations. CLI and Golang |
@@ -7011,18 +7019,18 @@
 | Lua | [GoldpawsStuff/AzeriteUI5](https://github.com/GoldpawsStuff/AzeriteUI5) | Custom user interface suite for World of Warcraft. Design and code by Lars Norberg and Daniel Troconis. |
 | SCSS, JavaScript, Shell, Dockerfile | [sitevision/envision](https://github.com/sitevision/envision) | UI Library by Sitevision |
 | Shell, Vim Script, Perl, Ruby, Makefile | [JBlond/dotfiles](https://github.com/JBlond/dotfiles) | my dot files with git and docker extension for windows and linux |
-| Python, Shell, JavaScript, CSS, Mako, Dockerfile, HTML | [eseckft/BitAds.ai](https://github.com/eseckft/BitAds.ai) | The First Decentralized & Incentivized Marketing network built on top of Bittensor. |
 | Go, Makefile | [Scalr/terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) | Terraform Provider to manage Scalr TACO |
+| Python, Shell, JavaScript, CSS, Mako, Dockerfile, HTML | [eseckft/BitAds.ai](https://github.com/eseckft/BitAds.ai) | The First Decentralized & Incentivized Marketing network built on top of Bittensor. |
 | Gleam, Erlang | [lpil/mug](https://github.com/lpil/mug) | 🍺 A TCP client for Gleam! |
-| Python, Jupyter Notebook, Makefile | [openfisca/openfisca-tunisia](https://github.com/openfisca/openfisca-tunisia) | Tunisian tax and benefit system for OpenFisca |
 | JavaScript, CSS, HTML, Shell, Ruby | [maoruibin/maoruibin.github.com](https://github.com/maoruibin/maoruibin.github.com) | personal blog |
+| Python, Jupyter Notebook, Makefile | [openfisca/openfisca-tunisia](https://github.com/openfisca/openfisca-tunisia) | Tunisian tax and benefit system for OpenFisca |
 | JavaScript, CSS, HTML | [ArthurGehlen/DrawPixelArt](https://github.com/ArthurGehlen/DrawPixelArt) |  |
 | HTML, Python, Dockerfile | [6chaoran/fastapi-vue-app](https://github.com/6chaoran/fastapi-vue-app) |  |
 | Python | [kreshuklab/go-nuclear](https://github.com/kreshuklab/go-nuclear) | Guides and code for 3D nuclear instance segmentation |
 | Python | [s-kumano/imagenet-superclass](https://github.com/s-kumano/imagenet-superclass) | The example of correspondence between fine classes and superclass (coarse class) in ImageNet. |
 | TypeScript, HTML, CSS, SCSS | [khemssharma/ChessImprover](https://github.com/khemssharma/ChessImprover) | Learning to add AI game improvement suggestions |
-| Python, Jupyter Notebook | [juglab/featureforest](https://github.com/juglab/featureforest) | A napari plugin for image annotation using features from vision transformers and Random Forest model |
 | SCSS, HTML, JavaScript, Shell, Ruby, Liquid, Dockerfile | [sailfishos/docs.sailfishos.org](https://github.com/sailfishos/docs.sailfishos.org) | Source for the docs.sailfishos.org site |
+| Python, Jupyter Notebook | [juglab/featureforest](https://github.com/juglab/featureforest) | A napari plugin for image annotation using features from vision transformers and Random Forest model |
 | Shell, Makefile | [Informatievlaanderen/OSLO-Standaarden](https://github.com/Informatievlaanderen/OSLO-Standaarden) | The content of the OSLO Standaardenregister on data.vlaanderen.be |
 | TypeScript, Dockerfile | [AndreasHeine/SampleServer-node-opcua](https://github.com/AndreasHeine/SampleServer-node-opcua) | OPC UA Sample Server based on node-opcua. Showcasing how to implement OPC UA companion specifications.  |
 | Python, Jupyter Notebook | [adobe/aepp](https://github.com/adobe/aepp) |  |
@@ -7132,8 +7140,8 @@
 | Java, Shell | [strimzi/test-container](https://github.com/strimzi/test-container) | Strimzi Test container for unit and integration tests |
 | Jupyter Notebook, Python, Shell, Makefile, Mustache | [NPLinker/nplinker](https://github.com/NPLinker/nplinker) | A python framework for microbial natural products data mining by integrating genomics and metabolomics data |
 | Python, Shell | [zhouxy1003/TIN](https://github.com/zhouxy1003/TIN) | Code for paper "Temporal Interest Network for Click-Through Rate Prediction" |
-| Fortran, Python, C++, C, Shell, Forth, HTML, BitBake, Dockerfile, Makefile | [onera/Fast](https://github.com/onera/Fast) | Fast CFD solver |
 | Astro, XSLT, TypeScript, MDX, JavaScript, CSS | [cworld1/cworld1](https://github.com/cworld1/cworld1) | CWorld's personal website |
+| Fortran, Python, C++, C, Shell, Forth, HTML, BitBake, Dockerfile, Makefile | [onera/Fast](https://github.com/onera/Fast) | Fast CFD solver |
 | Shell, Dockerfile | [labring-actions/templates](https://github.com/labring-actions/templates) |  |
 | Python, CSS, Smarty | [sharkboyto/nao](https://github.com/sharkboyto/nao) | NVDA advanced OCR |
 | Python, C, C++, PHP, Makefile | [Y5neKO/Y5_VulnHub](https://github.com/Y5neKO/Y5_VulnHub) | 个人漏洞收集项目，包括复现环境、POC、EXP等 |
@@ -7168,8 +7176,8 @@
 | Kotlin | [Rowdy-Avocado/18plus-Extensions](https://github.com/Rowdy-Avocado/18plus-Extensions) |  |
 | Python | [Starwort/aoc_helper](https://github.com/Starwort/aoc_helper) | @salt-die's aoc_helper package, rewritten from the ground up |
 | Shell, Dockerfile | [leplusorg/docker-tor](https://github.com/leplusorg/docker-tor) | Run TOR conveniently from a docker container. |
-| Go, Gherkin, Shell, Makefile, Dockerfile | [dell/karavi-resiliency](https://github.com/dell/karavi-resiliency) | A Kubernetes pod monitor for safely terminating pods with persistent volumes in case of node failures |
 | HTML, CSS, Shell, Makefile | [biaslab/biaslab-hugo](https://github.com/biaslab/biaslab-hugo) | Repository with content of BIASlab website for Hugo static site generator. |
+| Go, Gherkin, Shell, Makefile, Dockerfile | [dell/karavi-resiliency](https://github.com/dell/karavi-resiliency) | A Kubernetes pod monitor for safely terminating pods with persistent volumes in case of node failures |
 | C++, Python, C, SWIG, R, CMake, Makefile, HTML, Shell | [gstlearn/gstlearn](https://github.com/gstlearn/gstlearn) | The Geostatistics & Machine Learning C++ Library |
 | Kotlin | [Hepolise/VolumeKeyTrackControlModule](https://github.com/Hepolise/VolumeKeyTrackControlModule) | An Xposed module that allows to skip and play/pause track with volume keys |
 | HTML, CSS, JavaScript | [IBM/mainframe-downloads](https://github.com/IBM/mainframe-downloads) | This repo will host download references for mainframe users |
@@ -7259,8 +7267,8 @@
 | Nix, Shell, JavaScript, Vim Script, SCSS, CSS, Lua | [suderman/nixos](https://github.com/suderman/nixos) | system configurations & dotfiles |
 | Shell | [Orangera1n/diag_script](https://github.com/Orangera1n/diag_script) |  |
 | Shell, Python, JavaScript, Ruby, Jinja, Dockerfile | [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) | A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible |
-| ReScript | [noble-ai/rescript-cypress](https://github.com/noble-ai/rescript-cypress) |  |
 | HTML, Python, JavaScript, XSLT, Solidity, CSS, ASP.NET, Hack, C, Visual Basic 6.0, Java, TypeScript, Roff, Shell, Go, LLVM, Dockerfile, PostScript, Sage, Assembly, C++, Rust, Brainfuck, Common Lisp, Ruby, Makefile, Standard ML, Perl, Nix, Lex | [pwncollege/ctf-archive](https://github.com/pwncollege/ctf-archive) | This is a comprehensive collection of challenges from past CTF competitions. The challenges are stored with REHOST details and can be run on pwn.college website. |
+| ReScript | [noble-ai/rescript-cypress](https://github.com/noble-ai/rescript-cypress) |  |
 | JavaScript, Shell | [5hubham5ingh/WallWiz](https://github.com/5hubham5ingh/WallWiz) | A terminal-based wallpaper manager that displays wallpapers in a grid, allowing users to select and set wallpapers while automatically customizing application color themes based on the chosen wallpaper. It also enables browsing and downloading wallpapers from a GitHub repository. |
 | C++, Python, C, Shell, CMake | [HiroIshida/plainmp](https://github.com/HiroIshida/plainmp) | Very fast motion planning through a bit of premature-optimization (C++ core with Python bindings)  |
 | TypeScript | [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) | Use glob syntax for imports in your main Sass or SCSS file. |
@@ -7270,8 +7278,8 @@
 | Shell, Perl, Python, C, Makefile, JavaScript, PHP | [bAndie91/tools](https://github.com/bAndie91/tools) | all-in collection of productivity scripts, CLI tools, utility libraries, fuse filesystems, and also some stuff |
 | Fortran, C, MATLAB, Shell, Python, Jupyter Notebook, HTML, TeX, Perl, Makefile, Roff, ASL, M, Terra, Raku, Awk, Dockerfile, sed, Coq | [MITgcm-contrib/ecco_darwin](https://github.com/MITgcm-contrib/ecco_darwin) | ECCO Darwin configurations |
 | Shell | [fredwu/dotfiles](https://github.com/fredwu/dotfiles) | My dotfiles |
-| TypeScript, CSS, JavaScript | [ronnyhaase/solfees.fyi](https://github.com/ronnyhaase/solfees.fyi) | Check how much you've spent on Solana transaction fees across all your wallets & compare with other blockchains. |
 | Go, MATLAB | [Notargets/gocfd](https://github.com/Notargets/gocfd) | Awesome CFD solver written in Go  |
+| TypeScript, CSS, JavaScript | [ronnyhaase/solfees.fyi](https://github.com/ronnyhaase/solfees.fyi) | Check how much you've spent on Solana transaction fees across all your wallets & compare with other blockchains. |
 | Rust, TypeScript, CSS, Python, JavaScript, HTML | [fpgaminer/fortress](https://github.com/fpgaminer/fortress) | An insanely secure password manager. |
 | Python, Dockerfile | [max-pfeiffer/python-poetry](https://github.com/max-pfeiffer/python-poetry) | Python Docker image with Poetry installed and ready to use. Supports AMD64 and ARM64 CPU architectures. |
 | Ruby | [yegor256/tacky](https://github.com/yegor256/tacky) | Primitive Object Memoization for Ruby |
@@ -7399,9 +7407,9 @@
 | Rust | [sts10/phraze](https://github.com/sts10/phraze) | Generate random passphrases |
 | JavaScript | [akamai/cli-appsec](https://github.com/akamai/cli-appsec) | Akamai CLI for Application Security |
 | Jupyter Notebook | [dr-saad-la/CS501-Deep-Learning-Complete-Course](https://github.com/dr-saad-la/CS501-Deep-Learning-Complete-Course) | Computer Science-501: Deep Learning Complete Course |
-| Java, Processing, GLSL, Objective-C, HTML, ANTLR, Shell, C, Python, C++, Makefile, CSS, Batchfile | [processing/processing4](https://github.com/processing/processing4) | Processing is a flexible software sketchbook and a language for learning how to code. |
-| Swift, Shell | [danielsaidi/AppIconKit](https://github.com/danielsaidi/AppIconKit) | AppIconKit helps you manage alternate app icons on macOS and iOS. |
 | JavaScript | [razisek/Qris-Dinamis](https://github.com/razisek/Qris-Dinamis) | make qris statis to dinamis |
+| Swift, Shell | [danielsaidi/AppIconKit](https://github.com/danielsaidi/AppIconKit) | AppIconKit helps you manage alternate app icons on macOS and iOS. |
+| Java, Processing, GLSL, Objective-C, HTML, ANTLR, Shell, C, Python, C++, Makefile, CSS, Batchfile | [processing/processing4](https://github.com/processing/processing4) | Processing is a flexible software sketchbook and a language for learning how to code. |
 | Python, HTML | [uabrc/uabrc.github.io](https://github.com/uabrc/uabrc.github.io) | UAB Research Computing Documentation |
 | Go, Makefile | [temporalio/terraform-provider-temporalcloud](https://github.com/temporalio/terraform-provider-temporalcloud) | Terraform provider for Temporal Cloud |
 | Shell | [moruiris/Actions-OpenWrt](https://github.com/moruiris/Actions-OpenWrt) | 路由器OpenWrt固件自动云编译 |
@@ -7412,8 +7420,8 @@
 | JavaScript, TypeScript, Svelte, SCSS | [BubblenautIrene/TestStuff](https://github.com/BubblenautIrene/TestStuff) | testing testing and more testing (JS) |
 | Java, Shell, Groovy, HTML, FreeMarker | [ChinaLym/shoulder-framework](https://github.com/ChinaLym/shoulder-framework) | 🔥SpringBoot Web Plugins，follow Shoulder and learn to a master of SpringBoot ~ |
 | Shell, HTML, TypeScript, Python, Batchfile, Makefile | [keymanapp/lexical-models](https://github.com/keymanapp/lexical-models) | Lexical language models for predictive text |
-| Lean, Dockerfile | [fpvandoorn/LeanCourse24](https://github.com/fpvandoorn/LeanCourse24) | Bonn Lean course for winter 24/25 |
 | TypeScript, Java, HTML, Groovy, JavaScript, SCSS, CSS, Shell | [groovy-console/groovy-web-console](https://github.com/groovy-console/groovy-web-console) | Groovy Web Console, an online web code editor to write and execute programs written with the Apache Groovy programming language |
+| Lean, Dockerfile | [fpvandoorn/LeanCourse24](https://github.com/fpvandoorn/LeanCourse24) | Bonn Lean course for winter 24/25 |
 | JavaScript, Dockerfile | [aplisay/llm-agent](https://github.com/aplisay/llm-agent) | LLM based Agent |
 | Python, HTML, Go, Dockerfile | [es3n1n/nowplaying](https://github.com/es3n1n/nowplaying) | A Telegram bot for sharing and discovering music across various platforms. |
 | Python, JavaScript | [devshazam/Best-Dev-Practices_17.0.4](https://github.com/devshazam/Best-Dev-Practices_17.0.4) | ☢️ Best-Dev-Practices this is a collection of global trends in web development from ⚡DevShazam⚡! |
@@ -7492,11 +7500,11 @@
 | TypeScript, JavaScript, Shell, HTML, CSS | [team-monite/monite-sdk](https://github.com/team-monite/monite-sdk) | Monite SDK: Embed invoicing and payables into your app |
 | C++, CMake, Python, Batchfile, Shell | [apinge/MeloTTS.cpp](https://github.com/apinge/MeloTTS.cpp) | A lightweight pure C++ Text-to-Speech (TTS) pipeline with OpenVINO, supporting mixed English and Chinese languages. |
 | Java, Shell, HTML, Dockerfile | [stoerr/CoDeveloperGPTengine](https://github.com/stoerr/CoDeveloperGPTengine) | Co-Developer GPT Engine: server that provides read/write file access to a local directory from ChatGPT as OpenAI GPT actions, incl. execution of configured actions on your own machine |
-| Julia, Shell | [Alexander-Barth/ROMS.jl](https://github.com/Alexander-Barth/ROMS.jl) | Function and scripts to generate input files for the ROMS ocean model |
 | XML, HTML, TeX, Shell, Awk, Perl, Makefile, Python, XSLT, M4 | [apertium/apertium-nno-nob](https://github.com/apertium/apertium-nno-nob) | Apertium translation pair for Norwegian Nynorsk and Norwegian Bokmål |
+| Julia, Shell | [Alexander-Barth/ROMS.jl](https://github.com/Alexander-Barth/ROMS.jl) | Function and scripts to generate input files for the ROMS ocean model |
 | R, Shell, CSS | [pharmaverse/admiraldev](https://github.com/pharmaverse/admiraldev) | Development Tools for the admiral family |
-| C, Vue, TypeScript, Python, CMake, Gherkin, Makefile, Dockerfile, JavaScript, Shell, HTML, CSS | [Studio-Link/mix](https://github.com/Studio-Link/mix) | Remote Podcasting and live video/audio conversations with your audience |
 | C#, JavaScript, Python, HTML, Batchfile | [equinor/TimeSeriesAnalysis](https://github.com/equinor/TimeSeriesAnalysis) | Library that combines control engineering, dynamic simulation and machine learning on time-series. Developed to describe industrial processes and -automation. Lightweight, robust and fast for use in advanced analytics. Built on .NET to run anywhere. |
+| C, Vue, TypeScript, Python, CMake, Gherkin, Makefile, Dockerfile, JavaScript, Shell, HTML, CSS | [Studio-Link/mix](https://github.com/Studio-Link/mix) | Remote Podcasting and live video/audio conversations with your audience |
 | Lua | [rgd87/ClassicAuraDurations](https://github.com/rgd87/ClassicAuraDurations) | Using LibClassicDurations for Compact Unit Frames and default Target Frame |
 | Rust | [meilisearch/cargo-flaky](https://github.com/meilisearch/cargo-flaky) | A cargo sub-command to helps you find flaky tests |
 | Jupyter Notebook, TeX, Shell | [iic-jku/analog-circuit-design](https://github.com/iic-jku/analog-circuit-design) | Course material for a basic-level circuit design course using Xschem and ngspice |
@@ -7534,8 +7542,8 @@
 | Python, Shell, HTML, Makefile | [atviriduomenys/spinta](https://github.com/atviriduomenys/spinta) | Spinta is a framework to describe, extract and publish data (a DEP Framework). |
 | Astro, CSS, JavaScript, TypeScript | [SaintSin/astro-pandabox](https://github.com/SaintSin/astro-pandabox) | A lightweight Lightbox and gallery component for Astro |
 | Python, Swift, Makefile | [xiaoran007/pyhw](https://github.com/xiaoran007/pyhw) | pyhw, a neofetch-like command line tool for fetching system information but written mostly in Python. |
-| JavaScript | [Zlkcyber/oasis-bot](https://github.com/Zlkcyber/oasis-bot) | oasis ai bot auto create multiple providers and send hearbeat every minutes |
 | EJS, JavaScript, Stylus | [chen-yingfa/hexo-theme-fengye](https://github.com/chen-yingfa/hexo-theme-fengye) | 🍁枫叶：一个简约的 Hexo 主题 // Fengye: a minimalistic Hexo theme. |
+| JavaScript | [Zlkcyber/oasis-bot](https://github.com/Zlkcyber/oasis-bot) | oasis ai bot auto create multiple providers and send hearbeat every minutes |
 | Python, Shell | [solovieff/kibernikto](https://github.com/solovieff/kibernikto) | Kibernikto is an app to easily run telegram bots connected to AI models. |
 | Jupyter Notebook, TeX | [quantumjim/Quantum-Computation-course-Basel](https://github.com/quantumjim/Quantum-Computation-course-Basel) |  |
 | JavaScript | [Kaens/audio1sg](https://github.com/Kaens/audio1sg) | The comprehensive tracker and retro music format detection script for Detect-it-Easy |
@@ -7577,8 +7585,8 @@
 | Shell | [LauOtero/Klipper_Modular](https://github.com/LauOtero/Klipper_Modular) |  |
 | Python, C#, Jinja, Just, RobotFramework | [imbus/robotframework-robosapiens](https://github.com/imbus/robotframework-robosapiens) | Fully localized Robot Framework library for automating the SAP GUI using text locators |
 | Python, HTML, CSS, Shell, JavaScript | [Quansight-Labs/accessible-pygments](https://github.com/Quansight-Labs/accessible-pygments) | ♿ Accessible pygments themes |
-| TypeScript, HTML, CSS, JavaScript | [AxisCommunications/fluent-components](https://github.com/AxisCommunications/fluent-components) | Axis Fluent UI theme and custom components. |
 | Vue, JavaScript, SCSS, CSS | [likecoin/likecoin-button](https://github.com/likecoin/likecoin-button) | Every Like is a reward. Turn your Likes into actual income now. |
+| TypeScript, HTML, CSS, JavaScript | [AxisCommunications/fluent-components](https://github.com/AxisCommunications/fluent-components) | Axis Fluent UI theme and custom components. |
 | JavaScript, Shell, PHP, HTML, CSS, Perl, Lua, Makefile | [llevier/vigrid](https://github.com/llevier/vigrid) | Vigrid is a Cyber Range redesign of the GNS3 tool able to virtualize almost any physical device on many CPU. It is also able to virtualize entire networks not visible between them. Vigrid adds industrial cloning. clientless console accesses. snapshots. unlimited scalability. standalone or infrastructure and cloud designs. |
 | Shell | [iterate-ch/profiles](https://github.com/iterate-ch/profiles) | Connection Profiles for Cyberduck & Mountain Duck |
 | Rust, Python, Shell, Makefile | [ypo/flute](https://github.com/ypo/flute) | FLUTE (File Delivery over Unidirectional Transport) in RUST |
@@ -7625,8 +7633,8 @@
 | TypeScript, Handlebars, SCSS, Shell | [xdy/xdy-pf2e-workbench](https://github.com/xdy/xdy-pf2e-workbench) | Random assortment of possibly useful doodads, thingumabobs and whatchamacallits for the foundry vtt pf2e system. |
 | Shell, Vim Script, AutoHotkey, Lua, Python | [lgaggini/dotfiles](https://github.com/lgaggini/dotfiles) | Gnu/Linux toolbox configuration files |
 | TypeScript, Dockerfile, JavaScript, HTML, CSS, Makefile | [projectNEWM/newm-web](https://github.com/projectNEWM/newm-web) | Monorepo containing NEWM web applications and shared code. |
-| TypeScript, CSS, JavaScript, HTML | [MiRo1310/ioBroker.telegram-menu](https://github.com/MiRo1310/ioBroker.telegram-menu) | Easily create Telegram Menus |
 | Haskell | [pmlodawski/signal](https://github.com/pmlodawski/signal) | Multiplatform signal support for Haskell |
+| TypeScript, CSS, JavaScript, HTML | [MiRo1310/ioBroker.telegram-menu](https://github.com/MiRo1310/ioBroker.telegram-menu) | Easily create Telegram Menus |
 | HTML, Rich Text Format, JavaScript, CSS, Python, Go, SCSS, Classic ASP, Makefile, Shell | [twnanda/twnanda](https://github.com/twnanda/twnanda) | Dhamma Page of Tainan(Hu Shiah) 府城佛教網 |
 | Python | [schuenke/BMCTool](https://github.com/schuenke/BMCTool) | Python Bloch-McConnell (BMC) simulation tool |
 | Lua, JavaScript, HTML | [DevX32/devx_vehiclemenu](https://github.com/DevX32/devx_vehiclemenu) | Vehicle Menu for FiveM |
@@ -7917,12 +7925,12 @@
 | JavaScript, Stylus, HTML, EJS | [huazie/hexo-theme-diversity](https://github.com/huazie/hexo-theme-diversity) | A diverse theme allowing free theme-switching for Hexo.【一款多主题自由切换的Hexo主题】 |
 | Java | [prog2-unimi/handouts](https://github.com/prog2-unimi/handouts) | Raccolta del materiale didattico usato a lezione dal docente del corso di "Programmazione II" @ UniMI  |
 | Java, TypeScript, HTML, Python, CSS, FreeMarker, Shell, Dockerfile, JavaScript, Batchfile, Fluent | [fli-iam/shanoir-ng](https://github.com/fli-iam/shanoir-ng) | Shanoir (SHAring iN vivO Imaging Resources) |
-| Shell, Python, Jinja | [secure-diversITy/ansible_pors](https://github.com/secure-diversITy/ansible_pors) | Playbooks-On-Rails for Splunk (PORS) |
 | Rust, TypeScript, Dockerfile, Shell, PLpgSQL | [Moonsong-Labs/storage-hub](https://github.com/Moonsong-Labs/storage-hub) | An unstoppable storage system for the Polkadot ecosystem. |
+| Shell, Python, Jinja | [secure-diversITy/ansible_pors](https://github.com/secure-diversITy/ansible_pors) | Playbooks-On-Rails for Splunk (PORS) |
 | Python, Shell, TeX, Perl, Makefile | [De7vID/klingon-assistant-data](https://github.com/De7vID/klingon-assistant-data) | Klingon language data for {tlhIngan Hol boQwI'} and related apps. |
 | MDX, Astro, JavaScript, CSS, TypeScript | [dragomano/alpinejs-russian](https://github.com/dragomano/alpinejs-russian) | Перевод официальной документации AlpineJS |
-| Python | [salvadordata/Mr.-CrackBot-AI-Nano](https://github.com/salvadordata/Mr.-CrackBot-AI-Nano) | Mr. CrackBot AI uses the NVIDIA Jetson Nano 4GB to perform AI-driven penetration testing. It combines GPU-accelerated password cracking with Wi-Fi deauthentication and handshake capture. Blending AI with traditional security tools, it offers a powerful, compact solution for ethical hacking and network analysis. |
 | JavaScript, PowerShell | [steve02081504/GentianAphrodite](https://github.com/steve02081504/GentianAphrodite) |  |
+| Python | [salvadordata/Mr.-CrackBot-AI-Nano](https://github.com/salvadordata/Mr.-CrackBot-AI-Nano) | Mr. CrackBot AI uses the NVIDIA Jetson Nano 4GB to perform AI-driven penetration testing. It combines GPU-accelerated password cracking with Wi-Fi deauthentication and handshake capture. Blending AI with traditional security tools, it offers a powerful, compact solution for ethical hacking and network analysis. |
 | Shell, PowerShell | [alanlivio/ps-sh-helpers](https://github.com/alanlivio/ps-sh-helpers) | Lib template for creating PowerShell and Bash helpers.  |
 | Jupyter Notebook, R, Python | [cefet-rj-dal/harbinger](https://github.com/cefet-rj-dal/harbinger) | Framework for integration and analysis of event detection methods  - Research Project |
 | Shell, Dockerfile, Go, Makefile | [rios0rios0/pipelines](https://github.com/rios0rios0/pipelines) | It contains the pipelines for each application inside this development group. It brings the complete SSDLC, with SAST, SCA, SSCA, and Testing tools for each respective language. |
@@ -7958,8 +7966,8 @@
 | C, Perl, C++, Raku, Assembly, Shell, M4, eC, CMake, Python, Ruby, sed | [quictls/quictls](https://github.com/quictls/quictls) | The official repository for the QuicTLS project. |
 | C#, PowerShell, CSS, JavaScript | [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates) | Uno Platform project templates |
 | C# | [CodingWithCalvin/VS-OpenInNotepadPlusPlus](https://github.com/CodingWithCalvin/VS-OpenInNotepadPlusPlus) | A Visual Studio extension that adds a right-click context menu command that allows you to open the solution file, project file, or file in Notepad++. |
-| C#, C, Makefile, Batchfile, Shell | [skawo/OoT-NPC-Maker](https://github.com/skawo/OoT-NPC-Maker) | An NPC creation tool for The Legend of Zelda: Ocarina of Time.  |
 | Go, TypeScript, HTML, JavaScript, CSS, Smarty | [opentofu/registry-ui](https://github.com/opentofu/registry-ui) | Powering the OpenTofu Registry Search (beta) |
+| C#, C, Makefile, Batchfile, Shell | [skawo/OoT-NPC-Maker](https://github.com/skawo/OoT-NPC-Maker) | An NPC creation tool for The Legend of Zelda: Ocarina of Time.  |
 | Python | [pybamm-team/pybamm-eis](https://github.com/pybamm-team/pybamm-eis) |  |
 | JavaScript, SCSS, CSS, HTML, Dockerfile | [react-ui-org/react-ui](https://github.com/react-ui-org/react-ui) | React UI is a themeable and performant UI library for React apps. |
 | Rust, JavaScript, TypeScript, Shell | [Brooooooklyn/network-change](https://github.com/Brooooooklyn/network-change) |  |
@@ -8050,14 +8058,14 @@
 | Python, Shell | [chayansraj/Python-ETL-pipeline-using-Airflow-on-AWS](https://github.com/chayansraj/Python-ETL-pipeline-using-Airflow-on-AWS) | This project demonstrates how to build and automate an ETL pipeline written in Python and schedule it using open source Apache Airflow orchestration tool on AWS EC2 instance. |
 | Astro, TypeScript, JavaScript, CSS | [bottlesdevs/website](https://github.com/bottlesdevs/website) | Official Bottles website |
 | C++, JavaScript, CMake, SCSS, Shell, HTML, Python, Awk, ReScript | [sierkov/daedalus-turbo](https://github.com/sierkov/daedalus-turbo) | Daedalus Turbo: 10-times-quicker bulk synchronization for Cardano |
-| Python, Dockerfile | [chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP](https://github.com/chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP) | This project demonstrates how to build and automate an ETL pipeline using DAGs in Airflow and load the transformed data to Bigquery. There are different tools that have been used in this project such as Astro, DBT, GCP, Airflow, Metabase. |
 | C, CMake, Makefile | [bruhathisp/dsa_java](https://github.com/bruhathisp/dsa_java) | For future references |
+| Python, Dockerfile | [chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP](https://github.com/chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP) | This project demonstrates how to build and automate an ETL pipeline using DAGs in Airflow and load the transformed data to Bigquery. There are different tools that have been used in this project such as Astro, DBT, GCP, Airflow, Metabase. |
 | HTML, JavaScript, CSS, Hack, PHP | [KhronosGroup/Vulkan-Web-Registry](https://github.com/KhronosGroup/Vulkan-Web-Registry) | Backing store for www.khronos.org/registry/vulkan, populated from other Vulkan repositories to publish specs, ref pages, etc. which can't be served directly out of github. |
 | Python, C++, CMake | [IntelligentRoboticsLabs/kobuki](https://github.com/IntelligentRoboticsLabs/kobuki) |  |
 | Python, AGS Script, C, Shell | [Ulm-IQO/qudi-iqo-modules](https://github.com/Ulm-IQO/qudi-iqo-modules) | A collection of qudi measurement modules originally developed for experiments on colorcenters in semiconductor materials. |
 | TypeScript, JavaScript, Shell, Dockerfile, Procfile | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | Code for the backend / API of the Bloom service |
-| Java, Groovy, HTML, JavaScript, Gherkin, CSS, PHP, Batchfile | [reportportal/examples-java](https://github.com/reportportal/examples-java) | Java examples of Report Portal usage |
 | TypeScript, JavaScript | [gbicou/directus-extension-imagga](https://github.com/gbicou/directus-extension-imagga) | Automatic image tagging of Directus files with Imagga API |
+| Java, Groovy, HTML, JavaScript, Gherkin, CSS, PHP, Batchfile | [reportportal/examples-java](https://github.com/reportportal/examples-java) | Java examples of Report Portal usage |
 | TypeScript, JavaScript, Shell | [webdriverio-community/wdio-cucumberjs-json-reporter](https://github.com/webdriverio-community/wdio-cucumberjs-json-reporter) | A WDIO reporter that creates CucumberJS JSON files for WebdriverIO |
 | C#, TypeScript, SCSS, HTML, Shell, CSS | [chioroglo/myBlog](https://github.com/chioroglo/myBlog) |  |
 | Python, TypeScript, JavaScript, Jinja, Makefile, Shell, Dockerfile, CSS, Mako | [hypothesis/via](https://github.com/hypothesis/via) | Proxies third-party PDF files and HTML pages with the Hypothesis client embedded, so you can annotate them |
@@ -8080,8 +8088,8 @@
 | Perl, XS, Shell, Vim Script | [Tux/Text-CSV_XS](https://github.com/Tux/Text-CSV_XS) | perl5 module for composition and decomposition of comma-separated values |
 | Vala, CSS, Meson | [elementary/wingpanel-indicator-notifications](https://github.com/elementary/wingpanel-indicator-notifications) | Wingpanel Notifications Indicator |
 | TypeScript, HTML, JavaScript, CSS | [consensys-vertical-apps/mmi-defi-adapters](https://github.com/consensys-vertical-apps/mmi-defi-adapters) |  |
-| HTML, CSS, Liquid, JavaScript | [home-assistant/yellow.home-assistant.io](https://github.com/home-assistant/yellow.home-assistant.io) |  |
 | Scala, Java | [sageserpent-open/americium](https://github.com/sageserpent-open/americium) | Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately. |
+| HTML, CSS, Liquid, JavaScript | [home-assistant/yellow.home-assistant.io](https://github.com/home-assistant/yellow.home-assistant.io) |  |
 | JavaScript, Ruby, HTML, Haskell, SuperCollider, Python, CSS | [Uchida16104/LiveCodingPortfolio](https://github.com/Uchida16104/LiveCodingPortfolio) | These are videos and musics I made by hydra, LiveCodeLab, LiveCoding YouTube, TidalCycles, or FoxDot. |
 | CSS, Nunjucks, JavaScript | [lp-cast/3lp.me](https://github.com/lp-cast/3lp.me) | Дилетантский подкаст про музыку |
 | Python | [houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter](https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter) | 驅散廣告&惡意&詐騙&無聊網站 |
@@ -8348,8 +8356,8 @@
 | Lua | [EvaisaDev/Unshackle](https://github.com/EvaisaDev/Unshackle) | Lets you write unrestricted noita mods for steam workshop. |
 | Java | [mschae23/grind-enchantments](https://github.com/mschae23/grind-enchantments) | Put enchantments back on a book using a grindstone. |
 | Rust, Clojure, Svelte, TypeScript, JavaScript, Dockerfile, PLpgSQL, Nix, HTML, CSS, Shell | [joshniemela/KU-courses](https://github.com/joshniemela/KU-courses) | A better version of KU's course catalogue |
-| MDX, JavaScript, TypeScript, Astro, SCSS, GLSL, HTML, CSS | [processing/p5.js-website](https://github.com/processing/p5.js-website) | New p5.js website! |
 | JavaScript, HTML, CSS, Python, Shell | [digas99/duo-explained](https://github.com/digas99/duo-explained) | Browser extension that integrates OpenAI's interface to ChatGPT with Duolingo's exercises. |
+| MDX, JavaScript, TypeScript, Astro, SCSS, GLSL, HTML, CSS | [processing/p5.js-website](https://github.com/processing/p5.js-website) | New p5.js website! |
 | Go | [aarsakian/MFTExtractor](https://github.com/aarsakian/MFTExtractor) | Parser of MFT in go |
 | C#, Shell | [fwinkelbauer/chunkyard](https://github.com/fwinkelbauer/chunkyard) | A backup tool |
 | Python, Shell | [hukkin/mdformat-tables](https://github.com/hukkin/mdformat-tables) | An mdformat plugin for rendering tables |
@@ -8405,8 +8413,8 @@
 | Java | [Layers-of-Railways/CreateNumismatics](https://github.com/Layers-of-Railways/CreateNumismatics) | Aesthetic & Functional Create styled currency mod |
 | TypeScript, JavaScript, Shell | [ianlet/qwik-testing-library](https://github.com/ianlet/qwik-testing-library) | ⚡ Simple and complete Qwik DOM testing utilities that encourage good testing practices |
 | Go, HTML, Shell, Makefile | [dhuan/mock](https://github.com/dhuan/mock) | Language-agnostic API mocking and testing utility |
-| TypeScript, Shell, Dockerfile, CSS, JavaScript | [boostcampwm-2024/web12-MafiaCamp](https://github.com/boostcampwm-2024/web12-MafiaCamp) | 새로운 차원의 화상 마피아 게임🕵🏻‍♂️ |
 | Jupyter Notebook, Python | [Aatif123-hub/undergrad-projects](https://github.com/Aatif123-hub/undergrad-projects) |  |
+| TypeScript, Shell, Dockerfile, CSS, JavaScript | [boostcampwm-2024/web12-MafiaCamp](https://github.com/boostcampwm-2024/web12-MafiaCamp) | 새로운 차원의 화상 마피아 게임🕵🏻‍♂️ |
 | TypeScript, CSS, JavaScript, HTML | [Latina-Dev/latina-dev](https://github.com/Latina-Dev/latina-dev) | Latina Dev is a directory of Latinas who code 💛️ |
 | C++, CMake | [mikeoliphant/NeuralAudio](https://github.com/mikeoliphant/NeuralAudio) | C++ library for real-time processing of audio neural network models |
 | Shell, Lua, Dockerfile | [ch3n9w/dev](https://github.com/ch3n9w/dev) | Out-of-box Development Toolkit 🛸 |
@@ -8419,8 +8427,8 @@
 | Python, Makefile | [AresSC2/ares-sc2](https://github.com/AresSC2/ares-sc2) | A StarCraft II bot framework for Python 3 |
 | TypeScript, JavaScript, CSS | [uoftblueprint/centre-for-dreams](https://github.com/uoftblueprint/centre-for-dreams) | Collaborative project between UofT Blueprint and the Centre for Dreams, aiming to create a centralized platform for participants and their families to access program information and announcements |
 | Python | [YunoHost/package_linter](https://github.com/YunoHost/package_linter) | Linter for YunoHost applications packages |
-| Vim Script, Python, Shell, HTML, AppleScript, C++, Makefile, C, TeX, Swift, CSS, Lua, JavaScript | [hanleylee/dotvim](https://github.com/hanleylee/dotvim) | vim config directory |
 | Shell, Lua, Python, AutoHotkey, Makefile | [horseinthesky/dotfiles](https://github.com/horseinthesky/dotfiles) |  My development environment setup |
+| Vim Script, Python, Shell, HTML, AppleScript, C++, Makefile, C, TeX, Swift, CSS, Lua, JavaScript | [hanleylee/dotvim](https://github.com/hanleylee/dotvim) | vim config directory |
 | Jupyter Notebook, TeX, Lua, CSS, SCSS | [martinfleis/sds](https://github.com/martinfleis/sds) | Spatial Data Science for Social Geography |
 | Python | [teamneoneko/Avatar-Toolkit](https://github.com/teamneoneko/Avatar-Toolkit) | A new modern tool designed to shorten steps needed to import and optimize models into VRChat, Resonite and other similar games.  |
 | JavaScript, Python | [NullDev/Spendenr-AI-d](https://github.com/NullDev/Spendenr-AI-d) | AI powered Spendenraid evaluation.  |
@@ -8635,8 +8643,8 @@
 | TypeScript, CSS, JavaScript, HTML | [xandemon/developer-icons](https://github.com/xandemon/developer-icons) | A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free. |
 | TypeScript, JavaScript, CSS, HTML | [chrisdadev13/shadcn-linear-filter](https://github.com/chrisdadev13/shadcn-linear-filter) |  |
 | C# | [thomhurst/PullRequestScanner](https://github.com/thomhurst/PullRequestScanner) | A Github + Azure DevOps Pull Request Scanner that can notify Microsoft Team of current statuses - or plug in your own implementation! |
-| TypeScript | [oclif/test](https://github.com/oclif/test) | test helpers for oclif components |
 | JavaScript, PowerShell, Shell | [jsetton/alexa-assistant](https://github.com/jsetton/alexa-assistant) | Implementation of the Google Assistant SDK as an Alexa skill |
+| TypeScript | [oclif/test](https://github.com/oclif/test) | test helpers for oclif components |
 | JavaScript | [ocd0711/Profiles](https://github.com/ocd0711/Profiles) |  |
 | JavaScript | [ice987987/ioBroker.husqvarna-automower](https://github.com/ice987987/ioBroker.husqvarna-automower) | Control your Husqvarna-Automower together with the "Connect Modul" and the new "Automower Connect API" via a WebSocket connection. |
 | Python | [0xVolumea/solana-bot](https://github.com/0xVolumea/solana-bot) | Solana Volume, Solana Bump, Solana copy-trading, Solana Sniper, MEV-bot - we combined all of these into one bot! |
@@ -8761,8 +8769,8 @@
 | C#, Dockerfile | [yazilimacademy/akilliprompt-backend](https://github.com/yazilimacademy/akilliprompt-backend) | Yazilim Academy'nin Akilli Prompt projesi |
 | TypeScript, JavaScript, HCL, CSS, Dockerfile, HTML, Shell | [dotkom/monoweb](https://github.com/dotkom/monoweb) | Future version of Online, NTNU's informatics student association's website |
 | TypeScript, Vue, Rust, HTML, GLSL, JavaScript, CSS | [newcat/LedMusicStudio](https://github.com/newcat/LedMusicStudio) | A WIP music visualization editor |
-| C# | [ImmediatePlatform/Immediate.Apis](https://github.com/ImmediatePlatform/Immediate.Apis) | Source Generated registrations connecting Immediate.Handlers and minimal APIs |
 | JavaScript, TypeScript, Shell, HTML, Makefile, PowerShell, Dockerfile, Vue | [DatBrainDushan/FirstAttempt](https://github.com/DatBrainDushan/FirstAttempt) | test |
+| C# | [ImmediatePlatform/Immediate.Apis](https://github.com/ImmediatePlatform/Immediate.Apis) | Source Generated registrations connecting Immediate.Handlers and minimal APIs |
 | Julia | [JuliaManifolds/LieGroups.jl](https://github.com/JuliaManifolds/LieGroups.jl) | LieGroups.jl – Lie groups and Lie algebras  |
 | Python | [VincentQQu/E2HQV](https://github.com/VincentQQu/E2HQV) | Official Implementation for AAAI 2024 Paper "E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning" |
 | Dart, C++, CMake, Ruby, HTML, C, Swift, Kotlin, Objective-C | [monster555/recipes-app](https://github.com/monster555/recipes-app) | Explore a simple technical challenge showcasing Flutter with Bloc for state management and Clean Architecture principles. This Flutter app consumes a cocktails recipes API and elegantly displays them by categories. Dive into modern Flutter development with Dio for API calls and efficient state management. |
@@ -8812,8 +8820,8 @@
 | HTML, CSS | [kookma/TW-Trashbin](https://github.com/kookma/TW-Trashbin) | Trash bin tools in Tiddlywiki. Delete tiddlers and restore them easily |
 | C# | [The-Standard-Organization/GitFyle.Core.Api](https://github.com/The-Standard-Organization/GitFyle.Core.Api) |  |
 | Python, JavaScript, Batchfile, Shell, Dockerfile | [Enukio/Notpixel](https://github.com/Enukio/Notpixel) | Notpixel automatic claim and paint bot. A lightweight, easy to use bot designed for automating claim and painting tasks in Notpixel. No unnecessary extras, just simple and efficient functionality. |
-| Shell, Makefile | [GrapheneOS/device_common](https://github.com/GrapheneOS/device_common) | Common device sources. |
 | C++ | [ClementDreptin/Hayzen](https://github.com/ClementDreptin/Hayzen) | Hayzen is a dynamic library (DLL) for RGH/Jtag/Devkit Xbox 360s that contains mods for different games. |
+| Shell, Makefile | [GrapheneOS/device_common](https://github.com/GrapheneOS/device_common) | Common device sources. |
 | Python | [ylasgamers/nodepay](https://github.com/ylasgamers/nodepay) | Run Nodepay Get Free Money |
 | C, C++, CMake, Shell | [Slamy/Yaumataca](https://github.com/Slamy/Yaumataca) | USB mouse and joystick to Amiga, Atari ST & C64 Adapter |
 | TypeScript, JavaScript, Kotlin, Objective-C, Java, Swift, Ruby, Shell, C | [lrtlt/mobile](https://github.com/lrtlt/mobile) | LRT.lt mobile application |
@@ -8837,8 +8845,8 @@
 | HTML, Smarty, C++, C, Shell, Python, CSS | [xlyric/PV-discharge-Dimmer-AC-Dimmer-KIT-Robotdyn](https://github.com/xlyric/PV-discharge-Dimmer-AC-Dimmer-KIT-Robotdyn) | New model of Wifi Dimmer for distant charge of PV routing, based on multi SSR (Zc, Random) or Robotdyn, and ESP8266 Wi-Fi D1 Mini  |
 | Java, C++, JavaScript, C, HTML | [chenlanqing/Java-Programmer](https://github.com/chenlanqing/Java-Programmer) | 日常学习笔记资料 |
 | JavaScript, CoffeeScript, Shell | [PetarTerovic/cliui_test](https://github.com/PetarTerovic/cliui_test) |  |
-| JavaScript, EJS | [HelenJovanova/common-tags](https://github.com/HelenJovanova/common-tags) |  |
 | JavaScript | [Stepkamarko/caniuse-lite](https://github.com/Stepkamarko/caniuse-lite) |  |
+| JavaScript, EJS | [HelenJovanova/common-tags](https://github.com/HelenJovanova/common-tags) |  |
 | PHP | [ZalaNihir/country-state-city-package](https://github.com/ZalaNihir/country-state-city-package) | Migrate the contry, state & cities in your project with flags |
 | HTML, SCSS, CSS, JavaScript, Ruby, TeX, Shell | [chriskyfung/amp-affiliately-jekyll-theme](https://github.com/chriskyfung/amp-affiliately-jekyll-theme) | An AMP-Ready Jekyll Blog Theme |
 | Assembly, C++, SWIG, Makefile, C, Shell, Batchfile | [Hammarberg/c2](https://github.com/Hammarberg/c2) | Cross assembler |
@@ -8927,8 +8935,8 @@
 | Kotlin, Python, Swift | [Team-B1ND/dodamdodam-android](https://github.com/Team-B1ND/dodamdodam-android) | 학생들을 위해, 학생들이 만든 스마트 스쿨 플랫폼 '도담도담' |
 | Swift | [siamakrostami/SRGenericNetworkLayer](https://github.com/siamakrostami/SRGenericNetworkLayer) | SRGenericNetworkLayer is a powerful and flexible networking layer for Swift applications. It provides a generic, protocol-oriented approach to handling API requests, supporting both Combine and async/await paradigms. This package is designed to be easy to use, highly customizable, and compatible with Swift 6 and the Sendable protocol. |
 | Clojure | [kelveden/ring-jwt](https://github.com/kelveden/ring-jwt) | Ring middleware to parse, decide and verify JWT tokens |
-| C++, CMake, Dart, Ruby, HTML, C, Swift, Kotlin, Objective-C | [myConsciousness/twitter-oauth2-pkce](https://github.com/myConsciousness/twitter-oauth2-pkce) | No longer maintained. |
 | JavaScript, CSS, HTML, Shell | [notsidney/hscpastpapers](https://github.com/notsidney/hscpastpapers) | Web app to quickly browse past HSC papers |
+| C++, CMake, Dart, Ruby, HTML, C, Swift, Kotlin, Objective-C | [myConsciousness/twitter-oauth2-pkce](https://github.com/myConsciousness/twitter-oauth2-pkce) | No longer maintained. |
 | Kotlin, Dart, Objective-C, Shell, Dockerfile, Procfile | [rm3l/dev-feed](https://github.com/rm3l/dev-feed) | Flutter-based mobile app displaying a list of daily curated content from top engineering blogs and articles. Backed by a GraphQL-based API written in Kotlin.. |
 | Java, Python, Velocity Template Language, TypeScript, Jupyter Notebook, Shell, HTML, Batchfile, SCSS, Dockerfile, JavaScript, Roff | [iip-ecosphere/platform](https://github.com/iip-ecosphere/platform) | oktoflow AI-enabled IIoT/I4.0 platform |
 | Python, Shell | [ciejer/metservice-weather](https://github.com/ciejer/metservice-weather) | Metservice New Zealand component for Home Assistant |
@@ -9209,8 +9217,8 @@
 | JavaScript, HTML, CSS | [oweitman/ioBroker.squeezeboxrpc](https://github.com/oweitman/ioBroker.squeezeboxrpc) | This is an alternative Adapter that uses the JSON/RPC-Protokoll to get data and send commands to the Logitech Media Server.  |
 | Java, Groovy, Dockerfile, HTML | [nuxeo/nuxeo-java-client](https://github.com/nuxeo/nuxeo-java-client) | Java Client Library for the Nuxeo Platform REST APIs |
 | TypeScript, HTML, SCSS, Dockerfile, JavaScript, Shell | [OsmosysSoftware/osmo-x](https://github.com/OsmosysSoftware/osmo-x) | Centralized multi-channel notification management component for streamlined communication across email, SMS, WhatsApp, and push notifications. |
-| Go | [twpayne/go-mbtiles](https://github.com/twpayne/go-mbtiles) | Package mbtiles reads and writes files in the MBTiles format. |
 | Python, Shell | [mxcube/mxcubecore](https://github.com/mxcube/mxcubecore) | Backend used by MXCuBE |
+| Go | [twpayne/go-mbtiles](https://github.com/twpayne/go-mbtiles) | Package mbtiles reads and writes files in the MBTiles format. |
 | Haskell, Shell | [sjoerdvisscher/proarrow](https://github.com/sjoerdvisscher/proarrow) | Haskell library for doing category theory with a central role for profunctors |
 | TypeScript, JavaScript | [gkd-kit/docs](https://github.com/gkd-kit/docs) | GKD 文档 | GKD Document |
 | MATLAB, Roff | [FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB) | TEM&STEM simulation in matlab |
@@ -9235,8 +9243,8 @@
 | Kotlin | [ohmae/color-chooser](https://github.com/ohmae/color-chooser) | Color chooser dialog library for android |
 | JavaScript, Shell, Batchfile, Lua, PowerShell | [lainbo/gists-hub](https://github.com/lainbo/gists-hub) | A collection of configurations for Clash, Loon, QuantumultX, Shadowrocket, Loon and QuantumultX support fully automated uploads to GitHub Gist |
 | 1C Enterprise, Batchfile | [Segate-ekb/1c_OpenApi_validation](https://github.com/Segate-ekb/1c_OpenApi_validation) | OpenApi Валидатор. Проверка пакетов на соответствие контрактам |
-| Python, Jupyter Notebook, ImageJ Macro, Shell, HTML | [bioimage-io/spec-bioimage-io](https://github.com/bioimage-io/spec-bioimage-io) | Specification for the bioimage.io model description file. |
 | Game Maker Language, GLSL, Python, Batchfile, Shell | [YoYoGames/GM-TestFramework](https://github.com/YoYoGames/GM-TestFramework) | Repository for GameMaker's Test Framework |
+| Python, Jupyter Notebook, ImageJ Macro, Shell, HTML | [bioimage-io/spec-bioimage-io](https://github.com/bioimage-io/spec-bioimage-io) | Specification for the bioimage.io model description file. |
 | Python, Shell | [iqm-finland/qiskit-on-iqm](https://github.com/iqm-finland/qiskit-on-iqm) | Qiskit adapter for IQM's quantum computers |
 | Kotlin, Shell, Dockerfile | [Vacxe/google-play-cli](https://github.com/Vacxe/google-play-cli) | CLI tool for publish and management application in Google Play Console |
 | TypeScript, JavaScript, Python, Pug | [retorquere/zotero-plugin](https://github.com/retorquere/zotero-plugin) |  |
@@ -9324,8 +9332,8 @@
 | Go, Python, Dockerfile, Jupyter Notebook, Makefile | [opendatahub-io/distributed-workloads](https://github.com/opendatahub-io/distributed-workloads) | Artifacts for the Distributed Workloads stack as part of ODH |
 | Python | [uutils/coreutils-tracking](https://github.com/uutils/coreutils-tracking) |  |
 | JavaScript, CSS | [phawdk/studydrive-download](https://github.com/phawdk/studydrive-download) | A Chrome and Firefox Extension that enables free downloads on studydrive. |
-| Scala, HTML, Cycript, Shell | [hmrc/accessibility-statement-frontend](https://github.com/hmrc/accessibility-statement-frontend) |  |
 | Python, Jinja | [dell/ansible-powerflex](https://github.com/dell/ansible-powerflex) | Ansible Modules for Dell PowerFlex |
+| Scala, HTML, Cycript, Shell | [hmrc/accessibility-statement-frontend](https://github.com/hmrc/accessibility-statement-frontend) |  |
 | HTML, CSS, XSLT, Shell, TypeScript, XQuery | [dret/lectures](https://github.com/dret/lectures) | University courses and other presentations, mostly covering Web Architecture, REST, SOA, XML (XSLT/XSD), and similar stuff. |
 | HTML, CSS, PHP | [consequently/consequently-hugo](https://github.com/consequently/consequently-hugo) | The Hugo Source for consequently.org |
 | Python | [frequenz-floss/frequenz-sdk-python](https://github.com/frequenz-floss/frequenz-sdk-python) | Frequenz Python Software Development Kit (SDK) |
@@ -9655,14 +9663,14 @@
 | Python, C, Shell, Cython | [ELELAB/pyinteraph2](https://github.com/ELELAB/pyinteraph2) | development repository for PyInteraph2 |
 | TypeScript, JavaScript | [sopt-makers/sopt-operation-frontend](https://github.com/sopt-makers/sopt-operation-frontend) | SOPT Web Admin |
 | JavaScript, HTML, Shell, Ruby | [discourse/image-optimizer](https://github.com/discourse/image-optimizer) |  |
-| SCSS, JavaScript, Ruby, HTML | [discourse/graceful](https://github.com/discourse/graceful) |  |
 | FreeMarker, Java, SCSS, JavaScript, Groovy, HTML, Gherkin, CSS, Less, Mustache, TypeScript, Makefile, Shell, Python, Batchfile, DIGITAL Command Language | [NHS-digital-website/hippo](https://github.com/NHS-digital-website/hippo) | Hippo CMS |
+| SCSS, JavaScript, Ruby, HTML | [discourse/graceful](https://github.com/discourse/graceful) |  |
 | Java | [SpigotRCE/ParadiseClient-Fabric](https://github.com/SpigotRCE/ParadiseClient-Fabric) | A Minecraft pentesting client side mod |
 | Shell, Jupyter Notebook, Dockerfile | [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) |  |
 | JavaScript, EJS, Lua | [alexandrolilic/eventemitter3](https://github.com/alexandrolilic/eventemitter3) |  |
 | JavaScript, TypeScript, Gherkin, HTML, CSS, SCSS, Groovy, HCL, Shell, Dockerfile | [hmcts/rpx-xui-webapp](https://github.com/hmcts/rpx-xui-webapp) | rpx-xui-webapp |
-| Java | [51deep/PetStoreSystem](https://github.com/51deep/PetStoreSystem) | 宠物店系统_管理系统_毕业设计源码 |
 | C# | [skaen/Auto-Map-Changer](https://github.com/skaen/Auto-Map-Changer) | Changes the map to default when not active |
+| Java | [51deep/PetStoreSystem](https://github.com/51deep/PetStoreSystem) | 宠物店系统_管理系统_毕业设计源码 |
 | Java | [51deep/PetShopAdoptionManagementSystem](https://github.com/51deep/PetShopAdoptionManagementSystem) | 宠物商店领养管理系统_管理系统_毕业设计源码 |
 | Java | [51deep/PetServicePlatform](https://github.com/51deep/PetServicePlatform) | 宠物服务平台_管理系统_毕业设计源码 |
 | Java | [51deep/PetHospitalManagementSystem1](https://github.com/51deep/PetHospitalManagementSystem1) | 宠物医院管理系统_管理系统_毕业设计源码 |
@@ -9676,8 +9684,8 @@
 | Java | [51deep/PetComprehensiveServicePlatform](https://github.com/51deep/PetComprehensiveServicePlatform) | 宠物综合服务平台_管理系统_毕业设计源码 |
 | Java | [51deep/MemberManagementSystem](https://github.com/51deep/MemberManagementSystem) | 会员制度管理系统_管理系统_毕业设计源码 |
 | C++, Shell, Objective-C++, CMake, C, Python, QMake | [ctlcltd/e2-sat-editor](https://github.com/ctlcltd/e2-sat-editor) | Satellite channel lists editor with tab navigation 📡 for Enigma2, Neutrino, Lamedb, dreambox lists |
-| C# | [RestoreMonarchy/UnturnedMapMergeTool](https://github.com/RestoreMonarchy/UnturnedMapMergeTool) | Program for merging multiple unturned maps into one. |
 | Java | [51deep/memberCardManagementSystem](https://github.com/51deep/memberCardManagementSystem) | 会员卡管理系统_管理系统_毕业设计源码 |
+| C# | [RestoreMonarchy/UnturnedMapMergeTool](https://github.com/RestoreMonarchy/UnturnedMapMergeTool) | Program for merging multiple unturned maps into one. |
 | Java | [51deep/MeiteSupermarketInventoryManagementSystem](https://github.com/51deep/MeiteSupermarketInventoryManagementSystem) | 美特超市进销存管理系统_管理系统_毕业设计源码 |
 | Java | [51deep/MeetingManagementSystem](https://github.com/51deep/MeetingManagementSystem) | 会议管理系统_管理系统_毕业设计源码 |
 | Java | [51deep/MediumHospitalManagementSystemJsp](https://github.com/51deep/MediumHospitalManagementSystemJsp) | 中小型医院管理系统_管理系统_毕业设计源码 |
@@ -9696,8 +9704,8 @@
 | Vim Script, Shell, Smarty | [devdrops/my-dotfiles](https://github.com/devdrops/my-dotfiles) | :file_folder: Meus arquivos de configuração para as ferramentas do dia a dia |
 | Julia, TeX | [Zitzeronion/Swalbe.jl](https://github.com/Zitzeronion/Swalbe.jl) | Simple Julia Lattice Boltzmann Solver for Thin Liquid Films and Droplets, approximating the thin film equation. |
 | Kotlin, JavaScript, HTML, Dockerfile | [softappeal/yass2](https://github.com/softappeal/yass2) | A Kotlin multiplatform library for coroutines based peer-to-peer communication. |
-| PHP | [numero2/contao-proper-filenames](https://github.com/numero2/contao-proper-filenames) | Replaces special characters in filenames right after upload. |
 | Go, HTML, TypeScript, CSS, Shell, Dockerfile | [PDOK/gokoala](https://github.com/PDOK/gokoala) | Cloud Native OGC APIs server, written in Go |
+| PHP | [numero2/contao-proper-filenames](https://github.com/numero2/contao-proper-filenames) | Replaces special characters in filenames right after upload. |
 | TypeScript, JavaScript | [IBM/ibmi-ci](https://github.com/IBM/ibmi-ci) | A CLI (Command Line Interface) to work with IBM i |
 | Python, CMake, Shell, PowerShell, Batchfile | [cwi-dis/cwipc](https://github.com/cwi-dis/cwipc) |  |
 | JavaScript, EJS, Vue, CSS, HTML | [rocyuan666/code-generator-var](https://github.com/rocyuan666/code-generator-var) | 纯前端代码生成器，不依赖任何后端程序，使用简单，支持 windows、mac、linux 三大平台 |
@@ -9729,8 +9737,8 @@
 | Java | [51deep/CollegeStudentInternshipManagementSystem](https://github.com/51deep/CollegeStudentInternshipManagementSystem) | 高校学生实习管理系统_管理系统_毕业设计源码 |
 | Java | [51deep/CollegeStudentDormitoryManagementSystem](https://github.com/51deep/CollegeStudentDormitoryManagementSystem) | 高校学生宿舍管理系统_管理系统_毕业设计源码 |
 | Java | [51deep/CollegeStudentComprehensiveQualityScorePlatform](https://github.com/51deep/CollegeStudentComprehensiveQualityScorePlatform) | 大学生综合素质评分平台_管理系统_毕业设计源码 |
-| Lua, HTML, Python, Shell | [sQVe/dotfiles](https://github.com/sQVe/dotfiles) | sQVe dotfiles |
 | HTML, JavaScript, CSS | [profdeborapaulo/projetos-primeiro-info2024](https://github.com/profdeborapaulo/projetos-primeiro-info2024) | Este repositório é para postagens iniciais dos alunos do primeiro Informática para Internet |
+| Lua, HTML, Python, Shell | [sQVe/dotfiles](https://github.com/sQVe/dotfiles) | sQVe dotfiles |
 | Swift, Shell, Rust | [loro-dev/loro-swift](https://github.com/loro-dev/loro-swift) | Swift bindings of Loro CRDTs |
 | Python, Shell | [theupdateframework/tuf-on-ci](https://github.com/theupdateframework/tuf-on-ci) | A TUF repository and signing tool |
 | C# | [paulmooreparks/Xfer](https://github.com/paulmooreparks/Xfer) | An experimental data-transfer language. |
@@ -9823,8 +9831,8 @@
 | HCL, Go, Shell | [ministryofjustice/modernisation-platform-terraform-baselines](https://github.com/ministryofjustice/modernisation-platform-terraform-baselines) | Module for enabling and configuring common baseline services such as SecurityHub • This repository is defined and managed in Terraform |
 | Python, Batchfile | [rathaumons/pyppbox](https://github.com/rathaumons/pyppbox) | Toolbox for people detecting, tracking, and re-identifying. |
 | Java, Shell | [neatlogic/neatlogic-deploy](https://github.com/neatlogic/neatlogic-deploy) | Based on the automatic release module of neatlogic-autoexec, it supports various functions such as code compilation and packaging, handling differences in multi-environment configurations, database publishing, artifact management, release orchestration, grayscale release and rollback, and deployment for containers and the cloud.  |
-| Batchfile, Shell, Dockerfile, Vim Script, Go, Python, C, JavaScript | [fengzhao/fengzhao-notes](https://github.com/fengzhao/fengzhao-notes) | 日常学习笔记，linux、nginx、mysql、docker学习系列 |
 | C#, HTML, CSS, JavaScript, Dockerfile | [licentia88/MagicOnionGenericTemplate](https://github.com/licentia88/MagicOnionGenericTemplate) |  |
+| Batchfile, Shell, Dockerfile, Vim Script, Go, Python, C, JavaScript | [fengzhao/fengzhao-notes](https://github.com/fengzhao/fengzhao-notes) | 日常学习笔记，linux、nginx、mysql、docker学习系列 |
 | Jupyter Notebook, Python, JavaScript, HTML, CSS, C++, Shell, Cuda, Batchfile, Makefile | [MiuLab/PairDistill](https://github.com/MiuLab/PairDistill) | Source code of our paper "PairDistill: Pairwise Relevance Distillation for Dense Retrieval", EMNLP 2024 Main. |
 | C++, GLSL, C#, CMake, C | [aantropov/sailor](https://github.com/aantropov/sailor) | A high-performance Vulkan multi-threaded rendering engine, incorporating advanced features such as Tile Based Rendering, Physically Based Rendering (PBR), and advanced lighting and shadow techniques. |
 | R | [r-dbi/RKazam](https://github.com/r-dbi/RKazam) | A boilerplate for DBI drivers, fully DBI-compliant |
@@ -9925,8 +9933,8 @@
 | Python, Shell | [rpmfusion/discord](https://github.com/rpmfusion/discord) | discord - nonfree |
 | TypeScript, Svelte, JavaScript, HTML | [wobsoriano/svelte-instantdb](https://github.com/wobsoriano/svelte-instantdb) | Unofficial Instant SDK for Svelte |
 | Python, HTML, CSS | [provos/planai](https://github.com/provos/planai) | PlanAI: A graph-based framework for complex task automation integrating traditional compute and LLM capabilities |
-| Shell | [ztlevi/dotty](https://github.com/ztlevi/dotty) | Dotty with your dotfiles? Try dotty, a scalable dotfiles manager for linux and macos. |
 | HCL, PowerShell | [claranet/terraform-azurerm-windows-vm](https://github.com/claranet/terraform-azurerm-windows-vm) | Terraform module composition (feature) for ARM Windows Virtual Machine (VM) |
+| Shell | [ztlevi/dotty](https://github.com/ztlevi/dotty) | Dotty with your dotfiles? Try dotty, a scalable dotfiles manager for linux and macos. |
 | TypeScript, Python, CSS, JavaScript, Dockerfile, HTML | [vanchaxy/plexio](https://github.com/vanchaxy/plexio) | Plex integration in Stremio |
 | C#, Fluent, Python, PowerShell, CSS, Lua, Go, MATLAB, FreeMarker, XSLT, Shell, Nix, JavaScript, Nushell, Batchfile | [cosmatic-drift-14/cosmatic-drift](https://github.com/cosmatic-drift-14/cosmatic-drift) |  |
 | Python, Just | [JoshKarpel/counterweight](https://github.com/JoshKarpel/counterweight) | An experimental TUI framework for Python, inspired by React and Tailwind |
@@ -10014,8 +10022,8 @@
 | Python | [idodov/pixoo64-media-album-art](https://github.com/idodov/pixoo64-media-album-art) | Displaying the currently playing track’s album cover art on the PIXOO64 |
 | Kotlin, Shell | [eygraber/jsonapi-kotlin](https://github.com/eygraber/jsonapi-kotlin) | A Kotlin Multiplatform kotlinx.serialization library for working with JSON:API |
 | Java | [YouHaveTrouble/BlockEdit](https://github.com/YouHaveTrouble/BlockEdit) | Possibly WorldEdit alternative for modern servers |
-| Ruby, SCSS, JavaScript, HTML, CoffeeScript | [psbora2/hotel_with_ui](https://github.com/psbora2/hotel_with_ui) | Hotel rooms booking application in rails with Ui and backend  |
 | Java, FreeMarker, Groovy, Fluent | [domaframework/doma-codegen-plugin](https://github.com/domaframework/doma-codegen-plugin) | Generates Java, Kotlin, and SQL files from Database |
+| Ruby, SCSS, JavaScript, HTML, CoffeeScript | [psbora2/hotel_with_ui](https://github.com/psbora2/hotel_with_ui) | Hotel rooms booking application in rails with Ui and backend  |
 | Python | [boutproject/xBOUT](https://github.com/boutproject/xBOUT) | Collects BOUT++ data from parallelized simulations into xarray. |
 | C# | [Nasratullah-Shafiq/ATDMS](https://github.com/Nasratullah-Shafiq/ATDMS) |  |
 | Vue, MDX, TypeScript, SCSS, JavaScript, HTML, CSS, Dockerfile, Shell | [Sysvale/cuida](https://github.com/Sysvale/cuida) | A design system built by Sysvale, using storybook and Vue components |
@@ -10087,8 +10095,8 @@
 | Rust, JavaScript | [MeguminSama/Discord-ModLoader](https://github.com/MeguminSama/Discord-ModLoader) | Load Discord Client Mods like Vencord/Moonlight without modifying any files! |
 | TypeScript, JavaScript, CSS | [remkoj/optimizely-saas-starter](https://github.com/remkoj/optimizely-saas-starter) | Optimizely Graph Powered Next.JS Starter |
 | Python, Dockerfile | [ProzorroUKR/openprocurement.api](https://github.com/ProzorroUKR/openprocurement.api) | API interface to OpenProcurement database |
-| Go | [hashicorp/go-terraform-address](https://github.com/hashicorp/go-terraform-address) | Library for parsing tf addresses |
 | C++, TypeScript, JavaScript, Python | [mmomtchev/exprtk.js](https://github.com/mmomtchev/exprtk.js) | Node.js bindings for the Mathematical Expression Toolkit |
+| Go | [hashicorp/go-terraform-address](https://github.com/hashicorp/go-terraform-address) | Library for parsing tf addresses |
 | Kotlin | [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app) | Kickstart TV effortlessly on Android—streamlined for quick access and optimal performance! 🚀 |
 | Go, Makefile | [bitcoin-sv/spv-wallet-go-client](https://github.com/bitcoin-sv/spv-wallet-go-client) | Go client for interacting with spv-wallet |
 | Nextflow, Perl, Dockerfile, Awk, Groovy | [NBISweden/Earth-Biogenome-Project-pilot](https://github.com/NBISweden/Earth-Biogenome-Project-pilot) | Assembly and Annotation workflows for analysing data in the Earth Biogenome Project pilot project.  |
@@ -10130,8 +10138,8 @@
 | JavaScript, PHP, Hack, CSS | [pronamic/wp-pronamic-google-maps](https://github.com/pronamic/wp-pronamic-google-maps) | This plugin makes it easy to add Google Maps to your WordPress post, pages or other custom post types. |
 | TypeScript, Vue, JavaScript, SCSS, HTML, Shell, Dockerfile | [satisfactory-factories/application](https://github.com/satisfactory-factories/application) | A tool to visualise groupings of factories to create a true Modular Factory setup for the game Satisfactory. |
 | TypeScript | [Evyweb/ioctopus](https://github.com/Evyweb/ioctopus) | A really simple IOC container with functions and classes support without reflect-metadata |
-| CSS, JavaScript, HTML, C++ | [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) | Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.  |
 | Python, Shell | [TencentARC/FluxKits](https://github.com/TencentARC/FluxKits) |  |
+| CSS, JavaScript, HTML, C++ | [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox) | Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window.  |
 | Go, Makefile, Dockerfile, Shell | [dymensionxyz/e2e-tests](https://github.com/dymensionxyz/e2e-tests) | Dymension e2e tests  |
 | TypeScript, Svelte, Shell, JavaScript, Less, HTML | [hitman249/ProteWine](https://github.com/hitman249/ProteWine) | Easy porting of Windows applications using Wine and Proton technologies to Linux systems and Steam Deck. |
 | HTML, Python, Go, Jupyter Notebook, Shell, Dockerfile, Mustache | [unimib-datAI/dfaas](https://github.com/unimib-datAI/dfaas) | Decentralized FaaS platform |
@@ -10158,8 +10166,8 @@
 | Nix, Shell | [lopsided98/nixos-config](https://github.com/lopsided98/nixos-config) | Configuration for my NixOS machines |
 | Python, Makefile | [tony/django-slugify-processor](https://github.com/tony/django-slugify-processor) | custom slug / slugification rules for django https://devel.tech/tips/n/djms3tTe/how-django-uses-deferred-imports-to-scale |
 | Go, Makefile, Shell, Solidity, Batchfile, Dockerfile | [UptickNetwork/uptick](https://github.com/UptickNetwork/uptick) |  |
-| Java | [gematik/ref-GemLibPki](https://github.com/gematik/ref-GemLibPki) | Products specified by gematik which have to deal with PKI will have to handle certificates, ocsp requests/responses and TSLs (TrustedServiceProvider Status List). This library may help to understand the intention of gematik specification and could be useful for software implementations. |
 | Shell, HTML, Lua, Roff, QMake, C, Python, BitBake, Makefile, Common Lisp, D | [KaOSx/main](https://github.com/KaOSx/main) | Main stable deps, add-ons and drivers	 |
+| Java | [gematik/ref-GemLibPki](https://github.com/gematik/ref-GemLibPki) | Products specified by gematik which have to deal with PKI will have to handle certificates, ocsp requests/responses and TSLs (TrustedServiceProvider Status List). This library may help to understand the intention of gematik specification and could be useful for software implementations. |
 | Objective-C++, Objective-C, Swift, Gherkin, Ruby, Shell, Makefile, HTML, C++, C | [bugsnag/bugsnag-cocoa-performance](https://github.com/bugsnag/bugsnag-cocoa-performance) | Monitor the start-up, screen loading and network requests of your iOS app and see the results in your BugSnag dashboard. |
 | TypeScript, HTML, SCSS, JavaScript, Makefile, Shell, Just, Dockerfile | [dasch-swiss/dsp-das](https://github.com/dasch-swiss/dsp-das) | DaSCH application suite for the DaSCH Service Platform |
 | Shell, Python | [i-am-bee/bee-python-sdk](https://github.com/i-am-bee/bee-python-sdk) | Interacting with bee-api through OpenAI Python SDK |
@@ -10225,8 +10233,8 @@
 | Java, CSS | [TweetWallFX/TweetwallFX](https://github.com/TweetWallFX/TweetwallFX) | JavaFX based TweetWall |
 | CSS, JavaScript | [mzmm403/markdown](https://github.com/mzmm403/markdown) | My study notes |
 | OCaml, Cython, Python, C, Makefile, Dune | [xoolive/facile](https://github.com/xoolive/facile) | Python constraint programming library |
-| Java, HTML, Dockerfile | [Starcloud-Cloud/starcloud-llmops](https://github.com/Starcloud-Cloud/starcloud-llmops) | starcloud-llmops java back-end program |
 | TypeScript, MDX, JavaScript, CSS, HTML | [Sidnioulz/storybook-addon-tag-badges](https://github.com/Sidnioulz/storybook-addon-tag-badges) | Display Storybook tags as badges in the sidebar and toolbar. |
+| Java, HTML, Dockerfile | [Starcloud-Cloud/starcloud-llmops](https://github.com/Starcloud-Cloud/starcloud-llmops) | starcloud-llmops java back-end program |
 | SCSS, Ruby, HTML, Shell | [bitcraze/hardware](https://github.com/bitcraze/hardware) | Design and documentation of hardware |
 | TypeScript, CSS, JavaScript, Dockerfile, HTML | [boostcampwm-2024/web29-honeyflow](https://github.com/boostcampwm-2024/web29-honeyflow) | 끈적끈적 꿀처럼 이루어지는 협업 지식 관리 툴 🍯 |
 | PowerShell, C, C++, Shell, Python | [Frozenka/Exegol-Ressources](https://github.com/Frozenka/Exegol-Ressources) | Ce dépôt est un simple 'template' de ressources pour Exegol et Tmux avec une installation simplifiée. |
@@ -10258,8 +10266,8 @@
 | C, Assembly, CMake, Shell | [coderarjob/meghaos-x86](https://github.com/coderarjob/meghaos-x86) | MeghaOS is a 32 bit, protected mode Operating System for the Intel x86 architecture. |
 | Lua, Nix, Shell | [BirdeeHub/lze](https://github.com/BirdeeHub/lze) | A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n |
 | Shell, Makefile, PHP, Lua, Dockerfile, Smarty, HTML, JavaScript, VCL, Go | [UN-OCHA/docker-images](https://github.com/UN-OCHA/docker-images) | Generic docker image builds |
-| Vue, TypeScript, HTML, JavaScript, CSS | [guodu888/guodu-tiptap](https://github.com/guodu888/guodu-tiptap) | A WYSIWYG rich-text editor using Tiptap. |
 | JavaScript, Go, HTML, Makefile, Dockerfile, Shell | [bttcprotocol/delivery](https://github.com/bttcprotocol/delivery) |  |
+| Vue, TypeScript, HTML, JavaScript, CSS | [guodu888/guodu-tiptap](https://github.com/guodu888/guodu-tiptap) | A WYSIWYG rich-text editor using Tiptap. |
 | JavaScript, Handlebars, TypeScript, Vim Snippet | [BiliUniverse/Enhanced](https://github.com/BiliUniverse/Enhanced) | 全面自定义哔哩哔哩 App 主界面，修改首页和底栏元素的显示顺序和触发功能 |
 | C, Shell, CMake | [lvntky/fbgl](https://github.com/lvntky/fbgl) | Lightweight 2D Framebuffer Library for Linux |
 | Jupyter Notebook, MATLAB, Python | [KIT-IBT/Cobiveco](https://github.com/KIT-IBT/Cobiveco) | Consistent Biventricular Coordinates |
@@ -10307,8 +10315,8 @@
 | C# | [NotRiemannCousin/ViewFinder-Copy](https://github.com/NotRiemannCousin/ViewFinder-Copy) |  |
 | TypeScript, Nix, Dockerfile, JavaScript, Shell | [shardeum/archive-server](https://github.com/shardeum/archive-server) | The shardus archive-server |
 | Python, Cuda, C++, Shell | [YoujunZhao/OpenScan](https://github.com/YoujunZhao/OpenScan) |  |
-| Elixir | [am-kantox/telemetria](https://github.com/am-kantox/telemetria) | The helper application that simplifies and standardizes telemetry usage |
 | C#, Shell | [taosdata/taos-connector-dotnet](https://github.com/taosdata/taos-connector-dotnet) | TDengine connector for .Net |
+| Elixir | [am-kantox/telemetria](https://github.com/am-kantox/telemetria) | The helper application that simplifies and standardizes telemetry usage |
 | PowerShell | [noql-net/scoop](https://github.com/noql-net/scoop) |  |
 | Rust, Starlark, Dockerfile | [crates-pro/crates-pro](https://github.com/crates-pro/crates-pro) |  |
 | TypeScript, MDX, CSS, JavaScript | [tostesdaniel/rust-conveyor-filters](https://github.com/tostesdaniel/rust-conveyor-filters) | Web app built with Next.js for managing Conveyor Filters for video game Rust by Facepunch Studios. Build, share and export conveyor filters with ease. |
@@ -10412,8 +10420,8 @@
 | C#, JavaScript, Shell, WebAssembly | [kelnishi/WACS](https://github.com/kelnishi/WACS) | WebAssembly Interpreter written in C# 9.0/.NET Standard2.1 |
 | C, C++, R, HTML, M4, Makefile, Shell | [qsbase/qs2](https://github.com/qsbase/qs2) |  |
 | Java, TypeScript, HTML, CSS, SCSS, Shell, JavaScript, Dockerfile | [terraframe/geoprism-registry](https://github.com/terraframe/geoprism-registry) | GeoPrism Registry is a system for curating interlinked data through time. It's the first framework implementing the Common Geo-Registry specification. |
-| JavaScript, MDX, Rust, TypeScript, SCSS, HTML, CSS | [GeeekyBoy/mango](https://github.com/GeeekyBoy/mango) | 🥭 An eco-friendly web framework that supports IE5+ and all modern browsers. |
 | Rust, Python, Makefile, Dockerfile, Shell | [deven96/ahnlich](https://github.com/deven96/ahnlich) | WIP: Suite of tools containing an in-memory vector key value store and AI proxy |
+| JavaScript, MDX, Rust, TypeScript, SCSS, HTML, CSS | [GeeekyBoy/mango](https://github.com/GeeekyBoy/mango) | 🥭 An eco-friendly web framework that supports IE5+ and all modern browsers. |
 | JavaScript, Svelte, TypeScript, HTML, Dockerfile, CSS | [cloudless-hq/atreyu](https://github.com/cloudless-hq/atreyu) | cutting edge web apps |
 | C, Shell, Makefile | [destroyedlolo/Selene](https://github.com/destroyedlolo/Selene) | Automation tool based on MQTT data. Optionnal backends to create "DRM/Cairo", "OLed", "LCD" or "Curses" graphical applications. |
 | Shell, Python | [hjpwyb/WYB](https://github.com/hjpwyb/WYB) | tset |
@@ -10482,8 +10490,8 @@
 | TypeScript | [scriptex/node-rest-api](https://github.com/scriptex/node-rest-api) | Node REST API with Express, MongoDB and Typescript |
 | HTML, Python, Jupyter Notebook, WDL, Shell, Dockerfile, CSS | [vanallenlab/moalmanac](https://github.com/vanallenlab/moalmanac) | Molecular Oncology Almanac, a clinical interpretation algorithm paired with a novel underlying knowledge base for precision cancer medicine |
 | Python | [Delong-liu-bupt/Word4Per](https://github.com/Delong-liu-bupt/Word4Per) | Word4Per is an innovative framework for Zero-Shot Composed Person Retrieval (ZS-CPR), integrating visual and textual information for enhanced person identification. This repository includes the Word4Per code and the Image-Text Composed Person Retrieval (ITCPR) dataset, offering new tools for research in security and social applications. |
-| JavaScript, HTML, SCSS, Ruby, CSS | [RubyNepal/rubynepal.github.io](https://github.com/RubyNepal/rubynepal.github.io) | Official website of Ruby Nepal |
 | Python, TeX, Dockerfile | [NIFTy-PPL/NIFTy](https://github.com/NIFTy-PPL/NIFTy) | Probabilistic programming framework for signal inference algorithms that operate regardless of the underlying grids and their resolutions |
+| JavaScript, HTML, SCSS, Ruby, CSS | [RubyNepal/rubynepal.github.io](https://github.com/RubyNepal/rubynepal.github.io) | Official website of Ruby Nepal |
 | Dockerfile | [OpenShock/Wiki](https://github.com/OpenShock/Wiki) | MKDocs Material Wiki for OpenShock |
 | Go, Shell, Python, Makefile | [NetApp/terraform-provider-netapp-ontap](https://github.com/NetApp/terraform-provider-netapp-ontap) | Terrafrom ONTAP provider |
 | TypeScript, JavaScript, Dockerfile, CSS, Shell, HTML | [boostcampwm-2024/web21-TICLE](https://github.com/boostcampwm-2024/web21-TICLE) | 실시간 지식 공유 플랫폼 - 우리의 작은 지식이 모여 큰 성장이 되는 곳 |
@@ -10566,8 +10574,8 @@
 | Python, Shell, Dockerfile, HTML | [tna0y/course-networks](https://github.com/tna0y/course-networks) |  |
 | TypeScript, JavaScript, Dockerfile, Python | [quantalogic/qllm](https://github.com/quantalogic/qllm) | QLLM: A powerful CLI for seamless interaction with multiple Large Language Models. Simplify AI workflows, streamline development, and unlock the potential of cutting-edge language models.  ⭐ If you find QLLM useful, consider giving us a star on GitHub! It helps us reach more developers and improve the tool. ⭐ |
 | Python | [dice-group/owlapy](https://github.com/dice-group/owlapy) | OWLAPY is a Python Framework for creating and manipulating OWL Ontologies. |
-| C# | [projectpokemon/PoGoEncTool](https://github.com/projectpokemon/PoGoEncTool) | Tracks Pokémon GO Legality data as json |
 | Java, Shell | [depromeet/Swimie-server](https://github.com/depromeet/Swimie-server) | 🏊‍♂️ 친구들의 응원과 함께하는 수영일기, Swimie! |
+| C# | [projectpokemon/PoGoEncTool](https://github.com/projectpokemon/PoGoEncTool) | Tracks Pokémon GO Legality data as json |
 | TypeScript, JavaScript, Shell | [tinymanorg/tinyman-js-sdk](https://github.com/tinymanorg/tinyman-js-sdk) | Tinyman Javascript SDK |
 | TypeScript, Java, HTML, SCSS, JavaScript | [peavers/jackett-rss-processor](https://github.com/peavers/jackett-rss-processor) | Small service to fetch torrent files from Jackett supplied RSS feeds every 5 minutes based on your regex patterns. |
 | R, JavaScript, Dockerfile, SCSS, CSS | [pharmaverse/blog](https://github.com/pharmaverse/blog) | Blogging on the latest, greatest and most spectacular stuff happening around the pharmaverse  |
@@ -10608,8 +10616,8 @@
 | PHP | [spiral/tokenizer](https://github.com/spiral/tokenizer) | [READ ONLY] Locate available classes by parent, interface or trait. Subtree split of the Spiral Tokenizer component (see spiral/framework) |
 | Rust | [matter-labs/era-compiler-llvm-builder](https://github.com/matter-labs/era-compiler-llvm-builder) | ZKsync LLVM framework builder. |
 | TypeScript, JavaScript, Shell | [sanity-io/sanity-plugin-cloudinary](https://github.com/sanity-io/sanity-plugin-cloudinary) | Official plugin for integrating Sanity Studio with Cloudinary |
-| JavaScript, Python, HTML, Shell, Procfile | [marcojoao/cyberflix-server](https://github.com/marcojoao/cyberflix-server) |  |
 | CSS, TypeScript, Shell | [natainditama/aadc-bambu](https://github.com/natainditama/aadc-bambu) | 🎵 Official Website for AADC Bambu |
+| JavaScript, Python, HTML, Shell, Procfile | [marcojoao/cyberflix-server](https://github.com/marcojoao/cyberflix-server) |  |
 | Rust | [the-marenga/sf-api](https://github.com/the-marenga/sf-api) | Manage Shakes & Fidget characters via simple commands. Handles encryption, response parsing and everything else for you |
 | Python, Makefile, Shell | [Mindgard/cli](https://github.com/Mindgard/cli) | Test your AI model's security through CLI |
 | PHP | [spiral/stempler](https://github.com/spiral/stempler) | [READ ONLY] Server-side html-component compiler and template engine. Subtree split of the Spiral Stempler component (see spiral/framework) |
@@ -10627,8 +10635,8 @@
 | CSS | [SprInec/typora-spring-theme](https://github.com/SprInec/typora-spring-theme) | A refreshing and graceful Typora theme, like a gentle spring breeze.一款令人如沐春风的 Typora 灵动主题。 |
 | Java | [wildfly-extras/wildfly-datasources-galleon-pack](https://github.com/wildfly-extras/wildfly-datasources-galleon-pack) | WildFly Feature Pack for DataSources |
 | Go, Shell, Python, Makefile, Dockerfile | [eth-easl/dirigent](https://github.com/eth-easl/dirigent) | Dirigent: Lightweight Serverless Orchestration |
-| JavaScript, TypeScript, C++, CSS, WGSL, HLSL, CMake, C | [Scirra/Construct-Addon-SDK](https://github.com/Scirra/Construct-Addon-SDK) | Create custom plugins, behaviors, effects and themes for Construct. |
 | TypeScript, HTML, SCSS, JavaScript, CSS, Shell | [moodle/moodlenet](https://github.com/moodle/moodlenet) | MoodleNet Project |
+| JavaScript, TypeScript, C++, CSS, WGSL, HLSL, CMake, C | [Scirra/Construct-Addon-SDK](https://github.com/Scirra/Construct-Addon-SDK) | Create custom plugins, behaviors, effects and themes for Construct. |
 | Shell, Dockerfile | [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) | A simple shell script provides an alternative to Docker's experimental --squash option for building optimized Docker images by squashing layers. |
 | C++, CMake, C, Python, C# | [iTwin/itwin-unreal-plugin](https://github.com/iTwin/itwin-unreal-plugin) |  |
 | Java, Shell, HTML | [neatlogic/neatlogic-framework](https://github.com/neatlogic/neatlogic-framework) | The basic framework of NeatLogic provides foundational functionalities such as scheduled jobs, permission management, API management, health checks, and call auditing. |
@@ -10708,8 +10716,8 @@
 | JavaScript | [dandcvs/KGAutoPlay](https://github.com/dandcvs/KGAutoPlay) |  |
 | JavaScript | [callacat/BncrJS_plugins](https://github.com/callacat/BncrJS_plugins) | 乱写的无界Bncr的插件 |
 | Lua | [InZidiuZ/op-framework-public](https://github.com/InZidiuZ/op-framework-public) | A repository to store and modify language and config files for OP-FW servers and clusters. |
-| Lua, Nix, Makefile, Shell | [konradmalik/neovim-flake](https://github.com/konradmalik/neovim-flake) | standalone neovim flake with my configuration |
 | HTML | [nzp-team/nzp-team.github.io](https://github.com/nzp-team/nzp-team.github.io) | Host for WebGL NZ:P builds. |
+| Lua, Nix, Makefile, Shell | [konradmalik/neovim-flake](https://github.com/konradmalik/neovim-flake) | standalone neovim flake with my configuration |
 | Markdown, Text, Public Key, HTML, YAML, SCSS, CSV, INI, JSON, robots.txt, XML, TOML, Ignore List, CODEOWNERS | [Mikaela/mikaela.github.io](https://github.com/Mikaela/mikaela.github.io) | My website/blog source code. Hosted on this repository/GitHub Pages. |
 | Go, Shell | [cloudfoundry/noaa](https://github.com/cloudfoundry/noaa) | NOAA is a client library to consume metric and log messages from Doppler. |
 | Java, HTML, Dockerfile, Shell | [oengusio/oengusio](https://github.com/oengusio/oengusio) | Speedrun event submission and schedule manager |
@@ -10753,8 +10761,8 @@
 | Scala, Shell, TypeScript, JavaScript, CSS, HTML, Makefile, Ruby, Rust, C++, C | [wvlet/wvlet](https://github.com/wvlet/wvlet) | A flow-style query language for SQL engines |
 | Swift, Objective-C | [qianlishun/TermiWatchWidget](https://github.com/qianlishun/TermiWatchWidget) | 苹果手表自定义表盘，终端主题，Terminal Watch Widget Face for Apple Watch. |
 | TypeScript, JavaScript | [run-z/rollup-plugin-flat-dts](https://github.com/run-z/rollup-plugin-flat-dts) | .d.ts files flattener and Rollup plugin |
-| CSS, JavaScript, Python, HTML | [HegeKen/MRData](https://github.com/HegeKen/MRData) | MIUIROMS Data    MIUI官方ROM仓库的数据 |
 | Ada, C, Makefile, Shell, C#, LabVIEW, Python, Inno Setup, Pascal, RPC, C++ | [pmunts/muntsos](https://github.com/pmunts/muntsos) | MuntsOS Embedded Linux |
+| CSS, JavaScript, Python, HTML | [HegeKen/MRData](https://github.com/HegeKen/MRData) | MIUIROMS Data    MIUI官方ROM仓库的数据 |
 | TypeScript, Go, Dockerfile, Shell, JavaScript | [syncmaven/syncmaven](https://github.com/syncmaven/syncmaven) | Open-source Reverse-ETL and Data Activation |
 | C++, C, Go, Python, HTML, MATLAB, Cuda, Shell, Java, Assembly, CMake, Makefile, JavaScript, Objective-C++, Ruby, Roff, C#, Objective-C, Lua, Perl, Pawn, Batchfile, M4, Gherkin, xBase, CSS, PowerShell, HCL, Emacs Lisp, Dockerfile, Starlark, VBScript, TeX, AIDL, QMake, LiveScript, PHP, PureBasic, Swift, M, GDB, Limbo, Pascal | [kercre123/victor](https://github.com/kercre123/victor) |  |
 | Go, Shell, Smarty, Makefile, Dockerfile | [oracle/oci-native-ingress-controller](https://github.com/oracle/oci-native-ingress-controller) | OCI Native Ingress Controller |
@@ -10815,8 +10823,8 @@
 | Python, Rust | [mcvickerlab/GenVarLoader](https://github.com/mcvickerlab/GenVarLoader) | Pipeline for efficient genomic data processing. |
 | TypeScript, JavaScript, MDX, PLpgSQL, CSS, Dockerfile, HTML, Shell | [IGUHealth/IGUHealth](https://github.com/IGUHealth/IGUHealth) | FHIR Development Platform |
 | JavaScript, Python, CSS, HTML, Shell, Procfile | [collage-us/collage](https://github.com/collage-us/collage) | Collage: A Platform for Personalized Course Planning and AI Academic Advising, Made by College Students, for College Students |
-| TypeScript, JavaScript, Shell | [NickTsitlakidis/event-nest](https://github.com/NickTsitlakidis/event-nest) | A collection of nest.js libraries to help you build applications based on event sourcing. |
 | HTML, R | [Deleetdk/kirkegaard](https://github.com/Deleetdk/kirkegaard) | Personal R package. No particular theme to the content. |
+| TypeScript, JavaScript, Shell | [NickTsitlakidis/event-nest](https://github.com/NickTsitlakidis/event-nest) | A collection of nest.js libraries to help you build applications based on event sourcing. |
 | Jupyter Notebook, Python | [kamrik/PyData2024](https://github.com/kamrik/PyData2024) | Applied Data Science course - COMP-3122 |
 | Python | [AXYS-Cyber/iCatch](https://github.com/AXYS-Cyber/iCatch) | A utility to process the iOS Cache.sqlite database and create a timelined KML map for use in Google Earth |
 | HCL, Python, Shell | [18F/identity-terraform](https://github.com/18F/identity-terraform) | Terraform modules published by the Login.gov team |
@@ -10904,8 +10912,8 @@
 | Python, Shell, R, Perl | [mjpost/bin](https://github.com/mjpost/bin) | bin files |
 | C# | [mehrandvd/SemanticValidation](https://github.com/mehrandvd/SemanticValidation) | SemanticValidation is a library that integrates OpenAI’s powerful language models with validation systems. It allows you to perform semantic checks on your data and queries using natural language understanding. |
 | Clojure, Just, Java | [NoahTheDuke/lazytest](https://github.com/NoahTheDuke/lazytest) | A standalone BDD test framework for Clojure |
-| C++, Assembly, CMake, Dockerfile, C | [romanpunia/vitex](https://github.com/romanpunia/vitex) | 👻 A cross-platform C++ application development framework |
 | TypeScript, CSS, JavaScript | [SpikeNew7774/spicy-lyrics](https://github.com/SpikeNew7774/spicy-lyrics) | Spicy Lyrics is an Extension made for Spicetify - A Spotify Client modifier |
+| C++, Assembly, CMake, Dockerfile, C | [romanpunia/vitex](https://github.com/romanpunia/vitex) | 👻 A cross-platform C++ application development framework |
 | Python, Cython, C | [breezy-team/fastbencode](https://github.com/breezy-team/fastbencode) | Fast implementation of bencode |
 | Jupyter Notebook, BASIC, Python, Shell | [Open-Catalyst-Project/om-data](https://github.com/Open-Catalyst-Project/om-data) |  |
 | PHP, SCSS, JavaScript, CSS | [YMC-22/smart-filter](https://github.com/YMC-22/smart-filter) | YMC Smart Filter, allows to solve a variety of tasks for displaying posts on site pages. For advanced developers, there is an opportunity to independently develop layouts for filters and post cards, which makes the plugin universal. |
@@ -10923,8 +10931,8 @@
 | Java, HTML, JavaScript, Batchfile, CSS | [vrnsky/java-a-to-z](https://github.com/vrnsky/java-a-to-z) | Java Study Project |
 | TypeScript, Python, CSS, JavaScript, Makefile, Shell, PowerShell, HTML | [andrewbenington/OpenHome](https://github.com/andrewbenington/OpenHome) | Application for importing and transferring Pokémon between save files |
 | PHP | [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) | 🔂 The client updater server informs clients about new updates |
-| Vue, JavaScript, SCSS, Dockerfile | [elementary/builds](https://github.com/elementary/builds) | Frontend to elementary OS Builds |
 | Java, Python, XSLT, Batchfile, Shell | [NASA-PDS/transform](https://github.com/NASA-PDS/transform) | Transforms PDS3 and PDS4 product labels and data into various formats. |
+| Vue, JavaScript, SCSS, Dockerfile | [elementary/builds](https://github.com/elementary/builds) | Frontend to elementary OS Builds |
 | TypeScript, JavaScript, HTML | [biantris/graphql-relay-web](https://github.com/biantris/graphql-relay-web) | 🦄 Front-end build with React, Relay and GraphQL |
 | HTML, SCSS, JavaScript, CSS, Ruby | [cppalliance/cppalliance.github.io](https://github.com/cppalliance/cppalliance.github.io) | The C++ Alliance (website) |
 | Svelte, TypeScript, JavaScript, HTML, CSS | [hzrd149/blossom-drive](https://github.com/hzrd149/blossom-drive) | A cloud drive built using blossom servers |
@@ -10932,8 +10940,8 @@
 | JavaScript, Sass, Vue, Makefile, HTML | [wearemd/spa-starter](https://github.com/wearemd/spa-starter) | 📦 A starter template for single page applications (SPA) |
 | Python, SCSS, JavaScript, HTML, Shell, Perl, Ruby, CSS, Java, C, PHP | [lanzt/lanzt.github.io](https://github.com/lanzt/lanzt.github.io) | Blog personal sobre resolución de CTF's, artículos y demás cosas locas en ciberseguridad :) |
 | Clojure, HTML | [anteoas/replicant-todomvc](https://github.com/anteoas/replicant-todomvc) | TodoMVC implemented with Replicant |
-| Makefile, Shell | [siderolabs/tools](https://github.com/siderolabs/tools) |  |
 | Python | [andrey-karklins/dota2_mineweeper_bot](https://github.com/andrey-karklins/dota2_mineweeper_bot) | Automatic solver for Dota 2 Act IV Minesweeper minigame |
+| Makefile, Shell | [siderolabs/tools](https://github.com/siderolabs/tools) |  |
 | Python, Shell | [ljnsn/cz-conventional-gitmoji](https://github.com/ljnsn/cz-conventional-gitmoji) | A commitizen plugin that combines gitmoji and conventional commits. |
 | TypeScript, JavaScript, Dockerfile | [Thomascogez/nodemailer-mjml](https://github.com/Thomascogez/nodemailer-mjml) | Nodemailer plugin for easily sending mjml mail |
 | Shell | [NetApp/Verda](https://github.com/NetApp/Verda) | This repository contains execution hooks to be used with Astra Control for popular Kubernetes applications. |
@@ -10945,11 +10953,11 @@
 | Python, Shell | [az0/vpn_ip](https://github.com/az0/vpn_ip) | ip addresses of VPNs |
 | C++ | [technoblogy/ulisp-tdeck](https://github.com/technoblogy/ulisp-tdeck) | A version of uLisp to convert the LilyGO T-Deck into a self-contained handheld Lisp computer. |
 | C, HTML, JavaScript, Shell, CMake, CSS, Assembly, Python, Makefile, Perl, TypeScript, C++, GDB, Roff, SmPL, Tcl, Batchfile | [hackclub/forge](https://github.com/hackclub/forge) | Open-Source 3D Printer with an online openSCAD editor and slicer |
-| CSS, JavaScript, SCSS, PHP, HTML, Nunjucks | [NHSLeadership/nhsblocks](https://github.com/NHSLeadership/nhsblocks) | NHSUK Frontend Blocks WordPress plugin |
 | Python, Cuda, Shell, C++ | [OpenMOSE/RWKV-LM-RLHF](https://github.com/OpenMOSE/RWKV-LM-RLHF) | Reinforcement Learning Toolkit for RWKV. Distillation,SFT,RLHF(DPO,ORPO), infinite context training, Aligning Let's boost the model's intelligence! currently under construction:) |
+| CSS, JavaScript, SCSS, PHP, HTML, Nunjucks | [NHSLeadership/nhsblocks](https://github.com/NHSLeadership/nhsblocks) | NHSUK Frontend Blocks WordPress plugin |
 | Nix, Ruby, Makefile, Shell | [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) | vpsFree.cz cluster configuration |
-| R, Smarty, C++, Makefile | [flr/FLa4a](https://github.com/flr/FLa4a) | The repository for the JRC initiative on stock assessment |
 | Vue, JavaScript, HTML, TypeScript, CSS, SCSS, Batchfile, Shell | [Redot-Engine/redot-landing-page](https://github.com/Redot-Engine/redot-landing-page) | Redot Engine is an ambitious, community-driven fork of the Godot Engine, aiming to expand upon its capabilities for 2D and 3D game development |
+| R, Smarty, C++, Makefile | [flr/FLa4a](https://github.com/flr/FLa4a) | The repository for the JRC initiative on stock assessment |
 | CSS, HTML, JavaScript, Dockerfile | [creativecommons/search](https://github.com/creativecommons/search) | Creative Commons Search Portal |
 | C++, CMake, Batchfile, C, Lua, Shell | [EugeneManushkin/CtagsSourceNavigator](https://github.com/EugeneManushkin/CtagsSourceNavigator) | Reworked Ctags Source Navigator plugin based on source code v0.93 beta compatible with Far3 |
 | Go, Dockerfile | [ThingsPanel/modbus-protocol-plugin](https://github.com/ThingsPanel/modbus-protocol-plugin) |  |
@@ -10992,8 +11000,8 @@
 | Gleam | [drewolson/clip](https://github.com/drewolson/clip) | A CLI option parser for Gleam |
 | C#, HTML, Dockerfile, CSS, JavaScript | [jxnkwlp/abp-modules](https://github.com/jxnkwlp/abp-modules) | abp modules, such as account, identity, file-management, identity providers, apikey |
 | Go, Makefile | [nilotpaul/gospur](https://github.com/nilotpaul/gospur) | Build scalable full-stack solutions using just Go without hassling with Javascript |
-| Java | [eclipse/microprofile-telemetry](https://github.com/eclipse/microprofile-telemetry) | microprofile telemetry |
 | C, HTML, JavaScript, Assembly, CSS, C++, Python, CMake, Batchfile | [xEmbeddedTools/xmcu](https://github.com/xEmbeddedTools/xmcu) |  |
+| Java | [eclipse/microprofile-telemetry](https://github.com/eclipse/microprofile-telemetry) | microprofile telemetry |
 | Shell, Vim Script, Python, BitBake | [quicknir/config](https://github.com/quicknir/config) | Various configuration files |
 | Java | [SDA-SE/sda-spring-boot-commons](https://github.com/SDA-SE/sda-spring-boot-commons) | A set of libraries to bootstrap spring boot services easily that follow the patterns and specifications promoted by the SDA SE |
 | C++ | [mkrjn99/FairyTaleDB](https://github.com/mkrjn99/FairyTaleDB) | A blockchain based database built for the AI agent world |
@@ -11032,8 +11040,8 @@
 | Rust, Assembly, Python | [Irate-Walrus/stardust-rs](https://github.com/Irate-Walrus/stardust-rs) | An i686 & x86_64 position independent implant template for Rust 🦀 |
 | Batchfile | [Switch-Bros/SwitchBros_BasisPaket](https://github.com/Switch-Bros/SwitchBros_BasisPaket) | Switch Bros. - The Switch Hacking, Modding and Themes Community! |
 | Python | [gelasdev/ComfyUI-FLUX-BFL-API](https://github.com/gelasdev/ComfyUI-FLUX-BFL-API) |  |
-| PHP, JavaScript, CSS, Shell, Dockerfile | [homematic-community/homehub](https://github.com/homematic-community/homehub) | HomeHub – PHP-basierte Visualisierung für homematicIP CCU |
 | TypeScript, CSS, JavaScript, HTML | [FilenCloudDienste/filen-web](https://github.com/FilenCloudDienste/filen-web) | Web and Desktop Frontend for Filen |
+| PHP, JavaScript, CSS, Shell, Dockerfile | [homematic-community/homehub](https://github.com/homematic-community/homehub) | HomeHub – PHP-basierte Visualisierung für homematicIP CCU |
 | Svelte, NSIS, JavaScript, Go, CSS, TypeScript, HTML | [Sammy-T/avda](https://github.com/Sammy-T/avda) | A desktop app for generating and viewing one-time passwords from Aegis Authenticator backups. |
 | C#, HTML | [VirtoCommerce/vc-module-cart](https://github.com/VirtoCommerce/vc-module-cart) | Shopping cart management module |
 | JavaScript, Python, HTML, Jupyter Notebook, Shell, EJS, Dockerfile, CSS, C++ | [IrvingBB/geektime_AIFE](https://github.com/IrvingBB/geektime_AIFE) |  |
@@ -11122,8 +11130,8 @@
 | R | [ingmarboeschen/JATSdecoder](https://github.com/ingmarboeschen/JATSdecoder) | A text extraction and manipulation toolset for NISO-JATS coded XML files  |
 | Python | [CV-Reimplementation/Ucolor-Reimplementation](https://github.com/CV-Reimplementation/Ucolor-Reimplementation) | Reimplementation of Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding |
 | C# | [Caraxi/SimpleHeels](https://github.com/Caraxi/SimpleHeels) | FFXIV plugin for adjusting the position of characters when wearing modded footwear. |
-| JavaScript, HTML, CSS | [arifintajul4/nikahfix](https://github.com/arifintajul4/nikahfix) | NIKAHFIX adalah sebuah website undangan pernikahan yang terinspirasi dari tampilan Netflix, yang memberikan pengalaman visual menarik dan modern untuk pengguna. Proyek ini dibuat menggunakan React dengan bundler Vite, dan dirancang agar mudah diakses, responsif, serta estetis. |
 | Makefile, TeX | [riscv-non-isa/iopmp-spec](https://github.com/riscv-non-isa/iopmp-spec) | This repository contains the specification source for the RISC-V IOPMP Specification.  This document proposes a Physical Memory Protection Unit of Input/Output devices, IOPMP for short, to regulate the accesses issued from the bus masters. |
+| JavaScript, HTML, CSS | [arifintajul4/nikahfix](https://github.com/arifintajul4/nikahfix) | NIKAHFIX adalah sebuah website undangan pernikahan yang terinspirasi dari tampilan Netflix, yang memberikan pengalaman visual menarik dan modern untuk pengguna. Proyek ini dibuat menggunakan React dengan bundler Vite, dan dirancang agar mudah diakses, responsif, serta estetis. |
 | Python | [sievers/Phys-357-2024](https://github.com/sievers/Phys-357-2024) | Materials for McGill Physics 357 (quantum 1), 2024 edition |
 | Python | [robwarrenwx/atmos](https://github.com/robwarrenwx/atmos) | Fast and accurate calculations for applications in atmospheric science |
 | Python, Batchfile, Makefile | [MarcelRobeer/explabox](https://github.com/MarcelRobeer/explabox) | Explore/examine/explain/expose your model with the explabox! |
@@ -11155,8 +11163,8 @@
 | Dart | [instrik/BMI_Calculator](https://github.com/instrik/BMI_Calculator) |  |
 | PHP | [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | Java | [mjfryc/mjaron-tinyloki-java](https://github.com/mjfryc/mjaron-tinyloki-java) | Tiny Grafana Loki client (log sender) written in pure Java 1.8 without any dependencies. |
-| Python, Makefile, Dockerfile | [KevKibe/African-Whisper](https://github.com/KevKibe/African-Whisper) | 🚀 Framework for seamless fine-tuning of Whisper model on a multi-lingual dataset and deployment to prod. |
 | C#, C++, C | [YARC-Official/YARG.Core](https://github.com/YARC-Official/YARG.Core) | Where YARG's engine, chart parser, replay verification, etc. are housed. |
+| Python, Makefile, Dockerfile | [KevKibe/African-Whisper](https://github.com/KevKibe/African-Whisper) | 🚀 Framework for seamless fine-tuning of Whisper model on a multi-lingual dataset and deployment to prod. |
 | TypeScript, HTML, CSS | [mhansen/nzwirelessmap](https://github.com/mhansen/nzwirelessmap) | A visualisation of point-to-point wireless links in New Zealand. |
 | JavaScript, C++, CSS, CMake, Shell, Batchfile, HTML, Python, Qt Script | [igormironchik/markdown-tools](https://github.com/igormironchik/markdown-tools) | Tools for work with Markdown (Editor/Viewer/Converter) |
 | Python | [CodeKatanaa/AI_LAB](https://github.com/CodeKatanaa/AI_LAB) | All programs of AI LAB are present |
@@ -11185,8 +11193,8 @@
 | Java, CSS | [xdev-software/vaadin-grid-filter](https://github.com/xdev-software/vaadin-grid-filter) | A Vaadin Flow component for filtering Grids |
 | Batchfile | [wwsuixin/ws_tools](https://github.com/wwsuixin/ws_tools) |  |
 | Python | [Yuanshi9815/OminiControl](https://github.com/Yuanshi9815/OminiControl) | A minimal and universal controller for FLUX.1. |
-| TypeScript | [takker99/scrapbox-userscript-std](https://github.com/takker99/scrapbox-userscript-std) | UNOFFICIAL standard module for Scrapbox UserScript |
 | Java | [myNameIssls/payment-system](https://github.com/myNameIssls/payment-system) | 对外部通过与第三方支付公司、银行机构实现账户体系对接，完成在线开(销)户、入金、出金、转账支付、电子回单、交易明细等最基本的账户需求。对内部通过提供统一的支付网关入口实现业务系统支付相关场景需求。 |
+| TypeScript | [takker99/scrapbox-userscript-std](https://github.com/takker99/scrapbox-userscript-std) | UNOFFICIAL standard module for Scrapbox UserScript |
 | Python | [somanchiu/ReSwapper](https://github.com/somanchiu/ReSwapper) | ReSwapper aims to reproduce the implementation of inswapper. This repository provides code for training, inference, and includes pretrained weights. |
 | HTML, Python | [wled-install/wled-install.github.io](https://github.com/wled-install/wled-install.github.io) | WLED Installation service |
 | Python, Batchfile, Makefile, Shell, Dockerfile | [thevickypedia/gmail-connector](https://github.com/thevickypedia/gmail-connector) | Python module to send SMS, emails and read emails. |
@@ -11321,7 +11329,6 @@
 | CSS, HTML, JavaScript, Makefile, Shell | [peditx/luci-theme-peditx](https://github.com/peditx/luci-theme-peditx) | PeDitX theme is a modern, mobile-optimized theme for OpenWrt, designed for both desktop and mobile devices. Based on the Bootstrap theme, it offers a sleek, user-friendly interface with PWA support. Fully customizable and compatible with all OpenWrt versions (not tested on LEDE). |
 | TypeScript, Svelte, JavaScript, CSS, HTML | [SkyCryptWebsite/SkyCryptv2](https://github.com/SkyCryptWebsite/SkyCryptv2) | The all new and improved Skycrypt |
 | C# | [MidoriKami/Mappy](https://github.com/MidoriKami/Mappy) |  |
-| Go | [soypat/gsdf](https://github.com/soypat/gsdf) | 3D/2D CAD design package written in Go. GPU accelerated. |
 | Vue, TypeScript, SCSS, HTML | [Big-Cake-jpg/big-cake-jpg.github.io](https://github.com/Big-Cake-jpg/big-cake-jpg.github.io) | 晓雨杂记 站点源文件 |
 | Python, CSS, Makefile | [ttyobiwan/chatui](https://github.com/ttyobiwan/chatui) | ChatGPT directly in your terminal using Textual |
 | Nix | [JManch/nixos](https://github.com/JManch/nixos) | My NixOS configurations |
@@ -11414,8 +11421,8 @@
 | Jupyter Notebook | [vincentclaes/classification-with-llm](https://github.com/vincentclaes/classification-with-llm) | How far can we go with an LLM for a classification problem |
 | TypeScript, JavaScript | [javadbat/jb-date-input-react](https://github.com/javadbat/jb-date-input-react) | React Date Picker Component that support both jalali (shamcy) & Gregorian  date  |
 | Shell | [milahu/opensubtitles-scraper-new-subs](https://github.com/milahu/opensubtitles-scraper-new-subs) |  |
-| Shell, Makefile, Awk | [Ypnose/dotfiles](https://github.com/Ypnose/dotfiles) | Some personal config files |
 | Astro, TypeScript, XSLT, SCSS, JavaScript | [laymonage/base](https://github.com/laymonage/base) | Yet another incarnation of my personal website, rebuilt with Next.js. |
+| Shell, Makefile, Awk | [Ypnose/dotfiles](https://github.com/Ypnose/dotfiles) | Some personal config files |
 | Go | [orsinium-labs/valdo](https://github.com/orsinium-labs/valdo) | Go package for validating JSON. It's the first Go package that can generate JSON Schema (OpeanAPI-compatible), produces user-friendly errors, and supports translations. |
 | PHP, Gherkin, Shell, JavaScript, Twig, Dockerfile, SCSS, CSS, HTML | [civictheme/monorepo-drupal](https://github.com/civictheme/monorepo-drupal) | Development monorepo for CivicTheme Drupal theme. Submit issues to Drupal.org |
 | JavaScript, Go, TypeScript | [DanSnow/astexplorer-go](https://github.com/DanSnow/astexplorer-go) |  |
@@ -11589,8 +11596,8 @@
 | JavaScript | [bitfocus/companion-module-sony-visca](https://github.com/bitfocus/companion-module-sony-visca) |  |
 | Python, Makefile | [benlipkin/decoding](https://github.com/benlipkin/decoding) | Composable inference algorithms with LLMs and programmable logic |
 | RobotFramework, Dockerfile, JavaScript, Python, Makefile, HCL | [balena-io/autohat](https://github.com/balena-io/autohat) | balenaCloud end-to-end tests (autohat). |
-| Lua, Shell, Vim Script, Ruby | [mcchrish/dotfiles](https://github.com/mcchrish/dotfiles) | Personal ● files |
 | Lua, Shell | [fedeoliv/dotfiles](https://github.com/fedeoliv/dotfiles) | Config files tweaked to my dev environment needs in MacOS - nvim, tmux, wezterm, yabai, skhd |
+| Lua, Shell, Vim Script, Ruby | [mcchrish/dotfiles](https://github.com/mcchrish/dotfiles) | Personal ● files |
 | TypeScript, JavaScript | [Hi-Folks/fusionable](https://github.com/Hi-Folks/fusionable) | JavaScript package that aims to facilitate the management of structured, database-free content through Markdown files with Frontmatter. |
 | TeX | [assumptionsofphysics/book](https://github.com/assumptionsofphysics/book) | The "Assumptions of Physics" book |
 | TeX, Makefile | [X16Community/x16-user-guide](https://github.com/X16Community/x16-user-guide) | Commander X16 User Guide |
@@ -11699,8 +11706,8 @@
 | PHP, JavaScript, Less | [FriendsOfFlarum/terms](https://github.com/FriendsOfFlarum/terms) | Ask your users to accept TOS and Privacy Policy |
 | C, Assembly, Makefile, Python, Shell, Awk | [FedorLap2006/DepthOS](https://github.com/FedorLap2006/DepthOS) | Stable, flexible and very simple in use OS, which doesn't restrict you |
 | C, C++, Assembly, HLSL, Makefile, GLSL, Objective-C++, Java, PHP, Batchfile, Shell, CMake, Lua, Objective-C | [histat/OpenLara-dc](https://github.com/histat/OpenLara-dc) | OpenLara port for Sega Dreamcast |
-| Python | [TheGui01/Frisquet-connect-for-home-assistant](https://github.com/TheGui01/Frisquet-connect-for-home-assistant) | Home Assistant integration to control your Frisquet Boiler |
 | Dockerfile, Shell | [tomdotorg/docker-weewx](https://github.com/tomdotorg/docker-weewx) | Docker image for weewx weather software |
+| Python | [TheGui01/Frisquet-connect-for-home-assistant](https://github.com/TheGui01/Frisquet-connect-for-home-assistant) | Home Assistant integration to control your Frisquet Boiler |
 | TypeScript, HTML | [natainditama/calcway](https://github.com/natainditama/calcway) | 🧮 Simple calculator web application |
 | Dockerfile, HTML, Go, C, Shell | [acend/cilium-basics-training](https://github.com/acend/cilium-basics-training) | Repository for acend's cilium basic training |
 | Python, JavaScript, HTML, CSS, Makefile | [TheRaphael0000/tahm-ken.ch](https://github.com/TheRaphael0000/tahm-ken.ch) | A simple webapp to optimize League of Legends team challenges |
@@ -12101,8 +12108,8 @@
 | Python | [ysfchn/toasted](https://github.com/ysfchn/toasted) | Rich toast notifications library for Windows (10/11) in Python, supports all elements provided by Windows. |
 | Java, Shell, R, Python, Dockerfile, PLSQL | [GreatSQL/GreatSQL-Doc](https://github.com/GreatSQL/GreatSQL-Doc) | GreatSQL-Doc |
 | C#, JavaScript, HTML, CSS | [VirtoCommerce/vc-module-core](https://github.com/VirtoCommerce/vc-module-core) | Core module containing common eCommerce domain model and base abstractions |
-| C, Python, Lua, Shell, Makefile | [hotbso/openSAM](https://github.com/hotbso/openSAM) |  |
 | Python | [lengyueit/gpt1](https://github.com/lengyueit/gpt1) | gpt1的简单复现 |
+| C, Python, Lua, Shell, Makefile | [hotbso/openSAM](https://github.com/hotbso/openSAM) |  |
 | JavaScript | [webflorist/storyblok-backup](https://github.com/webflorist/storyblok-backup) | npx CLI tool to create a backup of a Storyblok space and restore single resources from it |
 | JavaScript, HTML, SCSS | [horizontalsystems/Unstoppable-Wallet-Website](https://github.com/horizontalsystems/Unstoppable-Wallet-Website) | Unstoppable Wallet website |
 | Shell, Lua, Python | [khoi/dotfiles](https://github.com/khoi/dotfiles) | 🎛 zsh, tmux, nvim, macOS and everything in between |
@@ -12194,8 +12201,8 @@
 | JavaScript, HTML | [dododex/dododex.github.io](https://github.com/dododex/dododex.github.io) | ARK: Survival Evolved Companion App & Taming Calculator |
 | R, CSS | [exploratory-io/book](https://github.com/exploratory-io/book) |  |
 | MDX, Astro, JavaScript, TypeScript, CSS | [PaulieScanlon/paulie-dev-2023](https://github.com/PaulieScanlon/paulie-dev-2023) | New paulie.dev site - 2023 |
-| PHP, JavaScript, CSS, HTML, SCSS, Hack | [zhaoxunzhiyin/phpcms](https://github.com/zhaoxunzhiyin/phpcms) | PHPCMS V10 修改版 QQ、微信：297885395 QQ讨论群：551419699 |
 | Java, JavaScript, ANTLR, Shell, HTML | [zkoss/ztl](https://github.com/zkoss/ztl) | ZTL is an open source tool which can automatically test the ZK Framework with jUnit and Selenium frameworks. And it can now support vision test to test on ZK Framework.  |
+| PHP, JavaScript, CSS, HTML, SCSS, Hack | [zhaoxunzhiyin/phpcms](https://github.com/zhaoxunzhiyin/phpcms) | PHPCMS V10 修改版 QQ、微信：297885395 QQ讨论群：551419699 |
 | Python, Shell, Dockerfile | [dannyl1u/doppelganger](https://github.com/dannyl1u/doppelganger) | flags duplicate issues using embeddings |
 | Dart, C++, CMake, Ruby, HTML, Swift, C, Shell, Kotlin, Dockerfile, Objective-C | [billyinferno/my_expense](https://github.com/billyinferno/my_expense) | personal expense application |
 | Lua, Shell | [keijiro/dotfiles](https://github.com/keijiro/dotfiles) | My dot files. |
@@ -12223,8 +12230,8 @@
 | Python, JavaScript, HTML, CSS, Shell | [bashrc2/AberMUSH](https://github.com/bashrc2/AberMUSH) | AberMUSH is a text based role playing game with UTF-8 ANSI graphics, set in the AberMUD 5 universe. Explore, battle and adventure in a fantasy version of medieval Wales. Experience DnD style combat, gambling disputes, excessive ale consumption and puzzling mysteries in the once magnificent but now fallen city of Tranoch, with dynamic scenery, tides, wildlife and weather effects. |
 | C#, JavaScript, HTML, Python, PowerShell, Shell, Batchfile, CSS | [henrikstengaard/hst-imager](https://github.com/henrikstengaard/hst-imager) | Hst Imager is an imaging tool to read and write disk images to and from physical drives |
 | TypeScript, Shell, JavaScript, Python | [coracle-social/welshman](https://github.com/coracle-social/welshman) | Tools by the guy who built Coracle |
-| TypeScript, JavaScript, MDX, HTML | [kingstinct/zemble](https://github.com/kingstinct/zemble) | Zemble Plugin System |
 | C# | [pether-pg/ONI_Mods_byPether](https://github.com/pether-pg/ONI_Mods_byPether) | Oxygen Not Included mods by Pether |
+| TypeScript, JavaScript, MDX, HTML | [kingstinct/zemble](https://github.com/kingstinct/zemble) | Zemble Plugin System |
 | Shell | [renovatebot/.github](https://github.com/renovatebot/.github) | Renovate configurations |
 | Rust | [Jondolf/bevy_transform_interpolation](https://github.com/Jondolf/bevy_transform_interpolation) | A general-purpose transfom interpolation plugin for fixed timesteps for the Bevy game engine. |
 | Jupyter Notebook, Python | [yasirroni/matpower-pip](https://github.com/yasirroni/matpower-pip) | A Python Package for Easy Access to MATPOWER Power System Simulation Package |
@@ -12271,8 +12278,8 @@
 | Ruby, CSS, HTML | [denisdefreyne/d-mark](https://github.com/denisdefreyne/d-mark) | Semantic markup language |
 | Python | [charles-001/backup-warden](https://github.com/charles-001/backup-warden) | Streamline your backup management with ease and simplicity |
 | Python | [killiansheriff/AtomisticReverseMonteCarlo](https://github.com/killiansheriff/AtomisticReverseMonteCarlo) | OVITO Python modifier to generate bulk crystal structures with target Warren-Cowley parameters. |
-| Go, PLpgSQL, Makefile, Dockerfile | [checkmarble/marble-backend](https://github.com/checkmarble/marble-backend) |  |
 | JavaScript, Python, Dockerfile, Procfile | [FzTeis/Sylphiette](https://github.com/FzTeis/Sylphiette) | Hello! Welcome to the official Sylph repository, remember to leave a star if you liked it. You can give me ideas or report bugs by contacting me on WhatsApp! Thank you for being part of this small project. 🌺 |
+| Go, PLpgSQL, Makefile, Dockerfile | [checkmarble/marble-backend](https://github.com/checkmarble/marble-backend) |  |
 | TypeScript, Shell, JavaScript, HTML | [NWYLZW/ts-web-monorepo-template](https://github.com/NWYLZW/ts-web-monorepo-template) |  |
 | JavaScript, Vue, TypeScript, EJS | [ojvribeiro/vulmix](https://github.com/ojvribeiro/vulmix) | A simple way to start a Vue 3 app |
 | C++, Objective-C++, CMake | [qimiko/click-on-steps](https://github.com/qimiko/click-on-steps) |  |
@@ -12308,8 +12315,8 @@
 | HTML, CSS | [marianicacio/SD-land-page](https://github.com/marianicacio/SD-land-page) |  |
 | GLSL, JavaScript, HTML, Batchfile, Shell | [HL7/CDA-ccda](https://github.com/HL7/CDA-ccda) | Consolidated CDA IG for CDA using FHIR Tooling |
 | Python, Shell | [open-feature/python-sdk-contrib](https://github.com/open-feature/python-sdk-contrib) | Community contributions for hooks and reference providers in python |
-| Verilog, C++ | [zeeshanrafique23/mdu](https://github.com/zeeshanrafique23/mdu) | M-extension for RISC-V cores. |
 | TypeScript, JavaScript, HTML, CSS | [chalkclassroom/CoachingApp](https://github.com/chalkclassroom/CoachingApp) | Data Acquisition and Coaching Application for Teachers and their Coaches |
+| Verilog, C++ | [zeeshanrafique23/mdu](https://github.com/zeeshanrafique23/mdu) | M-extension for RISC-V cores. |
 | Shell, HTML, Ruby | [cloud-gov/deploy-bosh](https://github.com/cloud-gov/deploy-bosh) | cloud.gov deployment manifests and pipelines for BOSH |
 | Rust, TypeScript, JavaScript, PLpgSQL, CSS, HTML, Python, Shell, Dockerfile, RenderScript | [ji-devs/ji-cloud](https://github.com/ji-devs/ji-cloud) |  |
 | JavaScript, MDX, CSS | [automerge/automerge.github.io](https://github.com/automerge/automerge.github.io) |  |
@@ -12369,8 +12376,8 @@
 | Jupyter Notebook, Python, Shell | [aimat-lab/3DSC](https://github.com/aimat-lab/3DSC) | Repo for the paper publishing the superconductor database with 3D crystal structures. |
 | C++, CMake, Shell | [GazPrash/TinyAPI](https://github.com/GazPrash/TinyAPI) | 🚀 TinyAPI is a minimalistic Rest API Framework for C++ that allows you to build lightweight web applications.  Designed to be a bare-bones framework  for quickly setting up HTTP Servers or API Clients. |
 | Lua | [CurlySparkle/ARC9_Cod2019_Shared](https://github.com/CurlySparkle/ARC9_Cod2019_Shared) | All of the attachment stuff for the ARC9-COD2019 swep pack |
-| Java, Groovy | [apache/netbeans-mavenutils-nbm-maven-plugin](https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin) | Apache NetBeans Maven Utils parent pom |
 | Shell, Python | [fpatron/Quilibrium-Dashboard](https://github.com/fpatron/Quilibrium-Dashboard) |  |
+| Java, Groovy | [apache/netbeans-mavenutils-nbm-maven-plugin](https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin) | Apache NetBeans Maven Utils parent pom |
 | Java, Python, HTML | [mhelmstetter/mongo-util](https://github.com/mhelmstetter/mongo-util) | Collection of MongoDB utilities |
 | PHP, JavaScript, CSS, Less, HTML, SCSS, Java, Python, Hack, Go, Pug, TypeScript, Shell, C, PureBasic, PowerShell | [disit/dashboard-builder](https://github.com/disit/dashboard-builder) | Dashboard Builder connected to Km4City smart city platform, developed per REPLICATE H2020 |
 | Shell | [andrew890074/WhaticketWorkflow](https://github.com/andrew890074/WhaticketWorkflow) | Construtor De Fluxos Para Chatbot - Sistema De Atendimento |
@@ -12439,8 +12446,8 @@
 | TypeScript, JavaScript | [V-Warden/discord](https://github.com/V-Warden/discord) |  |
 | ZenScript, HTML, Shell, Python, Batchfile | [GTModpackTeam/GregTech-Expert-2](https://github.com/GTModpackTeam/GregTech-Expert-2) | Change the recipe of the other mod to greg recipe for 1.12.2. |
 | C#, Fluent, Python, JavaScript, PowerShell, CSS, Lua, Go, MATLAB, Shell, FreeMarker, XSLT, Nix, Batchfile | [WWhiteDreamProject/wwdpublic](https://github.com/WWhiteDreamProject/wwdpublic) | Публичный репозиторий проекта WWDP по SS14 на базе Einstein Engines |
-| Python | [alexgorji/musicscore](https://github.com/alexgorji/musicscore) |  |
 | Go, Makefile | [couchbase/gocbcore](https://github.com/couchbase/gocbcore) | The IO component of gocb |
+| Python | [alexgorji/musicscore](https://github.com/alexgorji/musicscore) |  |
 | JavaScript, HTML, CSS, TypeScript, SCSS, Less, Assembly, Ruby, Python, Shell, C, PHP, Makefile | [SaitoTech/saito-lite-rust](https://github.com/SaitoTech/saito-lite-rust) | a version of the Saito-Lite client written for compatibility with the Saito Rust client and binary data format |
 | C, Makefile | [retrage/svc-hook](https://github.com/retrage/svc-hook) | System Call Hook for ARM64 |
 | PHP | [mobicms/captcha](https://github.com/mobicms/captcha) | A simple PHP CAPTCHA library |
@@ -12451,13 +12458,13 @@
 | Python | [muexxl/batcontrol](https://github.com/muexxl/batcontrol) |  |
 | Go | [teilomillet/raggo](https://github.com/teilomillet/raggo) | A lightweight, production-ready RAG (Retrieval Augmented Generation) library in Go. |
 | Shell, Python, Perl | [mgedmin/scripts](https://github.com/mgedmin/scripts) | My ~/bin |
-| C, C++, Python, CMake, Ruby, Makefile, Shell, Handlebars, HTML | [Builty/TonexOneController](https://github.com/Builty/TonexOneController) | Embedded controller for the IK Multimedia Tonex One guitar pedal |
 | Java | [DeepCode51/SeasideSportsArenaManagementSystemDesignAndImplementation](https://github.com/DeepCode51/SeasideSportsArenaManagementSystemDesignAndImplementation) | 海滨体育馆管理系统_管理系统_毕业设计源码 |
+| C, C++, Python, CMake, Ruby, Makefile, Shell, Handlebars, HTML | [Builty/TonexOneController](https://github.com/Builty/TonexOneController) | Embedded controller for the IK Multimedia Tonex One guitar pedal |
 | Java | [DeepCode51/SeasideCollegeClassMemoirDesignAndImplementation](https://github.com/DeepCode51/SeasideCollegeClassMemoirDesignAndImplementation) | 海滨学院班级回忆录系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/SeafoodMarketSystemDesignAndImplementation](https://github.com/DeepCode51/SeafoodMarketSystemDesignAndImplementation) | 网络海鲜市场系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/ScientificWorkloadManagementSystemDesignAndImplementation](https://github.com/DeepCode51/ScientificWorkloadManagementSystemDesignAndImplementation) | 科研工作量管理系统_管理系统_毕业设计源码 |
-| Java | [DeepCode51/SchoolSportsManagementSystem](https://github.com/DeepCode51/SchoolSportsManagementSystem) | 校运会管理系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/SchoolEpidemicPreventionMaterialManagementPlatform](https://github.com/DeepCode51/SchoolEpidemicPreventionMaterialManagementPlatform) | 学校防疫物资管理平台_管理系统_毕业设计源码 |
+| Java | [DeepCode51/SchoolSportsManagementSystem](https://github.com/DeepCode51/SchoolSportsManagementSystem) | 校运会管理系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/SchoolEnrollmentApprovalSystemDesignAndImplementation](https://github.com/DeepCode51/SchoolEnrollmentApprovalSystemDesignAndImplementation) | 入校申报审批系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/SchoolBusDispatchManagementSystem](https://github.com/DeepCode51/SchoolBusDispatchManagementSystem) | 校车调度管理系统_管理系统_毕业设计源码 |
 | Java | [DeepCode51/ScenicSpotHomestayReservationSystemDesignAndImplementation](https://github.com/DeepCode51/ScenicSpotHomestayReservationSystemDesignAndImplementation) | 景区民宿预约系统_管理系统_毕业设计源码 |
@@ -12494,8 +12501,8 @@
 | Jupyter Notebook, Python, Shell, PLpgSQL, Gnuplot, Java | [eXascaleInfolab/TSM-Bench](https://github.com/eXascaleInfolab/TSM-Bench) | Comprehensive Benchmark for Time Series Database Systems |
 | Shell, Python | [KKKKKCAT/KKScript](https://github.com/KKKKKCAT/KKScript) | 整合一鍵腳本 |
 | Go, Open Policy Agent, Python, Shell, HCL, Just, Dockerfile, Smarty | [elastic/cloudbeat](https://github.com/elastic/cloudbeat) | Analyzing Cloud Security Posture |
-| C++, QML, CMake, C, JavaScript, Objective-C++ | [xris1658/yadaw](https://github.com/xris1658/yadaw) | Yet Another Digital Audio Workstation |
 | Lua | [cenk1cenk2/schema-companion.nvim](https://github.com/cenk1cenk2/schema-companion.nvim) | yaml-companion.nvim reloaded with custom matchers, Kubernetes and Kubernetes CRD definitions. |
+| C++, QML, CMake, C, JavaScript, Objective-C++ | [xris1658/yadaw](https://github.com/xris1658/yadaw) | Yet Another Digital Audio Workstation |
 | JavaScript, Vue, PHP, Blade | [webreinvent/vaahcms-module-saas](https://github.com/webreinvent/vaahcms-module-saas) | Multi-tenant SaaS Module for VaahCMS |
 | TypeScript, JavaScript, HTML, Shell, CSS, Dockerfile | [edumeet/edumeet-client](https://github.com/edumeet/edumeet-client) | This is the client service for the Edumeet project |
 | Java, HTML | [victorrentea/clean-architecture](https://github.com/victorrentea/clean-architecture) |  |
@@ -12507,8 +12514,8 @@
 | Python, Shell, Java, Makefile, Batchfile, HTML, C++, Pascal | [ome/omero-documentation](https://github.com/ome/omero-documentation) | Sphinx-based documentation for the Open Microscopy Environment  |
 | Python, Cuda, Jupyter Notebook, C++, C, Cython | [ylwhxht/V2X-R](https://github.com/ylwhxht/V2X-R) | V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion |
 | TypeScript, JavaScript, CSS, HTML | [boostcampwm-2024/web32-BooMap](https://github.com/boostcampwm-2024/web32-BooMap) | ⭐️ AI를 통한 회의록 기반 자동 마인드맵 생성 서비스 ⭐️ |
-| Vim Snippet | [zyu0090/CDIPTV](https://github.com/zyu0090/CDIPTV) |  |
 | TypeScript, JavaScript | [AsenaJs/Asena](https://github.com/AsenaJs/Asena) | A high-performance TypeScript web framework combining NestJS-style development with Bun runtime. Built on Hono, featuring dependency injection and decorator-based routing for modern web applications. |
+| Vim Snippet | [zyu0090/CDIPTV](https://github.com/zyu0090/CDIPTV) |  |
 | Erlang, Elixir, PowerShell | [synrc/ca](https://github.com/synrc/ca) | 🛡️ CA: Certificate Authority. ДСТУ: 4145. ITU/IETF: 3279, 5755, 7030, X.509. |
 | Java | [snowdrop/java-buildpack-client](https://github.com/snowdrop/java-buildpack-client) | A java buildpack (https://buildpacks.io/) platform implementation |
 | JavaScript, HTML, CSS, Shell | [cozy/cozy-client](https://github.com/cozy/cozy-client) | Document store and React components for the Cozy platform |
@@ -12517,8 +12524,8 @@
 | C, CMake | [NXPPlugNTrust/nano-package](https://github.com/NXPPlugNTrust/nano-package) |  |
 | JavaScript, SCSS, HTML | [mihailgaberov/bingo-blower](https://github.com/mihailgaberov/bingo-blower) | 🎱 POC for a Bingo blower component with nice animations created with Matter.js |
 | Python | [cleveradssolutions/App-ads.txt](https://github.com/cleveradssolutions/App-ads.txt) | CAS.AI Authorized Sellers for Apps |
-| JavaScript, CSS, Dockerfile, HTML | [profwernstrom/noescape](https://github.com/profwernstrom/noescape) |  |
 | Python, Jupyter Notebook, Dockerfile, Shell, Rez | [iBridges-for-iRODS/iBridges](https://github.com/iBridges-for-iRODS/iBridges) | A wrapper around the python-irodsclient to allow for easy interaction with iRODS servers. |
+| JavaScript, CSS, Dockerfile, HTML | [profwernstrom/noescape](https://github.com/profwernstrom/noescape) |  |
 | Python | [woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment](https://github.com/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment) | NIPS2024 |
 | HTML, CSS, JavaScript | [prasad-bigdp/11am-new](https://github.com/prasad-bigdp/11am-new) |  |
 | C, C++, Makefile, Assembly, Shell, Python | [openharmony/kernel_liteos_a](https://github.com/openharmony/kernel_liteos_a) | LiteOS kernel for embedded devices with rich resources | 适用于资源较丰富嵌入式设备的LiteOS内核 |
@@ -12528,8 +12535,8 @@
 | R | [SaurabhSSB/Statistics-with-R](https://github.com/SaurabhSSB/Statistics-with-R) | R Programs that helps us analyze, interpret and present data. |
 | C# | [jenius-apps/beeskie](https://github.com/jenius-apps/beeskie) | A Windows app for Bluesky |
 | Python | [obiyoag/evi-CEM](https://github.com/obiyoag/evi-CEM) | Official implementation of MICCAI2024 paper "Evidential Concept Embedding Models: Towards Reliable Concept Explanations for Skin Disease Diagnosis" |
-| Java, HTML | [HtmlUnit/htmlunit-neko](https://github.com/HtmlUnit/htmlunit-neko) | HtmlUnit adaptation of NekoHtml |
 | TypeScript, HTML, JavaScript | [alopezlago/MODAQ](https://github.com/alopezlago/MODAQ) | Web application for assisting moderators with reading and scorekeeping quiz bowl matches. |
+| Java, HTML | [HtmlUnit/htmlunit-neko](https://github.com/HtmlUnit/htmlunit-neko) | HtmlUnit adaptation of NekoHtml |
 | TypeScript, JavaScript | [seatsio/seatsio-js](https://github.com/seatsio/seatsio-js) | This is the official JavaScript client library for the Seats.io V2 REST API. |
 | Ruby, PHP | [tideways/homebrew-profiler](https://github.com/tideways/homebrew-profiler) | Homebrew recipes for Tideways Profiler |
 | TypeScript, JavaScript, HTML, CSS | [seatsio/seatsio-react](https://github.com/seatsio/seatsio-react) | The official Seats.io React wrapper |
@@ -12555,7 +12562,6 @@
 | Go, Makefile, PLpgSQL, HTML | [fdhhhdjd/Go_Secure_Auth_Pro](https://github.com/fdhhhdjd/Go_Secure_Auth_Pro) | 🔐 GO, Gin, Docker, PG, Redis, RabbitMQ, Firebase, JWT,... |
 | C++, C, Objective-C++, GLSL, CMake, HLSL, Python, Batchfile, Shell | [DYYYYYYYF/DimensionEngine](https://github.com/DYYYYYYYF/DimensionEngine) | 3D-Rendering of Vulkan  |
 | Python | [SaadullahKarimi/python-course](https://github.com/SaadullahKarimi/python-course) | A course repository for Python programming |
-| Elixir | [liveview-native/live_view_native_stylesheet](https://github.com/liveview-native/live_view_native_stylesheet) |  |
 | C++, Kotlin, C, Swift, CMake | [wooram-yang/ggwave-kmp](https://github.com/wooram-yang/ggwave-kmp) | A Kotlin Multiplatform Project utilizing ggwave, a data-over-sound library. |
 | Dockerfile, Python, Shell, Jinja, Go, Makefile, Ruby, JavaScript | [astronomer/ap-vendor](https://github.com/astronomer/ap-vendor) | Astronomer Vendor Images |
 | Shell | [cloud-barista/cb-coffeehouse](https://github.com/cloud-barista/cb-coffeehouse) | Cloud Barista's Coffeehouse is an open space for open-minded people who want to share and discuss technical knowledge for a great and happy future. |
@@ -12573,8 +12579,8 @@
 | Rust, Parrot, Dockerfile | [SaadiSave/cambridge-asm](https://github.com/SaadiSave/cambridge-asm) | An interpreter for pseudo-assembly as defined in the Computer Science Coursebook for Cambridge International AS & A Level, second edition, by Langfield & Duddell. |
 | R | [elipousson/officerExtras](https://github.com/elipousson/officerExtras) | 🏢 A R package with {officer} helper functions. |
 | TeX | [SizheRee/HUST-Master-Thesis-Template](https://github.com/SizheRee/HUST-Master-Thesis-Template) | 华中科技大学 计算机学院 硕士/博士 毕业论文 Latex 模板（参考2023年标准） |
-| Python, C++, Cuda, C, Shell, CMake | [ai4ce/FusionSense](https://github.com/ai4ce/FusionSense) | Integrates the vision, touch, and common-sense information of foundational models, customized to the agent's perceptual needs. |
 | Python | [DiaoDaiaChan/Stable-Diffusion-DrawBridgeAPI](https://github.com/DiaoDaiaChan/Stable-Diffusion-DrawBridgeAPI) | 一个兼容A1111WebuiAPI的API后端(带简易Gradio WebUI),支持调用各种在线AI绘图网站,以及更多AI功能/A backend API compatible with A1111WebuiAPI (with a simple Gradio WebUI) that supports calling various online AI drawing websites, as well as additional AI features. |
+| Python, C++, Cuda, C, Shell, CMake | [ai4ce/FusionSense](https://github.com/ai4ce/FusionSense) | Integrates the vision, touch, and common-sense information of foundational models, customized to the agent's perceptual needs. |
 | TypeScript | [mnaoumov/obsidian-fix-require-modules](https://github.com/mnaoumov/obsidian-fix-require-modules) | An Obsidian plugin that fixes require() calls, supporting JavaScript and TypeScript modules, enabling easy invocation, and adding code buttons for enhanced scripting capabilities. |
 | JavaScript, TypeScript | [fisker/make-synchronized](https://github.com/fisker/make-synchronized) | Make synchronized functions. |
 | Go, HTML, CSS, JavaScript | [before80/go_docs](https://github.com/before80/go_docs) | Go官方文档、go命令、标准库、博客、第三方包、Go Tour等的中文翻译合集 |
@@ -12715,8 +12721,8 @@
 | Java, Python | [umontreal-diro/IFT3913](https://github.com/umontreal-diro/IFT3913) | Syllabus pour IFT3913 [automne 2024] |
 | Java, Batchfile, Shell, CSS | [jagodevreede/sdkman-ui](https://github.com/jagodevreede/sdkman-ui) | Graphical User Interface for SDKMAN. |
 | Java, Rich Text Format, Lex, HTML, Groovy | [dialogos-project/dialogos](https://github.com/dialogos-project/dialogos) | The DialogOS dialog system. |
-| TypeScript, JavaScript, Shell | [wrappid/styles](https://github.com/wrappid/styles) | This package is a part of wrappid framework for wrappid-app projects, made for wrappid/wrappid-app projects created by wrappid/toolkit.  This package is used by wrappid/core package, wrappid/native-web package and wrappid/native-mobile package. |
 | Kotlin | [vendelieu/telegram-bot_template](https://github.com/vendelieu/telegram-bot_template) | A repository that contains various examples of how to use the telegram-bot library. |
+| TypeScript, JavaScript, Shell | [wrappid/styles](https://github.com/wrappid/styles) | This package is a part of wrappid framework for wrappid-app projects, made for wrappid/wrappid-app projects created by wrappid/toolkit.  This package is used by wrappid/core package, wrappid/native-web package and wrappid/native-mobile package. |
 | PHP, JavaScript, CSS, Twig, Shell, HTML | [acquia/cohesion](https://github.com/acquia/cohesion) | Cohesion redefines what it takes to create beautiful websites. Cohesion is a low-code, Drupal add-on available for Acquia customers. |
 | Ada, Perl, Batchfile, Shell | [zertovitch/zip-ada](https://github.com/zertovitch/zip-ada) | Zip-Ada: a standalone, portable pure Ada library for .zip archives. Includes LZMA and BZip2 byte stream encoder & decoder pairs. |
 | Dart, Java, Ruby, Swift, Objective-C | [Tobiaswk/carwingsflutter](https://github.com/Tobiaswk/carwingsflutter) | Mirror of GitLab repository |
@@ -12758,16 +12764,16 @@
 | Shell, Ruby, HCL, PowerShell, Makefile | [OpenNebula/one-apps](https://github.com/OpenNebula/one-apps) | Toolchain to build OpenNebula appliances |
 | PowerShell | [lectrician1/Insta360-2-ODM](https://github.com/lectrician1/Insta360-2-ODM) | PowerShell script to convert a GPS-tracked video recorded on an Insta360 camera into a GPS-tagged image sequence |
 | TypeScript, Vue, Mustache, Shell, Dockerfile, Python, HTML, JavaScript, SCSS | [nest-desktop/nest-desktop](https://github.com/nest-desktop/nest-desktop) | NEST Desktop is a web-based GUI for NEST Simulator and other simulators of spiking networks. |
-| Rust, Shell | [KonishchevDmitry/binup](https://github.com/KonishchevDmitry/binup) | Automated app installation from GitHub releases |
 | C#, Shell, C | [jas88/libarchive.net](https://github.com/jas88/libarchive.net) | .Net wrapper for the excellent libarchive project |
+| Rust, Shell | [KonishchevDmitry/binup](https://github.com/KonishchevDmitry/binup) | Automated app installation from GitHub releases |
 | Kotlin, HTML, Java | [teads/TeadsSDK-android](https://github.com/teads/TeadsSDK-android) | Teads SDK for Android - Premium branded "outstream" ads |
 | Python, HTML, JavaScript, TypeScript, CSS, Jinja, SCSS, Dockerfile, Makefile, Shell | [DesignSafe-CI/portal](https://github.com/DesignSafe-CI/portal) | The DesignSafe-CI Portal |
 | C, Assembly, Makefile, Nix, Batchfile, C++ | [FunkyFr3sh/petool](https://github.com/FunkyFr3sh/petool) | Tool to help rebuild, extend and patch 32-bit Windows applications. |
 | C# | [bluebird-developers/browser](https://github.com/bluebird-developers/browser) | Bluebird is your next-gen webbrowser, lightning fast and open-source, powered by WinUI |
 | TypeScript, MDX, CSS, JavaScript, HTML | [klee-contrib/focus4](https://github.com/klee-contrib/focus4) | Focus v4 |
 | Java | [Red-Studio-Ragnarok/Valkyrie](https://github.com/Red-Studio-Ragnarok/Valkyrie) | As the Valkyries' whispers guide us, we carve our path to a Valhalla of optimized Minecraft gameplay. |
-| Mustache, CSS | [artemnovichkov/awesome-swift-charts](https://github.com/artemnovichkov/awesome-swift-charts) | A hand-curated list of Swift Charts resources. Feel free to contribute! |
 | Java | [Red-Studio-Ragnarok/Alfheim](https://github.com/Red-Studio-Ragnarok/Alfheim) | Alfheim is a lighting engine replacement for Minecraft, optimized for performance and fixing many bugs |
+| Mustache, CSS | [artemnovichkov/awesome-swift-charts](https://github.com/artemnovichkov/awesome-swift-charts) | A hand-curated list of Swift Charts resources. Feel free to contribute! |
 | HTML, JavaScript, Vue, Python, CSS, R, Ruby | [datagov-cz/data.gov.cz](https://github.com/datagov-cz/data.gov.cz) | Web data.gov.cz. Tento repozitář je udržován v rámci projektu CZ.03.4.74/0.0/0.0/15_025/0013983. |
 | Java, Dockerfile | [jpicht/keycloak-group-password-policy](https://github.com/jpicht/keycloak-group-password-policy) | Per-group password policy for keycloak |
 | Python, Objective-C, Shell | [JJTech0130/launchservices](https://github.com/JJTech0130/launchservices) | Experimenting with the Launch Services system on iOS and macOS |
@@ -12804,8 +12810,8 @@
 | HTML, Jupyter Notebook, SCSS, JavaScript | [AdobeDocs/experience-manager-learn.en](https://github.com/AdobeDocs/experience-manager-learn.en) |  |
 | TypeScript, JavaScript, Dockerfile | [Trustroots/nostroots](https://github.com/Trustroots/nostroots) | nostroots: transition Trustroots onto the nostr network |
 | Java, Kotlin | [wandersnail/commons-android](https://github.com/wandersnail/commons-android) | 常用的工具类、基类等 |
-| Rust, Python, TypeScript, Just, JavaScript | [jessekrubin/utiles](https://github.com/jessekrubin/utiles) | utiles = utils & tiles w/ (rs & pyo3) |
 | Swift, Ruby, Shell, Objective-C | [team-telnyx/telnyx-webrtc-ios](https://github.com/team-telnyx/telnyx-webrtc-ios) | The Telnyx iOS WebRTC Client SDK provides all the functionality you need to start making voice calls from an iPhone. |
+| Rust, Python, TypeScript, Just, JavaScript | [jessekrubin/utiles](https://github.com/jessekrubin/utiles) | utiles = utils & tiles w/ (rs & pyo3) |
 | R | [fragla/eq5d](https://github.com/fragla/eq5d) |  |
 | Gleam, CSS, JavaScript, Shell | [gleam-lang/playground](https://github.com/gleam-lang/playground) | 🥨 Write, run, and share Gleam code in your browser |
 | TypeScript, SCSS, HTML, JavaScript, CSS, MDX | [Frontify/fondue](https://github.com/Frontify/fondue) | Design System of Frontify |
@@ -12841,11 +12847,11 @@
 | Java, Gherkin | [quarkiverse/quarkus-cucumber](https://github.com/quarkiverse/quarkus-cucumber) | Quarkus Cucumber extension |
 | TypeScript, Move, JavaScript, Shell, CSS | [MystenLabs/blackjack-sui](https://github.com/MystenLabs/blackjack-sui) | BlackJack with Sui and Move! |
 | HTML, Perl, Shell | [w3c/wot-usecases](https://github.com/w3c/wot-usecases) | Repository of the WoT IG to discuss possible WoT use cases |
-| Go, Shell, Dockerfile, Makefile | [qbee-io/qbee-agent](https://github.com/qbee-io/qbee-agent) | Device agent component of the qbee.io IoT device management platform. |
 | C, CMake, Python, Shell | [zynthian/zyncoder](https://github.com/zynthian/zyncoder) | Rotary encoder & switches library for RBPi GPIO (wiringPi). Implements a GPIO emulation layer for development. |
+| Go, Shell, Dockerfile, Makefile | [qbee-io/qbee-agent](https://github.com/qbee-io/qbee-agent) | Device agent component of the qbee.io IoT device management platform. |
 | JavaScript, Meson, CSS | [getnf/embellish](https://github.com/getnf/embellish) | Install Nerd Fonts |
-| HCL | [40net-cloud/fortinet-aws-solutions](https://github.com/40net-cloud/fortinet-aws-solutions) |  |
 | C++, Shell, JavaScript, Lex, Makefile, Roff, C, Yacc, M4 | [severalnines/s9s-tools](https://github.com/severalnines/s9s-tools) | Repository for tools (e.g the s9s command line client) helping to manage and monitor your Severalnines clusters.  |
+| HCL | [40net-cloud/fortinet-aws-solutions](https://github.com/40net-cloud/fortinet-aws-solutions) |  |
 | Nix, Shell | [dramforever/config](https://github.com/dramforever/config) | Random config (v2, clean history) |
 | Verilog, SystemVerilog | [aelog134256/iclab2024fall](https://github.com/aelog134256/iclab2024fall) |  |
 | JavaScript | [eemeli/dot-properties](https://github.com/eemeli/dot-properties) | Parse & stringify .properties files in JavaScript |
@@ -12971,8 +12977,8 @@
 | Shell, Python, SourcePawn, Makefile, HTML, CSS | [canonical/sphinx-docs-starter-pack](https://github.com/canonical/sphinx-docs-starter-pack) | A documentation starter-pack |
 | Lua, Python | [derfloh205/CraftSim](https://github.com/derfloh205/CraftSim) |  |
 | TypeScript, JavaScript | [charlescol/schema-manager](https://github.com/charlescol/schema-manager) | Centralize in a Repository and Automate Schema Management for Microservices with a Schema Registry. |
-| C, C++, Makefile | [sideeffects/HoudiniAlembic](https://github.com/sideeffects/HoudiniAlembic) | Houdini Alembic integration |
 | TypeScript, JavaScript, CSS, HTML | [boostcampwm-2024/web05-Denamu](https://github.com/boostcampwm-2024/web05-Denamu) | 개발자들의 이야기가 자라나는 곳, 데나무🎋 |
+| C, C++, Makefile | [sideeffects/HoudiniAlembic](https://github.com/sideeffects/HoudiniAlembic) | Houdini Alembic integration |
 | C#, PowerShell | [WildGums/Orc.NuGetExplorer](https://github.com/WildGums/Orc.NuGetExplorer) | WPF control to facilitate the exploration of NuGet packages |
 | JavaScript | [ArcticFoxPro/QQVersionListTool-WeChatMiniProgram](https://github.com/ArcticFoxPro/QQVersionListTool-WeChatMiniProgram) | QQ 版本列表 Vigor for WeChat MiniProgram |
 | TypeScript, Shell, JavaScript, HTML | [ayoung19/clipboard-history](https://github.com/ayoung19/clipboard-history) | A Chrome extension for managing your clipboard history securely, efficiently, and effortlessly. |
@@ -13036,8 +13042,8 @@
 | Java, Shell, Groovy | [hazendaz/makeself-maven-plugin](https://github.com/hazendaz/makeself-maven-plugin) | makeself-maven-plugin for Makeself (Make self-extractable archives on Unix) |
 | Shell, Python | [b1337xyz/scripts](https://github.com/b1337xyz/scripts) |  |
 | TypeScript, JavaScript, Shell | [scriptex/typed-usa-states](https://github.com/scriptex/typed-usa-states) | An array of geographical data for all USA states with full TypeScript support |
-| JavaScript, CSS, Python, Dockerfile, HTML | [epoz/shmarql](https://github.com/epoz/shmarql) | SPARQL endpoint explorer |
 | Python, Shell | [GdR-DEPHY/DEPHY-SCM](https://github.com/GdR-DEPHY/DEPHY-SCM) |  |
+| JavaScript, CSS, Python, Dockerfile, HTML | [epoz/shmarql](https://github.com/epoz/shmarql) | SPARQL endpoint explorer |
 | Python, Makefile | [lbl-camera/fvGP](https://github.com/lbl-camera/fvGP) | A software package for flexible HPC GPs |
 | C, Lex, Shell, JavaScript, HTML, Makefile | [sigflup/Mega-Happy-Sprite](https://github.com/sigflup/Mega-Happy-Sprite) | A sega genesis /megdrive sprite/scrollplane editor |
 | Rust | [mozilla/cubeb-pulse-rs](https://github.com/mozilla/cubeb-pulse-rs) |  |
@@ -13065,8 +13071,8 @@
 | Haxe | [HaxelDev/FlowScript](https://github.com/HaxelDev/FlowScript) | A programming language written in Haxe. |
 | JavaScript, TypeScript, Shell, CSS | [mydoge-com/mydogemask](https://github.com/mydoge-com/mydogemask) | Doge wallet chrome extension |
 | Kotlin | [Lemkinator/Sudoku](https://github.com/Lemkinator/Sudoku) | A Sudoku app with OneUI-Design. |
-| Python | [spacetelescope/stsynphot_refactor](https://github.com/spacetelescope/stsynphot_refactor) | Synthetic photometry using Astropy for HST and JWST |
 | HTML, Ruby, JavaScript, CSS, Dockerfile | [gkellogg/rdf-distiller](https://github.com/gkellogg/rdf-distiller) | Translate any RDF format to any other using Ruby RDF gems |
+| Python | [spacetelescope/stsynphot_refactor](https://github.com/spacetelescope/stsynphot_refactor) | Synthetic photometry using Astropy for HST and JWST |
 | MDX, Astro, TypeScript, Svelte, JavaScript, CSS | [polpielladev/polpiella.dev](https://github.com/polpielladev/polpiella.dev) | 👋 My personal portfolio website built using Astro and hosted in Vercel. Visit it by going to polpiella.dev |
 | TypeScript, JavaScript | [AdiRishi/cachified-adapter-cloudflare-kv](https://github.com/AdiRishi/cachified-adapter-cloudflare-kv) | The official Cloudflare KV adapter for @epic-web/cachified |
 | TypeScript, JavaScript, Shell | [Tony133/nestjs-mysql](https://github.com/Tony133/nestjs-mysql) | Mysql module for Nest framework (node.js) 😻 |
@@ -13130,9 +13136,9 @@
 | Shell, Java | [confluentinc/learn-kafka-courses](https://github.com/confluentinc/learn-kafka-courses) | Learn the basics of Apache Kafka® from leaders in the Kafka community with these video courses covering the Kafka ecosystem and hands-on exercises. |
 | TypeScript, Python, JavaScript, Dockerfile, MDX, Smarty, CSS, HTML, Shell | [conda-incubator/conda-store-ui](https://github.com/conda-incubator/conda-store-ui) | conda-store-ui is a frontend for conda-store powered by react |
 | Scala, Batchfile | [Sergeanur/SCFIX-Miami](https://github.com/Sergeanur/SCFIX-Miami) |  |
-| Shell | [MrCaringi/Backups-and-Replication](https://github.com/MrCaringi/Backups-and-Replication) | Bash Scripts for Borg Backup |
-| Python, Shell, Batchfile, Dockerfile | [yanpaing007/Tomarket](https://github.com/yanpaing007/Tomarket) | Free tomarket telegram bot,auto task,auto ref,auto combo and many functions.... |
 | C++, Python, Jupyter Notebook, CMake, Dockerfile, Shell, C | [aprilweilab/grgl](https://github.com/aprilweilab/grgl) | Genotype Representation Graph Library |
+| Python, Shell, Batchfile, Dockerfile | [yanpaing007/Tomarket](https://github.com/yanpaing007/Tomarket) | Free tomarket telegram bot,auto task,auto ref,auto combo and many functions.... |
+| Shell | [MrCaringi/Backups-and-Replication](https://github.com/MrCaringi/Backups-and-Replication) | Bash Scripts for Borg Backup |
 | HTML, TypeScript, CSS, CAP CDS, JavaScript, Shell | [dxfrontier/cds-ts-dispatcher](https://github.com/dxfrontier/cds-ts-dispatcher) | SAP CAP TypeScript entity handler dispatcher. |
 | R | [martinctc/rwa](https://github.com/martinctc/rwa) | Package for running Relative Weights Analysis in R |
 | Jupyter Notebook, Python | [OxWearables/capture24](https://github.com/OxWearables/capture24) | Capture24: Human activity recognition with activity trackers |
@@ -13150,8 +13156,8 @@
 | TypeScript, JavaScript, Dockerfile | [grafana/explore-traces](https://github.com/grafana/explore-traces) | Opinionated traces app |
 | Java, Batchfile, Shell, HTML, Visual Basic 6.0 | [HL7/UTG](https://github.com/HL7/UTG) | Unified Terminology Governance |
 | C++, CMake, Shell | [KDE/kdecoration](https://github.com/KDE/kdecoration) | Plugin-based library to create window decorations |
-| JavaScript, HTML, CSS, Shell | [googlemaps/fleet-debugger](https://github.com/googlemaps/fleet-debugger) |  |
 | TypeScript, JavaScript, SCSS, Nix | [FirebaseExtended/compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) |  |
+| JavaScript, HTML, CSS, Shell | [googlemaps/fleet-debugger](https://github.com/googlemaps/fleet-debugger) |  |
 | Rust | [JackKelly/hypergrib](https://github.com/JackKelly/hypergrib) | Lazily open petabyte-scale GRIB datasets consisting of trillions of GRIB messages from xarray |
 | PHP, Blade, SCSS, TypeScript, JavaScript, Dockerfile, Shell | [ILSCeV/Lara](https://github.com/ILSCeV/Lara) | A calender with personnel scheduling for club management, built on top of Laravel 5 |
 | Lua, Shell | [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) | Select -> action. Kakoune workflow and most keybinds for Neovim. |
@@ -13162,8 +13168,8 @@
 | Python, Jupyter Notebook, JavaScript, CSS | [Jhsmit/ipymolstar](https://github.com/Jhsmit/ipymolstar) | PDBeMolstar as anywidget |
 | TypeScript, JavaScript, CSS, Rust, HTML | [mohammadmansour200/basset](https://github.com/mohammadmansour200/basset) | Desktop app for video/audio cutting, compressing, converting and quality changing |
 | PHP, Shell, Dockerfile, Makefile | [wpengine/wp-graphql-filter-query](https://github.com/wpengine/wp-graphql-filter-query) | Adds taxonomy filtering and aggregation support to WP GraphQL |
-| Python, Kaitai Struct | [AltoRetrato/samba-de-amigo-2k_modding](https://github.com/AltoRetrato/samba-de-amigo-2k_modding) | Tools and information to help you mod "Samba de Amigo Ver. 2000" for the Dreamcast, with English translations and custom songs. |
 | TypeScript, JavaScript, CSS, HTML | [fxgst/azle-react](https://github.com/fxgst/azle-react) | One-click dev env for developing canisters on ICP with JS/TS and a React frontend |
+| Python, Kaitai Struct | [AltoRetrato/samba-de-amigo-2k_modding](https://github.com/AltoRetrato/samba-de-amigo-2k_modding) | Tools and information to help you mod "Samba de Amigo Ver. 2000" for the Dreamcast, with English translations and custom songs. |
 | TypeScript, CSS, JavaScript | [kristianfreeman/workers-ai-image-playground](https://github.com/kristianfreeman/workers-ai-image-playground) | Generate images using the powerful text-to-image models in Cloudflare Workers AI! |
 | XSLT, Java, JavaScript, Vue, TypeScript, SCSS, HTML, Shell, Handlebars, Dockerfile, Batchfile | [MyCoRe-Org/mir](https://github.com/MyCoRe-Org/mir) | MyCoRe/MODS Institutional Repository |
 | Nix, Shell, Vim Script, SCSS | [Nemo157/dotfiles](https://github.com/Nemo157/dotfiles) | My configuration files. |
@@ -13186,8 +13192,8 @@
 | Nix, Python, CSS, Haskell, Shell | [sei40kr/dotfiles](https://github.com/sei40kr/dotfiles) | My dotfiles for NixOS & Darwin |
 | Go, Shell, HCL | [ThreeDotsLabs/watermill-benchmark](https://github.com/ThreeDotsLabs/watermill-benchmark) | Benchmarking tools for Watermill. |
 | JavaScript, Jupyter Notebook, Java, CSS, HTML, SCSS, Less, C++, Python, C, PHP | [mole9630/UNotes](https://github.com/mole9630/UNotes) | 大学计算机类课程笔记及攻略 |
-| Python, Dockerfile | [thonkify/thonkify](https://github.com/thonkify/thonkify) |  |
 | JavaScript, CSS, Kotlin, TypeScript, Swift, HTML | [element-hq/compound-design-tokens](https://github.com/element-hq/compound-design-tokens) | Compound design tokens |
+| Python, Dockerfile | [thonkify/thonkify](https://github.com/thonkify/thonkify) |  |
 | Ruby, Dockerfile, Batchfile, Shell | [aspose-words-cloud/aspose-words-cloud-ruby](https://github.com/aspose-words-cloud/aspose-words-cloud-ruby) | Ruby library for communicating with the Aspose.Words Cloud API |
 | Python, Shell, Batchfile | [aspose-words-cloud/aspose-words-cloud-python](https://github.com/aspose-words-cloud/aspose-words-cloud-python) | A Python library for communicating with the Aspose.Words Cloud API |
 | Java | [aspose-words-cloud/aspose-words-cloud-java](https://github.com/aspose-words-cloud/aspose-words-cloud-java) | A Java library for communicating with the Aspose.Words Cloud API |
@@ -13198,8 +13204,8 @@
 | Elixir, TypeScript, SCSS, JavaScript, HTML, Dockerfile, Shell, Euphoria | [mbta/screens](https://github.com/mbta/screens) | Screens |
 | Python, Shell | [piazzatron/anki-smart-notes](https://github.com/piazzatron/anki-smart-notes) | Superchange your anki flashcards with ✨AI✨  |
 | JavaScript, CSS | [ScrollPrize/scrollprize-website](https://github.com/ScrollPrize/scrollprize-website) | scrollprize.org |
-| JavaScript, CSS | [AdamRaichu/vscode-zip-viewer](https://github.com/AdamRaichu/vscode-zip-viewer) | An extension which allows for the manipulation of zip files in VS Code. |
 | C++, Python, Batchfile, Shell, Makefile, C | [ROCm/rocmProfileData](https://github.com/ROCm/rocmProfileData) |  |
+| JavaScript, CSS | [AdamRaichu/vscode-zip-viewer](https://github.com/AdamRaichu/vscode-zip-viewer) | An extension which allows for the manipulation of zip files in VS Code. |
 | Vue, JavaScript, SCSS, HTML, CSS, TypeScript, Shell | [VemLavarALoucaGamers/vlalg-nimbus](https://github.com/VemLavarALoucaGamers/vlalg-nimbus) | This is an Open Source project by VLALG that aims to share JavaScript libs, VS Code extensions, Browser extensions and Vue.js 3 components |
 | JavaScript, CSS, HTML | [antedoro/arberia](https://github.com/antedoro/arberia) | Arberia Theme is a fully responsive tech-blogger theme for Hugo with 4 single post layout! |
 | Python, Ruby | [BIK-BITV/BIK-App-Test](https://github.com/BIK-BITV/BIK-App-Test) | Accessibility App-Test für iOS, iPadOS und Android. Folgt den Kriterien der WCAG 2.1, EN 301 549 |
@@ -13243,15 +13249,15 @@
 | Lua, JavaScript, CSS, HTML | [redyydev/ry_shops](https://github.com/redyydev/ry_shops) |  |
 | Java | [jenkinsci/plugin-usage-plugin](https://github.com/jenkinsci/plugin-usage-plugin) | Jenkins plugin to analyze the plugin usage |
 | C++, R | [jolars/polylabelr](https://github.com/jolars/polylabelr) | Find the Pole of Inaccessibility (Visual Center) of a Polygon |
-| Go, Shell, Makefile | [bufbuild/modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. |
 | JavaScript, CSS | [coredao-org/CoreDAO-Docs](https://github.com/coredao-org/CoreDAO-Docs) | The official documentation for Core Chain |
+| Go, Shell, Makefile | [bufbuild/modules](https://github.com/bufbuild/modules) | Collection of third-party modules managed and synced by Buf. |
 | JavaScript, CSS, Shell | [wavemaker/docs](https://github.com/wavemaker/docs) | Documentation for WaveMaker low code product. This repo powers the site: wavemaker.com/learn |
 | TypeScript, JavaScript, HTML, CSS | [grafana/grafana-vs-code-extension](https://github.com/grafana/grafana-vs-code-extension) |  |
 | Dockerfile | [ninjarobot/docker-fsharp-mono-netcore](https://github.com/ninjarobot/docker-fsharp-mono-netcore) | Docker image for F# with mono and .NET Core toolchains |
 | Python, C, Shell, Makefile, Roff | [xapi-project/sm](https://github.com/xapi-project/sm) | Xapi Project storage managers |
 | TypeScript, HTML, Less, CSS, JavaScript, Shell, Dockerfile | [solarwinds/nova](https://github.com/solarwinds/nova) |  |
-| Python | [wolfgitpr/LyricFA](https://github.com/wolfgitpr/LyricFA) |  |
 | JavaScript | [CredentialEngine/Schema-Development](https://github.com/CredentialEngine/Schema-Development) | Development of the vocabularies for the CTI models |
+| Python | [wolfgitpr/LyricFA](https://github.com/wolfgitpr/LyricFA) |  |
 | Python, ASL | [wjz304/Hackintosh-EFI-Lenovo-Yoga-910-13IKB](https://github.com/wjz304/Hackintosh-EFI-Lenovo-Yoga-910-13IKB) | 💻 Hackintosh-EFI-Lenovo-Yoga-910-13IKB |
 | Java, Shell, Dockerfile | [Nanopublication/nanopub-java](https://github.com/Nanopublication/nanopub-java) | Java library for nanopublications based on RDF4J |
 | Java, JavaScript, Shell, HTML, PLpgSQL, Dockerfile | [OpenLMIS/openlmis-stockmanagement](https://github.com/OpenLMIS/openlmis-stockmanagement) | Stock Managment Service for OpenLMIS v3.1+ http://openlmis.org |
@@ -13273,8 +13279,8 @@
 | Groovy, Dockerfile | [kubelsp/DevOps-Doc](https://github.com/kubelsp/DevOps-Doc) |  |
 | HTML, SCSS, JavaScript, Ruby | [discourse/Discourse-Tiles-image-gallery](https://github.com/discourse/Discourse-Tiles-image-gallery) |  |
 | Python, Shell, MATLAB | [Hyun-Ryu/simpsi](https://github.com/Hyun-Ryu/simpsi) | Official code for "SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation", AAAI 2024. |
-| JavaScript, Ruby, SCSS, Handlebars | [discourse/DiscoTOC](https://github.com/discourse/DiscoTOC) | A Discourse theme component that generates a table of contents for topics with one click  |
 | TypeScript, JavaScript, Shell | [growingio/growingio-sdk-miniprogram-autotracker](https://github.com/growingio/growingio-sdk-miniprogram-autotracker) | GrowngIO官方小程序 SDK，具备自动采集基本的用户行为事件，比如访问和行为数据等。目前支持微信小程序、支付宝小程序、百度小程序、字节(抖音头条)小程序、QQ小程序、淘宝小程序、快手小程序、快应用。 |
+| JavaScript, Ruby, SCSS, Handlebars | [discourse/DiscoTOC](https://github.com/discourse/DiscoTOC) | A Discourse theme component that generates a table of contents for topics with one click  |
 | Python, Makefile, Shell, Jinja, HCL, Smarty, Dockerfile | [pg-spot-ops/pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) | Maintains stateful Postgres on Spot VMs |
 | Ruby, JavaScript, Handlebars, SCSS, HTML | [discourse/discourse-zoom](https://github.com/discourse/discourse-zoom) | Integrate Zoom events in Discourse.  |
 | Dockerfile, Shell, Python, Nix | [stackabletech/docker-images](https://github.com/stackabletech/docker-images) |  |
@@ -13372,8 +13378,8 @@
 | Go | [tencentyun/tls-sig-api-v2-golang](https://github.com/tencentyun/tls-sig-api-v2-golang) |  |
 | Shell, Smarty, Makefile, Mustache | [GreptimeTeam/helm-charts](https://github.com/GreptimeTeam/helm-charts) | Helm charts for GreptimeDB. |
 | Python | [FAIRmat-NFDI/nomad-measurements](https://github.com/FAIRmat-NFDI/nomad-measurements) | A NOMAD plugin containing base sections for measurements.  |
-| JavaScript, HTML, CSS | [w3bdesign/todo-hooks](https://github.com/w3bdesign/todo-hooks) | React TODO app with Hooks and Ant Design for UI |
 | Shell, Dockerfile, PHP | [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) | GitHub Action for running a QA check |
+| JavaScript, HTML, CSS | [w3bdesign/todo-hooks](https://github.com/w3bdesign/todo-hooks) | React TODO app with Hooks and Ant Design for UI |
 | DIGITAL Command Language, Roff, Io, JavaScript, C++, NewLisp, Charity, xBase, Raku, Shell, Makefile, OCaml, LOLCODE | [helloweishi/tech_diary](https://github.com/helloweishi/tech_diary) | personal diary |
 | Shell | [kaisenlinux/kaisen-tools](https://github.com/kaisenlinux/kaisen-tools) | All included tools on Kaisen Linux |
 | Go, Smarty, Shell, Makefile | [yeqown/gitlab-flow](https://github.com/yeqown/gitlab-flow) | A CLI tool to help manage the flow of developing on gitlab. |
@@ -13400,8 +13406,8 @@
 | Go, Makefile | [olachat/gola](https://github.com/olachat/gola) | Extreme fast ORM for go, support generic and promote database best practices |
 | Python, JavaScript, Rust, Sage, HTML, Dockerfile, Shell, Java, CSS, PHP, C++, Go, Hack, Jinja, Verilog, Makefile | [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | Collection of evals for Inspect AI |
 | TypeScript, JavaScript, Dockerfile, Batchfile, Shell | [litencatt/notion-cli](https://github.com/litencatt/notion-cli) | Notion CLI tool  and operation with interactive mode. |
-| C, Python, HTML, C++, Shell, Makefile, Dockerfile | [joeycastillo/second-movement](https://github.com/joeycastillo/second-movement) | Work-in-progress update to Movement, the community firmware for Sensor Watch |
 | HTML, CSS, Blade, PHP, JavaScript, SCSS, Hack | [Jamil226/FA24-Web](https://github.com/Jamil226/FA24-Web) | Fall 24 - Web Application Development |
+| C, Python, HTML, C++, Shell, Makefile, Dockerfile | [joeycastillo/second-movement](https://github.com/joeycastillo/second-movement) | Work-in-progress update to Movement, the community firmware for Sensor Watch |
 | JavaScript, HTML, SCSS | [barzin144/FlappyBird](https://github.com/barzin144/FlappyBird) | Flappy bird game with javascript and p5.js |
 | TypeScript, HTML, JavaScript, CSS, SCSS, Batchfile | [Esri/solutions-components](https://github.com/Esri/solutions-components) | A collection of UI components for constructing webapps. |
 | Python | [boytegar/YescoinBOT](https://github.com/boytegar/YescoinBOT) |  |
@@ -13494,14 +13500,14 @@
 | Rust, RenderScript | [darko-mesaros/shuk](https://github.com/darko-mesaros/shuk) | File sharing utility for Amazon S3 |
 | Go, TypeScript, HTML, SCSS, SQL, Shell, JavaScript | [rs-anantmishra/streamsphere](https://github.com/rs-anantmishra/streamsphere) | It's a media library. |
 | Odin, Rust, C++, Just, Shell, RenderScript | [tgolsson/physx-odin](https://github.com/tgolsson/physx-odin) |  |
-| C++, C, Batchfile, Makefile, Shell, IDL, Python | [areaDetector/ADCore](https://github.com/areaDetector/ADCore) | The home of the core components of the EPICS areaDetector software. It includes base classes for drivers and code for all of the standard plugins. |
 | TypeScript, Python, CSS | [Programmer-Network/Programmer-Network-Kubernetes](https://github.com/Programmer-Network/Programmer-Network-Kubernetes) | Comprehensive Guide to Setting Up E2E Infrastructure with K3S, Raspberry Pi, and MikroTik |
+| C++, C, Batchfile, Makefile, Shell, IDL, Python | [areaDetector/ADCore](https://github.com/areaDetector/ADCore) | The home of the core components of the EPICS areaDetector software. It includes base classes for drivers and code for all of the standard plugins. |
 | TypeScript, JavaScript, HTML, CSS, Shell | [mbehr1/dlt-logs](https://github.com/mbehr1/dlt-logs) | Visual Studio Code extension that adds support to open DLT (genivi, AUTOSAR) diagnostic log and trace files with lifecycle detection, filters, time-sync, etc. |
 | TypeScript, JavaScript, CSS, HTML | [UTDNebula/utd-trends](https://github.com/UTDNebula/utd-trends) | Make good choices, choose the perfect classes for you |
 | Python, Mustache, Shell | [madpilot/amberelectric.py](https://github.com/madpilot/amberelectric.py) | Python Amber Electric API interface |
 | JavaScript | [swissspidy/wordpressers-on-github](https://github.com/swissspidy/wordpressers-on-github) | Show WordPress.org profiles for users on GitHub |
-| Python | [carpentries/trainers](https://github.com/carpentries/trainers) | Repository for the Instructor Trainers community |
 | Vala, Meson | [elementary/switchboard-plug-sound](https://github.com/elementary/switchboard-plug-sound) | Switchboard Sound Plug |
+| Python | [carpentries/trainers](https://github.com/carpentries/trainers) | Repository for the Instructor Trainers community |
 | Python | [angstwad/perpetual-touch-id-for-sudo](https://github.com/angstwad/perpetual-touch-id-for-sudo) | Enables Touch ID for sudo automagically after OS updates screw it up! |
 | C, C++, Java, CMake | [OpenIPC/PixelPilot](https://github.com/OpenIPC/PixelPilot) | PixelPilot is an Android app packaging multiple pieces together to decode an H264/H265 video feed broadcast by wfb-ng over the air. |
 | TeX, R, Shell | [artem-bakulin/latex](https://github.com/artem-bakulin/latex) | LaTeX sources for Habrahabr posts, presentations, and other stuff |
@@ -13528,8 +13534,8 @@
 | SCSS, CSS, JavaScript | [ElsaTam/obsidian-fancy-a-story](https://github.com/ElsaTam/obsidian-fancy-a-story) | Repo for the beta version of my in progress theme |
 | Shell, Python | [chickendrop89/systemless-gapps](https://github.com/chickendrop89/systemless-gapps) | System-less GApps converts a NikGApps package into a module usable with Magisk, KernelSU or APatch |
 | Rust | [bscotch/steam-gifs](https://github.com/bscotch/steam-gifs) | Generate Steam Store page-compatible GIFs from source videos |
-| Python, Shell | [sfneal/pdfconduit](https://github.com/sfneal/pdfconduit) | Prepare documents for distribution |
 | Kotlin, Swift, TypeScript, Objective-C, Python, Java, JavaScript, Ruby | [namiml/react-native-nami-sdk](https://github.com/namiml/react-native-nami-sdk) | React Native wrapper for Nami SDK.  Easy Apple StoreKit & Google Play Billing subscriptions & in-app purchases, with powerful no-code paywalls and A/B testing. |
+| Python, Shell | [sfneal/pdfconduit](https://github.com/sfneal/pdfconduit) | Prepare documents for distribution |
 | Shell | [YunoHost-Apps/searxng_ynh](https://github.com/YunoHost-Apps/searxng_ynh) | Searxng package for YunoHost |
 | Python | [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages) | Registry for scverse ecosystem packages (https://scverse.org/packages/#ecosystem) |
 | C#, HTML, Dockerfile, Batchfile | [patrickklaeren/Accord](https://github.com/patrickklaeren/Accord) | A C# Discord bot with moderation, XP/guild participation and utilities |
@@ -13608,8 +13614,8 @@
 | HTML, Rust, CSS, TypeScript, JavaScript, Shell, MDX | [dimforge/rapier.rs](https://github.com/dimforge/rapier.rs) | Official website for the Rapier physics engine. |
 | JavaScript, HTML, Dockerfile, Shell | [kemp/VideoMirror](https://github.com/kemp/VideoMirror) | Chrome Extension: Mirror (flip horizontally) videos on any page (including YouTube, Vimeo, Twitch, etc.)! |
 | TypeScript, Python, Dockerfile, JavaScript | [RWTH-TIME/shoutout](https://github.com/RWTH-TIME/shoutout) | Open transcription platform with scheduled audio processing |
-| Python | [Lendemor/reflex-calendar](https://github.com/Lendemor/reflex-calendar) | Wrapping of react-calendar for Reflex in python. |
 | Python | [Quantum-Accelerators/template](https://github.com/Quantum-Accelerators/template) | A template for Python packages. Developed by the @quantum-accelerators |
+| Python | [Lendemor/reflex-calendar](https://github.com/Lendemor/reflex-calendar) | Wrapping of react-calendar for Reflex in python. |
 | Jupyter Notebook, Python | [dr-mushtaq/Python-Notes](https://github.com/dr-mushtaq/Python-Notes) | This repository is related to all about Python - an A-Z guide to the world of Data Science. This supplement contains the implementation of Python from Basic to advance level. Follow Coursesteach for more content 😊 |
 | JavaScript | [bensaied/KendyPass](https://github.com/bensaied/KendyPass) | Securely store your and your colleagues' application passwords with encryption. |
 | Shell | [Chennhaoo/Shell_Bash](https://github.com/Chennhaoo/Shell_Bash) | 个人Shell脚本仓库 |
@@ -13652,8 +13658,8 @@
 | Java | [RevEngiSquad/PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus) | Pine Hook + |
 | Dart, C++, Java, Objective-C++, Objective-C, C, Python, GLSL, Shell, CMake, Groovy, JavaScript, Roff, Ruby, HTML, Kotlin, Swift, Batchfile, CSS, PowerShell, HLSL | [flutter/flaux](https://github.com/flutter/flaux) | Staging ground for testing flutter/engine/buildroot merge |
 | Kotlin, HTML, Dockerfile | [wafflestudio/snutt-timetable](https://github.com/wafflestudio/snutt-timetable) | SNUTT timetable service |
-| JavaScript, Dockerfile | [caseyweb/CHARITY-MD-V2](https://github.com/caseyweb/CHARITY-MD-V2) | Happy whatsup multi device bot  bot  developed by CASEYRHODES 🌟 |
 | Scala, Jupyter Notebook, Python, Shell, Dockerfile, Java, Batchfile, JavaScript, ANTLR, C, PHP, HCL | [AppThreat/chen](https://github.com/AppThreat/chen) | Code Hierarchy Exploration Net (chen) |
+| JavaScript, Dockerfile | [caseyweb/CHARITY-MD-V2](https://github.com/caseyweb/CHARITY-MD-V2) | Happy whatsup multi device bot  bot  developed by CASEYRHODES 🌟 |
 | JavaScript, C#, SCSS, TSQL, Dockerfile, HTML, Shell, Handlebars, Python | [AxaFrance/ecotag](https://github.com/AxaFrance/ecotag) | Ml-Cli is a command line and local tool that aims to automate ML testing and provide annotation tools |
 | C++, CMake, Batchfile, PowerShell | [kmilo17pet/qlibs-cpp](https://github.com/kmilo17pet/qlibs-cpp) | C++ version of qlibs, a collection of useful libraries for embedded systems : signal smoothing, PID control, Fuzzy Logic, fixed-point math and more... |
 | Jupyter Notebook | [mobarakol/tutorial_notebooks](https://github.com/mobarakol/tutorial_notebooks) |  |
@@ -13690,8 +13696,8 @@
 | JavaScript, HTML | [queeeeeeee/TwitterUtility](https://github.com/queeeeeeee/TwitterUtility) |  |
 | JavaScript, Dockerfile, Shell | [Labs64/NetLicensingClient-javascript](https://github.com/Labs64/NetLicensingClient-javascript) | JavaScript wrapper for Labs64 NetLicensing RESTful API |
 | HTML, Java, Shell, CSS, Groovy, Makefile, JavaScript, Roff | [pfirmstone/JGDMS](https://github.com/pfirmstone/JGDMS) | Infrastructure for providing secured micro services, that are dynamically discoverable and searchable over ipv6 networks |
-| HTML, JavaScript | [saqimtiaz/sq-tw](https://github.com/saqimtiaz/sq-tw) | public tiddlywikis |
 | Rust, Python, Shell, Makefile, Dockerfile, RenderScript | [alpenlabs/strata](https://github.com/alpenlabs/strata) | Rust implementation of the Strata protocol |
+| HTML, JavaScript | [saqimtiaz/sq-tw](https://github.com/saqimtiaz/sq-tw) | public tiddlywikis |
 | HTML, CSS, C# | [dotnetnotts/dotnetnotts-web](https://github.com/dotnetnotts/dotnetnotts-web) | The new .NET Notts website written in Blazor |
 | C++ | [TUBAF-IfI-LiaScript/VL_EAVD](https://github.com/TUBAF-IfI-LiaScript/VL_EAVD) | Interaktive Einführung in die Informatik für Nichtinformatiker auf der Basis von C++ und Python |
 | Shell | [Benex254/lib-x](https://github.com/Benex254/lib-x) | A cli wrapper over calibredb |
@@ -13731,8 +13737,8 @@
 | TypeScript | [daniel0130/bitcoin-ordinal-raffle-be](https://github.com/daniel0130/bitcoin-ordinal-raffle-be) | This is Ordinal Raffle by using join psbt. |
 | Julia | [VirtualPlantLab/PlantSimEngine.jl](https://github.com/VirtualPlantLab/PlantSimEngine.jl) | A simulation engine for models related to plants |
 | C# | [SimonCropp/GitHubSync](https://github.com/SimonCropp/GitHubSync) | A tool to help synchronizing specific files and folders across GitHub hosted repositories |
-| JavaScript | [OpenSource-GH/dumsor-tracker-api](https://github.com/OpenSource-GH/dumsor-tracker-api) | Backend For the Dumsor Tracker Project. |
 | Python, Jinja, HTML, Dockerfile, Makefile, Shell | [City-of-Helsinki/tilavarauspalvelu-core](https://github.com/City-of-Helsinki/tilavarauspalvelu-core) | Backend for the new space and resource reservation platform for the City of Helsinki. |
+| JavaScript | [OpenSource-GH/dumsor-tracker-api](https://github.com/OpenSource-GH/dumsor-tracker-api) | Backend For the Dumsor Tracker Project. |
 | Scheme | [webyrd/midoriKanren](https://github.com/webyrd/midoriKanren) | Relational interpeter combining miniKanren-in-miniKanren and Scheme-in-miniKanren |
 | TypeScript, Go, CSS, JavaScript, Shell, Dockerfile, Makefile, HTML | [cloudentity/openbanking-quickstart](https://github.com/cloudentity/openbanking-quickstart) |  |
 | Python | [ZonglinL/ConsecutiveBrownianBridge](https://github.com/ZonglinL/ConsecutiveBrownianBridge) | [ACM MM 2024] Frame Interpolation with Consecutive Brownian Bridge Diffusion Model |
@@ -13771,8 +13777,8 @@
 | Python, Jupyter Notebook, Shell | [ljy19970415/AutoRG-Brain](https://github.com/ljy19970415/AutoRG-Brain) | The official codes for "AutoRG-Brain: Grounded Report Generation for Brain MRI". |
 | PHP, CSS | [wpsocio/wptelegram-login](https://github.com/wpsocio/wptelegram-login) | Production Repository | Let the users login to your WordPress website with their Telegram and make it simple for them to get connected and let them receive their email notifications on Telegram. Development takes place in our monorepo - https://github.com/wpsocio/wp-projects/tree/main/plugins/wptelegram-login |
 | TypeScript, Nushell, C | [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) | Brioche packages, which get auto-published to the Brioche Registry |
-| Rust, Dart, Swift, Kotlin, C, TypeScript, Java, Makefile, Objective-C, C++, Ruby, Objective-C++, Shell, Just, Python, C#, JavaScript, HTML, Go, Starlark, MATLAB, CMake | [breez/breez-sdk-liquid](https://github.com/breez/breez-sdk-liquid) |  |
 | Rust, HTML, Dockerfile | [cantoblanco/boringbay](https://github.com/cantoblanco/boringbay) | 🥱 无聊湾，欢迎加入 |
+| Rust, Dart, Swift, Kotlin, C, TypeScript, Java, Makefile, Objective-C, C++, Ruby, Objective-C++, Shell, Just, Python, C#, JavaScript, HTML, Go, Starlark, MATLAB, CMake | [breez/breez-sdk-liquid](https://github.com/breez/breez-sdk-liquid) |  |
 | Go, Roff, Makefile | [miekg/pgo](https://github.com/miekg/pgo) | container gitops in a simple way |
 | Nextflow, HTML | [nf-core/phaseimpute](https://github.com/nf-core/phaseimpute) | A bioinformatics pipeline to phase and impute genetic data |
 | Java, Groovy, Kotlin | [newrelic/newrelic-android-agent](https://github.com/newrelic/newrelic-android-agent) | SDK to enable instrumentation of Android mobile apps in New Relic |
@@ -13937,8 +13943,8 @@
 | Nim | [luisacosta828/pgxcrown](https://github.com/luisacosta828/pgxcrown) | Build Postgres extensions in Nim |
 | C++, Makefile, C | [attah/ppm2pwg](https://github.com/attah/ppm2pwg) | Misc printing utilities |
 | PHP, Shell, CSS, Python, Ruby | [Cacti/plugin_syslog](https://github.com/Cacti/plugin_syslog) | Syslog Plugin for Cacti |
-| C# | [Molth/NativeCollections](https://github.com/Molth/NativeCollections) | High performance pure C# native collections.  |
 | CSS | [LunaPixelStudios/Medieval-MC](https://github.com/LunaPixelStudios/Medieval-MC) | https://lunapixel.studio/discord |
+| C# | [Molth/NativeCollections](https://github.com/Molth/NativeCollections) | High performance pure C# native collections.  |
 | PHP, HTML, JavaScript, CSS | [lochmueller/focuspoint](https://github.com/lochmueller/focuspoint) | 🌅 Smartest TYPO3 Crop Tool ever 🌅 |
 | Python | [ninocarrillo/flashtnc](https://github.com/ninocarrillo/flashtnc) | Firmware updater for N9600A TNCs |
 | TypeScript, Solidity, PLpgSQL, Python, JavaScript, Swift, Kotlin, Dockerfile, Starlark, Ruby, CSS, Shell | [0xsend/sendapp](https://github.com/0xsend/sendapp) | The Send App monorepo. |
@@ -13968,8 +13974,8 @@
 | JavaScript | [browserify/cipher-base](https://github.com/browserify/cipher-base) | abstract base class for crypto-streams |
 | C++, C, Limbo, Lex, Batchfile, Python, Assembly | [L-Spiro/Nintendo-Synthy-4](https://github.com/L-Spiro/Nintendo-Synthy-4) | A synthesizer that renders Nintendo 64 music in HD. |
 | Mustache, Smarty, TypeScript, Shell, Makefile | [wenerme/charts](https://github.com/wenerme/charts) | HELM Charts Collections |
-| Java, CSS, Shell, HTML, JavaScript, SCSS, Dockerfile | [didclab/onedatashare](https://github.com/didclab/onedatashare) | OneDataShare |
 | JavaScript, CSS | [CycodeLabs/GitOpsSecurityChampion](https://github.com/CycodeLabs/GitOpsSecurityChampion) | Collection of security best practices to secure GitOps workflows |
+| Java, CSS, Shell, HTML, JavaScript, SCSS, Dockerfile | [didclab/onedatashare](https://github.com/didclab/onedatashare) | OneDataShare |
 | Go, Makefile | [Chia-Network/go-chia-libs](https://github.com/Chia-Network/go-chia-libs) |  |
 | Python, HCL, Makefile, Dockerfile, Shell | [pedro-mealha/euromillions-api](https://github.com/pedro-mealha/euromillions-api) | Nano API to fetch Euromillions results and analytics |
 | Jupyter Notebook, Python, Makefile | [NeurosnapInc/neurosnap](https://github.com/NeurosnapInc/neurosnap) | Collection of useful bioinformatic functions and tools for various computational biology pipelines |
@@ -14038,8 +14044,8 @@
 | Nix, Shell, Emacs Lisp, Haskell, Perl, Lua, Ada, OCaml | [qbit/xin](https://github.com/qbit/xin) | My nix setup |
 | Rust | [Nortank12/deepcool-digital-linux](https://github.com/Nortank12/deepcool-digital-linux) | Linux version for the DeepCool Digital Windows software. |
 | Rust | [PicoJr/git-trophy](https://github.com/PicoJr/git-trophy) | generate skyline 3D model from git commit history |
-| MATLAB, C++, M, Limbo, Fortran, Makefile, M4, C, Mercury, Shell | [gnu-octave/pkg-control](https://github.com/gnu-octave/pkg-control) | Control package for GNU Octave including system analysis and  control synthesis |
 | C# | [FlorianLeChat/Steam-Collection-Download-Size-Calculator](https://github.com/FlorianLeChat/Steam-Collection-Download-Size-Calculator) | 📐 Calculates the size of a Workshop collection through the Steam API. |
+| MATLAB, C++, M, Limbo, Fortran, Makefile, M4, C, Mercury, Shell | [gnu-octave/pkg-control](https://github.com/gnu-octave/pkg-control) | Control package for GNU Octave including system analysis and  control synthesis |
 | Shell, Rust | [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) | Run dynamically linked ELF binaries everywhere |
 | Rust | [jonasbb/petgraph-graphml](https://github.com/jonasbb/petgraph-graphml) | GraphML output generator for petgraph |
 | Python, Shell, Batchfile, Dockerfile | [Desamod/CatsGangBot](https://github.com/Desamod/CatsGangBot) | Bot for Cats Gang telegram bot |
@@ -14071,8 +14077,8 @@
 | TypeScript, Java, JavaScript, SCSS, HTML, Go, Makefile, CSS, Dockerfile | [ralscha/blog2020](https://github.com/ralscha/blog2020) |  |
 | TypeScript, Python, SCSS, Dockerfile, JavaScript, Shell, CSS, HTML | [pSpitzner/beets-flask](https://github.com/pSpitzner/beets-flask) | An opinionated docker container for a web-interface around the music organizer beets |
 | Python, JavaScript | [mshojaei77/v2rayAuto](https://github.com/mshojaei77/v2rayAuto) | This script is designed to automatically update V2Ray configuration files from various subscription links and push the changes to a GitHub repository. |
-| C#, JavaScript, HTML, SCSS, CSS | [BigBigZBBing/BigCookieKit](https://github.com/BigBigZBBing/BigCookieKit) | 超级工具箱 1.高性能反射库 2.高性能通信库 3.Excel高性能读写库 4.大量常用便携API (如果有问题请提Issues或到QQ群1600800来找BigCookie) |
 | Kotlin, Python, Swift | [LiveFastEatTrashRaccoon/RaccoonForLemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) | A Kotlin Multiplatform client for Lemmy |
+| C#, JavaScript, HTML, SCSS, CSS | [BigBigZBBing/BigCookieKit](https://github.com/BigBigZBBing/BigCookieKit) | 超级工具箱 1.高性能反射库 2.高性能通信库 3.Excel高性能读写库 4.大量常用便携API (如果有问题请提Issues或到QQ群1600800来找BigCookie) |
 | OCaml, Coq, V, Dune, Dockerfile, Shell | [toku-sa-n/coqfmt](https://github.com/toku-sa-n/coqfmt) | Coq code formatter |
 | C, Python, Shell, Batchfile, CMake | [mikaelsundell/photographic-dctls](https://github.com/mikaelsundell/photographic-dctls) | A continuously updated collection of DCTLs (DaVinci Color Transform Language) designed to enhance and educate on workflows using ARRI LogC3, Gen5 and Cineon in DaVinci Resolve. This collection offers a photographic and creative approach to color correction and grading from log digital and film negatives. |
 | VHDL, SystemVerilog, C, Verilog, Tcl, Assembly, HTML, Makefile, Shell, JavaScript, C++, Mathematica, Batchfile, Python, Fortran | [emb4fun/neorv32-examples](https://github.com/emb4fun/neorv32-examples) | Some neorv32 examples for Intel FPGA boards using Quartus II and SEGGER Embedded Studio for RISC-V. |
@@ -14165,8 +14171,8 @@
 | Astro, TypeScript, CSS, JavaScript | [AREA44/SYWYKE](https://github.com/AREA44/SYWYKE) | Sites You Wish You Knew Earlier! |
 | HTML, Python, Batchfile | [weiminye/time-geekbang-org-rag](https://github.com/weiminye/time-geekbang-org-rag) | the source code of RAG course at https://time.geekbang.org/column/intro/100817901 |
 | TypeScript, Less, Python, JavaScript, HTML | [Moebits/Moepictures.moe](https://github.com/Moebits/Moepictures.moe) | Moepictures is an anime image board. |
-| Rust, Vue, TypeScript, Shell, HTML | [dan-online/parrot](https://github.com/dan-online/parrot) | 🦜Parrot is a Rust-based GUI in Tauri for the Arch Linux package manager, pacman using the wrapper paru. Designed to be intuitive, powerful and user-friendly |
 | TypeScript | [testkits/jsdoc-tests](https://github.com/testkits/jsdoc-tests) | A JSDoc test tool for documentation-driven quality |
+| Rust, Vue, TypeScript, Shell, HTML | [dan-online/parrot](https://github.com/dan-online/parrot) | 🦜Parrot is a Rust-based GUI in Tauri for the Arch Linux package manager, pacman using the wrapper paru. Designed to be intuitive, powerful and user-friendly |
 | HTML, CSS, Shell, Makefile, Ruby | [xmonad/xmonad-web](https://github.com/xmonad/xmonad-web) | The xmonad.org website |
 | TypeScript, Rust, Nix, HTML, JavaScript, CSS, Shell | [Eliot00/mp-org](https://github.com/Eliot00/mp-org) | Org微信公众号排版工具 |
 | Perl, Ruby | [exiftool-rb/exiftool_vendored.rb](https://github.com/exiftool-rb/exiftool_vendored.rb) | The exiftool gem requires the exiftool perl package, which this includes. |
@@ -14295,8 +14301,8 @@
 | JavaScript, CSS, HTML | [Azim-Ahmed/Node-flow-diagram](https://github.com/Azim-Ahmed/Node-flow-diagram) | A node based diagram which is built by Reactflow | Reactflow example reactflow examples |
 | TypeScript, MDX, Nix, CSS, JavaScript, Shell | [philschonholzer/groupli.app](https://github.com/philschonholzer/groupli.app) | Pair everyone in your group with someone new. |
 | Python | [yzy-bupt/LDRE](https://github.com/yzy-bupt/LDRE) | [SIGIR'2024 Best Paper Honorable Mention] Official repository for "LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval" |
-| Python, Shell | [KenKundert/avendesora](https://github.com/KenKundert/avendesora) | Command line collaborative password manager & generator |
 | Python, Shell, CSS | [ghostbsd/gbi](https://github.com/ghostbsd/gbi) | gbi a graphical user interface for pc-sysinstall to install FreeBSD base system form live DVD/USB |
+| Python, Shell | [KenKundert/avendesora](https://github.com/KenKundert/avendesora) | Command line collaborative password manager & generator |
 | Jupyter Notebook, HTML, Java, Python | [truillet/upssitech](https://github.com/truillet/upssitech) | supports de Cours/TP/TD pour les formations de l'UPSSITECH (Toulouse 3) |
 | HTML, JavaScript, CSS | [cpprefjp/cpprefjp.github.io](https://github.com/cpprefjp/cpprefjp.github.io) | cpprefjp の github サイト |
 | R | [pablogguz/ineAtlas](https://github.com/pablogguz/ineAtlas) | Access to Spanish Statistical Office's Household Income Distribution Atlas data at municipality, district and census tract levels |
@@ -14586,9 +14592,9 @@
 | Kotlin, Ruby | [EdricChan03/studybuddy-android](https://github.com/EdricChan03/studybuddy-android) | A study buddy with features such as tasks, resources and more! |
 | C# | [Lord-Zedd/FontPackager](https://github.com/Lord-Zedd/FontPackager) | Blam Engine Font File Editor |
 | Python, Java, Shell | [OxWearables/actipy](https://github.com/OxWearables/actipy) | Python Software Development Kit (SDK) to process wearable sensor data |
+| C, Roff, Makefile | [veltza/st-sx](https://github.com/veltza/st-sx) | st terminal with pretty good sixel support |
 | Python, Dockerfile | [CompassLabs/dojo_examples](https://github.com/CompassLabs/dojo_examples) | A gallery of dojo examples |
 | HTML, JavaScript | [nuxeo/nuxeo-studio-community-cookbook](https://github.com/nuxeo/nuxeo-studio-community-cookbook) | Github repository to help the Nuxeo Community to enrich Nuxeo Platform by providing samples of Studio contributions |
-| C, Roff, Makefile | [veltza/st-sx](https://github.com/veltza/st-sx) | st terminal with pretty good sixel support |
 | HTML, CSS | [maskgct/maskgct.github.io](https://github.com/maskgct/maskgct.github.io) | MaskGCT demo page |
 | Java, HTML | [jenkinsci/reverse-proxy-auth-plugin](https://github.com/jenkinsci/reverse-proxy-auth-plugin) |  |
 | JavaScript, CSS, HTML, Shell | [mapbox/public-tools-and-demos](https://github.com/mapbox/public-tools-and-demos) | A monoreo of public developer tools and demo apps |
@@ -14601,8 +14607,8 @@
 | Smarty | [airlock/microgateway](https://github.com/airlock/microgateway) | Artifacts for Airlock Microgateway, a Kubernetes native WAAP (Web Application and API Protection) solution to protect microservices. |
 | Python, Shell | [natekspencer/hacs-oasis_mini](https://github.com/natekspencer/hacs-oasis_mini) | Home Assistant integration for Oasis Mini kinetic sand art canvas devices. |
 | Julia | [ITensor/ITensorMPS.jl](https://github.com/ITensor/ITensorMPS.jl) | MPS and MPO methods based on ITensor (ITensors.jl) |
-| JavaScript, Shell | [adobecom/nala](https://github.com/adobecom/nala) | Automated E2E testing of Milo-based projects. |
 | C++, CMake, Cuda, Haskell, Python | [acts-project/covfie](https://github.com/acts-project/covfie) | A library for storing interpolatable vector fields on co-processors |
+| JavaScript, Shell | [adobecom/nala](https://github.com/adobecom/nala) | Automated E2E testing of Milo-based projects. |
 | Ruby, HTML, JavaScript | [bkuhlmann/hanamismith](https://github.com/bkuhlmann/hanamismith) | A command line interface for smithing Hanami projects. |
 | Jupyter Notebook, Python, Makefile | [LSST-strong-lensing/slsim](https://github.com/LSST-strong-lensing/slsim) | Strong lensing simulation pipeline |
 | Scala | [typelevel/discipline-munit](https://github.com/typelevel/discipline-munit) | MUnit binding for Typelevel Discipline |
@@ -14629,8 +14635,8 @@
 | C, Assembly, Makefile, Perl, Shell, Python, C++, Roff, SmPL, Yacc, Lex, Awk, UnrealScript, Gherkin, M4, Clojure, XS, sed | [TIMISONG-dev/kernel_xiaomi_sm8250](https://github.com/TIMISONG-dev/kernel_xiaomi_sm8250) | MagicTime Kernel (WIP) |
 | C++, Shell, TeX, HTML, C, JavaScript, Makefile, Roff | [ncbi/tree-tool](https://github.com/ncbi/tree-tool) | Incremental building of phylogenetic distance trees |
 | Java, Kotlin, Shell | [everyone-s-garden/everyonesgarden-v2](https://github.com/everyone-s-garden/everyonesgarden-v2) | 텃밭 중개 플랫폼 리팩토링 및 기능 확장 레파지토리 |
-| Rust, Makefile, Dockerfile | [entropyxyz/programs](https://github.com/entropyxyz/programs) | Source, toolchain, and examples for using programs on Entropy |
 | R, CSS | [nflverse/nflplotR](https://github.com/nflverse/nflplotR) | A set of functions to visualize National Football League analysis in 'ggplot2' |
+| Rust, Makefile, Dockerfile | [entropyxyz/programs](https://github.com/entropyxyz/programs) | Source, toolchain, and examples for using programs on Entropy |
 | CSS, JavaScript, EJS, HTML, TypeScript | [Complete-Coding/MERN_Live](https://github.com/Complete-Coding/MERN_Live) | This Repo will have all the code that will be practised as part of the course. |
 | Starlark, Python | [theoremlp/rules_mypy](https://github.com/theoremlp/rules_mypy) | a Bazel mypy aspect |
 | CMake, Shell | [flathub/com.bambulab.BambuStudio](https://github.com/flathub/com.bambulab.BambuStudio) |  |
@@ -14846,8 +14852,8 @@
 | C++, JavaScript, TypeScript, PowerShell, Ruby, Dart, Clojure, C#, PHP, Python, Vue, HTML, Pug, Stylus, Elm, CSS | [wheredoesyourmindgo/nushu-vscode-theme](https://github.com/wheredoesyourmindgo/nushu-vscode-theme) | GitHub's VS Code theme |
 | Python, JavaScript, Java, Vue, Gherkin, Smarty, Jinja, Go, HTML, Shell, Dockerfile, CSS, Batchfile | [tmforum-oda/oda-canvas](https://github.com/tmforum-oda/oda-canvas) |  |
 | Python, Shell, Rust | [artis-mcrt/artistools](https://github.com/artis-mcrt/artistools) | Plotting and analysis tools for ARTIS simulations |
-| Lua, Nix, Makefile, Shell, Swift | [tmm/dotfiles](https://github.com/tmm/dotfiles) | .files |
 | TypeScript, C++, Kotlin, Objective-C++, Objective-C, Ruby, JavaScript, CMake | [christianbaroni/react-native-turbo-haptics](https://github.com/christianbaroni/react-native-turbo-haptics) | Fast, worklet-compatible haptic feedback for React Native 🌀 |
+| Lua, Nix, Makefile, Shell, Swift | [tmm/dotfiles](https://github.com/tmm/dotfiles) | .files |
 | Solidity, Python, Shell | [Bananapus/nana-core](https://github.com/Bananapus/nana-core) | ⚙️  Juicebox core V4 contracts. |
 | Rust | [thomasschafer/scooter](https://github.com/thomasschafer/scooter) | Interactive find and replace in the terminal |
 | C#, Handlebars, Batchfile, Shell | [IngeniumSE/FuManchu](https://github.com/IngeniumSE/FuManchu) | Handlebars/Mustache templating in .NET |
@@ -14864,8 +14870,8 @@
 | JavaScript, CSS, HTML, SCSS | [Neurolinked/MlsetupBuilder](https://github.com/Neurolinked/MlsetupBuilder) | Cyberpunk 2077 modding tool  to build json version of .mlsetup files |
 | PHP, JavaScript, CSS, SCSS, HTML, TypeScript | [Automattic/jetpack-production](https://github.com/Automattic/jetpack-production) | [READ ONLY] Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.  This repository is a mirror, for issue tracking and development head to: https://github.com/automattic/jetpack |
 | Shell | [hmlendea/more-cultural-names](https://github.com/hmlendea/more-cultural-names) | Mod for various strategy games, that dynamically changes the province names based on the ruler's culture |
-| Kotlin, Lex | [Xstoudi/adonis-intellij](https://github.com/Xstoudi/adonis-intellij) | Adonis support in WebStorm and friends. |
 | TypeScript, SCSS, Handlebars, JavaScript, HTML, Shell, Dockerfile, CSS | [lblod/ember-rdfa-editor](https://github.com/lblod/ember-rdfa-editor) | Ember addon wrapping an RDFa editor with a public API |
+| Kotlin, Lex | [Xstoudi/adonis-intellij](https://github.com/Xstoudi/adonis-intellij) | Adonis support in WebStorm and friends. |
 | SCSS, PHP, JavaScript, CSS | [siteorigin/siteorigin-corp](https://github.com/siteorigin/siteorigin-corp) | A modern business theme from SiteOrigin. Corp is versatile and quick to customize. Convert visitors to customers with effective layouts and beautifuly presented landing pages. Corp offers seamless integration with Page Builder by SiteOrigin, a custom WooCommerce design, five unique blog layouts and a stunning Jetpack Portfolio layout. |
 | Go, TypeScript, HTML, Python, JavaScript, Nix, CSS, Jupyter Notebook, Makefile, Yacc, Shell | [diagonalworks/diagonal-b6](https://github.com/diagonalworks/diagonal-b6) | b6: Diagonal's geospatial analysis engine. |
 | JavaScript, Shell, SCSS, CSS | [palantir/stylelint-config-palantir](https://github.com/palantir/stylelint-config-palantir) | Palantir's stylelint config |
@@ -14922,8 +14928,8 @@
 | Clojure | [seancorfield/polylith-external-test-runner](https://github.com/seancorfield/polylith-external-test-runner) | An external (subprocess) test runner for Polylith |
 | MDX, TypeScript, CSS, JavaScript, Shell | [wasmCloud/wasmcloud.com](https://github.com/wasmCloud/wasmcloud.com) | https://wasmCloud.com website, documentation, blog, and community meetings, built with Docusaurus. |
 | CSS, Markdown, JavaScript, Less, Shell, HTML | [ExpressionEngine/ExpressionEngine-User-Guide](https://github.com/ExpressionEngine/ExpressionEngine-User-Guide) | The source for the HTML ExpressionEngine user guides found at https://docs.expressionengine.com |
-| Jupyter Notebook, Python, Dockerfile, CSS | [neuromatch/climate-course-content](https://github.com/neuromatch/climate-course-content) | Computational Climate Science syllabus |
 | HTML, Ruby, JavaScript, CSS, TeX, Dockerfile, Shell | [specht/schul-dashboard](https://github.com/specht/schul-dashboard) | Schul-Dashboard zur Integration von Stundenplan, Vertretungsplan sowie E-Learning via NextCloud und Jitsi. |
+| Jupyter Notebook, Python, Dockerfile, CSS | [neuromatch/climate-course-content](https://github.com/neuromatch/climate-course-content) | Computational Climate Science syllabus |
 | Groovy, Roff, HTML | [thebearmay/hubitat](https://github.com/thebearmay/hubitat) |  |
 | Haxe, C++, C, Lua, GLSL, Shell, Batchfile, VBScript, Python | [Joalor64GH/Joalor64-Engine](https://github.com/Joalor64GH/Joalor64-Engine) | My custom version of Psych Engine because why not? |
 | HTML, Ruby, Reason, TeX, C++, CSS, Makefile, Shell | [nananapo/veryl-riscv-book](https://github.com/nananapo/veryl-riscv-book) | Write RISC-V CPU in Veryl |
@@ -14931,8 +14937,8 @@
 | CSS, TypeScript, JavaScript | [open-metadata/openmetadata-site](https://github.com/open-metadata/openmetadata-site) | Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. |
 | Scala, CSS, HTML, Mustache, Shell, JavaScript | [salesforce/orchard](https://github.com/salesforce/orchard) |  |
 | MATLAB, Python, Makefile, Shell, Gnuplot | [NOAA-GFDL/CEFI-regional-MOM6](https://github.com/NOAA-GFDL/CEFI-regional-MOM6) | A repository containing essential tools, XML files, and source codes for collaborators of the Climate, Ecosystems, and Fisheries Initiative (CEFI) to conduct simulations. |
-| Lua | [AstroNvim/astroui](https://github.com/AstroNvim/astroui) |  UI Configuration Engine built for AstroNvim  |
 | Python, Shell, Makefile | [instructlab/training](https://github.com/instructlab/training) | InstructLab Training Library - Efficient Fine-Tuning with Message-Format Data |
+| Lua | [AstroNvim/astroui](https://github.com/AstroNvim/astroui) |  UI Configuration Engine built for AstroNvim  |
 | TypeScript, JavaScript, Rust, Shell | [B3Pay/ic-reactor](https://github.com/B3Pay/ic-reactor) | IC-Reactor: A suite of JavaScript libraries for seamless frontend development on the Internet Computer platform, offering state management, React integration, and core functionalities for efficient blockchain interactions. |
 | HTML | [INFORMSJoC/INFORMSJoC.github.io](https://github.com/INFORMSJoC/INFORMSJoC.github.io) | This is the Web site associated with the repository for hosting software and data associated with papers appearing in the INFORMS Journal on Computing |
 | Python | [CybercentreCanada/Maco](https://github.com/CybercentreCanada/Maco) | Maco - Malware config extractor framework |
@@ -14964,8 +14970,8 @@
 | Kotlin, TypeScript, HTML, SCSS, JavaScript, Dockerfile | [accrescent/parcelo](https://github.com/accrescent/parcelo) | The next-generation Accrescent developer console |
 | Jupyter Notebook, TeX | [SERVIR/SERVIR-Applied-Deep-Learning-Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) |  |
 | CSS, HTML, JavaScript | [kurt-liao/github-style-plus](https://github.com/kurt-liao/github-style-plus) | A Hugo theme wtih Github appearance. |
-| Jupyter Notebook | [Tangerineeew/Selenium-basedXiaohongshuCrawler](https://github.com/Tangerineeew/Selenium-basedXiaohongshuCrawler) | 基于Selenium模拟浏览器行为的小红书关键词搜索和笔记爬取 |
 | Vim Script | [pappasam/vim-filetype-formatter](https://github.com/pappasam/vim-filetype-formatter) | Format program files in vim using your favorite command line formatter |
+| Jupyter Notebook | [Tangerineeew/Selenium-basedXiaohongshuCrawler](https://github.com/Tangerineeew/Selenium-basedXiaohongshuCrawler) | 基于Selenium模拟浏览器行为的小红书关键词搜索和笔记爬取 |
 | JavaScript, HTML, CSS, Perl, Roff | [memalign/memalign.github.io](https://github.com/memalign/memalign.github.io) |  |
 | TypeScript, JavaScript, Vue, Less, CSS, SCSS, Sass | [rookie-luochao/upload-assets-to-cdn](https://github.com/rookie-luochao/upload-assets-to-cdn) | A powerful nodejs plugin which can help you to upload assets into cdn 一个自动上传静态资源至 CDN 的 Nodejs 插件(同时支持oss和文件上传接口)，支持上传缓存、文件压缩、上传成功后自动使用 CDN 地址替换源代码引用 |
 | C, Python, M4, Makefile, Shell, Fortran, Meson, CMake | [bsc-pm/dlb](https://github.com/bsc-pm/dlb) | DLB (Dynamic Load Balancing) library is a tool, transparent to the user, that will dynamically react to the application imbalance modifying the number of resources at any given time. |
@@ -15123,8 +15129,8 @@
 | Shell, Earthly, Dockerfile, Rust, Go | [spectrocloud/CanvOS](https://github.com/spectrocloud/CanvOS) | A utility for creating Edge artifacts for deploying Palette Edge clusters. |
 | Shell, Dockerfile | [orange-cloudfoundry/orange-cf-bosh-cli](https://github.com/orange-cloudfoundry/orange-cf-bosh-cli) | docker file for CF operations clients |
 | TypeScript, C#, HTML, CSS, JavaScript | [rickbutterfield/Umbraco.Community.BlockPreview](https://github.com/rickbutterfield/Umbraco.Community.BlockPreview) | Easy to use rich HTML backoffice previews for the Umbraco Block List and Block Grid editors. |
-| Ruby, Shell | [mindee/mindee-api-ruby](https://github.com/mindee/mindee-api-ruby) | Mindee API Helper Library for Ruby |
 | HTML, MATLAB, CSS, JavaScript, Python | [gaozhen16/gaozhen16.github.io](https://github.com/gaozhen16/gaozhen16.github.io) | Research homepage |
+| Ruby, Shell | [mindee/mindee-api-ruby](https://github.com/mindee/mindee-api-ruby) | Mindee API Helper Library for Ruby |
 | Rust, Python, GLSL | [Geo-AID/Geo-AID](https://github.com/Geo-AID/Geo-AID) | A tool for generating geometric figures based on definitions and rules. |
 | Java | [Prominence/openweathermap-java-api](https://github.com/Prominence/openweathermap-java-api) | Java API for OpenWeatherMap services. |
 | Python | [supplyseer-ai/supplyseer](https://github.com/supplyseer-ai/supplyseer) | Python library for Applied Computational Supply Chain & Logistics. Unlock Neural Nets, Bayesian EOQ, Optimization, Time Series, and more for smarter decisions. |
@@ -15266,8 +15272,8 @@
 | Python, Batchfile, Shell | [gramaziokohler/compas_timber](https://github.com/gramaziokohler/compas_timber) |  |
 | JavaScript, CSS, HTML, Less, Makefile, Shell, Ruby | [mortendahl/mortendahl.github.io](https://github.com/mortendahl/mortendahl.github.io) | Blog dedicated to cryptography and machine learning |
 | C# | [momentum-mod/BSPConvert](https://github.com/momentum-mod/BSPConvert) | Tool for converting BSP files between engine versions without decompilation |
-| JavaScript, HTML, TypeScript | [tnc-ca-geo/animl-frontend](https://github.com/tnc-ca-geo/animl-frontend) | A frontend web app for viewing & labeling camera trap data by The Nature Conservancy. |
 | C++, CMake, Python, Shell | [KDE/kxmlgui](https://github.com/KDE/kxmlgui) | KXMLGUI |
+| JavaScript, HTML, TypeScript | [tnc-ca-geo/animl-frontend](https://github.com/tnc-ca-geo/animl-frontend) | A frontend web app for viewing & labeling camera trap data by The Nature Conservancy. |
 | TypeScript, Rust, CSS, JavaScript, HTML | [KirillTregubov/OverBuddy](https://github.com/KirillTregubov/OverBuddy) | A Windows desktop app that helps you customize your Overwatch™ 2 main menu background. Built with Tauri (Rust) and React (TypeScript). |
 | Kotlin, HTML, Java, XSLT, JavaScript, CSS, Groovy, Batchfile | [TWiStErRob/net.twisterrob.gradle](https://github.com/TWiStErRob/net.twisterrob.gradle) | Quality plugin for Gradle that supports Android flavors |
 | JavaScript, PHP, Makefile, Svelte, CSS, SCSS | [CarbonPackages/Carbon.Pipeline](https://github.com/CarbonPackages/Carbon.Pipeline) | Ultra-fast build stack for Neos CMS based on esbuild and PostCSS |
@@ -15407,22 +15413,22 @@
 | Python, CSS | [timo-reymann/python-oauth2-cli-auth](https://github.com/timo-reymann/python-oauth2-cli-auth) | Authenticate against OAuth2 Provider in Python CLIs |
 | Python, Dockerfile | [chaoss/grimoirelab-graal](https://github.com/chaoss/grimoirelab-graal) | A Generic Repository AnALyzer |
 | JavaScript | [joshbduncan/illustrator-scripts](https://github.com/joshbduncan/illustrator-scripts) | Scripts for Adobe Illustrator |
-| Python, C++, CMake | [scientificcomputing/scifem](https://github.com/scientificcomputing/scifem) | Scientific finite element toolbox |
 | C, CSS, Makefile, JavaScript, Assembly | [tomas-fryza/avr-course](https://github.com/tomas-fryza/avr-course) | AVR course at Brno University of Technology |
+| Python, C++, CMake | [scientificcomputing/scifem](https://github.com/scientificcomputing/scifem) | Scientific finite element toolbox |
 | Go | [go-goyave/filter](https://github.com/go-goyave/filter) | Dynamic query params filters for Goyave |
 | Java, JavaScript, TypeScript, HTML, CSS, Shell | [hakdang/cassdio](https://github.com/hakdang/cassdio) | Cassdio is centralized web management system for managing apache cassandra!(Web Console) |
 | TypeScript, JavaScript | [intersystems/language-server](https://github.com/intersystems/language-server) | Repository for the VS Code Language Server |
 | Common Lisp | [yitzchak/nontrivial-gray-streams](https://github.com/yitzchak/nontrivial-gray-streams) | A compatibility layer for Gray streams including extensions |
 | HTML, R, SCSS | [ITHIM/ITHIM-R](https://github.com/ITHIM/ITHIM-R) | Development of the ITHIM-R, also known as ITHIM version 3.0. Started in January 2018. |
-| Go, Python, Shell, Makefile, Dockerfile | [osmosis-labs/sqs](https://github.com/osmosis-labs/sqs) | Sidecar Query Server |
 | Python, SAS, Batchfile | [cdisc-org/COSMoS](https://github.com/cdisc-org/COSMoS) | CDISC Conceptual and Operational Standards Metadata Services (COSMoS) |
+| Go, Python, Shell, Makefile, Dockerfile | [osmosis-labs/sqs](https://github.com/osmosis-labs/sqs) | Sidecar Query Server |
 | Jupyter Notebook, Python | [scollis/notebooks](https://github.com/scollis/notebooks) | Assorted notebooks for my Scientific work |
 | Python | [copasi/basico](https://github.com/copasi/basico) | A simplified python interface to COPASI. |
 | Julia, Jupyter Notebook, Makefile, Python | [JuliaQuantumControl/QuantumPropagators.jl](https://github.com/JuliaQuantumControl/QuantumPropagators.jl) | Propagators for Quantum Dynamics and Optimal Control |
 | C#, JavaScript, C, C++, Python, HTML, CSS, Batchfile | [sergiye/openhardwaremonitor](https://github.com/sergiye/openhardwaremonitor) | Open hardware monitor - system sensors monitoring application for Windows/Linux |
 | Python, TypeScript, CSS, Shell, R, JavaScript, HTML, Dockerfile, Mako, Batchfile | [AntaresSimulatorTeam/AntaREST](https://github.com/AntaresSimulatorTeam/AntaREST) | API REST and WebUI for Antares_Simulator |
-| Go, Dockerfile, Makefile | [kubeslice/netops](https://github.com/kubeslice/netops) | NetOps Opensource Repository : The netops pods enforce the QoS Profile for a Slice. It uses Linux TC (Traffic Control) for Slice traffic classification. |
 | TypeScript, JavaScript, EJS, Dockerfile, CSS | [kipr/Simulator](https://github.com/kipr/Simulator) | Simulator of KIPR Demobots and code workspace. |
+| Go, Dockerfile, Makefile | [kubeslice/netops](https://github.com/kubeslice/netops) | NetOps Opensource Repository : The netops pods enforce the QoS Profile for a Slice. It uses Linux TC (Traffic Control) for Slice traffic classification. |
 | Java | [MagicMC-Dev/MMOItems-Zh](https://github.com/MagicMC-Dev/MMOItems-Zh) | MMOItems Plugin 测试版汉化仓库 |
 | Python, Shell | [scikit-adaptation/skada-bench](https://github.com/scikit-adaptation/skada-bench) | Domain Adaptation benchmark |
 | Jsonnet, Shell | [aquaproj/aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | Renovate Configuration to update packages and registries of aqua |
@@ -15496,8 +15502,8 @@
 | Python, CMake, Shell | [DeepLink-org/dlinfer](https://github.com/DeepLink-org/dlinfer) |  |
 | Python, C, Makefile, Shell | [SpiNNakerManchester/SpiNNFrontEndCommon](https://github.com/SpiNNakerManchester/SpiNNFrontEndCommon) | Common support code for user-facing front end systems. |
 | Julia, GLSL | [serenity4/SPIRV.jl](https://github.com/serenity4/SPIRV.jl) | Read, process and generate SPIR-V code from Julia |
-| TypeScript, JavaScript, Dockerfile | [tg44/mqtt-transformer](https://github.com/tg44/mqtt-transformer) | A simple service which consumes, transforms and periodically republish json messages on mqtt. |
 | TypeScript, HTML, JavaScript, CSS, Shell | [cyrilchukwuebuka/github-topic-manager](https://github.com/cyrilchukwuebuka/github-topic-manager) | As a Developer, I find it strenuous whenever I wish to add Topic(s) to a repository or multiple repositories of mine and also as a lover of automation and one who loves to proffer solutions to challenging problems, I came up with this project to help solve the obvious problem. |
+| TypeScript, JavaScript, Dockerfile | [tg44/mqtt-transformer](https://github.com/tg44/mqtt-transformer) | A simple service which consumes, transforms and periodically republish json messages on mqtt. |
 | TypeScript | [paolostyle/hono-zod-openapi](https://github.com/paolostyle/hono-zod-openapi) | Alternative Hono middleware for creating OpenAPI documentation from Zod schemas |
 | Shell, Makefile | [comio/plex-overlay](https://github.com/comio/plex-overlay) | Plex Media Server & more for your Gentoo Linux |
 | TypeScript, JavaScript, HTML, CSS | [dherault/arccode](https://github.com/dherault/arccode) | A role-playing game for developers |
@@ -15555,8 +15561,8 @@
 | PHP, Latte, JavaScript, Vue, CSS, HTML | [skaut/SRS](https://github.com/skaut/SRS) | Webová aplikace pro podporu velkých akcí a vzdělávacích seminářů Junáka - českého skauta (např. Helpdesk, Poradní skála, Ústřední lesní škola, Miquik apod.) |
 | C++, C, Shell, Makefile, M4, Batchfile | [yahoojapan/k2hdkc](https://github.com/yahoojapan/k2hdkc) | k2hdkc is k2hash based distributed kvs cluster |
 | JavaScript, Dockerfile | [edwarddistel/yahoo-fantasy-baseball-automater](https://github.com/edwarddistel/yahoo-fantasy-baseball-automater) | Automatically start an optimal lineup for your Yahoo Fantasy Baseball team. |
-| C++, C, Tcl, Shell, Makefile, Perl, Batchfile, Dockerfile | [highperformancecoder/ecolab](https://github.com/highperformancecoder/ecolab) | A high performance agent-based modelling system for C++ |
 | Python, Batchfile | [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) | AutoSubSync is a user-friendly Python tool that helps you easily synchronize subtitle files. It supports various subtitle formats and allows you to sync subtitles effortlessly by shifting subtitle timings automatically or manually with a millisecond offset. |
+| C++, C, Tcl, Shell, Makefile, Perl, Batchfile, Dockerfile | [highperformancecoder/ecolab](https://github.com/highperformancecoder/ecolab) | A high performance agent-based modelling system for C++ |
 | Go, Makefile, Shell | [G-Core/terraform-provider-gcore](https://github.com/G-Core/terraform-provider-gcore) | Gcore Terraform Provider |
 | Python, Dockerfile | [xjxjin/alist-sync](https://github.com/xjxjin/alist-sync) |  |
 | JavaScript, HTML, CSS, SCSS, C#, Java, Elixir, Go, Rust, Perl, Ruby, Clojure, Python, PHP, Swift, Scala, CoffeeScript, Dockerfile | [binary-com/websockets](https://github.com/binary-com/websockets) | Binary.com Websockets API documentation |
